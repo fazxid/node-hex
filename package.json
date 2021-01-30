@@ -1,0 +1,21 @@
+{
+  "name": "Node Hex",
+  "version": "0.1.0",
+  "description": "Library Node Hex",
+  "homepage": "https://github.com/fazxid/node-hex",
+  "repository": "https://github.com/fazxid/node-hex",
+  "author": "Fazxid",
+  "license": "MIT",
+  "keywords": [
+    "nodejs",
+    "hex"
+  ],
+  "engines": {
+    "node": ">=10.18.1"
+  },
+  "files": [
+    "index.js",
+    "lib"
+  ],
+  "main": "./index.js"
+}
