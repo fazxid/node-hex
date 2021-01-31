@@ -1,0 +1,1282 @@
+[
+    {
+        "hex": "c680",
+        "unicode": "U+0180",
+        "name": "LATIN SMALL LETTER B WITH STROKE"
+    },
+    {
+        "hex": "c681",
+        "unicode": "U+0181",
+        "name": "LATIN CAPITAL LETTER B WITH HOOK"
+    },
+    {
+        "hex": "c682",
+        "unicode": "U+0182",
+        "name": "LATIN CAPITAL LETTER B WITH TOPBAR"
+    },
+    {
+        "hex": "c683",
+        "unicode": "U+0183",
+        "name": "LATIN SMALL LETTER B WITH TOPBAR"
+    },
+    {
+        "hex": "c684",
+        "unicode": "U+0184",
+        "name": "LATIN CAPITAL LETTER TONE SIX"
+    },
+    {
+        "hex": "c685",
+        "unicode": "U+0185",
+        "name": "LATIN SMALL LETTER TONE SIX"
+    },
+    {
+        "hex": "c686",
+        "unicode": "U+0186",
+        "name": "LATIN CAPITAL LETTER OPEN O"
+    },
+    {
+        "hex": "c687",
+        "unicode": "U+0187",
+        "name": "LATIN CAPITAL LETTER C WITH HOOK"
+    },
+    {
+        "hex": "c688",
+        "unicode": "U+0188",
+        "name": "LATIN SMALL LETTER C WITH HOOK"
+    },
+    {
+        "hex": "c689",
+        "unicode": "U+0189",
+        "name": "LATIN CAPITAL LETTER AFRICAN D"
+    },
+    {
+        "hex": "c68a",
+        "unicode": "U+018A",
+        "name": "LATIN CAPITAL LETTER D WITH HOOK"
+    },
+    {
+        "hex": "c68b",
+        "unicode": "U+018B",
+        "name": "LATIN CAPITAL LETTER D WITH TOPBAR"
+    },
+    {
+        "hex": "c68c",
+        "unicode": "U+018C",
+        "name": "LATIN SMALL LETTER D WITH TOPBAR"
+    },
+    {
+        "hex": "c68d",
+        "unicode": "U+018D",
+        "name": "LATIN SMALL LETTER TURNED DELTA"
+    },
+    {
+        "hex": "c68e",
+        "unicode": "U+018E",
+        "name": "LATIN CAPITAL LETTER REVERSED E"
+    },
+    {
+        "hex": "c68f",
+        "unicode": "U+018F",
+        "name": "LATIN CAPITAL LETTER SCHWA"
+    },
+    {
+        "hex": "c690",
+        "unicode": "U+0190",
+        "name": "LATIN CAPITAL LETTER OPEN E"
+    },
+    {
+        "hex": "c691",
+        "unicode": "U+0191",
+        "name": "LATIN CAPITAL LETTER F WITH HOOK"
+    },
+    {
+        "hex": "c692",
+        "unicode": "U+0192",
+        "name": "LATIN SMALL LETTER F WITH HOOK"
+    },
+    {
+        "hex": "c693",
+        "unicode": "U+0193",
+        "name": "LATIN CAPITAL LETTER G WITH HOOK"
+    },
+    {
+        "hex": "c694",
+        "unicode": "U+0194",
+        "name": "LATIN CAPITAL LETTER GAMMA"
+    },
+    {
+        "hex": "c695",
+        "unicode": "U+0195",
+        "name": "LATIN SMALL LETTER HV"
+    },
+    {
+        "hex": "c696",
+        "unicode": "U+0196",
+        "name": "LATIN CAPITAL LETTER IOTA"
+    },
+    {
+        "hex": "c697",
+        "unicode": "U+0197",
+        "name": "LATIN CAPITAL LETTER I WITH STROKE"
+    },
+    {
+        "hex": "c698",
+        "unicode": "U+0198",
+        "name": "LATIN CAPITAL LETTER K WITH HOOK"
+    },
+    {
+        "hex": "c699",
+        "unicode": "U+0199",
+        "name": "LATIN SMALL LETTER K WITH HOOK"
+    },
+    {
+        "hex": "c69a",
+        "unicode": "U+019A",
+        "name": "LATIN SMALL LETTER L WITH BAR"
+    },
+    {
+        "hex": "c69b",
+        "unicode": "U+019B",
+        "name": "LATIN SMALL LETTER LAMBDA WITH STROKE"
+    },
+    {
+        "hex": "c69c",
+        "unicode": "U+019C",
+        "name": "LATIN CAPITAL LETTER TURNED M"
+    },
+    {
+        "hex": "c69d",
+        "unicode": "U+019D",
+        "name": "LATIN CAPITAL LETTER N WITH LEFT HOOK"
+    },
+    {
+        "hex": "c69e",
+        "unicode": "U+019E",
+        "name": "LATIN SMALL LETTER N WITH LONG RIGHT LEG"
+    },
+    {
+        "hex": "c69f",
+        "unicode": "U+019F",
+        "name": "LATIN CAPITAL LETTER O WITH MIDDLE TILDE"
+    },
+    {
+        "hex": "c6a0",
+        "unicode": "U+01A0",
+        "name": "LATIN CAPITAL LETTER O WITH HORN"
+    },
+    {
+        "hex": "c6a1",
+        "unicode": "U+01A1",
+        "name": "LATIN SMALL LETTER O WITH HORN"
+    },
+    {
+        "hex": "c6a2",
+        "unicode": "U+01A2",
+        "name": "LATIN CAPITAL LETTER OI"
+    },
+    {
+        "hex": "c6a3",
+        "unicode": "U+01A3",
+        "name": "LATIN SMALL LETTER OI"
+    },
+    {
+        "hex": "c6a4",
+        "unicode": "U+01A4",
+        "name": "LATIN CAPITAL LETTER P WITH HOOK"
+    },
+    {
+        "hex": "c6a5",
+        "unicode": "U+01A5",
+        "name": "LATIN SMALL LETTER P WITH HOOK"
+    },
+    {
+        "hex": "c6a6",
+        "unicode": "U+01A6",
+        "name": "LATIN LETTER YR"
+    },
+    {
+        "hex": "c6a7",
+        "unicode": "U+01A7",
+        "name": "LATIN CAPITAL LETTER TONE TWO"
+    },
+    {
+        "hex": "c6a8",
+        "unicode": "U+01A8",
+        "name": "LATIN SMALL LETTER TONE TWO"
+    },
+    {
+        "hex": "c6a9",
+        "unicode": "U+01A9",
+        "name": "LATIN CAPITAL LETTER ESH"
+    },
+    {
+        "hex": "c6aa",
+        "unicode": "U+01AA",
+        "name": "LATIN LETTER REVERSED ESH LOOP"
+    },
+    {
+        "hex": "c6ab",
+        "unicode": "U+01AB",
+        "name": "LATIN SMALL LETTER T WITH PALATAL HOOK"
+    },
+    {
+        "hex": "c6ac",
+        "unicode": "U+01AC",
+        "name": "LATIN CAPITAL LETTER T WITH HOOK"
+    },
+    {
+        "hex": "c6ad",
+        "unicode": "U+01AD",
+        "name": "LATIN SMALL LETTER T WITH HOOK"
+    },
+    {
+        "hex": "c6ae",
+        "unicode": "U+01AE",
+        "name": "LATIN CAPITAL LETTER T WITH RETROFLEX HOOK"
+    },
+    {
+        "hex": "c6af",
+        "unicode": "U+01AF",
+        "name": "LATIN CAPITAL LETTER U WITH HORN"
+    },
+    {
+        "hex": "c6b0",
+        "unicode": "U+01B0",
+        "name": "LATIN SMALL LETTER U WITH HORN"
+    },
+    {
+        "hex": "c6b1",
+        "unicode": "U+01B1",
+        "name": "LATIN CAPITAL LETTER UPSILON"
+    },
+    {
+        "hex": "c6b2",
+        "unicode": "U+01B2",
+        "name": "LATIN CAPITAL LETTER V WITH HOOK"
+    },
+    {
+        "hex": "c6b3",
+        "unicode": "U+01B3",
+        "name": "LATIN CAPITAL LETTER Y WITH HOOK"
+    },
+    {
+        "hex": "c6b4",
+        "unicode": "U+01B4",
+        "name": "LATIN SMALL LETTER Y WITH HOOK"
+    },
+    {
+        "hex": "c6b5",
+        "unicode": "U+01B5",
+        "name": "LATIN CAPITAL LETTER Z WITH STROKE"
+    },
+    {
+        "hex": "c6b6",
+        "unicode": "U+01B6",
+        "name": "LATIN SMALL LETTER Z WITH STROKE"
+    },
+    {
+        "hex": "c6b7",
+        "unicode": "U+01B7",
+        "name": "LATIN CAPITAL LETTER EZH"
+    },
+    {
+        "hex": "c6b8",
+        "unicode": "U+01B8",
+        "name": "LATIN CAPITAL LETTER EZH REVERSED"
+    },
+    {
+        "hex": "c6b9",
+        "unicode": "U+01B9",
+        "name": "LATIN SMALL LETTER EZH REVERSED"
+    },
+    {
+        "hex": "c6ba",
+        "unicode": "U+01BA",
+        "name": "LATIN SMALL LETTER EZH WITH TAIL"
+    },
+    {
+        "hex": "c6bb",
+        "unicode": "U+01BB",
+        "name": "LATIN LETTER TWO WITH STROKE"
+    },
+    {
+        "hex": "c6bc",
+        "unicode": "U+01BC",
+        "name": "LATIN CAPITAL LETTER TONE FIVE"
+    },
+    {
+        "hex": "c6bd",
+        "unicode": "U+01BD",
+        "name": "LATIN SMALL LETTER TONE FIVE"
+    },
+    {
+        "hex": "c6be",
+        "unicode": "U+01BE",
+        "name": "LATIN LETTER INVERTED GLOTTAL STOP WITH STROKE"
+    },
+    {
+        "hex": "c6bf",
+        "unicode": "U+01BF",
+        "name": "LATIN LETTER WYNN"
+    },
+    {
+        "hex": "c780",
+        "unicode": "U+01C0",
+        "name": "LATIN LETTER DENTAL CLICK"
+    },
+    {
+        "hex": "c781",
+        "unicode": "U+01C1",
+        "name": "LATIN LETTER LATERAL CLICK"
+    },
+    {
+        "hex": "c782",
+        "unicode": "U+01C2",
+        "name": "LATIN LETTER ALVEOLAR CLICK"
+    },
+    {
+        "hex": "c783",
+        "unicode": "U+01C3",
+        "name": "LATIN LETTER RETROFLEX CLICK"
+    },
+    {
+        "hex": "c784",
+        "unicode": "U+01C4",
+        "name": "LATIN CAPITAL LETTER DZ WITH CARON"
+    },
+    {
+        "hex": "c785",
+        "unicode": "U+01C5",
+        "name": "LATIN CAPITAL LETTER D WITH SMALL LETTER Z WITH CARON"
+    },
+    {
+        "hex": "c786",
+        "unicode": "U+01C6",
+        "name": "LATIN SMALL LETTER DZ WITH CARON"
+    },
+    {
+        "hex": "c787",
+        "unicode": "U+01C7",
+        "name": "LATIN CAPITAL LETTER LJ"
+    },
+    {
+        "hex": "c788",
+        "unicode": "U+01C8",
+        "name": "LATIN CAPITAL LETTER L WITH SMALL LETTER J"
+    },
+    {
+        "hex": "c789",
+        "unicode": "U+01C9",
+        "name": "LATIN SMALL LETTER LJ"
+    },
+    {
+        "hex": "c78a",
+        "unicode": "U+01CA",
+        "name": "LATIN CAPITAL LETTER NJ"
+    },
+    {
+        "hex": "c78b",
+        "unicode": "U+01CB",
+        "name": "LATIN CAPITAL LETTER N WITH SMALL LETTER J"
+    },
+    {
+        "hex": "c78c",
+        "unicode": "U+01CC",
+        "name": "LATIN SMALL LETTER NJ"
+    },
+    {
+        "hex": "c78d",
+        "unicode": "U+01CD",
+        "name": "LATIN CAPITAL LETTER A WITH CARON"
+    },
+    {
+        "hex": "c78e",
+        "unicode": "U+01CE",
+        "name": "LATIN SMALL LETTER A WITH CARON"
+    },
+    {
+        "hex": "c78f",
+        "unicode": "U+01CF",
+        "name": "LATIN CAPITAL LETTER I WITH CARON"
+    },
+    {
+        "hex": "c790",
+        "unicode": "U+01D0",
+        "name": "LATIN SMALL LETTER I WITH CARON"
+    },
+    {
+        "hex": "c791",
+        "unicode": "U+01D1",
+        "name": "LATIN CAPITAL LETTER O WITH CARON"
+    },
+    {
+        "hex": "c792",
+        "unicode": "U+01D2",
+        "name": "LATIN SMALL LETTER O WITH CARON"
+    },
+    {
+        "hex": "c793",
+        "unicode": "U+01D3",
+        "name": "LATIN CAPITAL LETTER U WITH CARON"
+    },
+    {
+        "hex": "c794",
+        "unicode": "U+01D4",
+        "name": "LATIN SMALL LETTER U WITH CARON"
+    },
+    {
+        "hex": "c795",
+        "unicode": "U+01D5",
+        "name": "LATIN CAPITAL LETTER U WITH DIAERESIS AND MACRON"
+    },
+    {
+        "hex": "c796",
+        "unicode": "U+01D6",
+        "name": "LATIN SMALL LETTER U WITH DIAERESIS AND MACRON"
+    },
+    {
+        "hex": "c797",
+        "unicode": "U+01D7",
+        "name": "LATIN CAPITAL LETTER U WITH DIAERESIS AND ACUTE"
+    },
+    {
+        "hex": "c798",
+        "unicode": "U+01D8",
+        "name": "LATIN SMALL LETTER U WITH DIAERESIS AND ACUTE"
+    },
+    {
+        "hex": "c799",
+        "unicode": "U+01D9",
+        "name": "LATIN CAPITAL LETTER U WITH DIAERESIS AND CARON"
+    },
+    {
+        "hex": "c79a",
+        "unicode": "U+01DA",
+        "name": "LATIN SMALL LETTER U WITH DIAERESIS AND CARON"
+    },
+    {
+        "hex": "c79b",
+        "unicode": "U+01DB",
+        "name": "LATIN CAPITAL LETTER U WITH DIAERESIS AND GRAVE"
+    },
+    {
+        "hex": "c79c",
+        "unicode": "U+01DC",
+        "name": "LATIN SMALL LETTER U WITH DIAERESIS AND GRAVE"
+    },
+    {
+        "hex": "c79d",
+        "unicode": "U+01DD",
+        "name": "LATIN SMALL LETTER TURNED E"
+    },
+    {
+        "hex": "c79e",
+        "unicode": "U+01DE",
+        "name": "LATIN CAPITAL LETTER A WITH DIAERESIS AND MACRON"
+    },
+    {
+        "hex": "c79f",
+        "unicode": "U+01DF",
+        "name": "LATIN SMALL LETTER A WITH DIAERESIS AND MACRON"
+    },
+    {
+        "hex": "c7a0",
+        "unicode": "U+01E0",
+        "name": "LATIN CAPITAL LETTER A WITH DOT ABOVE AND MACRON"
+    },
+    {
+        "hex": "c7a1",
+        "unicode": "U+01E1",
+        "name": "LATIN SMALL LETTER A WITH DOT ABOVE AND MACRON"
+    },
+    {
+        "hex": "c7a2",
+        "unicode": "U+01E2",
+        "name": "LATIN CAPITAL LETTER AE WITH MACRON"
+    },
+    {
+        "hex": "c7a3",
+        "unicode": "U+01E3",
+        "name": "LATIN SMALL LETTER AE WITH MACRON"
+    },
+    {
+        "hex": "c7a4",
+        "unicode": "U+01E4",
+        "name": "LATIN CAPITAL LETTER G WITH STROKE"
+    },
+    {
+        "hex": "c7a5",
+        "unicode": "U+01E5",
+        "name": "LATIN SMALL LETTER G WITH STROKE"
+    },
+    {
+        "hex": "c7a6",
+        "unicode": "U+01E6",
+        "name": "LATIN CAPITAL LETTER G WITH CARON"
+    },
+    {
+        "hex": "c7a7",
+        "unicode": "U+01E7",
+        "name": "LATIN SMALL LETTER G WITH CARON"
+    },
+    {
+        "hex": "c7a8",
+        "unicode": "U+01E8",
+        "name": "LATIN CAPITAL LETTER K WITH CARON"
+    },
+    {
+        "hex": "c7a9",
+        "unicode": "U+01E9",
+        "name": "LATIN SMALL LETTER K WITH CARON"
+    },
+    {
+        "hex": "c7aa",
+        "unicode": "U+01EA",
+        "name": "LATIN CAPITAL LETTER O WITH OGONEK"
+    },
+    {
+        "hex": "c7ab",
+        "unicode": "U+01EB",
+        "name": "LATIN SMALL LETTER O WITH OGONEK"
+    },
+    {
+        "hex": "c7ac",
+        "unicode": "U+01EC",
+        "name": "LATIN CAPITAL LETTER O WITH OGONEK AND MACRON"
+    },
+    {
+        "hex": "c7ad",
+        "unicode": "U+01ED",
+        "name": "LATIN SMALL LETTER O WITH OGONEK AND MACRON"
+    },
+    {
+        "hex": "c7ae",
+        "unicode": "U+01EE",
+        "name": "LATIN CAPITAL LETTER EZH WITH CARON"
+    },
+    {
+        "hex": "c7af",
+        "unicode": "U+01EF",
+        "name": "LATIN SMALL LETTER EZH WITH CARON"
+    },
+    {
+        "hex": "c7b0",
+        "unicode": "U+01F0",
+        "name": "LATIN SMALL LETTER J WITH CARON"
+    },
+    {
+        "hex": "c7b1",
+        "unicode": "U+01F1",
+        "name": "LATIN CAPITAL LETTER DZ"
+    },
+    {
+        "hex": "c7b2",
+        "unicode": "U+01F2",
+        "name": "LATIN CAPITAL LETTER D WITH SMALL LETTER Z"
+    },
+    {
+        "hex": "c7b3",
+        "unicode": "U+01F3",
+        "name": "LATIN SMALL LETTER DZ"
+    },
+    {
+        "hex": "c7b4",
+        "unicode": "U+01F4",
+        "name": "LATIN CAPITAL LETTER G WITH ACUTE"
+    },
+    {
+        "hex": "c7b5",
+        "unicode": "U+01F5",
+        "name": "LATIN SMALL LETTER G WITH ACUTE"
+    },
+    {
+        "hex": "c7b6",
+        "unicode": "U+01F6",
+        "name": "LATIN CAPITAL LETTER HWAIR"
+    },
+    {
+        "hex": "c7b7",
+        "unicode": "U+01F7",
+        "name": "LATIN CAPITAL LETTER WYNN"
+    },
+    {
+        "hex": "c7b8",
+        "unicode": "U+01F8",
+        "name": "LATIN CAPITAL LETTER N WITH GRAVE"
+    },
+    {
+        "hex": "c7b9",
+        "unicode": "U+01F9",
+        "name": "LATIN SMALL LETTER N WITH GRAVE"
+    },
+    {
+        "hex": "c7ba",
+        "unicode": "U+01FA",
+        "name": "LATIN CAPITAL LETTER A WITH RING ABOVE AND ACUTE"
+    },
+    {
+        "hex": "c7bb",
+        "unicode": "U+01FB",
+        "name": "LATIN SMALL LETTER A WITH RING ABOVE AND ACUTE"
+    },
+    {
+        "hex": "c7bc",
+        "unicode": "U+01FC",
+        "name": "LATIN CAPITAL LETTER AE WITH ACUTE"
+    },
+    {
+        "hex": "c7bd",
+        "unicode": "U+01FD",
+        "name": "LATIN SMALL LETTER AE WITH ACUTE"
+    },
+    {
+        "hex": "c7be",
+        "unicode": "U+01FE",
+        "name": "LATIN CAPITAL LETTER O WITH STROKE AND ACUTE"
+    },
+    {
+        "hex": "c7bf",
+        "unicode": "U+01FF",
+        "name": "LATIN SMALL LETTER O WITH STROKE AND ACUTE"
+    },
+    {
+        "hex": "c880",
+        "unicode": "U+0200",
+        "name": "LATIN CAPITAL LETTER A WITH DOUBLE GRAVE"
+    },
+    {
+        "hex": "c881",
+        "unicode": "U+0201",
+        "name": "LATIN SMALL LETTER A WITH DOUBLE GRAVE"
+    },
+    {
+        "hex": "c882",
+        "unicode": "U+0202",
+        "name": "LATIN CAPITAL LETTER A WITH INVERTED BREVE"
+    },
+    {
+        "hex": "c883",
+        "unicode": "U+0203",
+        "name": "LATIN SMALL LETTER A WITH INVERTED BREVE"
+    },
+    {
+        "hex": "c884",
+        "unicode": "U+0204",
+        "name": "LATIN CAPITAL LETTER E WITH DOUBLE GRAVE"
+    },
+    {
+        "hex": "c885",
+        "unicode": "U+0205",
+        "name": "LATIN SMALL LETTER E WITH DOUBLE GRAVE"
+    },
+    {
+        "hex": "c886",
+        "unicode": "U+0206",
+        "name": "LATIN CAPITAL LETTER E WITH INVERTED BREVE"
+    },
+    {
+        "hex": "c887",
+        "unicode": "U+0207",
+        "name": "LATIN SMALL LETTER E WITH INVERTED BREVE"
+    },
+    {
+        "hex": "c888",
+        "unicode": "U+0208",
+        "name": "LATIN CAPITAL LETTER I WITH DOUBLE GRAVE"
+    },
+    {
+        "hex": "c889",
+        "unicode": "U+0209",
+        "name": "LATIN SMALL LETTER I WITH DOUBLE GRAVE"
+    },
+    {
+        "hex": "c88a",
+        "unicode": "U+020A",
+        "name": "LATIN CAPITAL LETTER I WITH INVERTED BREVE"
+    },
+    {
+        "hex": "c88b",
+        "unicode": "U+020B",
+        "name": "LATIN SMALL LETTER I WITH INVERTED BREVE"
+    },
+    {
+        "hex": "c88c",
+        "unicode": "U+020C",
+        "name": "LATIN CAPITAL LETTER O WITH DOUBLE GRAVE"
+    },
+    {
+        "hex": "c88d",
+        "unicode": "U+020D",
+        "name": "LATIN SMALL LETTER O WITH DOUBLE GRAVE"
+    },
+    {
+        "hex": "c88e",
+        "unicode": "U+020E",
+        "name": "LATIN CAPITAL LETTER O WITH INVERTED BREVE"
+    },
+    {
+        "hex": "c88f",
+        "unicode": "U+020F",
+        "name": "LATIN SMALL LETTER O WITH INVERTED BREVE"
+    },
+    {
+        "hex": "c890",
+        "unicode": "U+0210",
+        "name": "LATIN CAPITAL LETTER R WITH DOUBLE GRAVE"
+    },
+    {
+        "hex": "c891",
+        "unicode": "U+0211",
+        "name": "LATIN SMALL LETTER R WITH DOUBLE GRAVE"
+    },
+    {
+        "hex": "c892",
+        "unicode": "U+0212",
+        "name": "LATIN CAPITAL LETTER R WITH INVERTED BREVE"
+    },
+    {
+        "hex": "c893",
+        "unicode": "U+0213",
+        "name": "LATIN SMALL LETTER R WITH INVERTED BREVE"
+    },
+    {
+        "hex": "c894",
+        "unicode": "U+0214",
+        "name": "LATIN CAPITAL LETTER U WITH DOUBLE GRAVE"
+    },
+    {
+        "hex": "c895",
+        "unicode": "U+0215",
+        "name": "LATIN SMALL LETTER U WITH DOUBLE GRAVE"
+    },
+    {
+        "hex": "c896",
+        "unicode": "U+0216",
+        "name": "LATIN CAPITAL LETTER U WITH INVERTED BREVE"
+    },
+    {
+        "hex": "c897",
+        "unicode": "U+0217",
+        "name": "LATIN SMALL LETTER U WITH INVERTED BREVE"
+    },
+    {
+        "hex": "c898",
+        "unicode": "U+0218",
+        "name": "LATIN CAPITAL LETTER S WITH COMMA BELOW"
+    },
+    {
+        "hex": "c899",
+        "unicode": "U+0219",
+        "name": "LATIN SMALL LETTER S WITH COMMA BELOW"
+    },
+    {
+        "hex": "c89a",
+        "unicode": "U+021A",
+        "name": "LATIN CAPITAL LETTER T WITH COMMA BELOW"
+    },
+    {
+        "hex": "c89b",
+        "unicode": "U+021B",
+        "name": "LATIN SMALL LETTER T WITH COMMA BELOW"
+    },
+    {
+        "hex": "c89c",
+        "unicode": "U+021C",
+        "name": "LATIN CAPITAL LETTER YOGH"
+    },
+    {
+        "hex": "c89d",
+        "unicode": "U+021D",
+        "name": "LATIN SMALL LETTER YOGH"
+    },
+    {
+        "hex": "c89e",
+        "unicode": "U+021E",
+        "name": "LATIN CAPITAL LETTER H WITH CARON"
+    },
+    {
+        "hex": "c89f",
+        "unicode": "U+021F",
+        "name": "LATIN SMALL LETTER H WITH CARON"
+    },
+    {
+        "hex": "c8a0",
+        "unicode": "U+0220",
+        "name": "LATIN CAPITAL LETTER N WITH LONG RIGHT LEG"
+    },
+    {
+        "hex": "c8a1",
+        "unicode": "U+0221",
+        "name": "LATIN SMALL LETTER D WITH CURL"
+    },
+    {
+        "hex": "c8a2",
+        "unicode": "U+0222",
+        "name": "LATIN CAPITAL LETTER OU"
+    },
+    {
+        "hex": "c8a3",
+        "unicode": "U+0223",
+        "name": "LATIN SMALL LETTER OU"
+    },
+    {
+        "hex": "c8a4",
+        "unicode": "U+0224",
+        "name": "LATIN CAPITAL LETTER Z WITH HOOK"
+    },
+    {
+        "hex": "c8a5",
+        "unicode": "U+0225",
+        "name": "LATIN SMALL LETTER Z WITH HOOK"
+    },
+    {
+        "hex": "c8a6",
+        "unicode": "U+0226",
+        "name": "LATIN CAPITAL LETTER A WITH DOT ABOVE"
+    },
+    {
+        "hex": "c8a7",
+        "unicode": "U+0227",
+        "name": "LATIN SMALL LETTER A WITH DOT ABOVE"
+    },
+    {
+        "hex": "c8a8",
+        "unicode": "U+0228",
+        "name": "LATIN CAPITAL LETTER E WITH CEDILLA"
+    },
+    {
+        "hex": "c8a9",
+        "unicode": "U+0229",
+        "name": "LATIN SMALL LETTER E WITH CEDILLA"
+    },
+    {
+        "hex": "c8aa",
+        "unicode": "U+022A",
+        "name": "LATIN CAPITAL LETTER O WITH DIAERESIS AND MACRON"
+    },
+    {
+        "hex": "c8ab",
+        "unicode": "U+022B",
+        "name": "LATIN SMALL LETTER O WITH DIAERESIS AND MACRON"
+    },
+    {
+        "hex": "c8ac",
+        "unicode": "U+022C",
+        "name": "LATIN CAPITAL LETTER O WITH TILDE AND MACRON"
+    },
+    {
+        "hex": "c8ad",
+        "unicode": "U+022D",
+        "name": "LATIN SMALL LETTER O WITH TILDE AND MACRON"
+    },
+    {
+        "hex": "c8ae",
+        "unicode": "U+022E",
+        "name": "LATIN CAPITAL LETTER O WITH DOT ABOVE"
+    },
+    {
+        "hex": "c8af",
+        "unicode": "U+022F",
+        "name": "LATIN SMALL LETTER O WITH DOT ABOVE"
+    },
+    {
+        "hex": "c8b0",
+        "unicode": "U+0230",
+        "name": "LATIN CAPITAL LETTER O WITH DOT ABOVE AND MACRON"
+    },
+    {
+        "hex": "c8b1",
+        "unicode": "U+0231",
+        "name": "LATIN SMALL LETTER O WITH DOT ABOVE AND MACRON"
+    },
+    {
+        "hex": "c8b2",
+        "unicode": "U+0232",
+        "name": "LATIN CAPITAL LETTER Y WITH MACRON"
+    },
+    {
+        "hex": "c8b3",
+        "unicode": "U+0233",
+        "name": "LATIN SMALL LETTER Y WITH MACRON"
+    },
+    {
+        "hex": "c8b4",
+        "unicode": "U+0234",
+        "name": "LATIN SMALL LETTER L WITH CURL"
+    },
+    {
+        "hex": "c8b5",
+        "unicode": "U+0235",
+        "name": "LATIN SMALL LETTER N WITH CURL"
+    },
+    {
+        "hex": "c8b6",
+        "unicode": "U+0236",
+        "name": "LATIN SMALL LETTER T WITH CURL"
+    },
+    {
+        "hex": "c8b7",
+        "unicode": "U+0237",
+        "name": "LATIN SMALL LETTER DOTLESS J"
+    },
+    {
+        "hex": "c8b8",
+        "unicode": "U+0238",
+        "name": "LATIN SMALL LETTER DB DIGRAPH"
+    },
+    {
+        "hex": "c8b9",
+        "unicode": "U+0239",
+        "name": "LATIN SMALL LETTER QP DIGRAPH"
+    },
+    {
+        "hex": "c8ba",
+        "unicode": "U+023A",
+        "name": "LATIN CAPITAL LETTER A WITH STROKE"
+    },
+    {
+        "hex": "c8bb",
+        "unicode": "U+023B",
+        "name": "LATIN CAPITAL LETTER C WITH STROKE"
+    },
+    {
+        "hex": "c8bc",
+        "unicode": "U+023C",
+        "name": "LATIN SMALL LETTER C WITH STROKE"
+    },
+    {
+        "hex": "c8bd",
+        "unicode": "U+023D",
+        "name": "LATIN CAPITAL LETTER L WITH BAR"
+    },
+    {
+        "hex": "c8be",
+        "unicode": "U+023E",
+        "name": "LATIN CAPITAL LETTER T WITH DIAGONAL STROKE"
+    },
+    {
+        "hex": "c8bf",
+        "unicode": "U+023F",
+        "name": "LATIN SMALL LETTER S WITH SWASH TAIL"
+    },
+    {
+        "hex": "c980",
+        "unicode": "U+0240",
+        "name": "LATIN SMALL LETTER Z WITH SWASH TAIL"
+    },
+    {
+        "hex": "c981",
+        "unicode": "U+0241",
+        "name": "LATIN CAPITAL LETTER GLOTTAL STOP"
+    },
+    {
+        "hex": "c982",
+        "unicode": "U+0242",
+        "name": "LATIN SMALL LETTER GLOTTAL STOP"
+    },
+    {
+        "hex": "c983",
+        "unicode": "U+0243",
+        "name": "LATIN CAPITAL LETTER B WITH STROKE"
+    },
+    {
+        "hex": "c984",
+        "unicode": "U+0244",
+        "name": "LATIN CAPITAL LETTER U BAR"
+    },
+    {
+        "hex": "c985",
+        "unicode": "U+0245",
+        "name": "LATIN CAPITAL LETTER TURNED V"
+    },
+    {
+        "hex": "c986",
+        "unicode": "U+0246",
+        "name": "LATIN CAPITAL LETTER E WITH STROKE"
+    },
+    {
+        "hex": "c987",
+        "unicode": "U+0247",
+        "name": "LATIN SMALL LETTER E WITH STROKE"
+    },
+    {
+        "hex": "c988",
+        "unicode": "U+0248",
+        "name": "LATIN CAPITAL LETTER J WITH STROKE"
+    },
+    {
+        "hex": "c989",
+        "unicode": "U+0249",
+        "name": "LATIN SMALL LETTER J WITH STROKE"
+    },
+    {
+        "hex": "c98a",
+        "unicode": "U+024A",
+        "name": "LATIN CAPITAL LETTER SMALL Q WITH HOOK TAIL"
+    },
+    {
+        "hex": "c98b",
+        "unicode": "U+024B",
+        "name": "LATIN SMALL LETTER Q WITH HOOK TAIL"
+    },
+    {
+        "hex": "c98c",
+        "unicode": "U+024C",
+        "name": "LATIN CAPITAL LETTER R WITH STROKE"
+    },
+    {
+        "hex": "c98d",
+        "unicode": "U+024D",
+        "name": "LATIN SMALL LETTER R WITH STROKE"
+    },
+    {
+        "hex": "c98e",
+        "unicode": "U+024E",
+        "name": "LATIN CAPITAL LETTER Y WITH STROKE"
+    },
+    {
+        "hex": "c98f",
+        "unicode": "U+024F",
+        "name": "LATIN SMALL LETTER Y WITH STROKE"
+    },
+    {
+        "hex": "c990",
+        "unicode": "U+0250",
+        "name": "LATIN SMALL LETTER TURNED A"
+    },
+    {
+        "hex": "c991",
+        "unicode": "U+0251",
+        "name": "LATIN SMALL LETTER ALPHA"
+    },
+    {
+        "hex": "c992",
+        "unicode": "U+0252",
+        "name": "LATIN SMALL LETTER TURNED ALPHA"
+    },
+    {
+        "hex": "c993",
+        "unicode": "U+0253",
+        "name": "LATIN SMALL LETTER B WITH HOOK"
+    },
+    {
+        "hex": "c994",
+        "unicode": "U+0254",
+        "name": "LATIN SMALL LETTER OPEN O"
+    },
+    {
+        "hex": "c995",
+        "unicode": "U+0255",
+        "name": "LATIN SMALL LETTER C WITH CURL"
+    },
+    {
+        "hex": "c996",
+        "unicode": "U+0256",
+        "name": "LATIN SMALL LETTER D WITH TAIL"
+    },
+    {
+        "hex": "c997",
+        "unicode": "U+0257",
+        "name": "LATIN SMALL LETTER D WITH HOOK"
+    },
+    {
+        "hex": "c998",
+        "unicode": "U+0258",
+        "name": "LATIN SMALL LETTER REVERSED E"
+    },
+    {
+        "hex": "c999",
+        "unicode": "U+0259",
+        "name": "LATIN SMALL LETTER SCHWA"
+    },
+    {
+        "hex": "c99a",
+        "unicode": "U+025A",
+        "name": "LATIN SMALL LETTER SCHWA WITH HOOK"
+    },
+    {
+        "hex": "c99b",
+        "unicode": "U+025B",
+        "name": "LATIN SMALL LETTER OPEN E"
+    },
+    {
+        "hex": "c99c",
+        "unicode": "U+025C",
+        "name": "LATIN SMALL LETTER REVERSED OPEN E"
+    },
+    {
+        "hex": "c99d",
+        "unicode": "U+025D",
+        "name": "LATIN SMALL LETTER REVERSED OPEN E WITH HOOK"
+    },
+    {
+        "hex": "c99e",
+        "unicode": "U+025E",
+        "name": "LATIN SMALL LETTER CLOSED REVERSED OPEN E"
+    },
+    {
+        "hex": "c99f",
+        "unicode": "U+025F",
+        "name": "LATIN SMALL LETTER DOTLESS J WITH STROKE"
+    },
+    {
+        "hex": "c9a0",
+        "unicode": "U+0260",
+        "name": "LATIN SMALL LETTER G WITH HOOK"
+    },
+    {
+        "hex": "c9a1",
+        "unicode": "U+0261",
+        "name": "LATIN SMALL LETTER SCRIPT G"
+    },
+    {
+        "hex": "c9a2",
+        "unicode": "U+0262",
+        "name": "LATIN LETTER SMALL CAPITAL G"
+    },
+    {
+        "hex": "c9a3",
+        "unicode": "U+0263",
+        "name": "LATIN SMALL LETTER GAMMA"
+    },
+    {
+        "hex": "c9a4",
+        "unicode": "U+0264",
+        "name": "LATIN SMALL LETTER RAMS HORN"
+    },
+    {
+        "hex": "c9a5",
+        "unicode": "U+0265",
+        "name": "LATIN SMALL LETTER TURNED H"
+    },
+    {
+        "hex": "c9a6",
+        "unicode": "U+0266",
+        "name": "LATIN SMALL LETTER H WITH HOOK"
+    },
+    {
+        "hex": "c9a7",
+        "unicode": "U+0267",
+        "name": "LATIN SMALL LETTER HENG WITH HOOK"
+    },
+    {
+        "hex": "c9a8",
+        "unicode": "U+0268",
+        "name": "LATIN SMALL LETTER I WITH STROKE"
+    },
+    {
+        "hex": "c9a9",
+        "unicode": "U+0269",
+        "name": "LATIN SMALL LETTER IOTA"
+    },
+    {
+        "hex": "c9aa",
+        "unicode": "U+026A",
+        "name": "LATIN LETTER SMALL CAPITAL I"
+    },
+    {
+        "hex": "c9ab",
+        "unicode": "U+026B",
+        "name": "LATIN SMALL LETTER L WITH MIDDLE TILDE"
+    },
+    {
+        "hex": "c9ac",
+        "unicode": "U+026C",
+        "name": "LATIN SMALL LETTER L WITH BELT"
+    },
+    {
+        "hex": "c9ad",
+        "unicode": "U+026D",
+        "name": "LATIN SMALL LETTER L WITH RETROFLEX HOOK"
+    },
+    {
+        "hex": "c9ae",
+        "unicode": "U+026E",
+        "name": "LATIN SMALL LETTER LEZH"
+    },
+    {
+        "hex": "c9af",
+        "unicode": "U+026F",
+        "name": "LATIN SMALL LETTER TURNED M"
+    },
+    {
+        "hex": "c9b0",
+        "unicode": "U+0270",
+        "name": "LATIN SMALL LETTER TURNED M WITH LONG LEG"
+    },
+    {
+        "hex": "c9b1",
+        "unicode": "U+0271",
+        "name": "LATIN SMALL LETTER M WITH HOOK"
+    },
+    {
+        "hex": "c9b2",
+        "unicode": "U+0272",
+        "name": "LATIN SMALL LETTER N WITH LEFT HOOK"
+    },
+    {
+        "hex": "c9b3",
+        "unicode": "U+0273",
+        "name": "LATIN SMALL LETTER N WITH RETROFLEX HOOK"
+    },
+    {
+        "hex": "c9b4",
+        "unicode": "U+0274",
+        "name": "LATIN LETTER SMALL CAPITAL N"
+    },
+    {
+        "hex": "c9b5",
+        "unicode": "U+0275",
+        "name": "LATIN SMALL LETTER BARRED O"
+    },
+    {
+        "hex": "c9b6",
+        "unicode": "U+0276",
+        "name": "LATIN LETTER SMALL CAPITAL OE"
+    },
+    {
+        "hex": "c9b7",
+        "unicode": "U+0277",
+        "name": "LATIN SMALL LETTER CLOSED OMEGA"
+    },
+    {
+        "hex": "c9b8",
+        "unicode": "U+0278",
+        "name": "LATIN SMALL LETTER PHI"
+    },
+    {
+        "hex": "c9b9",
+        "unicode": "U+0279",
+        "name": "LATIN SMALL LETTER TURNED R"
+    },
+    {
+        "hex": "c9ba",
+        "unicode": "U+027A",
+        "name": "LATIN SMALL LETTER TURNED R WITH LONG LEG"
+    },
+    {
+        "hex": "c9bb",
+        "unicode": "U+027B",
+        "name": "LATIN SMALL LETTER TURNED R WITH HOOK"
+    },
+    {
+        "hex": "c9bc",
+        "unicode": "U+027C",
+        "name": "LATIN SMALL LETTER R WITH LONG LEG"
+    },
+    {
+        "hex": "c9bd",
+        "unicode": "U+027D",
+        "name": "LATIN SMALL LETTER R WITH TAIL"
+    },
+    {
+        "hex": "c9be",
+        "unicode": "U+027E",
+        "name": "LATIN SMALL LETTER R WITH FISHHOOK"
+    },
+    {
+        "hex": "c9bf",
+        "unicode": "U+027F",
+        "name": "LATIN SMALL LETTER REVERSED R WITH FISHHOOK"
+    }
+]

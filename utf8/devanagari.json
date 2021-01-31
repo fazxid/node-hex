@@ -1,0 +1,1282 @@
+[
+    {
+        "hex": "e0a480",
+        "unicode": "U+0900",
+        "name": "DEVANAGARI SIGN INVERTED CANDRABINDU"
+    },
+    {
+        "hex": "e0a481",
+        "unicode": "U+0901",
+        "name": "DEVANAGARI SIGN CANDRABINDU"
+    },
+    {
+        "hex": "e0a482",
+        "unicode": "U+0902",
+        "name": "DEVANAGARI SIGN ANUSVARA"
+    },
+    {
+        "hex": "e0a483",
+        "unicode": "U+0903",
+        "name": "DEVANAGARI SIGN VISARGA"
+    },
+    {
+        "hex": "e0a484",
+        "unicode": "U+0904",
+        "name": "DEVANAGARI LETTER SHORT A"
+    },
+    {
+        "hex": "e0a485",
+        "unicode": "U+0905",
+        "name": "DEVANAGARI LETTER A"
+    },
+    {
+        "hex": "e0a486",
+        "unicode": "U+0906",
+        "name": "DEVANAGARI LETTER AA"
+    },
+    {
+        "hex": "e0a487",
+        "unicode": "U+0907",
+        "name": "DEVANAGARI LETTER I"
+    },
+    {
+        "hex": "e0a488",
+        "unicode": "U+0908",
+        "name": "DEVANAGARI LETTER II"
+    },
+    {
+        "hex": "e0a489",
+        "unicode": "U+0909",
+        "name": "DEVANAGARI LETTER U"
+    },
+    {
+        "hex": "e0a48a",
+        "unicode": "U+090A",
+        "name": "DEVANAGARI LETTER UU"
+    },
+    {
+        "hex": "e0a48b",
+        "unicode": "U+090B",
+        "name": "DEVANAGARI LETTER VOCALIC R"
+    },
+    {
+        "hex": "e0a48c",
+        "unicode": "U+090C",
+        "name": "DEVANAGARI LETTER VOCALIC L"
+    },
+    {
+        "hex": "e0a48d",
+        "unicode": "U+090D",
+        "name": "DEVANAGARI LETTER CANDRA E"
+    },
+    {
+        "hex": "e0a48e",
+        "unicode": "U+090E",
+        "name": "DEVANAGARI LETTER SHORT E"
+    },
+    {
+        "hex": "e0a48f",
+        "unicode": "U+090F",
+        "name": "DEVANAGARI LETTER E"
+    },
+    {
+        "hex": "e0a490",
+        "unicode": "U+0910",
+        "name": "DEVANAGARI LETTER AI"
+    },
+    {
+        "hex": "e0a491",
+        "unicode": "U+0911",
+        "name": "DEVANAGARI LETTER CANDRA O"
+    },
+    {
+        "hex": "e0a492",
+        "unicode": "U+0912",
+        "name": "DEVANAGARI LETTER SHORT O"
+    },
+    {
+        "hex": "e0a493",
+        "unicode": "U+0913",
+        "name": "DEVANAGARI LETTER O"
+    },
+    {
+        "hex": "e0a494",
+        "unicode": "U+0914",
+        "name": "DEVANAGARI LETTER AU"
+    },
+    {
+        "hex": "e0a495",
+        "unicode": "U+0915",
+        "name": "DEVANAGARI LETTER KA"
+    },
+    {
+        "hex": "e0a496",
+        "unicode": "U+0916",
+        "name": "DEVANAGARI LETTER KHA"
+    },
+    {
+        "hex": "e0a497",
+        "unicode": "U+0917",
+        "name": "DEVANAGARI LETTER GA"
+    },
+    {
+        "hex": "e0a498",
+        "unicode": "U+0918",
+        "name": "DEVANAGARI LETTER GHA"
+    },
+    {
+        "hex": "e0a499",
+        "unicode": "U+0919",
+        "name": "DEVANAGARI LETTER NGA"
+    },
+    {
+        "hex": "e0a49a",
+        "unicode": "U+091A",
+        "name": "DEVANAGARI LETTER CA"
+    },
+    {
+        "hex": "e0a49b",
+        "unicode": "U+091B",
+        "name": "DEVANAGARI LETTER CHA"
+    },
+    {
+        "hex": "e0a49c",
+        "unicode": "U+091C",
+        "name": "DEVANAGARI LETTER JA"
+    },
+    {
+        "hex": "e0a49d",
+        "unicode": "U+091D",
+        "name": "DEVANAGARI LETTER JHA"
+    },
+    {
+        "hex": "e0a49e",
+        "unicode": "U+091E",
+        "name": "DEVANAGARI LETTER NYA"
+    },
+    {
+        "hex": "e0a49f",
+        "unicode": "U+091F",
+        "name": "DEVANAGARI LETTER TTA"
+    },
+    {
+        "hex": "e0a4a0",
+        "unicode": "U+0920",
+        "name": "DEVANAGARI LETTER TTHA"
+    },
+    {
+        "hex": "e0a4a1",
+        "unicode": "U+0921",
+        "name": "DEVANAGARI LETTER DDA"
+    },
+    {
+        "hex": "e0a4a2",
+        "unicode": "U+0922",
+        "name": "DEVANAGARI LETTER DDHA"
+    },
+    {
+        "hex": "e0a4a3",
+        "unicode": "U+0923",
+        "name": "DEVANAGARI LETTER NNA"
+    },
+    {
+        "hex": "e0a4a4",
+        "unicode": "U+0924",
+        "name": "DEVANAGARI LETTER TA"
+    },
+    {
+        "hex": "e0a4a5",
+        "unicode": "U+0925",
+        "name": "DEVANAGARI LETTER THA"
+    },
+    {
+        "hex": "e0a4a6",
+        "unicode": "U+0926",
+        "name": "DEVANAGARI LETTER DA"
+    },
+    {
+        "hex": "e0a4a7",
+        "unicode": "U+0927",
+        "name": "DEVANAGARI LETTER DHA"
+    },
+    {
+        "hex": "e0a4a8",
+        "unicode": "U+0928",
+        "name": "DEVANAGARI LETTER NA"
+    },
+    {
+        "hex": "e0a4a9",
+        "unicode": "U+0929",
+        "name": "DEVANAGARI LETTER NNNA"
+    },
+    {
+        "hex": "e0a4aa",
+        "unicode": "U+092A",
+        "name": "DEVANAGARI LETTER PA"
+    },
+    {
+        "hex": "e0a4ab",
+        "unicode": "U+092B",
+        "name": "DEVANAGARI LETTER PHA"
+    },
+    {
+        "hex": "e0a4ac",
+        "unicode": "U+092C",
+        "name": "DEVANAGARI LETTER BA"
+    },
+    {
+        "hex": "e0a4ad",
+        "unicode": "U+092D",
+        "name": "DEVANAGARI LETTER BHA"
+    },
+    {
+        "hex": "e0a4ae",
+        "unicode": "U+092E",
+        "name": "DEVANAGARI LETTER MA"
+    },
+    {
+        "hex": "e0a4af",
+        "unicode": "U+092F",
+        "name": "DEVANAGARI LETTER YA"
+    },
+    {
+        "hex": "e0a4b0",
+        "unicode": "U+0930",
+        "name": "DEVANAGARI LETTER RA"
+    },
+    {
+        "hex": "e0a4b1",
+        "unicode": "U+0931",
+        "name": "DEVANAGARI LETTER RRA"
+    },
+    {
+        "hex": "e0a4b2",
+        "unicode": "U+0932",
+        "name": "DEVANAGARI LETTER LA"
+    },
+    {
+        "hex": "e0a4b3",
+        "unicode": "U+0933",
+        "name": "DEVANAGARI LETTER LLA"
+    },
+    {
+        "hex": "e0a4b4",
+        "unicode": "U+0934",
+        "name": "DEVANAGARI LETTER LLLA"
+    },
+    {
+        "hex": "e0a4b5",
+        "unicode": "U+0935",
+        "name": "DEVANAGARI LETTER VA"
+    },
+    {
+        "hex": "e0a4b6",
+        "unicode": "U+0936",
+        "name": "DEVANAGARI LETTER SHA"
+    },
+    {
+        "hex": "e0a4b7",
+        "unicode": "U+0937",
+        "name": "DEVANAGARI LETTER SSA"
+    },
+    {
+        "hex": "e0a4b8",
+        "unicode": "U+0938",
+        "name": "DEVANAGARI LETTER SA"
+    },
+    {
+        "hex": "e0a4b9",
+        "unicode": "U+0939",
+        "name": "DEVANAGARI LETTER HA"
+    },
+    {
+        "hex": "e0a4ba",
+        "unicode": "U+093A",
+        "name": "DEVANAGARI VOWEL SIGN OE"
+    },
+    {
+        "hex": "e0a4bb",
+        "unicode": "U+093B",
+        "name": "DEVANAGARI VOWEL SIGN OOE"
+    },
+    {
+        "hex": "e0a4bc",
+        "unicode": "U+093C",
+        "name": "DEVANAGARI SIGN NUKTA"
+    },
+    {
+        "hex": "e0a4bd",
+        "unicode": "U+093D",
+        "name": "DEVANAGARI SIGN AVAGRAHA"
+    },
+    {
+        "hex": "e0a4be",
+        "unicode": "U+093E",
+        "name": "DEVANAGARI VOWEL SIGN AA"
+    },
+    {
+        "hex": "e0a4bf",
+        "unicode": "U+093F",
+        "name": "DEVANAGARI VOWEL SIGN I"
+    },
+    {
+        "hex": "e0a580",
+        "unicode": "U+0940",
+        "name": "DEVANAGARI VOWEL SIGN II"
+    },
+    {
+        "hex": "e0a581",
+        "unicode": "U+0941",
+        "name": "DEVANAGARI VOWEL SIGN U"
+    },
+    {
+        "hex": "e0a582",
+        "unicode": "U+0942",
+        "name": "DEVANAGARI VOWEL SIGN UU"
+    },
+    {
+        "hex": "e0a583",
+        "unicode": "U+0943",
+        "name": "DEVANAGARI VOWEL SIGN VOCALIC R"
+    },
+    {
+        "hex": "e0a584",
+        "unicode": "U+0944",
+        "name": "DEVANAGARI VOWEL SIGN VOCALIC RR"
+    },
+    {
+        "hex": "e0a585",
+        "unicode": "U+0945",
+        "name": "DEVANAGARI VOWEL SIGN CANDRA E"
+    },
+    {
+        "hex": "e0a586",
+        "unicode": "U+0946",
+        "name": "DEVANAGARI VOWEL SIGN SHORT E"
+    },
+    {
+        "hex": "e0a587",
+        "unicode": "U+0947",
+        "name": "DEVANAGARI VOWEL SIGN E"
+    },
+    {
+        "hex": "e0a588",
+        "unicode": "U+0948",
+        "name": "DEVANAGARI VOWEL SIGN AI"
+    },
+    {
+        "hex": "e0a589",
+        "unicode": "U+0949",
+        "name": "DEVANAGARI VOWEL SIGN CANDRA O"
+    },
+    {
+        "hex": "e0a58a",
+        "unicode": "U+094A",
+        "name": "DEVANAGARI VOWEL SIGN SHORT O"
+    },
+    {
+        "hex": "e0a58b",
+        "unicode": "U+094B",
+        "name": "DEVANAGARI VOWEL SIGN O"
+    },
+    {
+        "hex": "e0a58c",
+        "unicode": "U+094C",
+        "name": "DEVANAGARI VOWEL SIGN AU"
+    },
+    {
+        "hex": "e0a58d",
+        "unicode": "U+094D",
+        "name": "DEVANAGARI SIGN VIRAMA"
+    },
+    {
+        "hex": "e0a58e",
+        "unicode": "U+094E",
+        "name": "DEVANAGARI VOWEL SIGN PRISHTHAMATRA E"
+    },
+    {
+        "hex": "e0a58f",
+        "unicode": "U+094F",
+        "name": "DEVANAGARI VOWEL SIGN AW"
+    },
+    {
+        "hex": "e0a590",
+        "unicode": "U+0950",
+        "name": "DEVANAGARI OM"
+    },
+    {
+        "hex": "e0a591",
+        "unicode": "U+0951",
+        "name": "DEVANAGARI STRESS SIGN UDATTA"
+    },
+    {
+        "hex": "e0a592",
+        "unicode": "U+0952",
+        "name": "DEVANAGARI STRESS SIGN ANUDATTA"
+    },
+    {
+        "hex": "e0a593",
+        "unicode": "U+0953",
+        "name": "DEVANAGARI GRAVE ACCENT"
+    },
+    {
+        "hex": "e0a594",
+        "unicode": "U+0954",
+        "name": "DEVANAGARI ACUTE ACCENT"
+    },
+    {
+        "hex": "e0a595",
+        "unicode": "U+0955",
+        "name": "DEVANAGARI VOWEL SIGN CANDRA LONG E"
+    },
+    {
+        "hex": "e0a596",
+        "unicode": "U+0956",
+        "name": "DEVANAGARI VOWEL SIGN UE"
+    },
+    {
+        "hex": "e0a597",
+        "unicode": "U+0957",
+        "name": "DEVANAGARI VOWEL SIGN UUE"
+    },
+    {
+        "hex": "e0a598",
+        "unicode": "U+0958",
+        "name": "DEVANAGARI LETTER QA"
+    },
+    {
+        "hex": "e0a599",
+        "unicode": "U+0959",
+        "name": "DEVANAGARI LETTER KHHA"
+    },
+    {
+        "hex": "e0a59a",
+        "unicode": "U+095A",
+        "name": "DEVANAGARI LETTER GHHA"
+    },
+    {
+        "hex": "e0a59b",
+        "unicode": "U+095B",
+        "name": "DEVANAGARI LETTER ZA"
+    },
+    {
+        "hex": "e0a59c",
+        "unicode": "U+095C",
+        "name": "DEVANAGARI LETTER DDDHA"
+    },
+    {
+        "hex": "e0a59d",
+        "unicode": "U+095D",
+        "name": "DEVANAGARI LETTER RHA"
+    },
+    {
+        "hex": "e0a59e",
+        "unicode": "U+095E",
+        "name": "DEVANAGARI LETTER FA"
+    },
+    {
+        "hex": "e0a59f",
+        "unicode": "U+095F",
+        "name": "DEVANAGARI LETTER YYA"
+    },
+    {
+        "hex": "e0a5a0",
+        "unicode": "U+0960",
+        "name": "DEVANAGARI LETTER VOCALIC RR"
+    },
+    {
+        "hex": "e0a5a1",
+        "unicode": "U+0961",
+        "name": "DEVANAGARI LETTER VOCALIC LL"
+    },
+    {
+        "hex": "e0a5a2",
+        "unicode": "U+0962",
+        "name": "DEVANAGARI VOWEL SIGN VOCALIC L"
+    },
+    {
+        "hex": "e0a5a3",
+        "unicode": "U+0963",
+        "name": "DEVANAGARI VOWEL SIGN VOCALIC LL"
+    },
+    {
+        "hex": "e0a5a4",
+        "unicode": "U+0964",
+        "name": "DEVANAGARI DANDA"
+    },
+    {
+        "hex": "e0a5a5",
+        "unicode": "U+0965",
+        "name": "DEVANAGARI DOUBLE DANDA"
+    },
+    {
+        "hex": "e0a5a6",
+        "unicode": "U+0966",
+        "name": "DEVANAGARI DIGIT ZERO"
+    },
+    {
+        "hex": "e0a5a7",
+        "unicode": "U+0967",
+        "name": "DEVANAGARI DIGIT ONE"
+    },
+    {
+        "hex": "e0a5a8",
+        "unicode": "U+0968",
+        "name": "DEVANAGARI DIGIT TWO"
+    },
+    {
+        "hex": "e0a5a9",
+        "unicode": "U+0969",
+        "name": "DEVANAGARI DIGIT THREE"
+    },
+    {
+        "hex": "e0a5aa",
+        "unicode": "U+096A",
+        "name": "DEVANAGARI DIGIT FOUR"
+    },
+    {
+        "hex": "e0a5ab",
+        "unicode": "U+096B",
+        "name": "DEVANAGARI DIGIT FIVE"
+    },
+    {
+        "hex": "e0a5ac",
+        "unicode": "U+096C",
+        "name": "DEVANAGARI DIGIT SIX"
+    },
+    {
+        "hex": "e0a5ad",
+        "unicode": "U+096D",
+        "name": "DEVANAGARI DIGIT SEVEN"
+    },
+    {
+        "hex": "e0a5ae",
+        "unicode": "U+096E",
+        "name": "DEVANAGARI DIGIT EIGHT"
+    },
+    {
+        "hex": "e0a5af",
+        "unicode": "U+096F",
+        "name": "DEVANAGARI DIGIT NINE"
+    },
+    {
+        "hex": "e0a5b0",
+        "unicode": "U+0970",
+        "name": "DEVANAGARI ABBREVIATION SIGN"
+    },
+    {
+        "hex": "e0a5b1",
+        "unicode": "U+0971",
+        "name": "DEVANAGARI SIGN HIGH SPACING DOT"
+    },
+    {
+        "hex": "e0a5b2",
+        "unicode": "U+0972",
+        "name": "DEVANAGARI LETTER CANDRA A"
+    },
+    {
+        "hex": "e0a5b3",
+        "unicode": "U+0973",
+        "name": "DEVANAGARI LETTER OE"
+    },
+    {
+        "hex": "e0a5b4",
+        "unicode": "U+0974",
+        "name": "DEVANAGARI LETTER OOE"
+    },
+    {
+        "hex": "e0a5b5",
+        "unicode": "U+0975",
+        "name": "DEVANAGARI LETTER AW"
+    },
+    {
+        "hex": "e0a5b6",
+        "unicode": "U+0976",
+        "name": "DEVANAGARI LETTER UE"
+    },
+    {
+        "hex": "e0a5b7",
+        "unicode": "U+0977",
+        "name": "DEVANAGARI LETTER UUE"
+    },
+    {
+        "hex": "e0a5b8",
+        "unicode": "U+0978",
+        "name": "DEVANAGARI LETTER MARWARI DDA"
+    },
+    {
+        "hex": "e0a5b9",
+        "unicode": "U+0979",
+        "name": "DEVANAGARI LETTER ZHA"
+    },
+    {
+        "hex": "e0a5ba",
+        "unicode": "U+097A",
+        "name": "DEVANAGARI LETTER HEAVY YA"
+    },
+    {
+        "hex": "e0a5bb",
+        "unicode": "U+097B",
+        "name": "DEVANAGARI LETTER GGA"
+    },
+    {
+        "hex": "e0a5bc",
+        "unicode": "U+097C",
+        "name": "DEVANAGARI LETTER JJA"
+    },
+    {
+        "hex": "e0a5bd",
+        "unicode": "U+097D",
+        "name": "DEVANAGARI LETTER GLOTTAL STOP"
+    },
+    {
+        "hex": "e0a5be",
+        "unicode": "U+097E",
+        "name": "DEVANAGARI LETTER DDDA"
+    },
+    {
+        "hex": "e0a5bf",
+        "unicode": "U+097F",
+        "name": "DEVANAGARI LETTER BBA"
+    },
+    {
+        "hex": "e0a680",
+        "unicode": "U+0980",
+        "name": "BENGALI ANJI"
+    },
+    {
+        "hex": "e0a681",
+        "unicode": "U+0981",
+        "name": "BENGALI SIGN CANDRABINDU"
+    },
+    {
+        "hex": "e0a682",
+        "unicode": "U+0982",
+        "name": "BENGALI SIGN ANUSVARA"
+    },
+    {
+        "hex": "e0a683",
+        "unicode": "U+0983",
+        "name": "BENGALI SIGN VISARGA"
+    },
+    {
+        "hex": "e0a684",
+        "unicode": "U+0984",
+        "name": ""
+    },
+    {
+        "hex": "e0a685",
+        "unicode": "U+0985",
+        "name": "BENGALI LETTER A"
+    },
+    {
+        "hex": "e0a686",
+        "unicode": "U+0986",
+        "name": "BENGALI LETTER AA"
+    },
+    {
+        "hex": "e0a687",
+        "unicode": "U+0987",
+        "name": "BENGALI LETTER I"
+    },
+    {
+        "hex": "e0a688",
+        "unicode": "U+0988",
+        "name": "BENGALI LETTER II"
+    },
+    {
+        "hex": "e0a689",
+        "unicode": "U+0989",
+        "name": "BENGALI LETTER U"
+    },
+    {
+        "hex": "e0a68a",
+        "unicode": "U+098A",
+        "name": "BENGALI LETTER UU"
+    },
+    {
+        "hex": "e0a68b",
+        "unicode": "U+098B",
+        "name": "BENGALI LETTER VOCALIC R"
+    },
+    {
+        "hex": "e0a68c",
+        "unicode": "U+098C",
+        "name": "BENGALI LETTER VOCALIC L"
+    },
+    {
+        "hex": "e0a68d",
+        "unicode": "U+098D",
+        "name": ""
+    },
+    {
+        "hex": "e0a68e",
+        "unicode": "U+098E",
+        "name": ""
+    },
+    {
+        "hex": "e0a68f",
+        "unicode": "U+098F",
+        "name": "BENGALI LETTER E"
+    },
+    {
+        "hex": "e0a690",
+        "unicode": "U+0990",
+        "name": "BENGALI LETTER AI"
+    },
+    {
+        "hex": "e0a691",
+        "unicode": "U+0991",
+        "name": ""
+    },
+    {
+        "hex": "e0a692",
+        "unicode": "U+0992",
+        "name": ""
+    },
+    {
+        "hex": "e0a693",
+        "unicode": "U+0993",
+        "name": "BENGALI LETTER O"
+    },
+    {
+        "hex": "e0a694",
+        "unicode": "U+0994",
+        "name": "BENGALI LETTER AU"
+    },
+    {
+        "hex": "e0a695",
+        "unicode": "U+0995",
+        "name": "BENGALI LETTER KA"
+    },
+    {
+        "hex": "e0a696",
+        "unicode": "U+0996",
+        "name": "BENGALI LETTER KHA"
+    },
+    {
+        "hex": "e0a697",
+        "unicode": "U+0997",
+        "name": "BENGALI LETTER GA"
+    },
+    {
+        "hex": "e0a698",
+        "unicode": "U+0998",
+        "name": "BENGALI LETTER GHA"
+    },
+    {
+        "hex": "e0a699",
+        "unicode": "U+0999",
+        "name": "BENGALI LETTER NGA"
+    },
+    {
+        "hex": "e0a69a",
+        "unicode": "U+099A",
+        "name": "BENGALI LETTER CA"
+    },
+    {
+        "hex": "e0a69b",
+        "unicode": "U+099B",
+        "name": "BENGALI LETTER CHA"
+    },
+    {
+        "hex": "e0a69c",
+        "unicode": "U+099C",
+        "name": "BENGALI LETTER JA"
+    },
+    {
+        "hex": "e0a69d",
+        "unicode": "U+099D",
+        "name": "BENGALI LETTER JHA"
+    },
+    {
+        "hex": "e0a69e",
+        "unicode": "U+099E",
+        "name": "BENGALI LETTER NYA"
+    },
+    {
+        "hex": "e0a69f",
+        "unicode": "U+099F",
+        "name": "BENGALI LETTER TTA"
+    },
+    {
+        "hex": "e0a6a0",
+        "unicode": "U+09A0",
+        "name": "BENGALI LETTER TTHA"
+    },
+    {
+        "hex": "e0a6a1",
+        "unicode": "U+09A1",
+        "name": "BENGALI LETTER DDA"
+    },
+    {
+        "hex": "e0a6a2",
+        "unicode": "U+09A2",
+        "name": "BENGALI LETTER DDHA"
+    },
+    {
+        "hex": "e0a6a3",
+        "unicode": "U+09A3",
+        "name": "BENGALI LETTER NNA"
+    },
+    {
+        "hex": "e0a6a4",
+        "unicode": "U+09A4",
+        "name": "BENGALI LETTER TA"
+    },
+    {
+        "hex": "e0a6a5",
+        "unicode": "U+09A5",
+        "name": "BENGALI LETTER THA"
+    },
+    {
+        "hex": "e0a6a6",
+        "unicode": "U+09A6",
+        "name": "BENGALI LETTER DA"
+    },
+    {
+        "hex": "e0a6a7",
+        "unicode": "U+09A7",
+        "name": "BENGALI LETTER DHA"
+    },
+    {
+        "hex": "e0a6a8",
+        "unicode": "U+09A8",
+        "name": "BENGALI LETTER NA"
+    },
+    {
+        "hex": "e0a6a9",
+        "unicode": "U+09A9",
+        "name": ""
+    },
+    {
+        "hex": "e0a6aa",
+        "unicode": "U+09AA",
+        "name": "BENGALI LETTER PA"
+    },
+    {
+        "hex": "e0a6ab",
+        "unicode": "U+09AB",
+        "name": "BENGALI LETTER PHA"
+    },
+    {
+        "hex": "e0a6ac",
+        "unicode": "U+09AC",
+        "name": "BENGALI LETTER BA"
+    },
+    {
+        "hex": "e0a6ad",
+        "unicode": "U+09AD",
+        "name": "BENGALI LETTER BHA"
+    },
+    {
+        "hex": "e0a6ae",
+        "unicode": "U+09AE",
+        "name": "BENGALI LETTER MA"
+    },
+    {
+        "hex": "e0a6af",
+        "unicode": "U+09AF",
+        "name": "BENGALI LETTER YA"
+    },
+    {
+        "hex": "e0a6b0",
+        "unicode": "U+09B0",
+        "name": "BENGALI LETTER RA"
+    },
+    {
+        "hex": "e0a6b1",
+        "unicode": "U+09B1",
+        "name": ""
+    },
+    {
+        "hex": "e0a6b2",
+        "unicode": "U+09B2",
+        "name": "BENGALI LETTER LA"
+    },
+    {
+        "hex": "e0a6b3",
+        "unicode": "U+09B3",
+        "name": ""
+    },
+    {
+        "hex": "e0a6b4",
+        "unicode": "U+09B4",
+        "name": ""
+    },
+    {
+        "hex": "e0a6b5",
+        "unicode": "U+09B5",
+        "name": ""
+    },
+    {
+        "hex": "e0a6b6",
+        "unicode": "U+09B6",
+        "name": "BENGALI LETTER SHA"
+    },
+    {
+        "hex": "e0a6b7",
+        "unicode": "U+09B7",
+        "name": "BENGALI LETTER SSA"
+    },
+    {
+        "hex": "e0a6b8",
+        "unicode": "U+09B8",
+        "name": "BENGALI LETTER SA"
+    },
+    {
+        "hex": "e0a6b9",
+        "unicode": "U+09B9",
+        "name": "BENGALI LETTER HA"
+    },
+    {
+        "hex": "e0a6ba",
+        "unicode": "U+09BA",
+        "name": ""
+    },
+    {
+        "hex": "e0a6bb",
+        "unicode": "U+09BB",
+        "name": ""
+    },
+    {
+        "hex": "e0a6bc",
+        "unicode": "U+09BC",
+        "name": "BENGALI SIGN NUKTA"
+    },
+    {
+        "hex": "e0a6bd",
+        "unicode": "U+09BD",
+        "name": "BENGALI SIGN AVAGRAHA"
+    },
+    {
+        "hex": "e0a6be",
+        "unicode": "U+09BE",
+        "name": "BENGALI VOWEL SIGN AA"
+    },
+    {
+        "hex": "e0a6bf",
+        "unicode": "U+09BF",
+        "name": "BENGALI VOWEL SIGN I"
+    },
+    {
+        "hex": "e0a780",
+        "unicode": "U+09C0",
+        "name": "BENGALI VOWEL SIGN II"
+    },
+    {
+        "hex": "e0a781",
+        "unicode": "U+09C1",
+        "name": "BENGALI VOWEL SIGN U"
+    },
+    {
+        "hex": "e0a782",
+        "unicode": "U+09C2",
+        "name": "BENGALI VOWEL SIGN UU"
+    },
+    {
+        "hex": "e0a783",
+        "unicode": "U+09C3",
+        "name": "BENGALI VOWEL SIGN VOCALIC R"
+    },
+    {
+        "hex": "e0a784",
+        "unicode": "U+09C4",
+        "name": "BENGALI VOWEL SIGN VOCALIC RR"
+    },
+    {
+        "hex": "e0a785",
+        "unicode": "U+09C5",
+        "name": ""
+    },
+    {
+        "hex": "e0a786",
+        "unicode": "U+09C6",
+        "name": ""
+    },
+    {
+        "hex": "e0a787",
+        "unicode": "U+09C7",
+        "name": "BENGALI VOWEL SIGN E"
+    },
+    {
+        "hex": "e0a788",
+        "unicode": "U+09C8",
+        "name": "BENGALI VOWEL SIGN AI"
+    },
+    {
+        "hex": "e0a789",
+        "unicode": "U+09C9",
+        "name": ""
+    },
+    {
+        "hex": "e0a78a",
+        "unicode": "U+09CA",
+        "name": ""
+    },
+    {
+        "hex": "e0a78b",
+        "unicode": "U+09CB",
+        "name": "BENGALI VOWEL SIGN O"
+    },
+    {
+        "hex": "e0a78c",
+        "unicode": "U+09CC",
+        "name": "BENGALI VOWEL SIGN AU"
+    },
+    {
+        "hex": "e0a78d",
+        "unicode": "U+09CD",
+        "name": "BENGALI SIGN VIRAMA"
+    },
+    {
+        "hex": "e0a78e",
+        "unicode": "U+09CE",
+        "name": "BENGALI LETTER KHANDA TA"
+    },
+    {
+        "hex": "e0a78f",
+        "unicode": "U+09CF",
+        "name": ""
+    },
+    {
+        "hex": "e0a790",
+        "unicode": "U+09D0",
+        "name": ""
+    },
+    {
+        "hex": "e0a791",
+        "unicode": "U+09D1",
+        "name": ""
+    },
+    {
+        "hex": "e0a792",
+        "unicode": "U+09D2",
+        "name": ""
+    },
+    {
+        "hex": "e0a793",
+        "unicode": "U+09D3",
+        "name": ""
+    },
+    {
+        "hex": "e0a794",
+        "unicode": "U+09D4",
+        "name": ""
+    },
+    {
+        "hex": "e0a795",
+        "unicode": "U+09D5",
+        "name": ""
+    },
+    {
+        "hex": "e0a796",
+        "unicode": "U+09D6",
+        "name": ""
+    },
+    {
+        "hex": "e0a797",
+        "unicode": "U+09D7",
+        "name": "BENGALI AU LENGTH MARK"
+    },
+    {
+        "hex": "e0a798",
+        "unicode": "U+09D8",
+        "name": ""
+    },
+    {
+        "hex": "e0a799",
+        "unicode": "U+09D9",
+        "name": ""
+    },
+    {
+        "hex": "e0a79a",
+        "unicode": "U+09DA",
+        "name": ""
+    },
+    {
+        "hex": "e0a79b",
+        "unicode": "U+09DB",
+        "name": ""
+    },
+    {
+        "hex": "e0a79c",
+        "unicode": "U+09DC",
+        "name": "BENGALI LETTER RRA"
+    },
+    {
+        "hex": "e0a79d",
+        "unicode": "U+09DD",
+        "name": "BENGALI LETTER RHA"
+    },
+    {
+        "hex": "e0a79e",
+        "unicode": "U+09DE",
+        "name": ""
+    },
+    {
+        "hex": "e0a79f",
+        "unicode": "U+09DF",
+        "name": "BENGALI LETTER YYA"
+    },
+    {
+        "hex": "e0a7a0",
+        "unicode": "U+09E0",
+        "name": "BENGALI LETTER VOCALIC RR"
+    },
+    {
+        "hex": "e0a7a1",
+        "unicode": "U+09E1",
+        "name": "BENGALI LETTER VOCALIC LL"
+    },
+    {
+        "hex": "e0a7a2",
+        "unicode": "U+09E2",
+        "name": "BENGALI VOWEL SIGN VOCALIC L"
+    },
+    {
+        "hex": "e0a7a3",
+        "unicode": "U+09E3",
+        "name": "BENGALI VOWEL SIGN VOCALIC LL"
+    },
+    {
+        "hex": "e0a7a4",
+        "unicode": "U+09E4",
+        "name": ""
+    },
+    {
+        "hex": "e0a7a5",
+        "unicode": "U+09E5",
+        "name": ""
+    },
+    {
+        "hex": "e0a7a6",
+        "unicode": "U+09E6",
+        "name": "BENGALI DIGIT ZERO"
+    },
+    {
+        "hex": "e0a7a7",
+        "unicode": "U+09E7",
+        "name": "BENGALI DIGIT ONE"
+    },
+    {
+        "hex": "e0a7a8",
+        "unicode": "U+09E8",
+        "name": "BENGALI DIGIT TWO"
+    },
+    {
+        "hex": "e0a7a9",
+        "unicode": "U+09E9",
+        "name": "BENGALI DIGIT THREE"
+    },
+    {
+        "hex": "e0a7aa",
+        "unicode": "U+09EA",
+        "name": "BENGALI DIGIT FOUR"
+    },
+    {
+        "hex": "e0a7ab",
+        "unicode": "U+09EB",
+        "name": "BENGALI DIGIT FIVE"
+    },
+    {
+        "hex": "e0a7ac",
+        "unicode": "U+09EC",
+        "name": "BENGALI DIGIT SIX"
+    },
+    {
+        "hex": "e0a7ad",
+        "unicode": "U+09ED",
+        "name": "BENGALI DIGIT SEVEN"
+    },
+    {
+        "hex": "e0a7ae",
+        "unicode": "U+09EE",
+        "name": "BENGALI DIGIT EIGHT"
+    },
+    {
+        "hex": "e0a7af",
+        "unicode": "U+09EF",
+        "name": "BENGALI DIGIT NINE"
+    },
+    {
+        "hex": "e0a7b0",
+        "unicode": "U+09F0",
+        "name": "BENGALI LETTER RA WITH MIDDLE DIAGONAL"
+    },
+    {
+        "hex": "e0a7b1",
+        "unicode": "U+09F1",
+        "name": "BENGALI LETTER RA WITH LOWER DIAGONAL"
+    },
+    {
+        "hex": "e0a7b2",
+        "unicode": "U+09F2",
+        "name": "BENGALI RUPEE MARK"
+    },
+    {
+        "hex": "e0a7b3",
+        "unicode": "U+09F3",
+        "name": "BENGALI RUPEE SIGN"
+    },
+    {
+        "hex": "e0a7b4",
+        "unicode": "U+09F4",
+        "name": "BENGALI CURRENCY NUMERATOR ONE"
+    },
+    {
+        "hex": "e0a7b5",
+        "unicode": "U+09F5",
+        "name": "BENGALI CURRENCY NUMERATOR TWO"
+    },
+    {
+        "hex": "e0a7b6",
+        "unicode": "U+09F6",
+        "name": "BENGALI CURRENCY NUMERATOR THREE"
+    },
+    {
+        "hex": "e0a7b7",
+        "unicode": "U+09F7",
+        "name": "BENGALI CURRENCY NUMERATOR FOUR"
+    },
+    {
+        "hex": "e0a7b8",
+        "unicode": "U+09F8",
+        "name": "BENGALI CURRENCY NUMERATOR ONE LESS THAN THE DENOMINATOR"
+    },
+    {
+        "hex": "e0a7b9",
+        "unicode": "U+09F9",
+        "name": "BENGALI CURRENCY DENOMINATOR SIXTEEN"
+    },
+    {
+        "hex": "e0a7ba",
+        "unicode": "U+09FA",
+        "name": "BENGALI ISSHAR"
+    },
+    {
+        "hex": "e0a7bb",
+        "unicode": "U+09FB",
+        "name": "BENGALI GANDA MARK"
+    },
+    {
+        "hex": "e0a7bc",
+        "unicode": "U+09FC",
+        "name": "BENGALI LETTER VEDIC ANUSVARA"
+    },
+    {
+        "hex": "e0a7bd",
+        "unicode": "U+09FD",
+        "name": "BENGALI ABBREVIATION SIGN"
+    },
+    {
+        "hex": "e0a7be",
+        "unicode": "U+09FE",
+        "name": "BENGALI SANDHI MARK"
+    },
+    {
+        "hex": "e0a7bf",
+        "unicode": "U+09FF",
+        "name": ""
+    }
+]

@@ -1,0 +1,1282 @@
+[
+    {
+        "hex": "e0b480",
+        "unicode": "U+0D00",
+        "name": "MALAYALAM SIGN COMBINING ANUSVARA ABOVE"
+    },
+    {
+        "hex": "e0b481",
+        "unicode": "U+0D01",
+        "name": "MALAYALAM SIGN CANDRABINDU"
+    },
+    {
+        "hex": "e0b482",
+        "unicode": "U+0D02",
+        "name": "MALAYALAM SIGN ANUSVARA"
+    },
+    {
+        "hex": "e0b483",
+        "unicode": "U+0D03",
+        "name": "MALAYALAM SIGN VISARGA"
+    },
+    {
+        "hex": "e0b484",
+        "unicode": "U+0D04",
+        "name": "MALAYALAM LETTER VEDIC ANUSVARA"
+    },
+    {
+        "hex": "e0b485",
+        "unicode": "U+0D05",
+        "name": "MALAYALAM LETTER A"
+    },
+    {
+        "hex": "e0b486",
+        "unicode": "U+0D06",
+        "name": "MALAYALAM LETTER AA"
+    },
+    {
+        "hex": "e0b487",
+        "unicode": "U+0D07",
+        "name": "MALAYALAM LETTER I"
+    },
+    {
+        "hex": "e0b488",
+        "unicode": "U+0D08",
+        "name": "MALAYALAM LETTER II"
+    },
+    {
+        "hex": "e0b489",
+        "unicode": "U+0D09",
+        "name": "MALAYALAM LETTER U"
+    },
+    {
+        "hex": "e0b48a",
+        "unicode": "U+0D0A",
+        "name": "MALAYALAM LETTER UU"
+    },
+    {
+        "hex": "e0b48b",
+        "unicode": "U+0D0B",
+        "name": "MALAYALAM LETTER VOCALIC R"
+    },
+    {
+        "hex": "e0b48c",
+        "unicode": "U+0D0C",
+        "name": "MALAYALAM LETTER VOCALIC L"
+    },
+    {
+        "hex": "e0b48d",
+        "unicode": "U+0D0D",
+        "name": ""
+    },
+    {
+        "hex": "e0b48e",
+        "unicode": "U+0D0E",
+        "name": "MALAYALAM LETTER E"
+    },
+    {
+        "hex": "e0b48f",
+        "unicode": "U+0D0F",
+        "name": "MALAYALAM LETTER EE"
+    },
+    {
+        "hex": "e0b490",
+        "unicode": "U+0D10",
+        "name": "MALAYALAM LETTER AI"
+    },
+    {
+        "hex": "e0b491",
+        "unicode": "U+0D11",
+        "name": ""
+    },
+    {
+        "hex": "e0b492",
+        "unicode": "U+0D12",
+        "name": "MALAYALAM LETTER O"
+    },
+    {
+        "hex": "e0b493",
+        "unicode": "U+0D13",
+        "name": "MALAYALAM LETTER OO"
+    },
+    {
+        "hex": "e0b494",
+        "unicode": "U+0D14",
+        "name": "MALAYALAM LETTER AU"
+    },
+    {
+        "hex": "e0b495",
+        "unicode": "U+0D15",
+        "name": "MALAYALAM LETTER KA"
+    },
+    {
+        "hex": "e0b496",
+        "unicode": "U+0D16",
+        "name": "MALAYALAM LETTER KHA"
+    },
+    {
+        "hex": "e0b497",
+        "unicode": "U+0D17",
+        "name": "MALAYALAM LETTER GA"
+    },
+    {
+        "hex": "e0b498",
+        "unicode": "U+0D18",
+        "name": "MALAYALAM LETTER GHA"
+    },
+    {
+        "hex": "e0b499",
+        "unicode": "U+0D19",
+        "name": "MALAYALAM LETTER NGA"
+    },
+    {
+        "hex": "e0b49a",
+        "unicode": "U+0D1A",
+        "name": "MALAYALAM LETTER CA"
+    },
+    {
+        "hex": "e0b49b",
+        "unicode": "U+0D1B",
+        "name": "MALAYALAM LETTER CHA"
+    },
+    {
+        "hex": "e0b49c",
+        "unicode": "U+0D1C",
+        "name": "MALAYALAM LETTER JA"
+    },
+    {
+        "hex": "e0b49d",
+        "unicode": "U+0D1D",
+        "name": "MALAYALAM LETTER JHA"
+    },
+    {
+        "hex": "e0b49e",
+        "unicode": "U+0D1E",
+        "name": "MALAYALAM LETTER NYA"
+    },
+    {
+        "hex": "e0b49f",
+        "unicode": "U+0D1F",
+        "name": "MALAYALAM LETTER TTA"
+    },
+    {
+        "hex": "e0b4a0",
+        "unicode": "U+0D20",
+        "name": "MALAYALAM LETTER TTHA"
+    },
+    {
+        "hex": "e0b4a1",
+        "unicode": "U+0D21",
+        "name": "MALAYALAM LETTER DDA"
+    },
+    {
+        "hex": "e0b4a2",
+        "unicode": "U+0D22",
+        "name": "MALAYALAM LETTER DDHA"
+    },
+    {
+        "hex": "e0b4a3",
+        "unicode": "U+0D23",
+        "name": "MALAYALAM LETTER NNA"
+    },
+    {
+        "hex": "e0b4a4",
+        "unicode": "U+0D24",
+        "name": "MALAYALAM LETTER TA"
+    },
+    {
+        "hex": "e0b4a5",
+        "unicode": "U+0D25",
+        "name": "MALAYALAM LETTER THA"
+    },
+    {
+        "hex": "e0b4a6",
+        "unicode": "U+0D26",
+        "name": "MALAYALAM LETTER DA"
+    },
+    {
+        "hex": "e0b4a7",
+        "unicode": "U+0D27",
+        "name": "MALAYALAM LETTER DHA"
+    },
+    {
+        "hex": "e0b4a8",
+        "unicode": "U+0D28",
+        "name": "MALAYALAM LETTER NA"
+    },
+    {
+        "hex": "e0b4a9",
+        "unicode": "U+0D29",
+        "name": "MALAYALAM LETTER NNNA"
+    },
+    {
+        "hex": "e0b4aa",
+        "unicode": "U+0D2A",
+        "name": "MALAYALAM LETTER PA"
+    },
+    {
+        "hex": "e0b4ab",
+        "unicode": "U+0D2B",
+        "name": "MALAYALAM LETTER PHA"
+    },
+    {
+        "hex": "e0b4ac",
+        "unicode": "U+0D2C",
+        "name": "MALAYALAM LETTER BA"
+    },
+    {
+        "hex": "e0b4ad",
+        "unicode": "U+0D2D",
+        "name": "MALAYALAM LETTER BHA"
+    },
+    {
+        "hex": "e0b4ae",
+        "unicode": "U+0D2E",
+        "name": "MALAYALAM LETTER MA"
+    },
+    {
+        "hex": "e0b4af",
+        "unicode": "U+0D2F",
+        "name": "MALAYALAM LETTER YA"
+    },
+    {
+        "hex": "e0b4b0",
+        "unicode": "U+0D30",
+        "name": "MALAYALAM LETTER RA"
+    },
+    {
+        "hex": "e0b4b1",
+        "unicode": "U+0D31",
+        "name": "MALAYALAM LETTER RRA"
+    },
+    {
+        "hex": "e0b4b2",
+        "unicode": "U+0D32",
+        "name": "MALAYALAM LETTER LA"
+    },
+    {
+        "hex": "e0b4b3",
+        "unicode": "U+0D33",
+        "name": "MALAYALAM LETTER LLA"
+    },
+    {
+        "hex": "e0b4b4",
+        "unicode": "U+0D34",
+        "name": "MALAYALAM LETTER LLLA"
+    },
+    {
+        "hex": "e0b4b5",
+        "unicode": "U+0D35",
+        "name": "MALAYALAM LETTER VA"
+    },
+    {
+        "hex": "e0b4b6",
+        "unicode": "U+0D36",
+        "name": "MALAYALAM LETTER SHA"
+    },
+    {
+        "hex": "e0b4b7",
+        "unicode": "U+0D37",
+        "name": "MALAYALAM LETTER SSA"
+    },
+    {
+        "hex": "e0b4b8",
+        "unicode": "U+0D38",
+        "name": "MALAYALAM LETTER SA"
+    },
+    {
+        "hex": "e0b4b9",
+        "unicode": "U+0D39",
+        "name": "MALAYALAM LETTER HA"
+    },
+    {
+        "hex": "e0b4ba",
+        "unicode": "U+0D3A",
+        "name": "MALAYALAM LETTER TTTA"
+    },
+    {
+        "hex": "e0b4bb",
+        "unicode": "U+0D3B",
+        "name": "MALAYALAM SIGN VERTICAL BAR VIRAMA"
+    },
+    {
+        "hex": "e0b4bc",
+        "unicode": "U+0D3C",
+        "name": "MALAYALAM SIGN CIRCULAR VIRAMA"
+    },
+    {
+        "hex": "e0b4bd",
+        "unicode": "U+0D3D",
+        "name": "MALAYALAM SIGN AVAGRAHA"
+    },
+    {
+        "hex": "e0b4be",
+        "unicode": "U+0D3E",
+        "name": "MALAYALAM VOWEL SIGN AA"
+    },
+    {
+        "hex": "e0b4bf",
+        "unicode": "U+0D3F",
+        "name": "MALAYALAM VOWEL SIGN I"
+    },
+    {
+        "hex": "e0b580",
+        "unicode": "U+0D40",
+        "name": "MALAYALAM VOWEL SIGN II"
+    },
+    {
+        "hex": "e0b581",
+        "unicode": "U+0D41",
+        "name": "MALAYALAM VOWEL SIGN U"
+    },
+    {
+        "hex": "e0b582",
+        "unicode": "U+0D42",
+        "name": "MALAYALAM VOWEL SIGN UU"
+    },
+    {
+        "hex": "e0b583",
+        "unicode": "U+0D43",
+        "name": "MALAYALAM VOWEL SIGN VOCALIC R"
+    },
+    {
+        "hex": "e0b584",
+        "unicode": "U+0D44",
+        "name": "MALAYALAM VOWEL SIGN VOCALIC RR"
+    },
+    {
+        "hex": "e0b585",
+        "unicode": "U+0D45",
+        "name": ""
+    },
+    {
+        "hex": "e0b586",
+        "unicode": "U+0D46",
+        "name": "MALAYALAM VOWEL SIGN E"
+    },
+    {
+        "hex": "e0b587",
+        "unicode": "U+0D47",
+        "name": "MALAYALAM VOWEL SIGN EE"
+    },
+    {
+        "hex": "e0b588",
+        "unicode": "U+0D48",
+        "name": "MALAYALAM VOWEL SIGN AI"
+    },
+    {
+        "hex": "e0b589",
+        "unicode": "U+0D49",
+        "name": ""
+    },
+    {
+        "hex": "e0b58a",
+        "unicode": "U+0D4A",
+        "name": "MALAYALAM VOWEL SIGN O"
+    },
+    {
+        "hex": "e0b58b",
+        "unicode": "U+0D4B",
+        "name": "MALAYALAM VOWEL SIGN OO"
+    },
+    {
+        "hex": "e0b58c",
+        "unicode": "U+0D4C",
+        "name": "MALAYALAM VOWEL SIGN AU"
+    },
+    {
+        "hex": "e0b58d",
+        "unicode": "U+0D4D",
+        "name": "MALAYALAM SIGN VIRAMA"
+    },
+    {
+        "hex": "e0b58e",
+        "unicode": "U+0D4E",
+        "name": "MALAYALAM LETTER DOT REPH"
+    },
+    {
+        "hex": "e0b58f",
+        "unicode": "U+0D4F",
+        "name": "MALAYALAM SIGN PARA"
+    },
+    {
+        "hex": "e0b590",
+        "unicode": "U+0D50",
+        "name": ""
+    },
+    {
+        "hex": "e0b591",
+        "unicode": "U+0D51",
+        "name": ""
+    },
+    {
+        "hex": "e0b592",
+        "unicode": "U+0D52",
+        "name": ""
+    },
+    {
+        "hex": "e0b593",
+        "unicode": "U+0D53",
+        "name": ""
+    },
+    {
+        "hex": "e0b594",
+        "unicode": "U+0D54",
+        "name": "MALAYALAM LETTER CHILLU M"
+    },
+    {
+        "hex": "e0b595",
+        "unicode": "U+0D55",
+        "name": "MALAYALAM LETTER CHILLU Y"
+    },
+    {
+        "hex": "e0b596",
+        "unicode": "U+0D56",
+        "name": "MALAYALAM LETTER CHILLU LLL"
+    },
+    {
+        "hex": "e0b597",
+        "unicode": "U+0D57",
+        "name": "MALAYALAM AU LENGTH MARK"
+    },
+    {
+        "hex": "e0b598",
+        "unicode": "U+0D58",
+        "name": "MALAYALAM FRACTION ONE ONE-HUNDRED-AND-SIXTIETH"
+    },
+    {
+        "hex": "e0b599",
+        "unicode": "U+0D59",
+        "name": "MALAYALAM FRACTION ONE FORTIETH"
+    },
+    {
+        "hex": "e0b59a",
+        "unicode": "U+0D5A",
+        "name": "MALAYALAM FRACTION THREE EIGHTIETHS"
+    },
+    {
+        "hex": "e0b59b",
+        "unicode": "U+0D5B",
+        "name": "MALAYALAM FRACTION ONE TWENTIETH"
+    },
+    {
+        "hex": "e0b59c",
+        "unicode": "U+0D5C",
+        "name": "MALAYALAM FRACTION ONE TENTH"
+    },
+    {
+        "hex": "e0b59d",
+        "unicode": "U+0D5D",
+        "name": "MALAYALAM FRACTION THREE TWENTIETHS"
+    },
+    {
+        "hex": "e0b59e",
+        "unicode": "U+0D5E",
+        "name": "MALAYALAM FRACTION ONE FIFTH"
+    },
+    {
+        "hex": "e0b59f",
+        "unicode": "U+0D5F",
+        "name": "MALAYALAM LETTER ARCHAIC II"
+    },
+    {
+        "hex": "e0b5a0",
+        "unicode": "U+0D60",
+        "name": "MALAYALAM LETTER VOCALIC RR"
+    },
+    {
+        "hex": "e0b5a1",
+        "unicode": "U+0D61",
+        "name": "MALAYALAM LETTER VOCALIC LL"
+    },
+    {
+        "hex": "e0b5a2",
+        "unicode": "U+0D62",
+        "name": "MALAYALAM VOWEL SIGN VOCALIC L"
+    },
+    {
+        "hex": "e0b5a3",
+        "unicode": "U+0D63",
+        "name": "MALAYALAM VOWEL SIGN VOCALIC LL"
+    },
+    {
+        "hex": "e0b5a4",
+        "unicode": "U+0D64",
+        "name": ""
+    },
+    {
+        "hex": "e0b5a5",
+        "unicode": "U+0D65",
+        "name": ""
+    },
+    {
+        "hex": "e0b5a6",
+        "unicode": "U+0D66",
+        "name": "MALAYALAM DIGIT ZERO"
+    },
+    {
+        "hex": "e0b5a7",
+        "unicode": "U+0D67",
+        "name": "MALAYALAM DIGIT ONE"
+    },
+    {
+        "hex": "e0b5a8",
+        "unicode": "U+0D68",
+        "name": "MALAYALAM DIGIT TWO"
+    },
+    {
+        "hex": "e0b5a9",
+        "unicode": "U+0D69",
+        "name": "MALAYALAM DIGIT THREE"
+    },
+    {
+        "hex": "e0b5aa",
+        "unicode": "U+0D6A",
+        "name": "MALAYALAM DIGIT FOUR"
+    },
+    {
+        "hex": "e0b5ab",
+        "unicode": "U+0D6B",
+        "name": "MALAYALAM DIGIT FIVE"
+    },
+    {
+        "hex": "e0b5ac",
+        "unicode": "U+0D6C",
+        "name": "MALAYALAM DIGIT SIX"
+    },
+    {
+        "hex": "e0b5ad",
+        "unicode": "U+0D6D",
+        "name": "MALAYALAM DIGIT SEVEN"
+    },
+    {
+        "hex": "e0b5ae",
+        "unicode": "U+0D6E",
+        "name": "MALAYALAM DIGIT EIGHT"
+    },
+    {
+        "hex": "e0b5af",
+        "unicode": "U+0D6F",
+        "name": "MALAYALAM DIGIT NINE"
+    },
+    {
+        "hex": "e0b5b0",
+        "unicode": "U+0D70",
+        "name": "MALAYALAM NUMBER TEN"
+    },
+    {
+        "hex": "e0b5b1",
+        "unicode": "U+0D71",
+        "name": "MALAYALAM NUMBER ONE HUNDRED"
+    },
+    {
+        "hex": "e0b5b2",
+        "unicode": "U+0D72",
+        "name": "MALAYALAM NUMBER ONE THOUSAND"
+    },
+    {
+        "hex": "e0b5b3",
+        "unicode": "U+0D73",
+        "name": "MALAYALAM FRACTION ONE QUARTER"
+    },
+    {
+        "hex": "e0b5b4",
+        "unicode": "U+0D74",
+        "name": "MALAYALAM FRACTION ONE HALF"
+    },
+    {
+        "hex": "e0b5b5",
+        "unicode": "U+0D75",
+        "name": "MALAYALAM FRACTION THREE QUARTERS"
+    },
+    {
+        "hex": "e0b5b6",
+        "unicode": "U+0D76",
+        "name": "MALAYALAM FRACTION ONE SIXTEENTH"
+    },
+    {
+        "hex": "e0b5b7",
+        "unicode": "U+0D77",
+        "name": "MALAYALAM FRACTION ONE EIGHTH"
+    },
+    {
+        "hex": "e0b5b8",
+        "unicode": "U+0D78",
+        "name": "MALAYALAM FRACTION THREE SIXTEENTHS"
+    },
+    {
+        "hex": "e0b5b9",
+        "unicode": "U+0D79",
+        "name": "MALAYALAM DATE MARK"
+    },
+    {
+        "hex": "e0b5ba",
+        "unicode": "U+0D7A",
+        "name": "MALAYALAM LETTER CHILLU NN"
+    },
+    {
+        "hex": "e0b5bb",
+        "unicode": "U+0D7B",
+        "name": "MALAYALAM LETTER CHILLU N"
+    },
+    {
+        "hex": "e0b5bc",
+        "unicode": "U+0D7C",
+        "name": "MALAYALAM LETTER CHILLU RR"
+    },
+    {
+        "hex": "e0b5bd",
+        "unicode": "U+0D7D",
+        "name": "MALAYALAM LETTER CHILLU L"
+    },
+    {
+        "hex": "e0b5be",
+        "unicode": "U+0D7E",
+        "name": "MALAYALAM LETTER CHILLU LL"
+    },
+    {
+        "hex": "e0b5bf",
+        "unicode": "U+0D7F",
+        "name": "MALAYALAM LETTER CHILLU K"
+    },
+    {
+        "hex": "e0b680",
+        "unicode": "U+0D80",
+        "name": ""
+    },
+    {
+        "hex": "e0b681",
+        "unicode": "U+0D81",
+        "name": "SINHALA SIGN CANDRABINDU"
+    },
+    {
+        "hex": "e0b682",
+        "unicode": "U+0D82",
+        "name": "SINHALA SIGN ANUSVARAYA"
+    },
+    {
+        "hex": "e0b683",
+        "unicode": "U+0D83",
+        "name": "SINHALA SIGN VISARGAYA"
+    },
+    {
+        "hex": "e0b684",
+        "unicode": "U+0D84",
+        "name": ""
+    },
+    {
+        "hex": "e0b685",
+        "unicode": "U+0D85",
+        "name": "SINHALA LETTER AYANNA"
+    },
+    {
+        "hex": "e0b686",
+        "unicode": "U+0D86",
+        "name": "SINHALA LETTER AAYANNA"
+    },
+    {
+        "hex": "e0b687",
+        "unicode": "U+0D87",
+        "name": "SINHALA LETTER AEYANNA"
+    },
+    {
+        "hex": "e0b688",
+        "unicode": "U+0D88",
+        "name": "SINHALA LETTER AEEYANNA"
+    },
+    {
+        "hex": "e0b689",
+        "unicode": "U+0D89",
+        "name": "SINHALA LETTER IYANNA"
+    },
+    {
+        "hex": "e0b68a",
+        "unicode": "U+0D8A",
+        "name": "SINHALA LETTER IIYANNA"
+    },
+    {
+        "hex": "e0b68b",
+        "unicode": "U+0D8B",
+        "name": "SINHALA LETTER UYANNA"
+    },
+    {
+        "hex": "e0b68c",
+        "unicode": "U+0D8C",
+        "name": "SINHALA LETTER UUYANNA"
+    },
+    {
+        "hex": "e0b68d",
+        "unicode": "U+0D8D",
+        "name": "SINHALA LETTER IRUYANNA"
+    },
+    {
+        "hex": "e0b68e",
+        "unicode": "U+0D8E",
+        "name": "SINHALA LETTER IRUUYANNA"
+    },
+    {
+        "hex": "e0b68f",
+        "unicode": "U+0D8F",
+        "name": "SINHALA LETTER ILUYANNA"
+    },
+    {
+        "hex": "e0b690",
+        "unicode": "U+0D90",
+        "name": "SINHALA LETTER ILUUYANNA"
+    },
+    {
+        "hex": "e0b691",
+        "unicode": "U+0D91",
+        "name": "SINHALA LETTER EYANNA"
+    },
+    {
+        "hex": "e0b692",
+        "unicode": "U+0D92",
+        "name": "SINHALA LETTER EEYANNA"
+    },
+    {
+        "hex": "e0b693",
+        "unicode": "U+0D93",
+        "name": "SINHALA LETTER AIYANNA"
+    },
+    {
+        "hex": "e0b694",
+        "unicode": "U+0D94",
+        "name": "SINHALA LETTER OYANNA"
+    },
+    {
+        "hex": "e0b695",
+        "unicode": "U+0D95",
+        "name": "SINHALA LETTER OOYANNA"
+    },
+    {
+        "hex": "e0b696",
+        "unicode": "U+0D96",
+        "name": "SINHALA LETTER AUYANNA"
+    },
+    {
+        "hex": "e0b697",
+        "unicode": "U+0D97",
+        "name": ""
+    },
+    {
+        "hex": "e0b698",
+        "unicode": "U+0D98",
+        "name": ""
+    },
+    {
+        "hex": "e0b699",
+        "unicode": "U+0D99",
+        "name": ""
+    },
+    {
+        "hex": "e0b69a",
+        "unicode": "U+0D9A",
+        "name": "SINHALA LETTER ALPAPRAANA KAYANNA"
+    },
+    {
+        "hex": "e0b69b",
+        "unicode": "U+0D9B",
+        "name": "SINHALA LETTER MAHAAPRAANA KAYANNA"
+    },
+    {
+        "hex": "e0b69c",
+        "unicode": "U+0D9C",
+        "name": "SINHALA LETTER ALPAPRAANA GAYANNA"
+    },
+    {
+        "hex": "e0b69d",
+        "unicode": "U+0D9D",
+        "name": "SINHALA LETTER MAHAAPRAANA GAYANNA"
+    },
+    {
+        "hex": "e0b69e",
+        "unicode": "U+0D9E",
+        "name": "SINHALA LETTER KANTAJA NAASIKYAYA"
+    },
+    {
+        "hex": "e0b69f",
+        "unicode": "U+0D9F",
+        "name": "SINHALA LETTER SANYAKA GAYANNA"
+    },
+    {
+        "hex": "e0b6a0",
+        "unicode": "U+0DA0",
+        "name": "SINHALA LETTER ALPAPRAANA CAYANNA"
+    },
+    {
+        "hex": "e0b6a1",
+        "unicode": "U+0DA1",
+        "name": "SINHALA LETTER MAHAAPRAANA CAYANNA"
+    },
+    {
+        "hex": "e0b6a2",
+        "unicode": "U+0DA2",
+        "name": "SINHALA LETTER ALPAPRAANA JAYANNA"
+    },
+    {
+        "hex": "e0b6a3",
+        "unicode": "U+0DA3",
+        "name": "SINHALA LETTER MAHAAPRAANA JAYANNA"
+    },
+    {
+        "hex": "e0b6a4",
+        "unicode": "U+0DA4",
+        "name": "SINHALA LETTER TAALUJA NAASIKYAYA"
+    },
+    {
+        "hex": "e0b6a5",
+        "unicode": "U+0DA5",
+        "name": "SINHALA LETTER TAALUJA SANYOOGA NAAKSIKYAYA"
+    },
+    {
+        "hex": "e0b6a6",
+        "unicode": "U+0DA6",
+        "name": "SINHALA LETTER SANYAKA JAYANNA"
+    },
+    {
+        "hex": "e0b6a7",
+        "unicode": "U+0DA7",
+        "name": "SINHALA LETTER ALPAPRAANA TTAYANNA"
+    },
+    {
+        "hex": "e0b6a8",
+        "unicode": "U+0DA8",
+        "name": "SINHALA LETTER MAHAAPRAANA TTAYANNA"
+    },
+    {
+        "hex": "e0b6a9",
+        "unicode": "U+0DA9",
+        "name": "SINHALA LETTER ALPAPRAANA DDAYANNA"
+    },
+    {
+        "hex": "e0b6aa",
+        "unicode": "U+0DAA",
+        "name": "SINHALA LETTER MAHAAPRAANA DDAYANNA"
+    },
+    {
+        "hex": "e0b6ab",
+        "unicode": "U+0DAB",
+        "name": "SINHALA LETTER MUURDHAJA NAYANNA"
+    },
+    {
+        "hex": "e0b6ac",
+        "unicode": "U+0DAC",
+        "name": "SINHALA LETTER SANYAKA DDAYANNA"
+    },
+    {
+        "hex": "e0b6ad",
+        "unicode": "U+0DAD",
+        "name": "SINHALA LETTER ALPAPRAANA TAYANNA"
+    },
+    {
+        "hex": "e0b6ae",
+        "unicode": "U+0DAE",
+        "name": "SINHALA LETTER MAHAAPRAANA TAYANNA"
+    },
+    {
+        "hex": "e0b6af",
+        "unicode": "U+0DAF",
+        "name": "SINHALA LETTER ALPAPRAANA DAYANNA"
+    },
+    {
+        "hex": "e0b6b0",
+        "unicode": "U+0DB0",
+        "name": "SINHALA LETTER MAHAAPRAANA DAYANNA"
+    },
+    {
+        "hex": "e0b6b1",
+        "unicode": "U+0DB1",
+        "name": "SINHALA LETTER DANTAJA NAYANNA"
+    },
+    {
+        "hex": "e0b6b2",
+        "unicode": "U+0DB2",
+        "name": ""
+    },
+    {
+        "hex": "e0b6b3",
+        "unicode": "U+0DB3",
+        "name": "SINHALA LETTER SANYAKA DAYANNA"
+    },
+    {
+        "hex": "e0b6b4",
+        "unicode": "U+0DB4",
+        "name": "SINHALA LETTER ALPAPRAANA PAYANNA"
+    },
+    {
+        "hex": "e0b6b5",
+        "unicode": "U+0DB5",
+        "name": "SINHALA LETTER MAHAAPRAANA PAYANNA"
+    },
+    {
+        "hex": "e0b6b6",
+        "unicode": "U+0DB6",
+        "name": "SINHALA LETTER ALPAPRAANA BAYANNA"
+    },
+    {
+        "hex": "e0b6b7",
+        "unicode": "U+0DB7",
+        "name": "SINHALA LETTER MAHAAPRAANA BAYANNA"
+    },
+    {
+        "hex": "e0b6b8",
+        "unicode": "U+0DB8",
+        "name": "SINHALA LETTER MAYANNA"
+    },
+    {
+        "hex": "e0b6b9",
+        "unicode": "U+0DB9",
+        "name": "SINHALA LETTER AMBA BAYANNA"
+    },
+    {
+        "hex": "e0b6ba",
+        "unicode": "U+0DBA",
+        "name": "SINHALA LETTER YAYANNA"
+    },
+    {
+        "hex": "e0b6bb",
+        "unicode": "U+0DBB",
+        "name": "SINHALA LETTER RAYANNA"
+    },
+    {
+        "hex": "e0b6bc",
+        "unicode": "U+0DBC",
+        "name": ""
+    },
+    {
+        "hex": "e0b6bd",
+        "unicode": "U+0DBD",
+        "name": "SINHALA LETTER DANTAJA LAYANNA"
+    },
+    {
+        "hex": "e0b6be",
+        "unicode": "U+0DBE",
+        "name": ""
+    },
+    {
+        "hex": "e0b6bf",
+        "unicode": "U+0DBF",
+        "name": ""
+    },
+    {
+        "hex": "e0b780",
+        "unicode": "U+0DC0",
+        "name": "SINHALA LETTER VAYANNA"
+    },
+    {
+        "hex": "e0b781",
+        "unicode": "U+0DC1",
+        "name": "SINHALA LETTER TAALUJA SAYANNA"
+    },
+    {
+        "hex": "e0b782",
+        "unicode": "U+0DC2",
+        "name": "SINHALA LETTER MUURDHAJA SAYANNA"
+    },
+    {
+        "hex": "e0b783",
+        "unicode": "U+0DC3",
+        "name": "SINHALA LETTER DANTAJA SAYANNA"
+    },
+    {
+        "hex": "e0b784",
+        "unicode": "U+0DC4",
+        "name": "SINHALA LETTER HAYANNA"
+    },
+    {
+        "hex": "e0b785",
+        "unicode": "U+0DC5",
+        "name": "SINHALA LETTER MUURDHAJA LAYANNA"
+    },
+    {
+        "hex": "e0b786",
+        "unicode": "U+0DC6",
+        "name": "SINHALA LETTER FAYANNA"
+    },
+    {
+        "hex": "e0b787",
+        "unicode": "U+0DC7",
+        "name": ""
+    },
+    {
+        "hex": "e0b788",
+        "unicode": "U+0DC8",
+        "name": ""
+    },
+    {
+        "hex": "e0b789",
+        "unicode": "U+0DC9",
+        "name": ""
+    },
+    {
+        "hex": "e0b78a",
+        "unicode": "U+0DCA",
+        "name": "SINHALA SIGN AL-LAKUNA"
+    },
+    {
+        "hex": "e0b78b",
+        "unicode": "U+0DCB",
+        "name": ""
+    },
+    {
+        "hex": "e0b78c",
+        "unicode": "U+0DCC",
+        "name": ""
+    },
+    {
+        "hex": "e0b78d",
+        "unicode": "U+0DCD",
+        "name": ""
+    },
+    {
+        "hex": "e0b78e",
+        "unicode": "U+0DCE",
+        "name": ""
+    },
+    {
+        "hex": "e0b78f",
+        "unicode": "U+0DCF",
+        "name": "SINHALA VOWEL SIGN AELA-PILLA"
+    },
+    {
+        "hex": "e0b790",
+        "unicode": "U+0DD0",
+        "name": "SINHALA VOWEL SIGN KETTI AEDA-PILLA"
+    },
+    {
+        "hex": "e0b791",
+        "unicode": "U+0DD1",
+        "name": "SINHALA VOWEL SIGN DIGA AEDA-PILLA"
+    },
+    {
+        "hex": "e0b792",
+        "unicode": "U+0DD2",
+        "name": "SINHALA VOWEL SIGN KETTI IS-PILLA"
+    },
+    {
+        "hex": "e0b793",
+        "unicode": "U+0DD3",
+        "name": "SINHALA VOWEL SIGN DIGA IS-PILLA"
+    },
+    {
+        "hex": "e0b794",
+        "unicode": "U+0DD4",
+        "name": "SINHALA VOWEL SIGN KETTI PAA-PILLA"
+    },
+    {
+        "hex": "e0b795",
+        "unicode": "U+0DD5",
+        "name": ""
+    },
+    {
+        "hex": "e0b796",
+        "unicode": "U+0DD6",
+        "name": "SINHALA VOWEL SIGN DIGA PAA-PILLA"
+    },
+    {
+        "hex": "e0b797",
+        "unicode": "U+0DD7",
+        "name": ""
+    },
+    {
+        "hex": "e0b798",
+        "unicode": "U+0DD8",
+        "name": "SINHALA VOWEL SIGN GAETTA-PILLA"
+    },
+    {
+        "hex": "e0b799",
+        "unicode": "U+0DD9",
+        "name": "SINHALA VOWEL SIGN KOMBUVA"
+    },
+    {
+        "hex": "e0b79a",
+        "unicode": "U+0DDA",
+        "name": "SINHALA VOWEL SIGN DIGA KOMBUVA"
+    },
+    {
+        "hex": "e0b79b",
+        "unicode": "U+0DDB",
+        "name": "SINHALA VOWEL SIGN KOMBU DEKA"
+    },
+    {
+        "hex": "e0b79c",
+        "unicode": "U+0DDC",
+        "name": "SINHALA VOWEL SIGN KOMBUVA HAA AELA-PILLA"
+    },
+    {
+        "hex": "e0b79d",
+        "unicode": "U+0DDD",
+        "name": "SINHALA VOWEL SIGN KOMBUVA HAA DIGA AELA-PILLA"
+    },
+    {
+        "hex": "e0b79e",
+        "unicode": "U+0DDE",
+        "name": "SINHALA VOWEL SIGN KOMBUVA HAA GAYANUKITTA"
+    },
+    {
+        "hex": "e0b79f",
+        "unicode": "U+0DDF",
+        "name": "SINHALA VOWEL SIGN GAYANUKITTA"
+    },
+    {
+        "hex": "e0b7a0",
+        "unicode": "U+0DE0",
+        "name": ""
+    },
+    {
+        "hex": "e0b7a1",
+        "unicode": "U+0DE1",
+        "name": ""
+    },
+    {
+        "hex": "e0b7a2",
+        "unicode": "U+0DE2",
+        "name": ""
+    },
+    {
+        "hex": "e0b7a3",
+        "unicode": "U+0DE3",
+        "name": ""
+    },
+    {
+        "hex": "e0b7a4",
+        "unicode": "U+0DE4",
+        "name": ""
+    },
+    {
+        "hex": "e0b7a5",
+        "unicode": "U+0DE5",
+        "name": ""
+    },
+    {
+        "hex": "e0b7a6",
+        "unicode": "U+0DE6",
+        "name": "SINHALA LITH DIGIT ZERO"
+    },
+    {
+        "hex": "e0b7a7",
+        "unicode": "U+0DE7",
+        "name": "SINHALA LITH DIGIT ONE"
+    },
+    {
+        "hex": "e0b7a8",
+        "unicode": "U+0DE8",
+        "name": "SINHALA LITH DIGIT TWO"
+    },
+    {
+        "hex": "e0b7a9",
+        "unicode": "U+0DE9",
+        "name": "SINHALA LITH DIGIT THREE"
+    },
+    {
+        "hex": "e0b7aa",
+        "unicode": "U+0DEA",
+        "name": "SINHALA LITH DIGIT FOUR"
+    },
+    {
+        "hex": "e0b7ab",
+        "unicode": "U+0DEB",
+        "name": "SINHALA LITH DIGIT FIVE"
+    },
+    {
+        "hex": "e0b7ac",
+        "unicode": "U+0DEC",
+        "name": "SINHALA LITH DIGIT SIX"
+    },
+    {
+        "hex": "e0b7ad",
+        "unicode": "U+0DED",
+        "name": "SINHALA LITH DIGIT SEVEN"
+    },
+    {
+        "hex": "e0b7ae",
+        "unicode": "U+0DEE",
+        "name": "SINHALA LITH DIGIT EIGHT"
+    },
+    {
+        "hex": "e0b7af",
+        "unicode": "U+0DEF",
+        "name": "SINHALA LITH DIGIT NINE"
+    },
+    {
+        "hex": "e0b7b0",
+        "unicode": "U+0DF0",
+        "name": ""
+    },
+    {
+        "hex": "e0b7b1",
+        "unicode": "U+0DF1",
+        "name": ""
+    },
+    {
+        "hex": "e0b7b2",
+        "unicode": "U+0DF2",
+        "name": "SINHALA VOWEL SIGN DIGA GAETTA-PILLA"
+    },
+    {
+        "hex": "e0b7b3",
+        "unicode": "U+0DF3",
+        "name": "SINHALA VOWEL SIGN DIGA GAYANUKITTA"
+    },
+    {
+        "hex": "e0b7b4",
+        "unicode": "U+0DF4",
+        "name": "SINHALA PUNCTUATION KUNDDALIYA"
+    },
+    {
+        "hex": "e0b7b5",
+        "unicode": "U+0DF5",
+        "name": ""
+    },
+    {
+        "hex": "e0b7b6",
+        "unicode": "U+0DF6",
+        "name": ""
+    },
+    {
+        "hex": "e0b7b7",
+        "unicode": "U+0DF7",
+        "name": ""
+    },
+    {
+        "hex": "e0b7b8",
+        "unicode": "U+0DF8",
+        "name": ""
+    },
+    {
+        "hex": "e0b7b9",
+        "unicode": "U+0DF9",
+        "name": ""
+    },
+    {
+        "hex": "e0b7ba",
+        "unicode": "U+0DFA",
+        "name": ""
+    },
+    {
+        "hex": "e0b7bb",
+        "unicode": "U+0DFB",
+        "name": ""
+    },
+    {
+        "hex": "e0b7bc",
+        "unicode": "U+0DFC",
+        "name": ""
+    },
+    {
+        "hex": "e0b7bd",
+        "unicode": "U+0DFD",
+        "name": ""
+    },
+    {
+        "hex": "e0b7be",
+        "unicode": "U+0DFE",
+        "name": ""
+    },
+    {
+        "hex": "e0b7bf",
+        "unicode": "U+0DFF",
+        "name": ""
+    }
+]

@@ -1,0 +1,1282 @@
+[
+    {
+        "hex": "e19d80",
+        "unicode": "U+1740",
+        "name": "BUHID LETTER A"
+    },
+    {
+        "hex": "e19d81",
+        "unicode": "U+1741",
+        "name": "BUHID LETTER I"
+    },
+    {
+        "hex": "e19d82",
+        "unicode": "U+1742",
+        "name": "BUHID LETTER U"
+    },
+    {
+        "hex": "e19d83",
+        "unicode": "U+1743",
+        "name": "BUHID LETTER KA"
+    },
+    {
+        "hex": "e19d84",
+        "unicode": "U+1744",
+        "name": "BUHID LETTER GA"
+    },
+    {
+        "hex": "e19d85",
+        "unicode": "U+1745",
+        "name": "BUHID LETTER NGA"
+    },
+    {
+        "hex": "e19d86",
+        "unicode": "U+1746",
+        "name": "BUHID LETTER TA"
+    },
+    {
+        "hex": "e19d87",
+        "unicode": "U+1747",
+        "name": "BUHID LETTER DA"
+    },
+    {
+        "hex": "e19d88",
+        "unicode": "U+1748",
+        "name": "BUHID LETTER NA"
+    },
+    {
+        "hex": "e19d89",
+        "unicode": "U+1749",
+        "name": "BUHID LETTER PA"
+    },
+    {
+        "hex": "e19d8a",
+        "unicode": "U+174A",
+        "name": "BUHID LETTER BA"
+    },
+    {
+        "hex": "e19d8b",
+        "unicode": "U+174B",
+        "name": "BUHID LETTER MA"
+    },
+    {
+        "hex": "e19d8c",
+        "unicode": "U+174C",
+        "name": "BUHID LETTER YA"
+    },
+    {
+        "hex": "e19d8d",
+        "unicode": "U+174D",
+        "name": "BUHID LETTER RA"
+    },
+    {
+        "hex": "e19d8e",
+        "unicode": "U+174E",
+        "name": "BUHID LETTER LA"
+    },
+    {
+        "hex": "e19d8f",
+        "unicode": "U+174F",
+        "name": "BUHID LETTER WA"
+    },
+    {
+        "hex": "e19d90",
+        "unicode": "U+1750",
+        "name": "BUHID LETTER SA"
+    },
+    {
+        "hex": "e19d91",
+        "unicode": "U+1751",
+        "name": "BUHID LETTER HA"
+    },
+    {
+        "hex": "e19d92",
+        "unicode": "U+1752",
+        "name": "BUHID VOWEL SIGN I"
+    },
+    {
+        "hex": "e19d93",
+        "unicode": "U+1753",
+        "name": "BUHID VOWEL SIGN U"
+    },
+    {
+        "hex": "e19d94",
+        "unicode": "U+1754",
+        "name": ""
+    },
+    {
+        "hex": "e19d95",
+        "unicode": "U+1755",
+        "name": ""
+    },
+    {
+        "hex": "e19d96",
+        "unicode": "U+1756",
+        "name": ""
+    },
+    {
+        "hex": "e19d97",
+        "unicode": "U+1757",
+        "name": ""
+    },
+    {
+        "hex": "e19d98",
+        "unicode": "U+1758",
+        "name": ""
+    },
+    {
+        "hex": "e19d99",
+        "unicode": "U+1759",
+        "name": ""
+    },
+    {
+        "hex": "e19d9a",
+        "unicode": "U+175A",
+        "name": ""
+    },
+    {
+        "hex": "e19d9b",
+        "unicode": "U+175B",
+        "name": ""
+    },
+    {
+        "hex": "e19d9c",
+        "unicode": "U+175C",
+        "name": ""
+    },
+    {
+        "hex": "e19d9d",
+        "unicode": "U+175D",
+        "name": ""
+    },
+    {
+        "hex": "e19d9e",
+        "unicode": "U+175E",
+        "name": ""
+    },
+    {
+        "hex": "e19d9f",
+        "unicode": "U+175F",
+        "name": ""
+    },
+    {
+        "hex": "e19da0",
+        "unicode": "U+1760",
+        "name": "TAGBANWA LETTER A"
+    },
+    {
+        "hex": "e19da1",
+        "unicode": "U+1761",
+        "name": "TAGBANWA LETTER I"
+    },
+    {
+        "hex": "e19da2",
+        "unicode": "U+1762",
+        "name": "TAGBANWA LETTER U"
+    },
+    {
+        "hex": "e19da3",
+        "unicode": "U+1763",
+        "name": "TAGBANWA LETTER KA"
+    },
+    {
+        "hex": "e19da4",
+        "unicode": "U+1764",
+        "name": "TAGBANWA LETTER GA"
+    },
+    {
+        "hex": "e19da5",
+        "unicode": "U+1765",
+        "name": "TAGBANWA LETTER NGA"
+    },
+    {
+        "hex": "e19da6",
+        "unicode": "U+1766",
+        "name": "TAGBANWA LETTER TA"
+    },
+    {
+        "hex": "e19da7",
+        "unicode": "U+1767",
+        "name": "TAGBANWA LETTER DA"
+    },
+    {
+        "hex": "e19da8",
+        "unicode": "U+1768",
+        "name": "TAGBANWA LETTER NA"
+    },
+    {
+        "hex": "e19da9",
+        "unicode": "U+1769",
+        "name": "TAGBANWA LETTER PA"
+    },
+    {
+        "hex": "e19daa",
+        "unicode": "U+176A",
+        "name": "TAGBANWA LETTER BA"
+    },
+    {
+        "hex": "e19dab",
+        "unicode": "U+176B",
+        "name": "TAGBANWA LETTER MA"
+    },
+    {
+        "hex": "e19dac",
+        "unicode": "U+176C",
+        "name": "TAGBANWA LETTER YA"
+    },
+    {
+        "hex": "e19dad",
+        "unicode": "U+176D",
+        "name": ""
+    },
+    {
+        "hex": "e19dae",
+        "unicode": "U+176E",
+        "name": "TAGBANWA LETTER LA"
+    },
+    {
+        "hex": "e19daf",
+        "unicode": "U+176F",
+        "name": "TAGBANWA LETTER WA"
+    },
+    {
+        "hex": "e19db0",
+        "unicode": "U+1770",
+        "name": "TAGBANWA LETTER SA"
+    },
+    {
+        "hex": "e19db1",
+        "unicode": "U+1771",
+        "name": ""
+    },
+    {
+        "hex": "e19db2",
+        "unicode": "U+1772",
+        "name": "TAGBANWA VOWEL SIGN I"
+    },
+    {
+        "hex": "e19db3",
+        "unicode": "U+1773",
+        "name": "TAGBANWA VOWEL SIGN U"
+    },
+    {
+        "hex": "e19db4",
+        "unicode": "U+1774",
+        "name": ""
+    },
+    {
+        "hex": "e19db5",
+        "unicode": "U+1775",
+        "name": ""
+    },
+    {
+        "hex": "e19db6",
+        "unicode": "U+1776",
+        "name": ""
+    },
+    {
+        "hex": "e19db7",
+        "unicode": "U+1777",
+        "name": ""
+    },
+    {
+        "hex": "e19db8",
+        "unicode": "U+1778",
+        "name": ""
+    },
+    {
+        "hex": "e19db9",
+        "unicode": "U+1779",
+        "name": ""
+    },
+    {
+        "hex": "e19dba",
+        "unicode": "U+177A",
+        "name": ""
+    },
+    {
+        "hex": "e19dbb",
+        "unicode": "U+177B",
+        "name": ""
+    },
+    {
+        "hex": "e19dbc",
+        "unicode": "U+177C",
+        "name": ""
+    },
+    {
+        "hex": "e19dbd",
+        "unicode": "U+177D",
+        "name": ""
+    },
+    {
+        "hex": "e19dbe",
+        "unicode": "U+177E",
+        "name": ""
+    },
+    {
+        "hex": "e19dbf",
+        "unicode": "U+177F",
+        "name": ""
+    },
+    {
+        "hex": "e19e80",
+        "unicode": "U+1780",
+        "name": "KHMER LETTER KA"
+    },
+    {
+        "hex": "e19e81",
+        "unicode": "U+1781",
+        "name": "KHMER LETTER KHA"
+    },
+    {
+        "hex": "e19e82",
+        "unicode": "U+1782",
+        "name": "KHMER LETTER KO"
+    },
+    {
+        "hex": "e19e83",
+        "unicode": "U+1783",
+        "name": "KHMER LETTER KHO"
+    },
+    {
+        "hex": "e19e84",
+        "unicode": "U+1784",
+        "name": "KHMER LETTER NGO"
+    },
+    {
+        "hex": "e19e85",
+        "unicode": "U+1785",
+        "name": "KHMER LETTER CA"
+    },
+    {
+        "hex": "e19e86",
+        "unicode": "U+1786",
+        "name": "KHMER LETTER CHA"
+    },
+    {
+        "hex": "e19e87",
+        "unicode": "U+1787",
+        "name": "KHMER LETTER CO"
+    },
+    {
+        "hex": "e19e88",
+        "unicode": "U+1788",
+        "name": "KHMER LETTER CHO"
+    },
+    {
+        "hex": "e19e89",
+        "unicode": "U+1789",
+        "name": "KHMER LETTER NYO"
+    },
+    {
+        "hex": "e19e8a",
+        "unicode": "U+178A",
+        "name": "KHMER LETTER DA"
+    },
+    {
+        "hex": "e19e8b",
+        "unicode": "U+178B",
+        "name": "KHMER LETTER TTHA"
+    },
+    {
+        "hex": "e19e8c",
+        "unicode": "U+178C",
+        "name": "KHMER LETTER DO"
+    },
+    {
+        "hex": "e19e8d",
+        "unicode": "U+178D",
+        "name": "KHMER LETTER TTHO"
+    },
+    {
+        "hex": "e19e8e",
+        "unicode": "U+178E",
+        "name": "KHMER LETTER NNO"
+    },
+    {
+        "hex": "e19e8f",
+        "unicode": "U+178F",
+        "name": "KHMER LETTER TA"
+    },
+    {
+        "hex": "e19e90",
+        "unicode": "U+1790",
+        "name": "KHMER LETTER THA"
+    },
+    {
+        "hex": "e19e91",
+        "unicode": "U+1791",
+        "name": "KHMER LETTER TO"
+    },
+    {
+        "hex": "e19e92",
+        "unicode": "U+1792",
+        "name": "KHMER LETTER THO"
+    },
+    {
+        "hex": "e19e93",
+        "unicode": "U+1793",
+        "name": "KHMER LETTER NO"
+    },
+    {
+        "hex": "e19e94",
+        "unicode": "U+1794",
+        "name": "KHMER LETTER BA"
+    },
+    {
+        "hex": "e19e95",
+        "unicode": "U+1795",
+        "name": "KHMER LETTER PHA"
+    },
+    {
+        "hex": "e19e96",
+        "unicode": "U+1796",
+        "name": "KHMER LETTER PO"
+    },
+    {
+        "hex": "e19e97",
+        "unicode": "U+1797",
+        "name": "KHMER LETTER PHO"
+    },
+    {
+        "hex": "e19e98",
+        "unicode": "U+1798",
+        "name": "KHMER LETTER MO"
+    },
+    {
+        "hex": "e19e99",
+        "unicode": "U+1799",
+        "name": "KHMER LETTER YO"
+    },
+    {
+        "hex": "e19e9a",
+        "unicode": "U+179A",
+        "name": "KHMER LETTER RO"
+    },
+    {
+        "hex": "e19e9b",
+        "unicode": "U+179B",
+        "name": "KHMER LETTER LO"
+    },
+    {
+        "hex": "e19e9c",
+        "unicode": "U+179C",
+        "name": "KHMER LETTER VO"
+    },
+    {
+        "hex": "e19e9d",
+        "unicode": "U+179D",
+        "name": "KHMER LETTER SHA"
+    },
+    {
+        "hex": "e19e9e",
+        "unicode": "U+179E",
+        "name": "KHMER LETTER SSO"
+    },
+    {
+        "hex": "e19e9f",
+        "unicode": "U+179F",
+        "name": "KHMER LETTER SA"
+    },
+    {
+        "hex": "e19ea0",
+        "unicode": "U+17A0",
+        "name": "KHMER LETTER HA"
+    },
+    {
+        "hex": "e19ea1",
+        "unicode": "U+17A1",
+        "name": "KHMER LETTER LA"
+    },
+    {
+        "hex": "e19ea2",
+        "unicode": "U+17A2",
+        "name": "KHMER LETTER QA"
+    },
+    {
+        "hex": "e19ea3",
+        "unicode": "U+17A3",
+        "name": "KHMER INDEPENDENT VOWEL QAQ"
+    },
+    {
+        "hex": "e19ea4",
+        "unicode": "U+17A4",
+        "name": "KHMER INDEPENDENT VOWEL QAA"
+    },
+    {
+        "hex": "e19ea5",
+        "unicode": "U+17A5",
+        "name": "KHMER INDEPENDENT VOWEL QI"
+    },
+    {
+        "hex": "e19ea6",
+        "unicode": "U+17A6",
+        "name": "KHMER INDEPENDENT VOWEL QII"
+    },
+    {
+        "hex": "e19ea7",
+        "unicode": "U+17A7",
+        "name": "KHMER INDEPENDENT VOWEL QU"
+    },
+    {
+        "hex": "e19ea8",
+        "unicode": "U+17A8",
+        "name": "KHMER INDEPENDENT VOWEL QUK"
+    },
+    {
+        "hex": "e19ea9",
+        "unicode": "U+17A9",
+        "name": "KHMER INDEPENDENT VOWEL QUU"
+    },
+    {
+        "hex": "e19eaa",
+        "unicode": "U+17AA",
+        "name": "KHMER INDEPENDENT VOWEL QUUV"
+    },
+    {
+        "hex": "e19eab",
+        "unicode": "U+17AB",
+        "name": "KHMER INDEPENDENT VOWEL RY"
+    },
+    {
+        "hex": "e19eac",
+        "unicode": "U+17AC",
+        "name": "KHMER INDEPENDENT VOWEL RYY"
+    },
+    {
+        "hex": "e19ead",
+        "unicode": "U+17AD",
+        "name": "KHMER INDEPENDENT VOWEL LY"
+    },
+    {
+        "hex": "e19eae",
+        "unicode": "U+17AE",
+        "name": "KHMER INDEPENDENT VOWEL LYY"
+    },
+    {
+        "hex": "e19eaf",
+        "unicode": "U+17AF",
+        "name": "KHMER INDEPENDENT VOWEL QE"
+    },
+    {
+        "hex": "e19eb0",
+        "unicode": "U+17B0",
+        "name": "KHMER INDEPENDENT VOWEL QAI"
+    },
+    {
+        "hex": "e19eb1",
+        "unicode": "U+17B1",
+        "name": "KHMER INDEPENDENT VOWEL QOO TYPE ONE"
+    },
+    {
+        "hex": "e19eb2",
+        "unicode": "U+17B2",
+        "name": "KHMER INDEPENDENT VOWEL QOO TYPE TWO"
+    },
+    {
+        "hex": "e19eb3",
+        "unicode": "U+17B3",
+        "name": "KHMER INDEPENDENT VOWEL QAU"
+    },
+    {
+        "hex": "e19eb4",
+        "unicode": "U+17B4",
+        "name": "KHMER VOWEL INHERENT AQ"
+    },
+    {
+        "hex": "e19eb5",
+        "unicode": "U+17B5",
+        "name": "KHMER VOWEL INHERENT AA"
+    },
+    {
+        "hex": "e19eb6",
+        "unicode": "U+17B6",
+        "name": "KHMER VOWEL SIGN AA"
+    },
+    {
+        "hex": "e19eb7",
+        "unicode": "U+17B7",
+        "name": "KHMER VOWEL SIGN I"
+    },
+    {
+        "hex": "e19eb8",
+        "unicode": "U+17B8",
+        "name": "KHMER VOWEL SIGN II"
+    },
+    {
+        "hex": "e19eb9",
+        "unicode": "U+17B9",
+        "name": "KHMER VOWEL SIGN Y"
+    },
+    {
+        "hex": "e19eba",
+        "unicode": "U+17BA",
+        "name": "KHMER VOWEL SIGN YY"
+    },
+    {
+        "hex": "e19ebb",
+        "unicode": "U+17BB",
+        "name": "KHMER VOWEL SIGN U"
+    },
+    {
+        "hex": "e19ebc",
+        "unicode": "U+17BC",
+        "name": "KHMER VOWEL SIGN UU"
+    },
+    {
+        "hex": "e19ebd",
+        "unicode": "U+17BD",
+        "name": "KHMER VOWEL SIGN UA"
+    },
+    {
+        "hex": "e19ebe",
+        "unicode": "U+17BE",
+        "name": "KHMER VOWEL SIGN OE"
+    },
+    {
+        "hex": "e19ebf",
+        "unicode": "U+17BF",
+        "name": "KHMER VOWEL SIGN YA"
+    },
+    {
+        "hex": "e19f80",
+        "unicode": "U+17C0",
+        "name": "KHMER VOWEL SIGN IE"
+    },
+    {
+        "hex": "e19f81",
+        "unicode": "U+17C1",
+        "name": "KHMER VOWEL SIGN E"
+    },
+    {
+        "hex": "e19f82",
+        "unicode": "U+17C2",
+        "name": "KHMER VOWEL SIGN AE"
+    },
+    {
+        "hex": "e19f83",
+        "unicode": "U+17C3",
+        "name": "KHMER VOWEL SIGN AI"
+    },
+    {
+        "hex": "e19f84",
+        "unicode": "U+17C4",
+        "name": "KHMER VOWEL SIGN OO"
+    },
+    {
+        "hex": "e19f85",
+        "unicode": "U+17C5",
+        "name": "KHMER VOWEL SIGN AU"
+    },
+    {
+        "hex": "e19f86",
+        "unicode": "U+17C6",
+        "name": "KHMER SIGN NIKAHIT"
+    },
+    {
+        "hex": "e19f87",
+        "unicode": "U+17C7",
+        "name": "KHMER SIGN REAHMUK"
+    },
+    {
+        "hex": "e19f88",
+        "unicode": "U+17C8",
+        "name": "KHMER SIGN YUUKALEAPINTU"
+    },
+    {
+        "hex": "e19f89",
+        "unicode": "U+17C9",
+        "name": "KHMER SIGN MUUSIKATOAN"
+    },
+    {
+        "hex": "e19f8a",
+        "unicode": "U+17CA",
+        "name": "KHMER SIGN TRIISAP"
+    },
+    {
+        "hex": "e19f8b",
+        "unicode": "U+17CB",
+        "name": "KHMER SIGN BANTOC"
+    },
+    {
+        "hex": "e19f8c",
+        "unicode": "U+17CC",
+        "name": "KHMER SIGN ROBAT"
+    },
+    {
+        "hex": "e19f8d",
+        "unicode": "U+17CD",
+        "name": "KHMER SIGN TOANDAKHIAT"
+    },
+    {
+        "hex": "e19f8e",
+        "unicode": "U+17CE",
+        "name": "KHMER SIGN KAKABAT"
+    },
+    {
+        "hex": "e19f8f",
+        "unicode": "U+17CF",
+        "name": "KHMER SIGN AHSDA"
+    },
+    {
+        "hex": "e19f90",
+        "unicode": "U+17D0",
+        "name": "KHMER SIGN SAMYOK SANNYA"
+    },
+    {
+        "hex": "e19f91",
+        "unicode": "U+17D1",
+        "name": "KHMER SIGN VIRIAM"
+    },
+    {
+        "hex": "e19f92",
+        "unicode": "U+17D2",
+        "name": "KHMER SIGN COENG"
+    },
+    {
+        "hex": "e19f93",
+        "unicode": "U+17D3",
+        "name": "KHMER SIGN BATHAMASAT"
+    },
+    {
+        "hex": "e19f94",
+        "unicode": "U+17D4",
+        "name": "KHMER SIGN KHAN"
+    },
+    {
+        "hex": "e19f95",
+        "unicode": "U+17D5",
+        "name": "KHMER SIGN BARIYOOSAN"
+    },
+    {
+        "hex": "e19f96",
+        "unicode": "U+17D6",
+        "name": "KHMER SIGN CAMNUC PII KUUH"
+    },
+    {
+        "hex": "e19f97",
+        "unicode": "U+17D7",
+        "name": "KHMER SIGN LEK TOO"
+    },
+    {
+        "hex": "e19f98",
+        "unicode": "U+17D8",
+        "name": "KHMER SIGN BEYYAL"
+    },
+    {
+        "hex": "e19f99",
+        "unicode": "U+17D9",
+        "name": "KHMER SIGN PHNAEK MUAN"
+    },
+    {
+        "hex": "e19f9a",
+        "unicode": "U+17DA",
+        "name": "KHMER SIGN KOOMUUT"
+    },
+    {
+        "hex": "e19f9b",
+        "unicode": "U+17DB",
+        "name": "KHMER CURRENCY SYMBOL RIEL"
+    },
+    {
+        "hex": "e19f9c",
+        "unicode": "U+17DC",
+        "name": "KHMER SIGN AVAKRAHASANYA"
+    },
+    {
+        "hex": "e19f9d",
+        "unicode": "U+17DD",
+        "name": "KHMER SIGN ATTHACAN"
+    },
+    {
+        "hex": "e19f9e",
+        "unicode": "U+17DE",
+        "name": ""
+    },
+    {
+        "hex": "e19f9f",
+        "unicode": "U+17DF",
+        "name": ""
+    },
+    {
+        "hex": "e19fa0",
+        "unicode": "U+17E0",
+        "name": "KHMER DIGIT ZERO"
+    },
+    {
+        "hex": "e19fa1",
+        "unicode": "U+17E1",
+        "name": "KHMER DIGIT ONE"
+    },
+    {
+        "hex": "e19fa2",
+        "unicode": "U+17E2",
+        "name": "KHMER DIGIT TWO"
+    },
+    {
+        "hex": "e19fa3",
+        "unicode": "U+17E3",
+        "name": "KHMER DIGIT THREE"
+    },
+    {
+        "hex": "e19fa4",
+        "unicode": "U+17E4",
+        "name": "KHMER DIGIT FOUR"
+    },
+    {
+        "hex": "e19fa5",
+        "unicode": "U+17E5",
+        "name": "KHMER DIGIT FIVE"
+    },
+    {
+        "hex": "e19fa6",
+        "unicode": "U+17E6",
+        "name": "KHMER DIGIT SIX"
+    },
+    {
+        "hex": "e19fa7",
+        "unicode": "U+17E7",
+        "name": "KHMER DIGIT SEVEN"
+    },
+    {
+        "hex": "e19fa8",
+        "unicode": "U+17E8",
+        "name": "KHMER DIGIT EIGHT"
+    },
+    {
+        "hex": "e19fa9",
+        "unicode": "U+17E9",
+        "name": "KHMER DIGIT NINE"
+    },
+    {
+        "hex": "e19faa",
+        "unicode": "U+17EA",
+        "name": ""
+    },
+    {
+        "hex": "e19fab",
+        "unicode": "U+17EB",
+        "name": ""
+    },
+    {
+        "hex": "e19fac",
+        "unicode": "U+17EC",
+        "name": ""
+    },
+    {
+        "hex": "e19fad",
+        "unicode": "U+17ED",
+        "name": ""
+    },
+    {
+        "hex": "e19fae",
+        "unicode": "U+17EE",
+        "name": ""
+    },
+    {
+        "hex": "e19faf",
+        "unicode": "U+17EF",
+        "name": ""
+    },
+    {
+        "hex": "e19fb0",
+        "unicode": "U+17F0",
+        "name": "KHMER SYMBOL LEK ATTAK SON"
+    },
+    {
+        "hex": "e19fb1",
+        "unicode": "U+17F1",
+        "name": "KHMER SYMBOL LEK ATTAK MUOY"
+    },
+    {
+        "hex": "e19fb2",
+        "unicode": "U+17F2",
+        "name": "KHMER SYMBOL LEK ATTAK PII"
+    },
+    {
+        "hex": "e19fb3",
+        "unicode": "U+17F3",
+        "name": "KHMER SYMBOL LEK ATTAK BEI"
+    },
+    {
+        "hex": "e19fb4",
+        "unicode": "U+17F4",
+        "name": "KHMER SYMBOL LEK ATTAK BUON"
+    },
+    {
+        "hex": "e19fb5",
+        "unicode": "U+17F5",
+        "name": "KHMER SYMBOL LEK ATTAK PRAM"
+    },
+    {
+        "hex": "e19fb6",
+        "unicode": "U+17F6",
+        "name": "KHMER SYMBOL LEK ATTAK PRAM-MUOY"
+    },
+    {
+        "hex": "e19fb7",
+        "unicode": "U+17F7",
+        "name": "KHMER SYMBOL LEK ATTAK PRAM-PII"
+    },
+    {
+        "hex": "e19fb8",
+        "unicode": "U+17F8",
+        "name": "KHMER SYMBOL LEK ATTAK PRAM-BEI"
+    },
+    {
+        "hex": "e19fb9",
+        "unicode": "U+17F9",
+        "name": "KHMER SYMBOL LEK ATTAK PRAM-BUON"
+    },
+    {
+        "hex": "e19fba",
+        "unicode": "U+17FA",
+        "name": ""
+    },
+    {
+        "hex": "e19fbb",
+        "unicode": "U+17FB",
+        "name": ""
+    },
+    {
+        "hex": "e19fbc",
+        "unicode": "U+17FC",
+        "name": ""
+    },
+    {
+        "hex": "e19fbd",
+        "unicode": "U+17FD",
+        "name": ""
+    },
+    {
+        "hex": "e19fbe",
+        "unicode": "U+17FE",
+        "name": ""
+    },
+    {
+        "hex": "e19fbf",
+        "unicode": "U+17FF",
+        "name": ""
+    },
+    {
+        "hex": "e1a080",
+        "unicode": "U+1800",
+        "name": "MONGOLIAN BIRGA"
+    },
+    {
+        "hex": "e1a081",
+        "unicode": "U+1801",
+        "name": "MONGOLIAN ELLIPSIS"
+    },
+    {
+        "hex": "e1a082",
+        "unicode": "U+1802",
+        "name": "MONGOLIAN COMMA"
+    },
+    {
+        "hex": "e1a083",
+        "unicode": "U+1803",
+        "name": "MONGOLIAN FULL STOP"
+    },
+    {
+        "hex": "e1a084",
+        "unicode": "U+1804",
+        "name": "MONGOLIAN COLON"
+    },
+    {
+        "hex": "e1a085",
+        "unicode": "U+1805",
+        "name": "MONGOLIAN FOUR DOTS"
+    },
+    {
+        "hex": "e1a086",
+        "unicode": "U+1806",
+        "name": "MONGOLIAN TODO SOFT HYPHEN"
+    },
+    {
+        "hex": "e1a087",
+        "unicode": "U+1807",
+        "name": "MONGOLIAN SIBE SYLLABLE BOUNDARY MARKER"
+    },
+    {
+        "hex": "e1a088",
+        "unicode": "U+1808",
+        "name": "MONGOLIAN MANCHU COMMA"
+    },
+    {
+        "hex": "e1a089",
+        "unicode": "U+1809",
+        "name": "MONGOLIAN MANCHU FULL STOP"
+    },
+    {
+        "hex": "e1a08a",
+        "unicode": "U+180A",
+        "name": "MONGOLIAN NIRUGU"
+    },
+    {
+        "hex": "e1a08b",
+        "unicode": "U+180B",
+        "name": "MONGOLIAN FREE VARIATION SELECTOR ONE"
+    },
+    {
+        "hex": "e1a08c",
+        "unicode": "U+180C",
+        "name": "MONGOLIAN FREE VARIATION SELECTOR TWO"
+    },
+    {
+        "hex": "e1a08d",
+        "unicode": "U+180D",
+        "name": "MONGOLIAN FREE VARIATION SELECTOR THREE"
+    },
+    {
+        "hex": "e1a08e",
+        "unicode": "U+180E",
+        "name": "MONGOLIAN VOWEL SEPARATOR"
+    },
+    {
+        "hex": "e1a08f",
+        "unicode": "U+180F",
+        "name": ""
+    },
+    {
+        "hex": "e1a090",
+        "unicode": "U+1810",
+        "name": "MONGOLIAN DIGIT ZERO"
+    },
+    {
+        "hex": "e1a091",
+        "unicode": "U+1811",
+        "name": "MONGOLIAN DIGIT ONE"
+    },
+    {
+        "hex": "e1a092",
+        "unicode": "U+1812",
+        "name": "MONGOLIAN DIGIT TWO"
+    },
+    {
+        "hex": "e1a093",
+        "unicode": "U+1813",
+        "name": "MONGOLIAN DIGIT THREE"
+    },
+    {
+        "hex": "e1a094",
+        "unicode": "U+1814",
+        "name": "MONGOLIAN DIGIT FOUR"
+    },
+    {
+        "hex": "e1a095",
+        "unicode": "U+1815",
+        "name": "MONGOLIAN DIGIT FIVE"
+    },
+    {
+        "hex": "e1a096",
+        "unicode": "U+1816",
+        "name": "MONGOLIAN DIGIT SIX"
+    },
+    {
+        "hex": "e1a097",
+        "unicode": "U+1817",
+        "name": "MONGOLIAN DIGIT SEVEN"
+    },
+    {
+        "hex": "e1a098",
+        "unicode": "U+1818",
+        "name": "MONGOLIAN DIGIT EIGHT"
+    },
+    {
+        "hex": "e1a099",
+        "unicode": "U+1819",
+        "name": "MONGOLIAN DIGIT NINE"
+    },
+    {
+        "hex": "e1a09a",
+        "unicode": "U+181A",
+        "name": ""
+    },
+    {
+        "hex": "e1a09b",
+        "unicode": "U+181B",
+        "name": ""
+    },
+    {
+        "hex": "e1a09c",
+        "unicode": "U+181C",
+        "name": ""
+    },
+    {
+        "hex": "e1a09d",
+        "unicode": "U+181D",
+        "name": ""
+    },
+    {
+        "hex": "e1a09e",
+        "unicode": "U+181E",
+        "name": ""
+    },
+    {
+        "hex": "e1a09f",
+        "unicode": "U+181F",
+        "name": ""
+    },
+    {
+        "hex": "e1a0a0",
+        "unicode": "U+1820",
+        "name": "MONGOLIAN LETTER A"
+    },
+    {
+        "hex": "e1a0a1",
+        "unicode": "U+1821",
+        "name": "MONGOLIAN LETTER E"
+    },
+    {
+        "hex": "e1a0a2",
+        "unicode": "U+1822",
+        "name": "MONGOLIAN LETTER I"
+    },
+    {
+        "hex": "e1a0a3",
+        "unicode": "U+1823",
+        "name": "MONGOLIAN LETTER O"
+    },
+    {
+        "hex": "e1a0a4",
+        "unicode": "U+1824",
+        "name": "MONGOLIAN LETTER U"
+    },
+    {
+        "hex": "e1a0a5",
+        "unicode": "U+1825",
+        "name": "MONGOLIAN LETTER OE"
+    },
+    {
+        "hex": "e1a0a6",
+        "unicode": "U+1826",
+        "name": "MONGOLIAN LETTER UE"
+    },
+    {
+        "hex": "e1a0a7",
+        "unicode": "U+1827",
+        "name": "MONGOLIAN LETTER EE"
+    },
+    {
+        "hex": "e1a0a8",
+        "unicode": "U+1828",
+        "name": "MONGOLIAN LETTER NA"
+    },
+    {
+        "hex": "e1a0a9",
+        "unicode": "U+1829",
+        "name": "MONGOLIAN LETTER ANG"
+    },
+    {
+        "hex": "e1a0aa",
+        "unicode": "U+182A",
+        "name": "MONGOLIAN LETTER BA"
+    },
+    {
+        "hex": "e1a0ab",
+        "unicode": "U+182B",
+        "name": "MONGOLIAN LETTER PA"
+    },
+    {
+        "hex": "e1a0ac",
+        "unicode": "U+182C",
+        "name": "MONGOLIAN LETTER QA"
+    },
+    {
+        "hex": "e1a0ad",
+        "unicode": "U+182D",
+        "name": "MONGOLIAN LETTER GA"
+    },
+    {
+        "hex": "e1a0ae",
+        "unicode": "U+182E",
+        "name": "MONGOLIAN LETTER MA"
+    },
+    {
+        "hex": "e1a0af",
+        "unicode": "U+182F",
+        "name": "MONGOLIAN LETTER LA"
+    },
+    {
+        "hex": "e1a0b0",
+        "unicode": "U+1830",
+        "name": "MONGOLIAN LETTER SA"
+    },
+    {
+        "hex": "e1a0b1",
+        "unicode": "U+1831",
+        "name": "MONGOLIAN LETTER SHA"
+    },
+    {
+        "hex": "e1a0b2",
+        "unicode": "U+1832",
+        "name": "MONGOLIAN LETTER TA"
+    },
+    {
+        "hex": "e1a0b3",
+        "unicode": "U+1833",
+        "name": "MONGOLIAN LETTER DA"
+    },
+    {
+        "hex": "e1a0b4",
+        "unicode": "U+1834",
+        "name": "MONGOLIAN LETTER CHA"
+    },
+    {
+        "hex": "e1a0b5",
+        "unicode": "U+1835",
+        "name": "MONGOLIAN LETTER JA"
+    },
+    {
+        "hex": "e1a0b6",
+        "unicode": "U+1836",
+        "name": "MONGOLIAN LETTER YA"
+    },
+    {
+        "hex": "e1a0b7",
+        "unicode": "U+1837",
+        "name": "MONGOLIAN LETTER RA"
+    },
+    {
+        "hex": "e1a0b8",
+        "unicode": "U+1838",
+        "name": "MONGOLIAN LETTER WA"
+    },
+    {
+        "hex": "e1a0b9",
+        "unicode": "U+1839",
+        "name": "MONGOLIAN LETTER FA"
+    },
+    {
+        "hex": "e1a0ba",
+        "unicode": "U+183A",
+        "name": "MONGOLIAN LETTER KA"
+    },
+    {
+        "hex": "e1a0bb",
+        "unicode": "U+183B",
+        "name": "MONGOLIAN LETTER KHA"
+    },
+    {
+        "hex": "e1a0bc",
+        "unicode": "U+183C",
+        "name": "MONGOLIAN LETTER TSA"
+    },
+    {
+        "hex": "e1a0bd",
+        "unicode": "U+183D",
+        "name": "MONGOLIAN LETTER ZA"
+    },
+    {
+        "hex": "e1a0be",
+        "unicode": "U+183E",
+        "name": "MONGOLIAN LETTER HAA"
+    },
+    {
+        "hex": "e1a0bf",
+        "unicode": "U+183F",
+        "name": "MONGOLIAN LETTER ZRA"
+    }
+]

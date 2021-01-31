@@ -1,0 +1,1282 @@
+[
+    {
+        "hex": "e0a880",
+        "unicode": "U+0A00",
+        "name": ""
+    },
+    {
+        "hex": "e0a881",
+        "unicode": "U+0A01",
+        "name": "GURMUKHI SIGN ADAK BINDI"
+    },
+    {
+        "hex": "e0a882",
+        "unicode": "U+0A02",
+        "name": "GURMUKHI SIGN BINDI"
+    },
+    {
+        "hex": "e0a883",
+        "unicode": "U+0A03",
+        "name": "GURMUKHI SIGN VISARGA"
+    },
+    {
+        "hex": "e0a884",
+        "unicode": "U+0A04",
+        "name": ""
+    },
+    {
+        "hex": "e0a885",
+        "unicode": "U+0A05",
+        "name": "GURMUKHI LETTER A"
+    },
+    {
+        "hex": "e0a886",
+        "unicode": "U+0A06",
+        "name": "GURMUKHI LETTER AA"
+    },
+    {
+        "hex": "e0a887",
+        "unicode": "U+0A07",
+        "name": "GURMUKHI LETTER I"
+    },
+    {
+        "hex": "e0a888",
+        "unicode": "U+0A08",
+        "name": "GURMUKHI LETTER II"
+    },
+    {
+        "hex": "e0a889",
+        "unicode": "U+0A09",
+        "name": "GURMUKHI LETTER U"
+    },
+    {
+        "hex": "e0a88a",
+        "unicode": "U+0A0A",
+        "name": "GURMUKHI LETTER UU"
+    },
+    {
+        "hex": "e0a88b",
+        "unicode": "U+0A0B",
+        "name": ""
+    },
+    {
+        "hex": "e0a88c",
+        "unicode": "U+0A0C",
+        "name": ""
+    },
+    {
+        "hex": "e0a88d",
+        "unicode": "U+0A0D",
+        "name": ""
+    },
+    {
+        "hex": "e0a88e",
+        "unicode": "U+0A0E",
+        "name": ""
+    },
+    {
+        "hex": "e0a88f",
+        "unicode": "U+0A0F",
+        "name": "GURMUKHI LETTER EE"
+    },
+    {
+        "hex": "e0a890",
+        "unicode": "U+0A10",
+        "name": "GURMUKHI LETTER AI"
+    },
+    {
+        "hex": "e0a891",
+        "unicode": "U+0A11",
+        "name": ""
+    },
+    {
+        "hex": "e0a892",
+        "unicode": "U+0A12",
+        "name": ""
+    },
+    {
+        "hex": "e0a893",
+        "unicode": "U+0A13",
+        "name": "GURMUKHI LETTER OO"
+    },
+    {
+        "hex": "e0a894",
+        "unicode": "U+0A14",
+        "name": "GURMUKHI LETTER AU"
+    },
+    {
+        "hex": "e0a895",
+        "unicode": "U+0A15",
+        "name": "GURMUKHI LETTER KA"
+    },
+    {
+        "hex": "e0a896",
+        "unicode": "U+0A16",
+        "name": "GURMUKHI LETTER KHA"
+    },
+    {
+        "hex": "e0a897",
+        "unicode": "U+0A17",
+        "name": "GURMUKHI LETTER GA"
+    },
+    {
+        "hex": "e0a898",
+        "unicode": "U+0A18",
+        "name": "GURMUKHI LETTER GHA"
+    },
+    {
+        "hex": "e0a899",
+        "unicode": "U+0A19",
+        "name": "GURMUKHI LETTER NGA"
+    },
+    {
+        "hex": "e0a89a",
+        "unicode": "U+0A1A",
+        "name": "GURMUKHI LETTER CA"
+    },
+    {
+        "hex": "e0a89b",
+        "unicode": "U+0A1B",
+        "name": "GURMUKHI LETTER CHA"
+    },
+    {
+        "hex": "e0a89c",
+        "unicode": "U+0A1C",
+        "name": "GURMUKHI LETTER JA"
+    },
+    {
+        "hex": "e0a89d",
+        "unicode": "U+0A1D",
+        "name": "GURMUKHI LETTER JHA"
+    },
+    {
+        "hex": "e0a89e",
+        "unicode": "U+0A1E",
+        "name": "GURMUKHI LETTER NYA"
+    },
+    {
+        "hex": "e0a89f",
+        "unicode": "U+0A1F",
+        "name": "GURMUKHI LETTER TTA"
+    },
+    {
+        "hex": "e0a8a0",
+        "unicode": "U+0A20",
+        "name": "GURMUKHI LETTER TTHA"
+    },
+    {
+        "hex": "e0a8a1",
+        "unicode": "U+0A21",
+        "name": "GURMUKHI LETTER DDA"
+    },
+    {
+        "hex": "e0a8a2",
+        "unicode": "U+0A22",
+        "name": "GURMUKHI LETTER DDHA"
+    },
+    {
+        "hex": "e0a8a3",
+        "unicode": "U+0A23",
+        "name": "GURMUKHI LETTER NNA"
+    },
+    {
+        "hex": "e0a8a4",
+        "unicode": "U+0A24",
+        "name": "GURMUKHI LETTER TA"
+    },
+    {
+        "hex": "e0a8a5",
+        "unicode": "U+0A25",
+        "name": "GURMUKHI LETTER THA"
+    },
+    {
+        "hex": "e0a8a6",
+        "unicode": "U+0A26",
+        "name": "GURMUKHI LETTER DA"
+    },
+    {
+        "hex": "e0a8a7",
+        "unicode": "U+0A27",
+        "name": "GURMUKHI LETTER DHA"
+    },
+    {
+        "hex": "e0a8a8",
+        "unicode": "U+0A28",
+        "name": "GURMUKHI LETTER NA"
+    },
+    {
+        "hex": "e0a8a9",
+        "unicode": "U+0A29",
+        "name": ""
+    },
+    {
+        "hex": "e0a8aa",
+        "unicode": "U+0A2A",
+        "name": "GURMUKHI LETTER PA"
+    },
+    {
+        "hex": "e0a8ab",
+        "unicode": "U+0A2B",
+        "name": "GURMUKHI LETTER PHA"
+    },
+    {
+        "hex": "e0a8ac",
+        "unicode": "U+0A2C",
+        "name": "GURMUKHI LETTER BA"
+    },
+    {
+        "hex": "e0a8ad",
+        "unicode": "U+0A2D",
+        "name": "GURMUKHI LETTER BHA"
+    },
+    {
+        "hex": "e0a8ae",
+        "unicode": "U+0A2E",
+        "name": "GURMUKHI LETTER MA"
+    },
+    {
+        "hex": "e0a8af",
+        "unicode": "U+0A2F",
+        "name": "GURMUKHI LETTER YA"
+    },
+    {
+        "hex": "e0a8b0",
+        "unicode": "U+0A30",
+        "name": "GURMUKHI LETTER RA"
+    },
+    {
+        "hex": "e0a8b1",
+        "unicode": "U+0A31",
+        "name": ""
+    },
+    {
+        "hex": "e0a8b2",
+        "unicode": "U+0A32",
+        "name": "GURMUKHI LETTER LA"
+    },
+    {
+        "hex": "e0a8b3",
+        "unicode": "U+0A33",
+        "name": "GURMUKHI LETTER LLA"
+    },
+    {
+        "hex": "e0a8b4",
+        "unicode": "U+0A34",
+        "name": ""
+    },
+    {
+        "hex": "e0a8b5",
+        "unicode": "U+0A35",
+        "name": "GURMUKHI LETTER VA"
+    },
+    {
+        "hex": "e0a8b6",
+        "unicode": "U+0A36",
+        "name": "GURMUKHI LETTER SHA"
+    },
+    {
+        "hex": "e0a8b7",
+        "unicode": "U+0A37",
+        "name": ""
+    },
+    {
+        "hex": "e0a8b8",
+        "unicode": "U+0A38",
+        "name": "GURMUKHI LETTER SA"
+    },
+    {
+        "hex": "e0a8b9",
+        "unicode": "U+0A39",
+        "name": "GURMUKHI LETTER HA"
+    },
+    {
+        "hex": "e0a8ba",
+        "unicode": "U+0A3A",
+        "name": ""
+    },
+    {
+        "hex": "e0a8bb",
+        "unicode": "U+0A3B",
+        "name": ""
+    },
+    {
+        "hex": "e0a8bc",
+        "unicode": "U+0A3C",
+        "name": "GURMUKHI SIGN NUKTA"
+    },
+    {
+        "hex": "e0a8bd",
+        "unicode": "U+0A3D",
+        "name": ""
+    },
+    {
+        "hex": "e0a8be",
+        "unicode": "U+0A3E",
+        "name": "GURMUKHI VOWEL SIGN AA"
+    },
+    {
+        "hex": "e0a8bf",
+        "unicode": "U+0A3F",
+        "name": "GURMUKHI VOWEL SIGN I"
+    },
+    {
+        "hex": "e0a980",
+        "unicode": "U+0A40",
+        "name": "GURMUKHI VOWEL SIGN II"
+    },
+    {
+        "hex": "e0a981",
+        "unicode": "U+0A41",
+        "name": "GURMUKHI VOWEL SIGN U"
+    },
+    {
+        "hex": "e0a982",
+        "unicode": "U+0A42",
+        "name": "GURMUKHI VOWEL SIGN UU"
+    },
+    {
+        "hex": "e0a983",
+        "unicode": "U+0A43",
+        "name": ""
+    },
+    {
+        "hex": "e0a984",
+        "unicode": "U+0A44",
+        "name": ""
+    },
+    {
+        "hex": "e0a985",
+        "unicode": "U+0A45",
+        "name": ""
+    },
+    {
+        "hex": "e0a986",
+        "unicode": "U+0A46",
+        "name": ""
+    },
+    {
+        "hex": "e0a987",
+        "unicode": "U+0A47",
+        "name": "GURMUKHI VOWEL SIGN EE"
+    },
+    {
+        "hex": "e0a988",
+        "unicode": "U+0A48",
+        "name": "GURMUKHI VOWEL SIGN AI"
+    },
+    {
+        "hex": "e0a989",
+        "unicode": "U+0A49",
+        "name": ""
+    },
+    {
+        "hex": "e0a98a",
+        "unicode": "U+0A4A",
+        "name": ""
+    },
+    {
+        "hex": "e0a98b",
+        "unicode": "U+0A4B",
+        "name": "GURMUKHI VOWEL SIGN OO"
+    },
+    {
+        "hex": "e0a98c",
+        "unicode": "U+0A4C",
+        "name": "GURMUKHI VOWEL SIGN AU"
+    },
+    {
+        "hex": "e0a98d",
+        "unicode": "U+0A4D",
+        "name": "GURMUKHI SIGN VIRAMA"
+    },
+    {
+        "hex": "e0a98e",
+        "unicode": "U+0A4E",
+        "name": ""
+    },
+    {
+        "hex": "e0a98f",
+        "unicode": "U+0A4F",
+        "name": ""
+    },
+    {
+        "hex": "e0a990",
+        "unicode": "U+0A50",
+        "name": ""
+    },
+    {
+        "hex": "e0a991",
+        "unicode": "U+0A51",
+        "name": "GURMUKHI SIGN UDAAT"
+    },
+    {
+        "hex": "e0a992",
+        "unicode": "U+0A52",
+        "name": ""
+    },
+    {
+        "hex": "e0a993",
+        "unicode": "U+0A53",
+        "name": ""
+    },
+    {
+        "hex": "e0a994",
+        "unicode": "U+0A54",
+        "name": ""
+    },
+    {
+        "hex": "e0a995",
+        "unicode": "U+0A55",
+        "name": ""
+    },
+    {
+        "hex": "e0a996",
+        "unicode": "U+0A56",
+        "name": ""
+    },
+    {
+        "hex": "e0a997",
+        "unicode": "U+0A57",
+        "name": ""
+    },
+    {
+        "hex": "e0a998",
+        "unicode": "U+0A58",
+        "name": ""
+    },
+    {
+        "hex": "e0a999",
+        "unicode": "U+0A59",
+        "name": "GURMUKHI LETTER KHHA"
+    },
+    {
+        "hex": "e0a99a",
+        "unicode": "U+0A5A",
+        "name": "GURMUKHI LETTER GHHA"
+    },
+    {
+        "hex": "e0a99b",
+        "unicode": "U+0A5B",
+        "name": "GURMUKHI LETTER ZA"
+    },
+    {
+        "hex": "e0a99c",
+        "unicode": "U+0A5C",
+        "name": "GURMUKHI LETTER RRA"
+    },
+    {
+        "hex": "e0a99d",
+        "unicode": "U+0A5D",
+        "name": ""
+    },
+    {
+        "hex": "e0a99e",
+        "unicode": "U+0A5E",
+        "name": "GURMUKHI LETTER FA"
+    },
+    {
+        "hex": "e0a99f",
+        "unicode": "U+0A5F",
+        "name": ""
+    },
+    {
+        "hex": "e0a9a0",
+        "unicode": "U+0A60",
+        "name": ""
+    },
+    {
+        "hex": "e0a9a1",
+        "unicode": "U+0A61",
+        "name": ""
+    },
+    {
+        "hex": "e0a9a2",
+        "unicode": "U+0A62",
+        "name": ""
+    },
+    {
+        "hex": "e0a9a3",
+        "unicode": "U+0A63",
+        "name": ""
+    },
+    {
+        "hex": "e0a9a4",
+        "unicode": "U+0A64",
+        "name": ""
+    },
+    {
+        "hex": "e0a9a5",
+        "unicode": "U+0A65",
+        "name": ""
+    },
+    {
+        "hex": "e0a9a6",
+        "unicode": "U+0A66",
+        "name": "GURMUKHI DIGIT ZERO"
+    },
+    {
+        "hex": "e0a9a7",
+        "unicode": "U+0A67",
+        "name": "GURMUKHI DIGIT ONE"
+    },
+    {
+        "hex": "e0a9a8",
+        "unicode": "U+0A68",
+        "name": "GURMUKHI DIGIT TWO"
+    },
+    {
+        "hex": "e0a9a9",
+        "unicode": "U+0A69",
+        "name": "GURMUKHI DIGIT THREE"
+    },
+    {
+        "hex": "e0a9aa",
+        "unicode": "U+0A6A",
+        "name": "GURMUKHI DIGIT FOUR"
+    },
+    {
+        "hex": "e0a9ab",
+        "unicode": "U+0A6B",
+        "name": "GURMUKHI DIGIT FIVE"
+    },
+    {
+        "hex": "e0a9ac",
+        "unicode": "U+0A6C",
+        "name": "GURMUKHI DIGIT SIX"
+    },
+    {
+        "hex": "e0a9ad",
+        "unicode": "U+0A6D",
+        "name": "GURMUKHI DIGIT SEVEN"
+    },
+    {
+        "hex": "e0a9ae",
+        "unicode": "U+0A6E",
+        "name": "GURMUKHI DIGIT EIGHT"
+    },
+    {
+        "hex": "e0a9af",
+        "unicode": "U+0A6F",
+        "name": "GURMUKHI DIGIT NINE"
+    },
+    {
+        "hex": "e0a9b0",
+        "unicode": "U+0A70",
+        "name": "GURMUKHI TIPPI"
+    },
+    {
+        "hex": "e0a9b1",
+        "unicode": "U+0A71",
+        "name": "GURMUKHI ADDAK"
+    },
+    {
+        "hex": "e0a9b2",
+        "unicode": "U+0A72",
+        "name": "GURMUKHI IRI"
+    },
+    {
+        "hex": "e0a9b3",
+        "unicode": "U+0A73",
+        "name": "GURMUKHI URA"
+    },
+    {
+        "hex": "e0a9b4",
+        "unicode": "U+0A74",
+        "name": "GURMUKHI EK ONKAR"
+    },
+    {
+        "hex": "e0a9b5",
+        "unicode": "U+0A75",
+        "name": "GURMUKHI SIGN YAKASH"
+    },
+    {
+        "hex": "e0a9b6",
+        "unicode": "U+0A76",
+        "name": "GURMUKHI ABBREVIATION SIGN"
+    },
+    {
+        "hex": "e0a9b7",
+        "unicode": "U+0A77",
+        "name": ""
+    },
+    {
+        "hex": "e0a9b8",
+        "unicode": "U+0A78",
+        "name": ""
+    },
+    {
+        "hex": "e0a9b9",
+        "unicode": "U+0A79",
+        "name": ""
+    },
+    {
+        "hex": "e0a9ba",
+        "unicode": "U+0A7A",
+        "name": ""
+    },
+    {
+        "hex": "e0a9bb",
+        "unicode": "U+0A7B",
+        "name": ""
+    },
+    {
+        "hex": "e0a9bc",
+        "unicode": "U+0A7C",
+        "name": ""
+    },
+    {
+        "hex": "e0a9bd",
+        "unicode": "U+0A7D",
+        "name": ""
+    },
+    {
+        "hex": "e0a9be",
+        "unicode": "U+0A7E",
+        "name": ""
+    },
+    {
+        "hex": "e0a9bf",
+        "unicode": "U+0A7F",
+        "name": ""
+    },
+    {
+        "hex": "e0aa80",
+        "unicode": "U+0A80",
+        "name": ""
+    },
+    {
+        "hex": "e0aa81",
+        "unicode": "U+0A81",
+        "name": "GUJARATI SIGN CANDRABINDU"
+    },
+    {
+        "hex": "e0aa82",
+        "unicode": "U+0A82",
+        "name": "GUJARATI SIGN ANUSVARA"
+    },
+    {
+        "hex": "e0aa83",
+        "unicode": "U+0A83",
+        "name": "GUJARATI SIGN VISARGA"
+    },
+    {
+        "hex": "e0aa84",
+        "unicode": "U+0A84",
+        "name": ""
+    },
+    {
+        "hex": "e0aa85",
+        "unicode": "U+0A85",
+        "name": "GUJARATI LETTER A"
+    },
+    {
+        "hex": "e0aa86",
+        "unicode": "U+0A86",
+        "name": "GUJARATI LETTER AA"
+    },
+    {
+        "hex": "e0aa87",
+        "unicode": "U+0A87",
+        "name": "GUJARATI LETTER I"
+    },
+    {
+        "hex": "e0aa88",
+        "unicode": "U+0A88",
+        "name": "GUJARATI LETTER II"
+    },
+    {
+        "hex": "e0aa89",
+        "unicode": "U+0A89",
+        "name": "GUJARATI LETTER U"
+    },
+    {
+        "hex": "e0aa8a",
+        "unicode": "U+0A8A",
+        "name": "GUJARATI LETTER UU"
+    },
+    {
+        "hex": "e0aa8b",
+        "unicode": "U+0A8B",
+        "name": "GUJARATI LETTER VOCALIC R"
+    },
+    {
+        "hex": "e0aa8c",
+        "unicode": "U+0A8C",
+        "name": "GUJARATI LETTER VOCALIC L"
+    },
+    {
+        "hex": "e0aa8d",
+        "unicode": "U+0A8D",
+        "name": "GUJARATI VOWEL CANDRA E"
+    },
+    {
+        "hex": "e0aa8e",
+        "unicode": "U+0A8E",
+        "name": ""
+    },
+    {
+        "hex": "e0aa8f",
+        "unicode": "U+0A8F",
+        "name": "GUJARATI LETTER E"
+    },
+    {
+        "hex": "e0aa90",
+        "unicode": "U+0A90",
+        "name": "GUJARATI LETTER AI"
+    },
+    {
+        "hex": "e0aa91",
+        "unicode": "U+0A91",
+        "name": "GUJARATI VOWEL CANDRA O"
+    },
+    {
+        "hex": "e0aa92",
+        "unicode": "U+0A92",
+        "name": ""
+    },
+    {
+        "hex": "e0aa93",
+        "unicode": "U+0A93",
+        "name": "GUJARATI LETTER O"
+    },
+    {
+        "hex": "e0aa94",
+        "unicode": "U+0A94",
+        "name": "GUJARATI LETTER AU"
+    },
+    {
+        "hex": "e0aa95",
+        "unicode": "U+0A95",
+        "name": "GUJARATI LETTER KA"
+    },
+    {
+        "hex": "e0aa96",
+        "unicode": "U+0A96",
+        "name": "GUJARATI LETTER KHA"
+    },
+    {
+        "hex": "e0aa97",
+        "unicode": "U+0A97",
+        "name": "GUJARATI LETTER GA"
+    },
+    {
+        "hex": "e0aa98",
+        "unicode": "U+0A98",
+        "name": "GUJARATI LETTER GHA"
+    },
+    {
+        "hex": "e0aa99",
+        "unicode": "U+0A99",
+        "name": "GUJARATI LETTER NGA"
+    },
+    {
+        "hex": "e0aa9a",
+        "unicode": "U+0A9A",
+        "name": "GUJARATI LETTER CA"
+    },
+    {
+        "hex": "e0aa9b",
+        "unicode": "U+0A9B",
+        "name": "GUJARATI LETTER CHA"
+    },
+    {
+        "hex": "e0aa9c",
+        "unicode": "U+0A9C",
+        "name": "GUJARATI LETTER JA"
+    },
+    {
+        "hex": "e0aa9d",
+        "unicode": "U+0A9D",
+        "name": "GUJARATI LETTER JHA"
+    },
+    {
+        "hex": "e0aa9e",
+        "unicode": "U+0A9E",
+        "name": "GUJARATI LETTER NYA"
+    },
+    {
+        "hex": "e0aa9f",
+        "unicode": "U+0A9F",
+        "name": "GUJARATI LETTER TTA"
+    },
+    {
+        "hex": "e0aaa0",
+        "unicode": "U+0AA0",
+        "name": "GUJARATI LETTER TTHA"
+    },
+    {
+        "hex": "e0aaa1",
+        "unicode": "U+0AA1",
+        "name": "GUJARATI LETTER DDA"
+    },
+    {
+        "hex": "e0aaa2",
+        "unicode": "U+0AA2",
+        "name": "GUJARATI LETTER DDHA"
+    },
+    {
+        "hex": "e0aaa3",
+        "unicode": "U+0AA3",
+        "name": "GUJARATI LETTER NNA"
+    },
+    {
+        "hex": "e0aaa4",
+        "unicode": "U+0AA4",
+        "name": "GUJARATI LETTER TA"
+    },
+    {
+        "hex": "e0aaa5",
+        "unicode": "U+0AA5",
+        "name": "GUJARATI LETTER THA"
+    },
+    {
+        "hex": "e0aaa6",
+        "unicode": "U+0AA6",
+        "name": "GUJARATI LETTER DA"
+    },
+    {
+        "hex": "e0aaa7",
+        "unicode": "U+0AA7",
+        "name": "GUJARATI LETTER DHA"
+    },
+    {
+        "hex": "e0aaa8",
+        "unicode": "U+0AA8",
+        "name": "GUJARATI LETTER NA"
+    },
+    {
+        "hex": "e0aaa9",
+        "unicode": "U+0AA9",
+        "name": ""
+    },
+    {
+        "hex": "e0aaaa",
+        "unicode": "U+0AAA",
+        "name": "GUJARATI LETTER PA"
+    },
+    {
+        "hex": "e0aaab",
+        "unicode": "U+0AAB",
+        "name": "GUJARATI LETTER PHA"
+    },
+    {
+        "hex": "e0aaac",
+        "unicode": "U+0AAC",
+        "name": "GUJARATI LETTER BA"
+    },
+    {
+        "hex": "e0aaad",
+        "unicode": "U+0AAD",
+        "name": "GUJARATI LETTER BHA"
+    },
+    {
+        "hex": "e0aaae",
+        "unicode": "U+0AAE",
+        "name": "GUJARATI LETTER MA"
+    },
+    {
+        "hex": "e0aaaf",
+        "unicode": "U+0AAF",
+        "name": "GUJARATI LETTER YA"
+    },
+    {
+        "hex": "e0aab0",
+        "unicode": "U+0AB0",
+        "name": "GUJARATI LETTER RA"
+    },
+    {
+        "hex": "e0aab1",
+        "unicode": "U+0AB1",
+        "name": ""
+    },
+    {
+        "hex": "e0aab2",
+        "unicode": "U+0AB2",
+        "name": "GUJARATI LETTER LA"
+    },
+    {
+        "hex": "e0aab3",
+        "unicode": "U+0AB3",
+        "name": "GUJARATI LETTER LLA"
+    },
+    {
+        "hex": "e0aab4",
+        "unicode": "U+0AB4",
+        "name": ""
+    },
+    {
+        "hex": "e0aab5",
+        "unicode": "U+0AB5",
+        "name": "GUJARATI LETTER VA"
+    },
+    {
+        "hex": "e0aab6",
+        "unicode": "U+0AB6",
+        "name": "GUJARATI LETTER SHA"
+    },
+    {
+        "hex": "e0aab7",
+        "unicode": "U+0AB7",
+        "name": "GUJARATI LETTER SSA"
+    },
+    {
+        "hex": "e0aab8",
+        "unicode": "U+0AB8",
+        "name": "GUJARATI LETTER SA"
+    },
+    {
+        "hex": "e0aab9",
+        "unicode": "U+0AB9",
+        "name": "GUJARATI LETTER HA"
+    },
+    {
+        "hex": "e0aaba",
+        "unicode": "U+0ABA",
+        "name": ""
+    },
+    {
+        "hex": "e0aabb",
+        "unicode": "U+0ABB",
+        "name": ""
+    },
+    {
+        "hex": "e0aabc",
+        "unicode": "U+0ABC",
+        "name": "GUJARATI SIGN NUKTA"
+    },
+    {
+        "hex": "e0aabd",
+        "unicode": "U+0ABD",
+        "name": "GUJARATI SIGN AVAGRAHA"
+    },
+    {
+        "hex": "e0aabe",
+        "unicode": "U+0ABE",
+        "name": "GUJARATI VOWEL SIGN AA"
+    },
+    {
+        "hex": "e0aabf",
+        "unicode": "U+0ABF",
+        "name": "GUJARATI VOWEL SIGN I"
+    },
+    {
+        "hex": "e0ab80",
+        "unicode": "U+0AC0",
+        "name": "GUJARATI VOWEL SIGN II"
+    },
+    {
+        "hex": "e0ab81",
+        "unicode": "U+0AC1",
+        "name": "GUJARATI VOWEL SIGN U"
+    },
+    {
+        "hex": "e0ab82",
+        "unicode": "U+0AC2",
+        "name": "GUJARATI VOWEL SIGN UU"
+    },
+    {
+        "hex": "e0ab83",
+        "unicode": "U+0AC3",
+        "name": "GUJARATI VOWEL SIGN VOCALIC R"
+    },
+    {
+        "hex": "e0ab84",
+        "unicode": "U+0AC4",
+        "name": "GUJARATI VOWEL SIGN VOCALIC RR"
+    },
+    {
+        "hex": "e0ab85",
+        "unicode": "U+0AC5",
+        "name": "GUJARATI VOWEL SIGN CANDRA E"
+    },
+    {
+        "hex": "e0ab86",
+        "unicode": "U+0AC6",
+        "name": ""
+    },
+    {
+        "hex": "e0ab87",
+        "unicode": "U+0AC7",
+        "name": "GUJARATI VOWEL SIGN E"
+    },
+    {
+        "hex": "e0ab88",
+        "unicode": "U+0AC8",
+        "name": "GUJARATI VOWEL SIGN AI"
+    },
+    {
+        "hex": "e0ab89",
+        "unicode": "U+0AC9",
+        "name": "GUJARATI VOWEL SIGN CANDRA O"
+    },
+    {
+        "hex": "e0ab8a",
+        "unicode": "U+0ACA",
+        "name": ""
+    },
+    {
+        "hex": "e0ab8b",
+        "unicode": "U+0ACB",
+        "name": "GUJARATI VOWEL SIGN O"
+    },
+    {
+        "hex": "e0ab8c",
+        "unicode": "U+0ACC",
+        "name": "GUJARATI VOWEL SIGN AU"
+    },
+    {
+        "hex": "e0ab8d",
+        "unicode": "U+0ACD",
+        "name": "GUJARATI SIGN VIRAMA"
+    },
+    {
+        "hex": "e0ab8e",
+        "unicode": "U+0ACE",
+        "name": ""
+    },
+    {
+        "hex": "e0ab8f",
+        "unicode": "U+0ACF",
+        "name": ""
+    },
+    {
+        "hex": "e0ab90",
+        "unicode": "U+0AD0",
+        "name": "GUJARATI OM"
+    },
+    {
+        "hex": "e0ab91",
+        "unicode": "U+0AD1",
+        "name": ""
+    },
+    {
+        "hex": "e0ab92",
+        "unicode": "U+0AD2",
+        "name": ""
+    },
+    {
+        "hex": "e0ab93",
+        "unicode": "U+0AD3",
+        "name": ""
+    },
+    {
+        "hex": "e0ab94",
+        "unicode": "U+0AD4",
+        "name": ""
+    },
+    {
+        "hex": "e0ab95",
+        "unicode": "U+0AD5",
+        "name": ""
+    },
+    {
+        "hex": "e0ab96",
+        "unicode": "U+0AD6",
+        "name": ""
+    },
+    {
+        "hex": "e0ab97",
+        "unicode": "U+0AD7",
+        "name": ""
+    },
+    {
+        "hex": "e0ab98",
+        "unicode": "U+0AD8",
+        "name": ""
+    },
+    {
+        "hex": "e0ab99",
+        "unicode": "U+0AD9",
+        "name": ""
+    },
+    {
+        "hex": "e0ab9a",
+        "unicode": "U+0ADA",
+        "name": ""
+    },
+    {
+        "hex": "e0ab9b",
+        "unicode": "U+0ADB",
+        "name": ""
+    },
+    {
+        "hex": "e0ab9c",
+        "unicode": "U+0ADC",
+        "name": ""
+    },
+    {
+        "hex": "e0ab9d",
+        "unicode": "U+0ADD",
+        "name": ""
+    },
+    {
+        "hex": "e0ab9e",
+        "unicode": "U+0ADE",
+        "name": ""
+    },
+    {
+        "hex": "e0ab9f",
+        "unicode": "U+0ADF",
+        "name": ""
+    },
+    {
+        "hex": "e0aba0",
+        "unicode": "U+0AE0",
+        "name": "GUJARATI LETTER VOCALIC RR"
+    },
+    {
+        "hex": "e0aba1",
+        "unicode": "U+0AE1",
+        "name": "GUJARATI LETTER VOCALIC LL"
+    },
+    {
+        "hex": "e0aba2",
+        "unicode": "U+0AE2",
+        "name": "GUJARATI VOWEL SIGN VOCALIC L"
+    },
+    {
+        "hex": "e0aba3",
+        "unicode": "U+0AE3",
+        "name": "GUJARATI VOWEL SIGN VOCALIC LL"
+    },
+    {
+        "hex": "e0aba4",
+        "unicode": "U+0AE4",
+        "name": ""
+    },
+    {
+        "hex": "e0aba5",
+        "unicode": "U+0AE5",
+        "name": ""
+    },
+    {
+        "hex": "e0aba6",
+        "unicode": "U+0AE6",
+        "name": "GUJARATI DIGIT ZERO"
+    },
+    {
+        "hex": "e0aba7",
+        "unicode": "U+0AE7",
+        "name": "GUJARATI DIGIT ONE"
+    },
+    {
+        "hex": "e0aba8",
+        "unicode": "U+0AE8",
+        "name": "GUJARATI DIGIT TWO"
+    },
+    {
+        "hex": "e0aba9",
+        "unicode": "U+0AE9",
+        "name": "GUJARATI DIGIT THREE"
+    },
+    {
+        "hex": "e0abaa",
+        "unicode": "U+0AEA",
+        "name": "GUJARATI DIGIT FOUR"
+    },
+    {
+        "hex": "e0abab",
+        "unicode": "U+0AEB",
+        "name": "GUJARATI DIGIT FIVE"
+    },
+    {
+        "hex": "e0abac",
+        "unicode": "U+0AEC",
+        "name": "GUJARATI DIGIT SIX"
+    },
+    {
+        "hex": "e0abad",
+        "unicode": "U+0AED",
+        "name": "GUJARATI DIGIT SEVEN"
+    },
+    {
+        "hex": "e0abae",
+        "unicode": "U+0AEE",
+        "name": "GUJARATI DIGIT EIGHT"
+    },
+    {
+        "hex": "e0abaf",
+        "unicode": "U+0AEF",
+        "name": "GUJARATI DIGIT NINE"
+    },
+    {
+        "hex": "e0abb0",
+        "unicode": "U+0AF0",
+        "name": "GUJARATI ABBREVIATION SIGN"
+    },
+    {
+        "hex": "e0abb1",
+        "unicode": "U+0AF1",
+        "name": "GUJARATI RUPEE SIGN"
+    },
+    {
+        "hex": "e0abb2",
+        "unicode": "U+0AF2",
+        "name": ""
+    },
+    {
+        "hex": "e0abb3",
+        "unicode": "U+0AF3",
+        "name": ""
+    },
+    {
+        "hex": "e0abb4",
+        "unicode": "U+0AF4",
+        "name": ""
+    },
+    {
+        "hex": "e0abb5",
+        "unicode": "U+0AF5",
+        "name": ""
+    },
+    {
+        "hex": "e0abb6",
+        "unicode": "U+0AF6",
+        "name": ""
+    },
+    {
+        "hex": "e0abb7",
+        "unicode": "U+0AF7",
+        "name": ""
+    },
+    {
+        "hex": "e0abb8",
+        "unicode": "U+0AF8",
+        "name": ""
+    },
+    {
+        "hex": "e0abb9",
+        "unicode": "U+0AF9",
+        "name": "GUJARATI LETTER ZHA"
+    },
+    {
+        "hex": "e0abba",
+        "unicode": "U+0AFA",
+        "name": "GUJARATI SIGN SUKUN"
+    },
+    {
+        "hex": "e0abbb",
+        "unicode": "U+0AFB",
+        "name": "GUJARATI SIGN SHADDA"
+    },
+    {
+        "hex": "e0abbc",
+        "unicode": "U+0AFC",
+        "name": "GUJARATI SIGN MADDAH"
+    },
+    {
+        "hex": "e0abbd",
+        "unicode": "U+0AFD",
+        "name": "GUJARATI SIGN THREE-DOT NUKTA ABOVE"
+    },
+    {
+        "hex": "e0abbe",
+        "unicode": "U+0AFE",
+        "name": "GUJARATI SIGN CIRCLE NUKTA ABOVE"
+    },
+    {
+        "hex": "e0abbf",
+        "unicode": "U+0AFF",
+        "name": "GUJARATI SIGN TWO-CIRCLE NUKTA ABOVE"
+    }
+]

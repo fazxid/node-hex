@@ -1,0 +1,1282 @@
+[
+    {
+        "hex": "dd90",
+        "unicode": "U+0750",
+        "name": "ARABIC LETTER BEH WITH THREE DOTS HORIZONTALLY BELOW"
+    },
+    {
+        "hex": "dd91",
+        "unicode": "U+0751",
+        "name": "ARABIC LETTER BEH WITH DOT BELOW AND THREE DOTS ABOVE"
+    },
+    {
+        "hex": "dd92",
+        "unicode": "U+0752",
+        "name": "ARABIC LETTER BEH WITH THREE DOTS POINTING UPWARDS BELOW"
+    },
+    {
+        "hex": "dd93",
+        "unicode": "U+0753",
+        "name": "ARABIC LETTER BEH WITH THREE DOTS POINTING UPWARDS BELOW AND TWO DOTS ABOVE"
+    },
+    {
+        "hex": "dd94",
+        "unicode": "U+0754",
+        "name": "ARABIC LETTER BEH WITH TWO DOTS BELOW AND DOT ABOVE"
+    },
+    {
+        "hex": "dd95",
+        "unicode": "U+0755",
+        "name": "ARABIC LETTER BEH WITH INVERTED SMALL V BELOW"
+    },
+    {
+        "hex": "dd96",
+        "unicode": "U+0756",
+        "name": "ARABIC LETTER BEH WITH SMALL V"
+    },
+    {
+        "hex": "dd97",
+        "unicode": "U+0757",
+        "name": "ARABIC LETTER HAH WITH TWO DOTS ABOVE"
+    },
+    {
+        "hex": "dd98",
+        "unicode": "U+0758",
+        "name": "ARABIC LETTER HAH WITH THREE DOTS POINTING UPWARDS BELOW"
+    },
+    {
+        "hex": "dd99",
+        "unicode": "U+0759",
+        "name": "ARABIC LETTER DAL WITH TWO DOTS VERTICALLY BELOW AND SMALL TAH"
+    },
+    {
+        "hex": "dd9a",
+        "unicode": "U+075A",
+        "name": "ARABIC LETTER DAL WITH INVERTED SMALL V BELOW"
+    },
+    {
+        "hex": "dd9b",
+        "unicode": "U+075B",
+        "name": "ARABIC LETTER REH WITH STROKE"
+    },
+    {
+        "hex": "dd9c",
+        "unicode": "U+075C",
+        "name": "ARABIC LETTER SEEN WITH FOUR DOTS ABOVE"
+    },
+    {
+        "hex": "dd9d",
+        "unicode": "U+075D",
+        "name": "ARABIC LETTER AIN WITH TWO DOTS ABOVE"
+    },
+    {
+        "hex": "dd9e",
+        "unicode": "U+075E",
+        "name": "ARABIC LETTER AIN WITH THREE DOTS POINTING DOWNWARDS ABOVE"
+    },
+    {
+        "hex": "dd9f",
+        "unicode": "U+075F",
+        "name": "ARABIC LETTER AIN WITH TWO DOTS VERTICALLY ABOVE"
+    },
+    {
+        "hex": "dda0",
+        "unicode": "U+0760",
+        "name": "ARABIC LETTER FEH WITH TWO DOTS BELOW"
+    },
+    {
+        "hex": "dda1",
+        "unicode": "U+0761",
+        "name": "ARABIC LETTER FEH WITH THREE DOTS POINTING UPWARDS BELOW"
+    },
+    {
+        "hex": "dda2",
+        "unicode": "U+0762",
+        "name": "ARABIC LETTER KEHEH WITH DOT ABOVE"
+    },
+    {
+        "hex": "dda3",
+        "unicode": "U+0763",
+        "name": "ARABIC LETTER KEHEH WITH THREE DOTS ABOVE"
+    },
+    {
+        "hex": "dda4",
+        "unicode": "U+0764",
+        "name": "ARABIC LETTER KEHEH WITH THREE DOTS POINTING UPWARDS BELOW"
+    },
+    {
+        "hex": "dda5",
+        "unicode": "U+0765",
+        "name": "ARABIC LETTER MEEM WITH DOT ABOVE"
+    },
+    {
+        "hex": "dda6",
+        "unicode": "U+0766",
+        "name": "ARABIC LETTER MEEM WITH DOT BELOW"
+    },
+    {
+        "hex": "dda7",
+        "unicode": "U+0767",
+        "name": "ARABIC LETTER NOON WITH TWO DOTS BELOW"
+    },
+    {
+        "hex": "dda8",
+        "unicode": "U+0768",
+        "name": "ARABIC LETTER NOON WITH SMALL TAH"
+    },
+    {
+        "hex": "dda9",
+        "unicode": "U+0769",
+        "name": "ARABIC LETTER NOON WITH SMALL V"
+    },
+    {
+        "hex": "ddaa",
+        "unicode": "U+076A",
+        "name": "ARABIC LETTER LAM WITH BAR"
+    },
+    {
+        "hex": "ddab",
+        "unicode": "U+076B",
+        "name": "ARABIC LETTER REH WITH TWO DOTS VERTICALLY ABOVE"
+    },
+    {
+        "hex": "ddac",
+        "unicode": "U+076C",
+        "name": "ARABIC LETTER REH WITH HAMZA ABOVE"
+    },
+    {
+        "hex": "ddad",
+        "unicode": "U+076D",
+        "name": "ARABIC LETTER SEEN WITH TWO DOTS VERTICALLY ABOVE"
+    },
+    {
+        "hex": "ddae",
+        "unicode": "U+076E",
+        "name": "ARABIC LETTER HAH WITH SMALL ARABIC LETTER TAH BELOW"
+    },
+    {
+        "hex": "ddaf",
+        "unicode": "U+076F",
+        "name": "ARABIC LETTER HAH WITH SMALL ARABIC LETTER TAH AND TWO DOTS"
+    },
+    {
+        "hex": "ddb0",
+        "unicode": "U+0770",
+        "name": "ARABIC LETTER SEEN WITH SMALL ARABIC LETTER TAH AND TWO DOTS"
+    },
+    {
+        "hex": "ddb1",
+        "unicode": "U+0771",
+        "name": "ARABIC LETTER REH WITH SMALL ARABIC LETTER TAH AND TWO DOTS"
+    },
+    {
+        "hex": "ddb2",
+        "unicode": "U+0772",
+        "name": "ARABIC LETTER HAH WITH SMALL ARABIC LETTER TAH ABOVE"
+    },
+    {
+        "hex": "ddb3",
+        "unicode": "U+0773",
+        "name": "ARABIC LETTER ALEF WITH EXTENDED ARABIC-INDIC DIGIT TWO ABOVE"
+    },
+    {
+        "hex": "ddb4",
+        "unicode": "U+0774",
+        "name": "ARABIC LETTER ALEF WITH EXTENDED ARABIC-INDIC DIGIT THREE ABOVE"
+    },
+    {
+        "hex": "ddb5",
+        "unicode": "U+0775",
+        "name": "ARABIC LETTER FARSI YEH WITH EXTENDED ARABIC-INDIC DIGIT TWO ABOVE"
+    },
+    {
+        "hex": "ddb6",
+        "unicode": "U+0776",
+        "name": "ARABIC LETTER FARSI YEH WITH EXTENDED ARABIC-INDIC DIGIT THREE ABOVE"
+    },
+    {
+        "hex": "ddb7",
+        "unicode": "U+0777",
+        "name": "ARABIC LETTER FARSI YEH WITH EXTENDED ARABIC-INDIC DIGIT FOUR BELOW"
+    },
+    {
+        "hex": "ddb8",
+        "unicode": "U+0778",
+        "name": "ARABIC LETTER WAW WITH EXTENDED ARABIC-INDIC DIGIT TWO ABOVE"
+    },
+    {
+        "hex": "ddb9",
+        "unicode": "U+0779",
+        "name": "ARABIC LETTER WAW WITH EXTENDED ARABIC-INDIC DIGIT THREE ABOVE"
+    },
+    {
+        "hex": "ddba",
+        "unicode": "U+077A",
+        "name": "ARABIC LETTER YEH BARREE WITH EXTENDED ARABIC-INDIC DIGIT TWO ABOVE"
+    },
+    {
+        "hex": "ddbb",
+        "unicode": "U+077B",
+        "name": "ARABIC LETTER YEH BARREE WITH EXTENDED ARABIC-INDIC DIGIT THREE ABOVE"
+    },
+    {
+        "hex": "ddbc",
+        "unicode": "U+077C",
+        "name": "ARABIC LETTER HAH WITH EXTENDED ARABIC-INDIC DIGIT FOUR BELOW"
+    },
+    {
+        "hex": "ddbd",
+        "unicode": "U+077D",
+        "name": "ARABIC LETTER SEEN WITH EXTENDED ARABIC-INDIC DIGIT FOUR ABOVE"
+    },
+    {
+        "hex": "ddbe",
+        "unicode": "U+077E",
+        "name": "ARABIC LETTER SEEN WITH INVERTED V"
+    },
+    {
+        "hex": "ddbf",
+        "unicode": "U+077F",
+        "name": "ARABIC LETTER KAF WITH TWO DOTS ABOVE"
+    },
+    {
+        "hex": "de80",
+        "unicode": "U+0780",
+        "name": "THAANA LETTER HAA"
+    },
+    {
+        "hex": "de81",
+        "unicode": "U+0781",
+        "name": "THAANA LETTER SHAVIYANI"
+    },
+    {
+        "hex": "de82",
+        "unicode": "U+0782",
+        "name": "THAANA LETTER NOONU"
+    },
+    {
+        "hex": "de83",
+        "unicode": "U+0783",
+        "name": "THAANA LETTER RAA"
+    },
+    {
+        "hex": "de84",
+        "unicode": "U+0784",
+        "name": "THAANA LETTER BAA"
+    },
+    {
+        "hex": "de85",
+        "unicode": "U+0785",
+        "name": "THAANA LETTER LHAVIYANI"
+    },
+    {
+        "hex": "de86",
+        "unicode": "U+0786",
+        "name": "THAANA LETTER KAAFU"
+    },
+    {
+        "hex": "de87",
+        "unicode": "U+0787",
+        "name": "THAANA LETTER ALIFU"
+    },
+    {
+        "hex": "de88",
+        "unicode": "U+0788",
+        "name": "THAANA LETTER VAAVU"
+    },
+    {
+        "hex": "de89",
+        "unicode": "U+0789",
+        "name": "THAANA LETTER MEEMU"
+    },
+    {
+        "hex": "de8a",
+        "unicode": "U+078A",
+        "name": "THAANA LETTER FAAFU"
+    },
+    {
+        "hex": "de8b",
+        "unicode": "U+078B",
+        "name": "THAANA LETTER DHAALU"
+    },
+    {
+        "hex": "de8c",
+        "unicode": "U+078C",
+        "name": "THAANA LETTER THAA"
+    },
+    {
+        "hex": "de8d",
+        "unicode": "U+078D",
+        "name": "THAANA LETTER LAAMU"
+    },
+    {
+        "hex": "de8e",
+        "unicode": "U+078E",
+        "name": "THAANA LETTER GAAFU"
+    },
+    {
+        "hex": "de8f",
+        "unicode": "U+078F",
+        "name": "THAANA LETTER GNAVIYANI"
+    },
+    {
+        "hex": "de90",
+        "unicode": "U+0790",
+        "name": "THAANA LETTER SEENU"
+    },
+    {
+        "hex": "de91",
+        "unicode": "U+0791",
+        "name": "THAANA LETTER DAVIYANI"
+    },
+    {
+        "hex": "de92",
+        "unicode": "U+0792",
+        "name": "THAANA LETTER ZAVIYANI"
+    },
+    {
+        "hex": "de93",
+        "unicode": "U+0793",
+        "name": "THAANA LETTER TAVIYANI"
+    },
+    {
+        "hex": "de94",
+        "unicode": "U+0794",
+        "name": "THAANA LETTER YAA"
+    },
+    {
+        "hex": "de95",
+        "unicode": "U+0795",
+        "name": "THAANA LETTER PAVIYANI"
+    },
+    {
+        "hex": "de96",
+        "unicode": "U+0796",
+        "name": "THAANA LETTER JAVIYANI"
+    },
+    {
+        "hex": "de97",
+        "unicode": "U+0797",
+        "name": "THAANA LETTER CHAVIYANI"
+    },
+    {
+        "hex": "de98",
+        "unicode": "U+0798",
+        "name": "THAANA LETTER TTAA"
+    },
+    {
+        "hex": "de99",
+        "unicode": "U+0799",
+        "name": "THAANA LETTER HHAA"
+    },
+    {
+        "hex": "de9a",
+        "unicode": "U+079A",
+        "name": "THAANA LETTER KHAA"
+    },
+    {
+        "hex": "de9b",
+        "unicode": "U+079B",
+        "name": "THAANA LETTER THAALU"
+    },
+    {
+        "hex": "de9c",
+        "unicode": "U+079C",
+        "name": "THAANA LETTER ZAA"
+    },
+    {
+        "hex": "de9d",
+        "unicode": "U+079D",
+        "name": "THAANA LETTER SHEENU"
+    },
+    {
+        "hex": "de9e",
+        "unicode": "U+079E",
+        "name": "THAANA LETTER SAADHU"
+    },
+    {
+        "hex": "de9f",
+        "unicode": "U+079F",
+        "name": "THAANA LETTER DAADHU"
+    },
+    {
+        "hex": "dea0",
+        "unicode": "U+07A0",
+        "name": "THAANA LETTER TO"
+    },
+    {
+        "hex": "dea1",
+        "unicode": "U+07A1",
+        "name": "THAANA LETTER ZO"
+    },
+    {
+        "hex": "dea2",
+        "unicode": "U+07A2",
+        "name": "THAANA LETTER AINU"
+    },
+    {
+        "hex": "dea3",
+        "unicode": "U+07A3",
+        "name": "THAANA LETTER GHAINU"
+    },
+    {
+        "hex": "dea4",
+        "unicode": "U+07A4",
+        "name": "THAANA LETTER QAAFU"
+    },
+    {
+        "hex": "dea5",
+        "unicode": "U+07A5",
+        "name": "THAANA LETTER WAAVU"
+    },
+    {
+        "hex": "dea6",
+        "unicode": "U+07A6",
+        "name": "THAANA ABAFILI"
+    },
+    {
+        "hex": "dea7",
+        "unicode": "U+07A7",
+        "name": "THAANA AABAAFILI"
+    },
+    {
+        "hex": "dea8",
+        "unicode": "U+07A8",
+        "name": "THAANA IBIFILI"
+    },
+    {
+        "hex": "dea9",
+        "unicode": "U+07A9",
+        "name": "THAANA EEBEEFILI"
+    },
+    {
+        "hex": "deaa",
+        "unicode": "U+07AA",
+        "name": "THAANA UBUFILI"
+    },
+    {
+        "hex": "deab",
+        "unicode": "U+07AB",
+        "name": "THAANA OOBOOFILI"
+    },
+    {
+        "hex": "deac",
+        "unicode": "U+07AC",
+        "name": "THAANA EBEFILI"
+    },
+    {
+        "hex": "dead",
+        "unicode": "U+07AD",
+        "name": "THAANA EYBEYFILI"
+    },
+    {
+        "hex": "deae",
+        "unicode": "U+07AE",
+        "name": "THAANA OBOFILI"
+    },
+    {
+        "hex": "deaf",
+        "unicode": "U+07AF",
+        "name": "THAANA OABOAFILI"
+    },
+    {
+        "hex": "deb0",
+        "unicode": "U+07B0",
+        "name": "THAANA SUKUN"
+    },
+    {
+        "hex": "deb1",
+        "unicode": "U+07B1",
+        "name": "THAANA LETTER NAA"
+    },
+    {
+        "hex": "deb2",
+        "unicode": "U+07B2",
+        "name": ""
+    },
+    {
+        "hex": "deb3",
+        "unicode": "U+07B3",
+        "name": ""
+    },
+    {
+        "hex": "deb4",
+        "unicode": "U+07B4",
+        "name": ""
+    },
+    {
+        "hex": "deb5",
+        "unicode": "U+07B5",
+        "name": ""
+    },
+    {
+        "hex": "deb6",
+        "unicode": "U+07B6",
+        "name": ""
+    },
+    {
+        "hex": "deb7",
+        "unicode": "U+07B7",
+        "name": ""
+    },
+    {
+        "hex": "deb8",
+        "unicode": "U+07B8",
+        "name": ""
+    },
+    {
+        "hex": "deb9",
+        "unicode": "U+07B9",
+        "name": ""
+    },
+    {
+        "hex": "deba",
+        "unicode": "U+07BA",
+        "name": ""
+    },
+    {
+        "hex": "debb",
+        "unicode": "U+07BB",
+        "name": ""
+    },
+    {
+        "hex": "debc",
+        "unicode": "U+07BC",
+        "name": ""
+    },
+    {
+        "hex": "debd",
+        "unicode": "U+07BD",
+        "name": ""
+    },
+    {
+        "hex": "debe",
+        "unicode": "U+07BE",
+        "name": ""
+    },
+    {
+        "hex": "debf",
+        "unicode": "U+07BF",
+        "name": ""
+    },
+    {
+        "hex": "df80",
+        "unicode": "U+07C0",
+        "name": "NKO DIGIT ZERO"
+    },
+    {
+        "hex": "df81",
+        "unicode": "U+07C1",
+        "name": "NKO DIGIT ONE"
+    },
+    {
+        "hex": "df82",
+        "unicode": "U+07C2",
+        "name": "NKO DIGIT TWO"
+    },
+    {
+        "hex": "df83",
+        "unicode": "U+07C3",
+        "name": "NKO DIGIT THREE"
+    },
+    {
+        "hex": "df84",
+        "unicode": "U+07C4",
+        "name": "NKO DIGIT FOUR"
+    },
+    {
+        "hex": "df85",
+        "unicode": "U+07C5",
+        "name": "NKO DIGIT FIVE"
+    },
+    {
+        "hex": "df86",
+        "unicode": "U+07C6",
+        "name": "NKO DIGIT SIX"
+    },
+    {
+        "hex": "df87",
+        "unicode": "U+07C7",
+        "name": "NKO DIGIT SEVEN"
+    },
+    {
+        "hex": "df88",
+        "unicode": "U+07C8",
+        "name": "NKO DIGIT EIGHT"
+    },
+    {
+        "hex": "df89",
+        "unicode": "U+07C9",
+        "name": "NKO DIGIT NINE"
+    },
+    {
+        "hex": "df8a",
+        "unicode": "U+07CA",
+        "name": "NKO LETTER A"
+    },
+    {
+        "hex": "df8b",
+        "unicode": "U+07CB",
+        "name": "NKO LETTER EE"
+    },
+    {
+        "hex": "df8c",
+        "unicode": "U+07CC",
+        "name": "NKO LETTER I"
+    },
+    {
+        "hex": "df8d",
+        "unicode": "U+07CD",
+        "name": "NKO LETTER E"
+    },
+    {
+        "hex": "df8e",
+        "unicode": "U+07CE",
+        "name": "NKO LETTER U"
+    },
+    {
+        "hex": "df8f",
+        "unicode": "U+07CF",
+        "name": "NKO LETTER OO"
+    },
+    {
+        "hex": "df90",
+        "unicode": "U+07D0",
+        "name": "NKO LETTER O"
+    },
+    {
+        "hex": "df91",
+        "unicode": "U+07D1",
+        "name": "NKO LETTER DAGBASINNA"
+    },
+    {
+        "hex": "df92",
+        "unicode": "U+07D2",
+        "name": "NKO LETTER N"
+    },
+    {
+        "hex": "df93",
+        "unicode": "U+07D3",
+        "name": "NKO LETTER BA"
+    },
+    {
+        "hex": "df94",
+        "unicode": "U+07D4",
+        "name": "NKO LETTER PA"
+    },
+    {
+        "hex": "df95",
+        "unicode": "U+07D5",
+        "name": "NKO LETTER TA"
+    },
+    {
+        "hex": "df96",
+        "unicode": "U+07D6",
+        "name": "NKO LETTER JA"
+    },
+    {
+        "hex": "df97",
+        "unicode": "U+07D7",
+        "name": "NKO LETTER CHA"
+    },
+    {
+        "hex": "df98",
+        "unicode": "U+07D8",
+        "name": "NKO LETTER DA"
+    },
+    {
+        "hex": "df99",
+        "unicode": "U+07D9",
+        "name": "NKO LETTER RA"
+    },
+    {
+        "hex": "df9a",
+        "unicode": "U+07DA",
+        "name": "NKO LETTER RRA"
+    },
+    {
+        "hex": "df9b",
+        "unicode": "U+07DB",
+        "name": "NKO LETTER SA"
+    },
+    {
+        "hex": "df9c",
+        "unicode": "U+07DC",
+        "name": "NKO LETTER GBA"
+    },
+    {
+        "hex": "df9d",
+        "unicode": "U+07DD",
+        "name": "NKO LETTER FA"
+    },
+    {
+        "hex": "df9e",
+        "unicode": "U+07DE",
+        "name": "NKO LETTER KA"
+    },
+    {
+        "hex": "df9f",
+        "unicode": "U+07DF",
+        "name": "NKO LETTER LA"
+    },
+    {
+        "hex": "dfa0",
+        "unicode": "U+07E0",
+        "name": "NKO LETTER NA WOLOSO"
+    },
+    {
+        "hex": "dfa1",
+        "unicode": "U+07E1",
+        "name": "NKO LETTER MA"
+    },
+    {
+        "hex": "dfa2",
+        "unicode": "U+07E2",
+        "name": "NKO LETTER NYA"
+    },
+    {
+        "hex": "dfa3",
+        "unicode": "U+07E3",
+        "name": "NKO LETTER NA"
+    },
+    {
+        "hex": "dfa4",
+        "unicode": "U+07E4",
+        "name": "NKO LETTER HA"
+    },
+    {
+        "hex": "dfa5",
+        "unicode": "U+07E5",
+        "name": "NKO LETTER WA"
+    },
+    {
+        "hex": "dfa6",
+        "unicode": "U+07E6",
+        "name": "NKO LETTER YA"
+    },
+    {
+        "hex": "dfa7",
+        "unicode": "U+07E7",
+        "name": "NKO LETTER NYA WOLOSO"
+    },
+    {
+        "hex": "dfa8",
+        "unicode": "U+07E8",
+        "name": "NKO LETTER JONA JA"
+    },
+    {
+        "hex": "dfa9",
+        "unicode": "U+07E9",
+        "name": "NKO LETTER JONA CHA"
+    },
+    {
+        "hex": "dfaa",
+        "unicode": "U+07EA",
+        "name": "NKO LETTER JONA RA"
+    },
+    {
+        "hex": "dfab",
+        "unicode": "U+07EB",
+        "name": "NKO COMBINING SHORT HIGH TONE"
+    },
+    {
+        "hex": "dfac",
+        "unicode": "U+07EC",
+        "name": "NKO COMBINING SHORT LOW TONE"
+    },
+    {
+        "hex": "dfad",
+        "unicode": "U+07ED",
+        "name": "NKO COMBINING SHORT RISING TONE"
+    },
+    {
+        "hex": "dfae",
+        "unicode": "U+07EE",
+        "name": "NKO COMBINING LONG DESCENDING TONE"
+    },
+    {
+        "hex": "dfaf",
+        "unicode": "U+07EF",
+        "name": "NKO COMBINING LONG HIGH TONE"
+    },
+    {
+        "hex": "dfb0",
+        "unicode": "U+07F0",
+        "name": "NKO COMBINING LONG LOW TONE"
+    },
+    {
+        "hex": "dfb1",
+        "unicode": "U+07F1",
+        "name": "NKO COMBINING LONG RISING TONE"
+    },
+    {
+        "hex": "dfb2",
+        "unicode": "U+07F2",
+        "name": "NKO COMBINING NASALIZATION MARK"
+    },
+    {
+        "hex": "dfb3",
+        "unicode": "U+07F3",
+        "name": "NKO COMBINING DOUBLE DOT ABOVE"
+    },
+    {
+        "hex": "dfb4",
+        "unicode": "U+07F4",
+        "name": "NKO HIGH TONE APOSTROPHE"
+    },
+    {
+        "hex": "dfb5",
+        "unicode": "U+07F5",
+        "name": "NKO LOW TONE APOSTROPHE"
+    },
+    {
+        "hex": "dfb6",
+        "unicode": "U+07F6",
+        "name": "NKO SYMBOL OO DENNEN"
+    },
+    {
+        "hex": "dfb7",
+        "unicode": "U+07F7",
+        "name": "NKO SYMBOL GBAKURUNEN"
+    },
+    {
+        "hex": "dfb8",
+        "unicode": "U+07F8",
+        "name": "NKO COMMA"
+    },
+    {
+        "hex": "dfb9",
+        "unicode": "U+07F9",
+        "name": "NKO EXCLAMATION MARK"
+    },
+    {
+        "hex": "dfba",
+        "unicode": "U+07FA",
+        "name": "NKO LAJANYALAN"
+    },
+    {
+        "hex": "dfbb",
+        "unicode": "U+07FB",
+        "name": ""
+    },
+    {
+        "hex": "dfbc",
+        "unicode": "U+07FC",
+        "name": ""
+    },
+    {
+        "hex": "dfbd",
+        "unicode": "U+07FD",
+        "name": "NKO DANTAYALAN"
+    },
+    {
+        "hex": "dfbe",
+        "unicode": "U+07FE",
+        "name": "NKO DOROME SIGN"
+    },
+    {
+        "hex": "dfbf",
+        "unicode": "U+07FF",
+        "name": "NKO TAMAN SIGN"
+    },
+    {
+        "hex": "e0a080",
+        "unicode": "U+0800",
+        "name": "SAMARITAN LETTER ALAF"
+    },
+    {
+        "hex": "e0a081",
+        "unicode": "U+0801",
+        "name": "SAMARITAN LETTER BIT"
+    },
+    {
+        "hex": "e0a082",
+        "unicode": "U+0802",
+        "name": "SAMARITAN LETTER GAMAN"
+    },
+    {
+        "hex": "e0a083",
+        "unicode": "U+0803",
+        "name": "SAMARITAN LETTER DALAT"
+    },
+    {
+        "hex": "e0a084",
+        "unicode": "U+0804",
+        "name": "SAMARITAN LETTER IY"
+    },
+    {
+        "hex": "e0a085",
+        "unicode": "U+0805",
+        "name": "SAMARITAN LETTER BAA"
+    },
+    {
+        "hex": "e0a086",
+        "unicode": "U+0806",
+        "name": "SAMARITAN LETTER ZEN"
+    },
+    {
+        "hex": "e0a087",
+        "unicode": "U+0807",
+        "name": "SAMARITAN LETTER IT"
+    },
+    {
+        "hex": "e0a088",
+        "unicode": "U+0808",
+        "name": "SAMARITAN LETTER TIT"
+    },
+    {
+        "hex": "e0a089",
+        "unicode": "U+0809",
+        "name": "SAMARITAN LETTER YUT"
+    },
+    {
+        "hex": "e0a08a",
+        "unicode": "U+080A",
+        "name": "SAMARITAN LETTER KAAF"
+    },
+    {
+        "hex": "e0a08b",
+        "unicode": "U+080B",
+        "name": "SAMARITAN LETTER LABAT"
+    },
+    {
+        "hex": "e0a08c",
+        "unicode": "U+080C",
+        "name": "SAMARITAN LETTER MIM"
+    },
+    {
+        "hex": "e0a08d",
+        "unicode": "U+080D",
+        "name": "SAMARITAN LETTER NUN"
+    },
+    {
+        "hex": "e0a08e",
+        "unicode": "U+080E",
+        "name": "SAMARITAN LETTER SINGAAT"
+    },
+    {
+        "hex": "e0a08f",
+        "unicode": "U+080F",
+        "name": "SAMARITAN LETTER IN"
+    },
+    {
+        "hex": "e0a090",
+        "unicode": "U+0810",
+        "name": "SAMARITAN LETTER FI"
+    },
+    {
+        "hex": "e0a091",
+        "unicode": "U+0811",
+        "name": "SAMARITAN LETTER TSAADIY"
+    },
+    {
+        "hex": "e0a092",
+        "unicode": "U+0812",
+        "name": "SAMARITAN LETTER QUF"
+    },
+    {
+        "hex": "e0a093",
+        "unicode": "U+0813",
+        "name": "SAMARITAN LETTER RISH"
+    },
+    {
+        "hex": "e0a094",
+        "unicode": "U+0814",
+        "name": "SAMARITAN LETTER SHAN"
+    },
+    {
+        "hex": "e0a095",
+        "unicode": "U+0815",
+        "name": "SAMARITAN LETTER TAAF"
+    },
+    {
+        "hex": "e0a096",
+        "unicode": "U+0816",
+        "name": "SAMARITAN MARK IN"
+    },
+    {
+        "hex": "e0a097",
+        "unicode": "U+0817",
+        "name": "SAMARITAN MARK IN-ALAF"
+    },
+    {
+        "hex": "e0a098",
+        "unicode": "U+0818",
+        "name": "SAMARITAN MARK OCCLUSION"
+    },
+    {
+        "hex": "e0a099",
+        "unicode": "U+0819",
+        "name": "SAMARITAN MARK DAGESH"
+    },
+    {
+        "hex": "e0a09a",
+        "unicode": "U+081A",
+        "name": "SAMARITAN MODIFIER LETTER EPENTHETIC YUT"
+    },
+    {
+        "hex": "e0a09b",
+        "unicode": "U+081B",
+        "name": "SAMARITAN MARK EPENTHETIC YUT"
+    },
+    {
+        "hex": "e0a09c",
+        "unicode": "U+081C",
+        "name": "SAMARITAN VOWEL SIGN LONG E"
+    },
+    {
+        "hex": "e0a09d",
+        "unicode": "U+081D",
+        "name": "SAMARITAN VOWEL SIGN E"
+    },
+    {
+        "hex": "e0a09e",
+        "unicode": "U+081E",
+        "name": "SAMARITAN VOWEL SIGN OVERLONG AA"
+    },
+    {
+        "hex": "e0a09f",
+        "unicode": "U+081F",
+        "name": "SAMARITAN VOWEL SIGN LONG AA"
+    },
+    {
+        "hex": "e0a0a0",
+        "unicode": "U+0820",
+        "name": "SAMARITAN VOWEL SIGN AA"
+    },
+    {
+        "hex": "e0a0a1",
+        "unicode": "U+0821",
+        "name": "SAMARITAN VOWEL SIGN OVERLONG A"
+    },
+    {
+        "hex": "e0a0a2",
+        "unicode": "U+0822",
+        "name": "SAMARITAN VOWEL SIGN LONG A"
+    },
+    {
+        "hex": "e0a0a3",
+        "unicode": "U+0823",
+        "name": "SAMARITAN VOWEL SIGN A"
+    },
+    {
+        "hex": "e0a0a4",
+        "unicode": "U+0824",
+        "name": "SAMARITAN MODIFIER LETTER SHORT A"
+    },
+    {
+        "hex": "e0a0a5",
+        "unicode": "U+0825",
+        "name": "SAMARITAN VOWEL SIGN SHORT A"
+    },
+    {
+        "hex": "e0a0a6",
+        "unicode": "U+0826",
+        "name": "SAMARITAN VOWEL SIGN LONG U"
+    },
+    {
+        "hex": "e0a0a7",
+        "unicode": "U+0827",
+        "name": "SAMARITAN VOWEL SIGN U"
+    },
+    {
+        "hex": "e0a0a8",
+        "unicode": "U+0828",
+        "name": "SAMARITAN MODIFIER LETTER I"
+    },
+    {
+        "hex": "e0a0a9",
+        "unicode": "U+0829",
+        "name": "SAMARITAN VOWEL SIGN LONG I"
+    },
+    {
+        "hex": "e0a0aa",
+        "unicode": "U+082A",
+        "name": "SAMARITAN VOWEL SIGN I"
+    },
+    {
+        "hex": "e0a0ab",
+        "unicode": "U+082B",
+        "name": "SAMARITAN VOWEL SIGN O"
+    },
+    {
+        "hex": "e0a0ac",
+        "unicode": "U+082C",
+        "name": "SAMARITAN VOWEL SIGN SUKUN"
+    },
+    {
+        "hex": "e0a0ad",
+        "unicode": "U+082D",
+        "name": "SAMARITAN MARK NEQUDAA"
+    },
+    {
+        "hex": "e0a0ae",
+        "unicode": "U+082E",
+        "name": ""
+    },
+    {
+        "hex": "e0a0af",
+        "unicode": "U+082F",
+        "name": ""
+    },
+    {
+        "hex": "e0a0b0",
+        "unicode": "U+0830",
+        "name": "SAMARITAN PUNCTUATION NEQUDAA"
+    },
+    {
+        "hex": "e0a0b1",
+        "unicode": "U+0831",
+        "name": "SAMARITAN PUNCTUATION AFSAAQ"
+    },
+    {
+        "hex": "e0a0b2",
+        "unicode": "U+0832",
+        "name": "SAMARITAN PUNCTUATION ANGED"
+    },
+    {
+        "hex": "e0a0b3",
+        "unicode": "U+0833",
+        "name": "SAMARITAN PUNCTUATION BAU"
+    },
+    {
+        "hex": "e0a0b4",
+        "unicode": "U+0834",
+        "name": "SAMARITAN PUNCTUATION ATMAAU"
+    },
+    {
+        "hex": "e0a0b5",
+        "unicode": "U+0835",
+        "name": "SAMARITAN PUNCTUATION SHIYYAALAA"
+    },
+    {
+        "hex": "e0a0b6",
+        "unicode": "U+0836",
+        "name": "SAMARITAN ABBREVIATION MARK"
+    },
+    {
+        "hex": "e0a0b7",
+        "unicode": "U+0837",
+        "name": "SAMARITAN PUNCTUATION MELODIC QITSA"
+    },
+    {
+        "hex": "e0a0b8",
+        "unicode": "U+0838",
+        "name": "SAMARITAN PUNCTUATION ZIQAA"
+    },
+    {
+        "hex": "e0a0b9",
+        "unicode": "U+0839",
+        "name": "SAMARITAN PUNCTUATION QITSA"
+    },
+    {
+        "hex": "e0a0ba",
+        "unicode": "U+083A",
+        "name": "SAMARITAN PUNCTUATION ZAEF"
+    },
+    {
+        "hex": "e0a0bb",
+        "unicode": "U+083B",
+        "name": "SAMARITAN PUNCTUATION TURU"
+    },
+    {
+        "hex": "e0a0bc",
+        "unicode": "U+083C",
+        "name": "SAMARITAN PUNCTUATION ARKAANU"
+    },
+    {
+        "hex": "e0a0bd",
+        "unicode": "U+083D",
+        "name": "SAMARITAN PUNCTUATION SOF MASHFAAT"
+    },
+    {
+        "hex": "e0a0be",
+        "unicode": "U+083E",
+        "name": "SAMARITAN PUNCTUATION ANNAAU"
+    },
+    {
+        "hex": "e0a0bf",
+        "unicode": "U+083F",
+        "name": ""
+    },
+    {
+        "hex": "e0a180",
+        "unicode": "U+0840",
+        "name": "MANDAIC LETTER HALQA"
+    },
+    {
+        "hex": "e0a181",
+        "unicode": "U+0841",
+        "name": "MANDAIC LETTER AB"
+    },
+    {
+        "hex": "e0a182",
+        "unicode": "U+0842",
+        "name": "MANDAIC LETTER AG"
+    },
+    {
+        "hex": "e0a183",
+        "unicode": "U+0843",
+        "name": "MANDAIC LETTER AD"
+    },
+    {
+        "hex": "e0a184",
+        "unicode": "U+0844",
+        "name": "MANDAIC LETTER AH"
+    },
+    {
+        "hex": "e0a185",
+        "unicode": "U+0845",
+        "name": "MANDAIC LETTER USHENNA"
+    },
+    {
+        "hex": "e0a186",
+        "unicode": "U+0846",
+        "name": "MANDAIC LETTER AZ"
+    },
+    {
+        "hex": "e0a187",
+        "unicode": "U+0847",
+        "name": "MANDAIC LETTER IT"
+    },
+    {
+        "hex": "e0a188",
+        "unicode": "U+0848",
+        "name": "MANDAIC LETTER ATT"
+    },
+    {
+        "hex": "e0a189",
+        "unicode": "U+0849",
+        "name": "MANDAIC LETTER AKSA"
+    },
+    {
+        "hex": "e0a18a",
+        "unicode": "U+084A",
+        "name": "MANDAIC LETTER AK"
+    },
+    {
+        "hex": "e0a18b",
+        "unicode": "U+084B",
+        "name": "MANDAIC LETTER AL"
+    },
+    {
+        "hex": "e0a18c",
+        "unicode": "U+084C",
+        "name": "MANDAIC LETTER AM"
+    },
+    {
+        "hex": "e0a18d",
+        "unicode": "U+084D",
+        "name": "MANDAIC LETTER AN"
+    },
+    {
+        "hex": "e0a18e",
+        "unicode": "U+084E",
+        "name": "MANDAIC LETTER AS"
+    },
+    {
+        "hex": "e0a18f",
+        "unicode": "U+084F",
+        "name": "MANDAIC LETTER IN"
+    }
+]
