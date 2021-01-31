@@ -1,0 +1,1282 @@
+[
+    {
+        "hex": "e18480",
+        "unicode": "U+1100",
+        "name": "HANGUL CHOSEONG KIYEOK"
+    },
+    {
+        "hex": "e18481",
+        "unicode": "U+1101",
+        "name": "HANGUL CHOSEONG SSANGKIYEOK"
+    },
+    {
+        "hex": "e18482",
+        "unicode": "U+1102",
+        "name": "HANGUL CHOSEONG NIEUN"
+    },
+    {
+        "hex": "e18483",
+        "unicode": "U+1103",
+        "name": "HANGUL CHOSEONG TIKEUT"
+    },
+    {
+        "hex": "e18484",
+        "unicode": "U+1104",
+        "name": "HANGUL CHOSEONG SSANGTIKEUT"
+    },
+    {
+        "hex": "e18485",
+        "unicode": "U+1105",
+        "name": "HANGUL CHOSEONG RIEUL"
+    },
+    {
+        "hex": "e18486",
+        "unicode": "U+1106",
+        "name": "HANGUL CHOSEONG MIEUM"
+    },
+    {
+        "hex": "e18487",
+        "unicode": "U+1107",
+        "name": "HANGUL CHOSEONG PIEUP"
+    },
+    {
+        "hex": "e18488",
+        "unicode": "U+1108",
+        "name": "HANGUL CHOSEONG SSANGPIEUP"
+    },
+    {
+        "hex": "e18489",
+        "unicode": "U+1109",
+        "name": "HANGUL CHOSEONG SIOS"
+    },
+    {
+        "hex": "e1848a",
+        "unicode": "U+110A",
+        "name": "HANGUL CHOSEONG SSANGSIOS"
+    },
+    {
+        "hex": "e1848b",
+        "unicode": "U+110B",
+        "name": "HANGUL CHOSEONG IEUNG"
+    },
+    {
+        "hex": "e1848c",
+        "unicode": "U+110C",
+        "name": "HANGUL CHOSEONG CIEUC"
+    },
+    {
+        "hex": "e1848d",
+        "unicode": "U+110D",
+        "name": "HANGUL CHOSEONG SSANGCIEUC"
+    },
+    {
+        "hex": "e1848e",
+        "unicode": "U+110E",
+        "name": "HANGUL CHOSEONG CHIEUCH"
+    },
+    {
+        "hex": "e1848f",
+        "unicode": "U+110F",
+        "name": "HANGUL CHOSEONG KHIEUKH"
+    },
+    {
+        "hex": "e18490",
+        "unicode": "U+1110",
+        "name": "HANGUL CHOSEONG THIEUTH"
+    },
+    {
+        "hex": "e18491",
+        "unicode": "U+1111",
+        "name": "HANGUL CHOSEONG PHIEUPH"
+    },
+    {
+        "hex": "e18492",
+        "unicode": "U+1112",
+        "name": "HANGUL CHOSEONG HIEUH"
+    },
+    {
+        "hex": "e18493",
+        "unicode": "U+1113",
+        "name": "HANGUL CHOSEONG NIEUN-KIYEOK"
+    },
+    {
+        "hex": "e18494",
+        "unicode": "U+1114",
+        "name": "HANGUL CHOSEONG SSANGNIEUN"
+    },
+    {
+        "hex": "e18495",
+        "unicode": "U+1115",
+        "name": "HANGUL CHOSEONG NIEUN-TIKEUT"
+    },
+    {
+        "hex": "e18496",
+        "unicode": "U+1116",
+        "name": "HANGUL CHOSEONG NIEUN-PIEUP"
+    },
+    {
+        "hex": "e18497",
+        "unicode": "U+1117",
+        "name": "HANGUL CHOSEONG TIKEUT-KIYEOK"
+    },
+    {
+        "hex": "e18498",
+        "unicode": "U+1118",
+        "name": "HANGUL CHOSEONG RIEUL-NIEUN"
+    },
+    {
+        "hex": "e18499",
+        "unicode": "U+1119",
+        "name": "HANGUL CHOSEONG SSANGRIEUL"
+    },
+    {
+        "hex": "e1849a",
+        "unicode": "U+111A",
+        "name": "HANGUL CHOSEONG RIEUL-HIEUH"
+    },
+    {
+        "hex": "e1849b",
+        "unicode": "U+111B",
+        "name": "HANGUL CHOSEONG KAPYEOUNRIEUL"
+    },
+    {
+        "hex": "e1849c",
+        "unicode": "U+111C",
+        "name": "HANGUL CHOSEONG MIEUM-PIEUP"
+    },
+    {
+        "hex": "e1849d",
+        "unicode": "U+111D",
+        "name": "HANGUL CHOSEONG KAPYEOUNMIEUM"
+    },
+    {
+        "hex": "e1849e",
+        "unicode": "U+111E",
+        "name": "HANGUL CHOSEONG PIEUP-KIYEOK"
+    },
+    {
+        "hex": "e1849f",
+        "unicode": "U+111F",
+        "name": "HANGUL CHOSEONG PIEUP-NIEUN"
+    },
+    {
+        "hex": "e184a0",
+        "unicode": "U+1120",
+        "name": "HANGUL CHOSEONG PIEUP-TIKEUT"
+    },
+    {
+        "hex": "e184a1",
+        "unicode": "U+1121",
+        "name": "HANGUL CHOSEONG PIEUP-SIOS"
+    },
+    {
+        "hex": "e184a2",
+        "unicode": "U+1122",
+        "name": "HANGUL CHOSEONG PIEUP-SIOS-KIYEOK"
+    },
+    {
+        "hex": "e184a3",
+        "unicode": "U+1123",
+        "name": "HANGUL CHOSEONG PIEUP-SIOS-TIKEUT"
+    },
+    {
+        "hex": "e184a4",
+        "unicode": "U+1124",
+        "name": "HANGUL CHOSEONG PIEUP-SIOS-PIEUP"
+    },
+    {
+        "hex": "e184a5",
+        "unicode": "U+1125",
+        "name": "HANGUL CHOSEONG PIEUP-SSANGSIOS"
+    },
+    {
+        "hex": "e184a6",
+        "unicode": "U+1126",
+        "name": "HANGUL CHOSEONG PIEUP-SIOS-CIEUC"
+    },
+    {
+        "hex": "e184a7",
+        "unicode": "U+1127",
+        "name": "HANGUL CHOSEONG PIEUP-CIEUC"
+    },
+    {
+        "hex": "e184a8",
+        "unicode": "U+1128",
+        "name": "HANGUL CHOSEONG PIEUP-CHIEUCH"
+    },
+    {
+        "hex": "e184a9",
+        "unicode": "U+1129",
+        "name": "HANGUL CHOSEONG PIEUP-THIEUTH"
+    },
+    {
+        "hex": "e184aa",
+        "unicode": "U+112A",
+        "name": "HANGUL CHOSEONG PIEUP-PHIEUPH"
+    },
+    {
+        "hex": "e184ab",
+        "unicode": "U+112B",
+        "name": "HANGUL CHOSEONG KAPYEOUNPIEUP"
+    },
+    {
+        "hex": "e184ac",
+        "unicode": "U+112C",
+        "name": "HANGUL CHOSEONG KAPYEOUNSSANGPIEUP"
+    },
+    {
+        "hex": "e184ad",
+        "unicode": "U+112D",
+        "name": "HANGUL CHOSEONG SIOS-KIYEOK"
+    },
+    {
+        "hex": "e184ae",
+        "unicode": "U+112E",
+        "name": "HANGUL CHOSEONG SIOS-NIEUN"
+    },
+    {
+        "hex": "e184af",
+        "unicode": "U+112F",
+        "name": "HANGUL CHOSEONG SIOS-TIKEUT"
+    },
+    {
+        "hex": "e184b0",
+        "unicode": "U+1130",
+        "name": "HANGUL CHOSEONG SIOS-RIEUL"
+    },
+    {
+        "hex": "e184b1",
+        "unicode": "U+1131",
+        "name": "HANGUL CHOSEONG SIOS-MIEUM"
+    },
+    {
+        "hex": "e184b2",
+        "unicode": "U+1132",
+        "name": "HANGUL CHOSEONG SIOS-PIEUP"
+    },
+    {
+        "hex": "e184b3",
+        "unicode": "U+1133",
+        "name": "HANGUL CHOSEONG SIOS-PIEUP-KIYEOK"
+    },
+    {
+        "hex": "e184b4",
+        "unicode": "U+1134",
+        "name": "HANGUL CHOSEONG SIOS-SSANGSIOS"
+    },
+    {
+        "hex": "e184b5",
+        "unicode": "U+1135",
+        "name": "HANGUL CHOSEONG SIOS-IEUNG"
+    },
+    {
+        "hex": "e184b6",
+        "unicode": "U+1136",
+        "name": "HANGUL CHOSEONG SIOS-CIEUC"
+    },
+    {
+        "hex": "e184b7",
+        "unicode": "U+1137",
+        "name": "HANGUL CHOSEONG SIOS-CHIEUCH"
+    },
+    {
+        "hex": "e184b8",
+        "unicode": "U+1138",
+        "name": "HANGUL CHOSEONG SIOS-KHIEUKH"
+    },
+    {
+        "hex": "e184b9",
+        "unicode": "U+1139",
+        "name": "HANGUL CHOSEONG SIOS-THIEUTH"
+    },
+    {
+        "hex": "e184ba",
+        "unicode": "U+113A",
+        "name": "HANGUL CHOSEONG SIOS-PHIEUPH"
+    },
+    {
+        "hex": "e184bb",
+        "unicode": "U+113B",
+        "name": "HANGUL CHOSEONG SIOS-HIEUH"
+    },
+    {
+        "hex": "e184bc",
+        "unicode": "U+113C",
+        "name": "HANGUL CHOSEONG CHITUEUMSIOS"
+    },
+    {
+        "hex": "e184bd",
+        "unicode": "U+113D",
+        "name": "HANGUL CHOSEONG CHITUEUMSSANGSIOS"
+    },
+    {
+        "hex": "e184be",
+        "unicode": "U+113E",
+        "name": "HANGUL CHOSEONG CEONGCHIEUMSIOS"
+    },
+    {
+        "hex": "e184bf",
+        "unicode": "U+113F",
+        "name": "HANGUL CHOSEONG CEONGCHIEUMSSANGSIOS"
+    },
+    {
+        "hex": "e18580",
+        "unicode": "U+1140",
+        "name": "HANGUL CHOSEONG PANSIOS"
+    },
+    {
+        "hex": "e18581",
+        "unicode": "U+1141",
+        "name": "HANGUL CHOSEONG IEUNG-KIYEOK"
+    },
+    {
+        "hex": "e18582",
+        "unicode": "U+1142",
+        "name": "HANGUL CHOSEONG IEUNG-TIKEUT"
+    },
+    {
+        "hex": "e18583",
+        "unicode": "U+1143",
+        "name": "HANGUL CHOSEONG IEUNG-MIEUM"
+    },
+    {
+        "hex": "e18584",
+        "unicode": "U+1144",
+        "name": "HANGUL CHOSEONG IEUNG-PIEUP"
+    },
+    {
+        "hex": "e18585",
+        "unicode": "U+1145",
+        "name": "HANGUL CHOSEONG IEUNG-SIOS"
+    },
+    {
+        "hex": "e18586",
+        "unicode": "U+1146",
+        "name": "HANGUL CHOSEONG IEUNG-PANSIOS"
+    },
+    {
+        "hex": "e18587",
+        "unicode": "U+1147",
+        "name": "HANGUL CHOSEONG SSANGIEUNG"
+    },
+    {
+        "hex": "e18588",
+        "unicode": "U+1148",
+        "name": "HANGUL CHOSEONG IEUNG-CIEUC"
+    },
+    {
+        "hex": "e18589",
+        "unicode": "U+1149",
+        "name": "HANGUL CHOSEONG IEUNG-CHIEUCH"
+    },
+    {
+        "hex": "e1858a",
+        "unicode": "U+114A",
+        "name": "HANGUL CHOSEONG IEUNG-THIEUTH"
+    },
+    {
+        "hex": "e1858b",
+        "unicode": "U+114B",
+        "name": "HANGUL CHOSEONG IEUNG-PHIEUPH"
+    },
+    {
+        "hex": "e1858c",
+        "unicode": "U+114C",
+        "name": "HANGUL CHOSEONG YESIEUNG"
+    },
+    {
+        "hex": "e1858d",
+        "unicode": "U+114D",
+        "name": "HANGUL CHOSEONG CIEUC-IEUNG"
+    },
+    {
+        "hex": "e1858e",
+        "unicode": "U+114E",
+        "name": "HANGUL CHOSEONG CHITUEUMCIEUC"
+    },
+    {
+        "hex": "e1858f",
+        "unicode": "U+114F",
+        "name": "HANGUL CHOSEONG CHITUEUMSSANGCIEUC"
+    },
+    {
+        "hex": "e18590",
+        "unicode": "U+1150",
+        "name": "HANGUL CHOSEONG CEONGCHIEUMCIEUC"
+    },
+    {
+        "hex": "e18591",
+        "unicode": "U+1151",
+        "name": "HANGUL CHOSEONG CEONGCHIEUMSSANGCIEUC"
+    },
+    {
+        "hex": "e18592",
+        "unicode": "U+1152",
+        "name": "HANGUL CHOSEONG CHIEUCH-KHIEUKH"
+    },
+    {
+        "hex": "e18593",
+        "unicode": "U+1153",
+        "name": "HANGUL CHOSEONG CHIEUCH-HIEUH"
+    },
+    {
+        "hex": "e18594",
+        "unicode": "U+1154",
+        "name": "HANGUL CHOSEONG CHITUEUMCHIEUCH"
+    },
+    {
+        "hex": "e18595",
+        "unicode": "U+1155",
+        "name": "HANGUL CHOSEONG CEONGCHIEUMCHIEUCH"
+    },
+    {
+        "hex": "e18596",
+        "unicode": "U+1156",
+        "name": "HANGUL CHOSEONG PHIEUPH-PIEUP"
+    },
+    {
+        "hex": "e18597",
+        "unicode": "U+1157",
+        "name": "HANGUL CHOSEONG KAPYEOUNPHIEUPH"
+    },
+    {
+        "hex": "e18598",
+        "unicode": "U+1158",
+        "name": "HANGUL CHOSEONG SSANGHIEUH"
+    },
+    {
+        "hex": "e18599",
+        "unicode": "U+1159",
+        "name": "HANGUL CHOSEONG YEORINHIEUH"
+    },
+    {
+        "hex": "e1859a",
+        "unicode": "U+115A",
+        "name": "HANGUL CHOSEONG KIYEOK-TIKEUT"
+    },
+    {
+        "hex": "e1859b",
+        "unicode": "U+115B",
+        "name": "HANGUL CHOSEONG NIEUN-SIOS"
+    },
+    {
+        "hex": "e1859c",
+        "unicode": "U+115C",
+        "name": "HANGUL CHOSEONG NIEUN-CIEUC"
+    },
+    {
+        "hex": "e1859d",
+        "unicode": "U+115D",
+        "name": "HANGUL CHOSEONG NIEUN-HIEUH"
+    },
+    {
+        "hex": "e1859e",
+        "unicode": "U+115E",
+        "name": "HANGUL CHOSEONG TIKEUT-RIEUL"
+    },
+    {
+        "hex": "e1859f",
+        "unicode": "U+115F",
+        "name": "HANGUL CHOSEONG FILLER"
+    },
+    {
+        "hex": "e185a0",
+        "unicode": "U+1160",
+        "name": "HANGUL JUNGSEONG FILLER"
+    },
+    {
+        "hex": "e185a1",
+        "unicode": "U+1161",
+        "name": "HANGUL JUNGSEONG A"
+    },
+    {
+        "hex": "e185a2",
+        "unicode": "U+1162",
+        "name": "HANGUL JUNGSEONG AE"
+    },
+    {
+        "hex": "e185a3",
+        "unicode": "U+1163",
+        "name": "HANGUL JUNGSEONG YA"
+    },
+    {
+        "hex": "e185a4",
+        "unicode": "U+1164",
+        "name": "HANGUL JUNGSEONG YAE"
+    },
+    {
+        "hex": "e185a5",
+        "unicode": "U+1165",
+        "name": "HANGUL JUNGSEONG EO"
+    },
+    {
+        "hex": "e185a6",
+        "unicode": "U+1166",
+        "name": "HANGUL JUNGSEONG E"
+    },
+    {
+        "hex": "e185a7",
+        "unicode": "U+1167",
+        "name": "HANGUL JUNGSEONG YEO"
+    },
+    {
+        "hex": "e185a8",
+        "unicode": "U+1168",
+        "name": "HANGUL JUNGSEONG YE"
+    },
+    {
+        "hex": "e185a9",
+        "unicode": "U+1169",
+        "name": "HANGUL JUNGSEONG O"
+    },
+    {
+        "hex": "e185aa",
+        "unicode": "U+116A",
+        "name": "HANGUL JUNGSEONG WA"
+    },
+    {
+        "hex": "e185ab",
+        "unicode": "U+116B",
+        "name": "HANGUL JUNGSEONG WAE"
+    },
+    {
+        "hex": "e185ac",
+        "unicode": "U+116C",
+        "name": "HANGUL JUNGSEONG OE"
+    },
+    {
+        "hex": "e185ad",
+        "unicode": "U+116D",
+        "name": "HANGUL JUNGSEONG YO"
+    },
+    {
+        "hex": "e185ae",
+        "unicode": "U+116E",
+        "name": "HANGUL JUNGSEONG U"
+    },
+    {
+        "hex": "e185af",
+        "unicode": "U+116F",
+        "name": "HANGUL JUNGSEONG WEO"
+    },
+    {
+        "hex": "e185b0",
+        "unicode": "U+1170",
+        "name": "HANGUL JUNGSEONG WE"
+    },
+    {
+        "hex": "e185b1",
+        "unicode": "U+1171",
+        "name": "HANGUL JUNGSEONG WI"
+    },
+    {
+        "hex": "e185b2",
+        "unicode": "U+1172",
+        "name": "HANGUL JUNGSEONG YU"
+    },
+    {
+        "hex": "e185b3",
+        "unicode": "U+1173",
+        "name": "HANGUL JUNGSEONG EU"
+    },
+    {
+        "hex": "e185b4",
+        "unicode": "U+1174",
+        "name": "HANGUL JUNGSEONG YI"
+    },
+    {
+        "hex": "e185b5",
+        "unicode": "U+1175",
+        "name": "HANGUL JUNGSEONG I"
+    },
+    {
+        "hex": "e185b6",
+        "unicode": "U+1176",
+        "name": "HANGUL JUNGSEONG A-O"
+    },
+    {
+        "hex": "e185b7",
+        "unicode": "U+1177",
+        "name": "HANGUL JUNGSEONG A-U"
+    },
+    {
+        "hex": "e185b8",
+        "unicode": "U+1178",
+        "name": "HANGUL JUNGSEONG YA-O"
+    },
+    {
+        "hex": "e185b9",
+        "unicode": "U+1179",
+        "name": "HANGUL JUNGSEONG YA-YO"
+    },
+    {
+        "hex": "e185ba",
+        "unicode": "U+117A",
+        "name": "HANGUL JUNGSEONG EO-O"
+    },
+    {
+        "hex": "e185bb",
+        "unicode": "U+117B",
+        "name": "HANGUL JUNGSEONG EO-U"
+    },
+    {
+        "hex": "e185bc",
+        "unicode": "U+117C",
+        "name": "HANGUL JUNGSEONG EO-EU"
+    },
+    {
+        "hex": "e185bd",
+        "unicode": "U+117D",
+        "name": "HANGUL JUNGSEONG YEO-O"
+    },
+    {
+        "hex": "e185be",
+        "unicode": "U+117E",
+        "name": "HANGUL JUNGSEONG YEO-U"
+    },
+    {
+        "hex": "e185bf",
+        "unicode": "U+117F",
+        "name": "HANGUL JUNGSEONG O-EO"
+    },
+    {
+        "hex": "e18680",
+        "unicode": "U+1180",
+        "name": "HANGUL JUNGSEONG O-E"
+    },
+    {
+        "hex": "e18681",
+        "unicode": "U+1181",
+        "name": "HANGUL JUNGSEONG O-YE"
+    },
+    {
+        "hex": "e18682",
+        "unicode": "U+1182",
+        "name": "HANGUL JUNGSEONG O-O"
+    },
+    {
+        "hex": "e18683",
+        "unicode": "U+1183",
+        "name": "HANGUL JUNGSEONG O-U"
+    },
+    {
+        "hex": "e18684",
+        "unicode": "U+1184",
+        "name": "HANGUL JUNGSEONG YO-YA"
+    },
+    {
+        "hex": "e18685",
+        "unicode": "U+1185",
+        "name": "HANGUL JUNGSEONG YO-YAE"
+    },
+    {
+        "hex": "e18686",
+        "unicode": "U+1186",
+        "name": "HANGUL JUNGSEONG YO-YEO"
+    },
+    {
+        "hex": "e18687",
+        "unicode": "U+1187",
+        "name": "HANGUL JUNGSEONG YO-O"
+    },
+    {
+        "hex": "e18688",
+        "unicode": "U+1188",
+        "name": "HANGUL JUNGSEONG YO-I"
+    },
+    {
+        "hex": "e18689",
+        "unicode": "U+1189",
+        "name": "HANGUL JUNGSEONG U-A"
+    },
+    {
+        "hex": "e1868a",
+        "unicode": "U+118A",
+        "name": "HANGUL JUNGSEONG U-AE"
+    },
+    {
+        "hex": "e1868b",
+        "unicode": "U+118B",
+        "name": "HANGUL JUNGSEONG U-EO-EU"
+    },
+    {
+        "hex": "e1868c",
+        "unicode": "U+118C",
+        "name": "HANGUL JUNGSEONG U-YE"
+    },
+    {
+        "hex": "e1868d",
+        "unicode": "U+118D",
+        "name": "HANGUL JUNGSEONG U-U"
+    },
+    {
+        "hex": "e1868e",
+        "unicode": "U+118E",
+        "name": "HANGUL JUNGSEONG YU-A"
+    },
+    {
+        "hex": "e1868f",
+        "unicode": "U+118F",
+        "name": "HANGUL JUNGSEONG YU-EO"
+    },
+    {
+        "hex": "e18690",
+        "unicode": "U+1190",
+        "name": "HANGUL JUNGSEONG YU-E"
+    },
+    {
+        "hex": "e18691",
+        "unicode": "U+1191",
+        "name": "HANGUL JUNGSEONG YU-YEO"
+    },
+    {
+        "hex": "e18692",
+        "unicode": "U+1192",
+        "name": "HANGUL JUNGSEONG YU-YE"
+    },
+    {
+        "hex": "e18693",
+        "unicode": "U+1193",
+        "name": "HANGUL JUNGSEONG YU-U"
+    },
+    {
+        "hex": "e18694",
+        "unicode": "U+1194",
+        "name": "HANGUL JUNGSEONG YU-I"
+    },
+    {
+        "hex": "e18695",
+        "unicode": "U+1195",
+        "name": "HANGUL JUNGSEONG EU-U"
+    },
+    {
+        "hex": "e18696",
+        "unicode": "U+1196",
+        "name": "HANGUL JUNGSEONG EU-EU"
+    },
+    {
+        "hex": "e18697",
+        "unicode": "U+1197",
+        "name": "HANGUL JUNGSEONG YI-U"
+    },
+    {
+        "hex": "e18698",
+        "unicode": "U+1198",
+        "name": "HANGUL JUNGSEONG I-A"
+    },
+    {
+        "hex": "e18699",
+        "unicode": "U+1199",
+        "name": "HANGUL JUNGSEONG I-YA"
+    },
+    {
+        "hex": "e1869a",
+        "unicode": "U+119A",
+        "name": "HANGUL JUNGSEONG I-O"
+    },
+    {
+        "hex": "e1869b",
+        "unicode": "U+119B",
+        "name": "HANGUL JUNGSEONG I-U"
+    },
+    {
+        "hex": "e1869c",
+        "unicode": "U+119C",
+        "name": "HANGUL JUNGSEONG I-EU"
+    },
+    {
+        "hex": "e1869d",
+        "unicode": "U+119D",
+        "name": "HANGUL JUNGSEONG I-ARAEA"
+    },
+    {
+        "hex": "e1869e",
+        "unicode": "U+119E",
+        "name": "HANGUL JUNGSEONG ARAEA"
+    },
+    {
+        "hex": "e1869f",
+        "unicode": "U+119F",
+        "name": "HANGUL JUNGSEONG ARAEA-EO"
+    },
+    {
+        "hex": "e186a0",
+        "unicode": "U+11A0",
+        "name": "HANGUL JUNGSEONG ARAEA-U"
+    },
+    {
+        "hex": "e186a1",
+        "unicode": "U+11A1",
+        "name": "HANGUL JUNGSEONG ARAEA-I"
+    },
+    {
+        "hex": "e186a2",
+        "unicode": "U+11A2",
+        "name": "HANGUL JUNGSEONG SSANGARAEA"
+    },
+    {
+        "hex": "e186a3",
+        "unicode": "U+11A3",
+        "name": "HANGUL JUNGSEONG A-EU"
+    },
+    {
+        "hex": "e186a4",
+        "unicode": "U+11A4",
+        "name": "HANGUL JUNGSEONG YA-U"
+    },
+    {
+        "hex": "e186a5",
+        "unicode": "U+11A5",
+        "name": "HANGUL JUNGSEONG YEO-YA"
+    },
+    {
+        "hex": "e186a6",
+        "unicode": "U+11A6",
+        "name": "HANGUL JUNGSEONG O-YA"
+    },
+    {
+        "hex": "e186a7",
+        "unicode": "U+11A7",
+        "name": "HANGUL JUNGSEONG O-YAE"
+    },
+    {
+        "hex": "e186a8",
+        "unicode": "U+11A8",
+        "name": "HANGUL JONGSEONG KIYEOK"
+    },
+    {
+        "hex": "e186a9",
+        "unicode": "U+11A9",
+        "name": "HANGUL JONGSEONG SSANGKIYEOK"
+    },
+    {
+        "hex": "e186aa",
+        "unicode": "U+11AA",
+        "name": "HANGUL JONGSEONG KIYEOK-SIOS"
+    },
+    {
+        "hex": "e186ab",
+        "unicode": "U+11AB",
+        "name": "HANGUL JONGSEONG NIEUN"
+    },
+    {
+        "hex": "e186ac",
+        "unicode": "U+11AC",
+        "name": "HANGUL JONGSEONG NIEUN-CIEUC"
+    },
+    {
+        "hex": "e186ad",
+        "unicode": "U+11AD",
+        "name": "HANGUL JONGSEONG NIEUN-HIEUH"
+    },
+    {
+        "hex": "e186ae",
+        "unicode": "U+11AE",
+        "name": "HANGUL JONGSEONG TIKEUT"
+    },
+    {
+        "hex": "e186af",
+        "unicode": "U+11AF",
+        "name": "HANGUL JONGSEONG RIEUL"
+    },
+    {
+        "hex": "e186b0",
+        "unicode": "U+11B0",
+        "name": "HANGUL JONGSEONG RIEUL-KIYEOK"
+    },
+    {
+        "hex": "e186b1",
+        "unicode": "U+11B1",
+        "name": "HANGUL JONGSEONG RIEUL-MIEUM"
+    },
+    {
+        "hex": "e186b2",
+        "unicode": "U+11B2",
+        "name": "HANGUL JONGSEONG RIEUL-PIEUP"
+    },
+    {
+        "hex": "e186b3",
+        "unicode": "U+11B3",
+        "name": "HANGUL JONGSEONG RIEUL-SIOS"
+    },
+    {
+        "hex": "e186b4",
+        "unicode": "U+11B4",
+        "name": "HANGUL JONGSEONG RIEUL-THIEUTH"
+    },
+    {
+        "hex": "e186b5",
+        "unicode": "U+11B5",
+        "name": "HANGUL JONGSEONG RIEUL-PHIEUPH"
+    },
+    {
+        "hex": "e186b6",
+        "unicode": "U+11B6",
+        "name": "HANGUL JONGSEONG RIEUL-HIEUH"
+    },
+    {
+        "hex": "e186b7",
+        "unicode": "U+11B7",
+        "name": "HANGUL JONGSEONG MIEUM"
+    },
+    {
+        "hex": "e186b8",
+        "unicode": "U+11B8",
+        "name": "HANGUL JONGSEONG PIEUP"
+    },
+    {
+        "hex": "e186b9",
+        "unicode": "U+11B9",
+        "name": "HANGUL JONGSEONG PIEUP-SIOS"
+    },
+    {
+        "hex": "e186ba",
+        "unicode": "U+11BA",
+        "name": "HANGUL JONGSEONG SIOS"
+    },
+    {
+        "hex": "e186bb",
+        "unicode": "U+11BB",
+        "name": "HANGUL JONGSEONG SSANGSIOS"
+    },
+    {
+        "hex": "e186bc",
+        "unicode": "U+11BC",
+        "name": "HANGUL JONGSEONG IEUNG"
+    },
+    {
+        "hex": "e186bd",
+        "unicode": "U+11BD",
+        "name": "HANGUL JONGSEONG CIEUC"
+    },
+    {
+        "hex": "e186be",
+        "unicode": "U+11BE",
+        "name": "HANGUL JONGSEONG CHIEUCH"
+    },
+    {
+        "hex": "e186bf",
+        "unicode": "U+11BF",
+        "name": "HANGUL JONGSEONG KHIEUKH"
+    },
+    {
+        "hex": "e18780",
+        "unicode": "U+11C0",
+        "name": "HANGUL JONGSEONG THIEUTH"
+    },
+    {
+        "hex": "e18781",
+        "unicode": "U+11C1",
+        "name": "HANGUL JONGSEONG PHIEUPH"
+    },
+    {
+        "hex": "e18782",
+        "unicode": "U+11C2",
+        "name": "HANGUL JONGSEONG HIEUH"
+    },
+    {
+        "hex": "e18783",
+        "unicode": "U+11C3",
+        "name": "HANGUL JONGSEONG KIYEOK-RIEUL"
+    },
+    {
+        "hex": "e18784",
+        "unicode": "U+11C4",
+        "name": "HANGUL JONGSEONG KIYEOK-SIOS-KIYEOK"
+    },
+    {
+        "hex": "e18785",
+        "unicode": "U+11C5",
+        "name": "HANGUL JONGSEONG NIEUN-KIYEOK"
+    },
+    {
+        "hex": "e18786",
+        "unicode": "U+11C6",
+        "name": "HANGUL JONGSEONG NIEUN-TIKEUT"
+    },
+    {
+        "hex": "e18787",
+        "unicode": "U+11C7",
+        "name": "HANGUL JONGSEONG NIEUN-SIOS"
+    },
+    {
+        "hex": "e18788",
+        "unicode": "U+11C8",
+        "name": "HANGUL JONGSEONG NIEUN-PANSIOS"
+    },
+    {
+        "hex": "e18789",
+        "unicode": "U+11C9",
+        "name": "HANGUL JONGSEONG NIEUN-THIEUTH"
+    },
+    {
+        "hex": "e1878a",
+        "unicode": "U+11CA",
+        "name": "HANGUL JONGSEONG TIKEUT-KIYEOK"
+    },
+    {
+        "hex": "e1878b",
+        "unicode": "U+11CB",
+        "name": "HANGUL JONGSEONG TIKEUT-RIEUL"
+    },
+    {
+        "hex": "e1878c",
+        "unicode": "U+11CC",
+        "name": "HANGUL JONGSEONG RIEUL-KIYEOK-SIOS"
+    },
+    {
+        "hex": "e1878d",
+        "unicode": "U+11CD",
+        "name": "HANGUL JONGSEONG RIEUL-NIEUN"
+    },
+    {
+        "hex": "e1878e",
+        "unicode": "U+11CE",
+        "name": "HANGUL JONGSEONG RIEUL-TIKEUT"
+    },
+    {
+        "hex": "e1878f",
+        "unicode": "U+11CF",
+        "name": "HANGUL JONGSEONG RIEUL-TIKEUT-HIEUH"
+    },
+    {
+        "hex": "e18790",
+        "unicode": "U+11D0",
+        "name": "HANGUL JONGSEONG SSANGRIEUL"
+    },
+    {
+        "hex": "e18791",
+        "unicode": "U+11D1",
+        "name": "HANGUL JONGSEONG RIEUL-MIEUM-KIYEOK"
+    },
+    {
+        "hex": "e18792",
+        "unicode": "U+11D2",
+        "name": "HANGUL JONGSEONG RIEUL-MIEUM-SIOS"
+    },
+    {
+        "hex": "e18793",
+        "unicode": "U+11D3",
+        "name": "HANGUL JONGSEONG RIEUL-PIEUP-SIOS"
+    },
+    {
+        "hex": "e18794",
+        "unicode": "U+11D4",
+        "name": "HANGUL JONGSEONG RIEUL-PIEUP-HIEUH"
+    },
+    {
+        "hex": "e18795",
+        "unicode": "U+11D5",
+        "name": "HANGUL JONGSEONG RIEUL-KAPYEOUNPIEUP"
+    },
+    {
+        "hex": "e18796",
+        "unicode": "U+11D6",
+        "name": "HANGUL JONGSEONG RIEUL-SSANGSIOS"
+    },
+    {
+        "hex": "e18797",
+        "unicode": "U+11D7",
+        "name": "HANGUL JONGSEONG RIEUL-PANSIOS"
+    },
+    {
+        "hex": "e18798",
+        "unicode": "U+11D8",
+        "name": "HANGUL JONGSEONG RIEUL-KHIEUKH"
+    },
+    {
+        "hex": "e18799",
+        "unicode": "U+11D9",
+        "name": "HANGUL JONGSEONG RIEUL-YEORINHIEUH"
+    },
+    {
+        "hex": "e1879a",
+        "unicode": "U+11DA",
+        "name": "HANGUL JONGSEONG MIEUM-KIYEOK"
+    },
+    {
+        "hex": "e1879b",
+        "unicode": "U+11DB",
+        "name": "HANGUL JONGSEONG MIEUM-RIEUL"
+    },
+    {
+        "hex": "e1879c",
+        "unicode": "U+11DC",
+        "name": "HANGUL JONGSEONG MIEUM-PIEUP"
+    },
+    {
+        "hex": "e1879d",
+        "unicode": "U+11DD",
+        "name": "HANGUL JONGSEONG MIEUM-SIOS"
+    },
+    {
+        "hex": "e1879e",
+        "unicode": "U+11DE",
+        "name": "HANGUL JONGSEONG MIEUM-SSANGSIOS"
+    },
+    {
+        "hex": "e1879f",
+        "unicode": "U+11DF",
+        "name": "HANGUL JONGSEONG MIEUM-PANSIOS"
+    },
+    {
+        "hex": "e187a0",
+        "unicode": "U+11E0",
+        "name": "HANGUL JONGSEONG MIEUM-CHIEUCH"
+    },
+    {
+        "hex": "e187a1",
+        "unicode": "U+11E1",
+        "name": "HANGUL JONGSEONG MIEUM-HIEUH"
+    },
+    {
+        "hex": "e187a2",
+        "unicode": "U+11E2",
+        "name": "HANGUL JONGSEONG KAPYEOUNMIEUM"
+    },
+    {
+        "hex": "e187a3",
+        "unicode": "U+11E3",
+        "name": "HANGUL JONGSEONG PIEUP-RIEUL"
+    },
+    {
+        "hex": "e187a4",
+        "unicode": "U+11E4",
+        "name": "HANGUL JONGSEONG PIEUP-PHIEUPH"
+    },
+    {
+        "hex": "e187a5",
+        "unicode": "U+11E5",
+        "name": "HANGUL JONGSEONG PIEUP-HIEUH"
+    },
+    {
+        "hex": "e187a6",
+        "unicode": "U+11E6",
+        "name": "HANGUL JONGSEONG KAPYEOUNPIEUP"
+    },
+    {
+        "hex": "e187a7",
+        "unicode": "U+11E7",
+        "name": "HANGUL JONGSEONG SIOS-KIYEOK"
+    },
+    {
+        "hex": "e187a8",
+        "unicode": "U+11E8",
+        "name": "HANGUL JONGSEONG SIOS-TIKEUT"
+    },
+    {
+        "hex": "e187a9",
+        "unicode": "U+11E9",
+        "name": "HANGUL JONGSEONG SIOS-RIEUL"
+    },
+    {
+        "hex": "e187aa",
+        "unicode": "U+11EA",
+        "name": "HANGUL JONGSEONG SIOS-PIEUP"
+    },
+    {
+        "hex": "e187ab",
+        "unicode": "U+11EB",
+        "name": "HANGUL JONGSEONG PANSIOS"
+    },
+    {
+        "hex": "e187ac",
+        "unicode": "U+11EC",
+        "name": "HANGUL JONGSEONG IEUNG-KIYEOK"
+    },
+    {
+        "hex": "e187ad",
+        "unicode": "U+11ED",
+        "name": "HANGUL JONGSEONG IEUNG-SSANGKIYEOK"
+    },
+    {
+        "hex": "e187ae",
+        "unicode": "U+11EE",
+        "name": "HANGUL JONGSEONG SSANGIEUNG"
+    },
+    {
+        "hex": "e187af",
+        "unicode": "U+11EF",
+        "name": "HANGUL JONGSEONG IEUNG-KHIEUKH"
+    },
+    {
+        "hex": "e187b0",
+        "unicode": "U+11F0",
+        "name": "HANGUL JONGSEONG YESIEUNG"
+    },
+    {
+        "hex": "e187b1",
+        "unicode": "U+11F1",
+        "name": "HANGUL JONGSEONG YESIEUNG-SIOS"
+    },
+    {
+        "hex": "e187b2",
+        "unicode": "U+11F2",
+        "name": "HANGUL JONGSEONG YESIEUNG-PANSIOS"
+    },
+    {
+        "hex": "e187b3",
+        "unicode": "U+11F3",
+        "name": "HANGUL JONGSEONG PHIEUPH-PIEUP"
+    },
+    {
+        "hex": "e187b4",
+        "unicode": "U+11F4",
+        "name": "HANGUL JONGSEONG KAPYEOUNPHIEUPH"
+    },
+    {
+        "hex": "e187b5",
+        "unicode": "U+11F5",
+        "name": "HANGUL JONGSEONG HIEUH-NIEUN"
+    },
+    {
+        "hex": "e187b6",
+        "unicode": "U+11F6",
+        "name": "HANGUL JONGSEONG HIEUH-RIEUL"
+    },
+    {
+        "hex": "e187b7",
+        "unicode": "U+11F7",
+        "name": "HANGUL JONGSEONG HIEUH-MIEUM"
+    },
+    {
+        "hex": "e187b8",
+        "unicode": "U+11F8",
+        "name": "HANGUL JONGSEONG HIEUH-PIEUP"
+    },
+    {
+        "hex": "e187b9",
+        "unicode": "U+11F9",
+        "name": "HANGUL JONGSEONG YEORINHIEUH"
+    },
+    {
+        "hex": "e187ba",
+        "unicode": "U+11FA",
+        "name": "HANGUL JONGSEONG KIYEOK-NIEUN"
+    },
+    {
+        "hex": "e187bb",
+        "unicode": "U+11FB",
+        "name": "HANGUL JONGSEONG KIYEOK-PIEUP"
+    },
+    {
+        "hex": "e187bc",
+        "unicode": "U+11FC",
+        "name": "HANGUL JONGSEONG KIYEOK-CHIEUCH"
+    },
+    {
+        "hex": "e187bd",
+        "unicode": "U+11FD",
+        "name": "HANGUL JONGSEONG KIYEOK-KHIEUKH"
+    },
+    {
+        "hex": "e187be",
+        "unicode": "U+11FE",
+        "name": "HANGUL JONGSEONG KIYEOK-HIEUH"
+    },
+    {
+        "hex": "e187bf",
+        "unicode": "U+11FF",
+        "name": "HANGUL JONGSEONG SSANGNIEUN"
+    }
+]

@@ -1,0 +1,1282 @@
+[
+    {
+        "hex": "e18ea0",
+        "unicode": "U+13A0",
+        "name": "CHEROKEE LETTER A"
+    },
+    {
+        "hex": "e18ea1",
+        "unicode": "U+13A1",
+        "name": "CHEROKEE LETTER E"
+    },
+    {
+        "hex": "e18ea2",
+        "unicode": "U+13A2",
+        "name": "CHEROKEE LETTER I"
+    },
+    {
+        "hex": "e18ea3",
+        "unicode": "U+13A3",
+        "name": "CHEROKEE LETTER O"
+    },
+    {
+        "hex": "e18ea4",
+        "unicode": "U+13A4",
+        "name": "CHEROKEE LETTER U"
+    },
+    {
+        "hex": "e18ea5",
+        "unicode": "U+13A5",
+        "name": "CHEROKEE LETTER V"
+    },
+    {
+        "hex": "e18ea6",
+        "unicode": "U+13A6",
+        "name": "CHEROKEE LETTER GA"
+    },
+    {
+        "hex": "e18ea7",
+        "unicode": "U+13A7",
+        "name": "CHEROKEE LETTER KA"
+    },
+    {
+        "hex": "e18ea8",
+        "unicode": "U+13A8",
+        "name": "CHEROKEE LETTER GE"
+    },
+    {
+        "hex": "e18ea9",
+        "unicode": "U+13A9",
+        "name": "CHEROKEE LETTER GI"
+    },
+    {
+        "hex": "e18eaa",
+        "unicode": "U+13AA",
+        "name": "CHEROKEE LETTER GO"
+    },
+    {
+        "hex": "e18eab",
+        "unicode": "U+13AB",
+        "name": "CHEROKEE LETTER GU"
+    },
+    {
+        "hex": "e18eac",
+        "unicode": "U+13AC",
+        "name": "CHEROKEE LETTER GV"
+    },
+    {
+        "hex": "e18ead",
+        "unicode": "U+13AD",
+        "name": "CHEROKEE LETTER HA"
+    },
+    {
+        "hex": "e18eae",
+        "unicode": "U+13AE",
+        "name": "CHEROKEE LETTER HE"
+    },
+    {
+        "hex": "e18eaf",
+        "unicode": "U+13AF",
+        "name": "CHEROKEE LETTER HI"
+    },
+    {
+        "hex": "e18eb0",
+        "unicode": "U+13B0",
+        "name": "CHEROKEE LETTER HO"
+    },
+    {
+        "hex": "e18eb1",
+        "unicode": "U+13B1",
+        "name": "CHEROKEE LETTER HU"
+    },
+    {
+        "hex": "e18eb2",
+        "unicode": "U+13B2",
+        "name": "CHEROKEE LETTER HV"
+    },
+    {
+        "hex": "e18eb3",
+        "unicode": "U+13B3",
+        "name": "CHEROKEE LETTER LA"
+    },
+    {
+        "hex": "e18eb4",
+        "unicode": "U+13B4",
+        "name": "CHEROKEE LETTER LE"
+    },
+    {
+        "hex": "e18eb5",
+        "unicode": "U+13B5",
+        "name": "CHEROKEE LETTER LI"
+    },
+    {
+        "hex": "e18eb6",
+        "unicode": "U+13B6",
+        "name": "CHEROKEE LETTER LO"
+    },
+    {
+        "hex": "e18eb7",
+        "unicode": "U+13B7",
+        "name": "CHEROKEE LETTER LU"
+    },
+    {
+        "hex": "e18eb8",
+        "unicode": "U+13B8",
+        "name": "CHEROKEE LETTER LV"
+    },
+    {
+        "hex": "e18eb9",
+        "unicode": "U+13B9",
+        "name": "CHEROKEE LETTER MA"
+    },
+    {
+        "hex": "e18eba",
+        "unicode": "U+13BA",
+        "name": "CHEROKEE LETTER ME"
+    },
+    {
+        "hex": "e18ebb",
+        "unicode": "U+13BB",
+        "name": "CHEROKEE LETTER MI"
+    },
+    {
+        "hex": "e18ebc",
+        "unicode": "U+13BC",
+        "name": "CHEROKEE LETTER MO"
+    },
+    {
+        "hex": "e18ebd",
+        "unicode": "U+13BD",
+        "name": "CHEROKEE LETTER MU"
+    },
+    {
+        "hex": "e18ebe",
+        "unicode": "U+13BE",
+        "name": "CHEROKEE LETTER NA"
+    },
+    {
+        "hex": "e18ebf",
+        "unicode": "U+13BF",
+        "name": "CHEROKEE LETTER HNA"
+    },
+    {
+        "hex": "e18f80",
+        "unicode": "U+13C0",
+        "name": "CHEROKEE LETTER NAH"
+    },
+    {
+        "hex": "e18f81",
+        "unicode": "U+13C1",
+        "name": "CHEROKEE LETTER NE"
+    },
+    {
+        "hex": "e18f82",
+        "unicode": "U+13C2",
+        "name": "CHEROKEE LETTER NI"
+    },
+    {
+        "hex": "e18f83",
+        "unicode": "U+13C3",
+        "name": "CHEROKEE LETTER NO"
+    },
+    {
+        "hex": "e18f84",
+        "unicode": "U+13C4",
+        "name": "CHEROKEE LETTER NU"
+    },
+    {
+        "hex": "e18f85",
+        "unicode": "U+13C5",
+        "name": "CHEROKEE LETTER NV"
+    },
+    {
+        "hex": "e18f86",
+        "unicode": "U+13C6",
+        "name": "CHEROKEE LETTER QUA"
+    },
+    {
+        "hex": "e18f87",
+        "unicode": "U+13C7",
+        "name": "CHEROKEE LETTER QUE"
+    },
+    {
+        "hex": "e18f88",
+        "unicode": "U+13C8",
+        "name": "CHEROKEE LETTER QUI"
+    },
+    {
+        "hex": "e18f89",
+        "unicode": "U+13C9",
+        "name": "CHEROKEE LETTER QUO"
+    },
+    {
+        "hex": "e18f8a",
+        "unicode": "U+13CA",
+        "name": "CHEROKEE LETTER QUU"
+    },
+    {
+        "hex": "e18f8b",
+        "unicode": "U+13CB",
+        "name": "CHEROKEE LETTER QUV"
+    },
+    {
+        "hex": "e18f8c",
+        "unicode": "U+13CC",
+        "name": "CHEROKEE LETTER SA"
+    },
+    {
+        "hex": "e18f8d",
+        "unicode": "U+13CD",
+        "name": "CHEROKEE LETTER S"
+    },
+    {
+        "hex": "e18f8e",
+        "unicode": "U+13CE",
+        "name": "CHEROKEE LETTER SE"
+    },
+    {
+        "hex": "e18f8f",
+        "unicode": "U+13CF",
+        "name": "CHEROKEE LETTER SI"
+    },
+    {
+        "hex": "e18f90",
+        "unicode": "U+13D0",
+        "name": "CHEROKEE LETTER SO"
+    },
+    {
+        "hex": "e18f91",
+        "unicode": "U+13D1",
+        "name": "CHEROKEE LETTER SU"
+    },
+    {
+        "hex": "e18f92",
+        "unicode": "U+13D2",
+        "name": "CHEROKEE LETTER SV"
+    },
+    {
+        "hex": "e18f93",
+        "unicode": "U+13D3",
+        "name": "CHEROKEE LETTER DA"
+    },
+    {
+        "hex": "e18f94",
+        "unicode": "U+13D4",
+        "name": "CHEROKEE LETTER TA"
+    },
+    {
+        "hex": "e18f95",
+        "unicode": "U+13D5",
+        "name": "CHEROKEE LETTER DE"
+    },
+    {
+        "hex": "e18f96",
+        "unicode": "U+13D6",
+        "name": "CHEROKEE LETTER TE"
+    },
+    {
+        "hex": "e18f97",
+        "unicode": "U+13D7",
+        "name": "CHEROKEE LETTER DI"
+    },
+    {
+        "hex": "e18f98",
+        "unicode": "U+13D8",
+        "name": "CHEROKEE LETTER TI"
+    },
+    {
+        "hex": "e18f99",
+        "unicode": "U+13D9",
+        "name": "CHEROKEE LETTER DO"
+    },
+    {
+        "hex": "e18f9a",
+        "unicode": "U+13DA",
+        "name": "CHEROKEE LETTER DU"
+    },
+    {
+        "hex": "e18f9b",
+        "unicode": "U+13DB",
+        "name": "CHEROKEE LETTER DV"
+    },
+    {
+        "hex": "e18f9c",
+        "unicode": "U+13DC",
+        "name": "CHEROKEE LETTER DLA"
+    },
+    {
+        "hex": "e18f9d",
+        "unicode": "U+13DD",
+        "name": "CHEROKEE LETTER TLA"
+    },
+    {
+        "hex": "e18f9e",
+        "unicode": "U+13DE",
+        "name": "CHEROKEE LETTER TLE"
+    },
+    {
+        "hex": "e18f9f",
+        "unicode": "U+13DF",
+        "name": "CHEROKEE LETTER TLI"
+    },
+    {
+        "hex": "e18fa0",
+        "unicode": "U+13E0",
+        "name": "CHEROKEE LETTER TLO"
+    },
+    {
+        "hex": "e18fa1",
+        "unicode": "U+13E1",
+        "name": "CHEROKEE LETTER TLU"
+    },
+    {
+        "hex": "e18fa2",
+        "unicode": "U+13E2",
+        "name": "CHEROKEE LETTER TLV"
+    },
+    {
+        "hex": "e18fa3",
+        "unicode": "U+13E3",
+        "name": "CHEROKEE LETTER TSA"
+    },
+    {
+        "hex": "e18fa4",
+        "unicode": "U+13E4",
+        "name": "CHEROKEE LETTER TSE"
+    },
+    {
+        "hex": "e18fa5",
+        "unicode": "U+13E5",
+        "name": "CHEROKEE LETTER TSI"
+    },
+    {
+        "hex": "e18fa6",
+        "unicode": "U+13E6",
+        "name": "CHEROKEE LETTER TSO"
+    },
+    {
+        "hex": "e18fa7",
+        "unicode": "U+13E7",
+        "name": "CHEROKEE LETTER TSU"
+    },
+    {
+        "hex": "e18fa8",
+        "unicode": "U+13E8",
+        "name": "CHEROKEE LETTER TSV"
+    },
+    {
+        "hex": "e18fa9",
+        "unicode": "U+13E9",
+        "name": "CHEROKEE LETTER WA"
+    },
+    {
+        "hex": "e18faa",
+        "unicode": "U+13EA",
+        "name": "CHEROKEE LETTER WE"
+    },
+    {
+        "hex": "e18fab",
+        "unicode": "U+13EB",
+        "name": "CHEROKEE LETTER WI"
+    },
+    {
+        "hex": "e18fac",
+        "unicode": "U+13EC",
+        "name": "CHEROKEE LETTER WO"
+    },
+    {
+        "hex": "e18fad",
+        "unicode": "U+13ED",
+        "name": "CHEROKEE LETTER WU"
+    },
+    {
+        "hex": "e18fae",
+        "unicode": "U+13EE",
+        "name": "CHEROKEE LETTER WV"
+    },
+    {
+        "hex": "e18faf",
+        "unicode": "U+13EF",
+        "name": "CHEROKEE LETTER YA"
+    },
+    {
+        "hex": "e18fb0",
+        "unicode": "U+13F0",
+        "name": "CHEROKEE LETTER YE"
+    },
+    {
+        "hex": "e18fb1",
+        "unicode": "U+13F1",
+        "name": "CHEROKEE LETTER YI"
+    },
+    {
+        "hex": "e18fb2",
+        "unicode": "U+13F2",
+        "name": "CHEROKEE LETTER YO"
+    },
+    {
+        "hex": "e18fb3",
+        "unicode": "U+13F3",
+        "name": "CHEROKEE LETTER YU"
+    },
+    {
+        "hex": "e18fb4",
+        "unicode": "U+13F4",
+        "name": "CHEROKEE LETTER YV"
+    },
+    {
+        "hex": "e18fb5",
+        "unicode": "U+13F5",
+        "name": "CHEROKEE LETTER MV"
+    },
+    {
+        "hex": "e18fb6",
+        "unicode": "U+13F6",
+        "name": ""
+    },
+    {
+        "hex": "e18fb7",
+        "unicode": "U+13F7",
+        "name": ""
+    },
+    {
+        "hex": "e18fb8",
+        "unicode": "U+13F8",
+        "name": "CHEROKEE SMALL LETTER YE"
+    },
+    {
+        "hex": "e18fb9",
+        "unicode": "U+13F9",
+        "name": "CHEROKEE SMALL LETTER YI"
+    },
+    {
+        "hex": "e18fba",
+        "unicode": "U+13FA",
+        "name": "CHEROKEE SMALL LETTER YO"
+    },
+    {
+        "hex": "e18fbb",
+        "unicode": "U+13FB",
+        "name": "CHEROKEE SMALL LETTER YU"
+    },
+    {
+        "hex": "e18fbc",
+        "unicode": "U+13FC",
+        "name": "CHEROKEE SMALL LETTER YV"
+    },
+    {
+        "hex": "e18fbd",
+        "unicode": "U+13FD",
+        "name": "CHEROKEE SMALL LETTER MV"
+    },
+    {
+        "hex": "e18fbe",
+        "unicode": "U+13FE",
+        "name": ""
+    },
+    {
+        "hex": "e18fbf",
+        "unicode": "U+13FF",
+        "name": ""
+    },
+    {
+        "hex": "e19080",
+        "unicode": "U+1400",
+        "name": "CANADIAN SYLLABICS HYPHEN"
+    },
+    {
+        "hex": "e19081",
+        "unicode": "U+1401",
+        "name": "CANADIAN SYLLABICS E"
+    },
+    {
+        "hex": "e19082",
+        "unicode": "U+1402",
+        "name": "CANADIAN SYLLABICS AAI"
+    },
+    {
+        "hex": "e19083",
+        "unicode": "U+1403",
+        "name": "CANADIAN SYLLABICS I"
+    },
+    {
+        "hex": "e19084",
+        "unicode": "U+1404",
+        "name": "CANADIAN SYLLABICS II"
+    },
+    {
+        "hex": "e19085",
+        "unicode": "U+1405",
+        "name": "CANADIAN SYLLABICS O"
+    },
+    {
+        "hex": "e19086",
+        "unicode": "U+1406",
+        "name": "CANADIAN SYLLABICS OO"
+    },
+    {
+        "hex": "e19087",
+        "unicode": "U+1407",
+        "name": "CANADIAN SYLLABICS Y-CREE OO"
+    },
+    {
+        "hex": "e19088",
+        "unicode": "U+1408",
+        "name": "CANADIAN SYLLABICS CARRIER EE"
+    },
+    {
+        "hex": "e19089",
+        "unicode": "U+1409",
+        "name": "CANADIAN SYLLABICS CARRIER I"
+    },
+    {
+        "hex": "e1908a",
+        "unicode": "U+140A",
+        "name": "CANADIAN SYLLABICS A"
+    },
+    {
+        "hex": "e1908b",
+        "unicode": "U+140B",
+        "name": "CANADIAN SYLLABICS AA"
+    },
+    {
+        "hex": "e1908c",
+        "unicode": "U+140C",
+        "name": "CANADIAN SYLLABICS WE"
+    },
+    {
+        "hex": "e1908d",
+        "unicode": "U+140D",
+        "name": "CANADIAN SYLLABICS WEST-CREE WE"
+    },
+    {
+        "hex": "e1908e",
+        "unicode": "U+140E",
+        "name": "CANADIAN SYLLABICS WI"
+    },
+    {
+        "hex": "e1908f",
+        "unicode": "U+140F",
+        "name": "CANADIAN SYLLABICS WEST-CREE WI"
+    },
+    {
+        "hex": "e19090",
+        "unicode": "U+1410",
+        "name": "CANADIAN SYLLABICS WII"
+    },
+    {
+        "hex": "e19091",
+        "unicode": "U+1411",
+        "name": "CANADIAN SYLLABICS WEST-CREE WII"
+    },
+    {
+        "hex": "e19092",
+        "unicode": "U+1412",
+        "name": "CANADIAN SYLLABICS WO"
+    },
+    {
+        "hex": "e19093",
+        "unicode": "U+1413",
+        "name": "CANADIAN SYLLABICS WEST-CREE WO"
+    },
+    {
+        "hex": "e19094",
+        "unicode": "U+1414",
+        "name": "CANADIAN SYLLABICS WOO"
+    },
+    {
+        "hex": "e19095",
+        "unicode": "U+1415",
+        "name": "CANADIAN SYLLABICS WEST-CREE WOO"
+    },
+    {
+        "hex": "e19096",
+        "unicode": "U+1416",
+        "name": "CANADIAN SYLLABICS NASKAPI WOO"
+    },
+    {
+        "hex": "e19097",
+        "unicode": "U+1417",
+        "name": "CANADIAN SYLLABICS WA"
+    },
+    {
+        "hex": "e19098",
+        "unicode": "U+1418",
+        "name": "CANADIAN SYLLABICS WEST-CREE WA"
+    },
+    {
+        "hex": "e19099",
+        "unicode": "U+1419",
+        "name": "CANADIAN SYLLABICS WAA"
+    },
+    {
+        "hex": "e1909a",
+        "unicode": "U+141A",
+        "name": "CANADIAN SYLLABICS WEST-CREE WAA"
+    },
+    {
+        "hex": "e1909b",
+        "unicode": "U+141B",
+        "name": "CANADIAN SYLLABICS NASKAPI WAA"
+    },
+    {
+        "hex": "e1909c",
+        "unicode": "U+141C",
+        "name": "CANADIAN SYLLABICS AI"
+    },
+    {
+        "hex": "e1909d",
+        "unicode": "U+141D",
+        "name": "CANADIAN SYLLABICS Y-CREE W"
+    },
+    {
+        "hex": "e1909e",
+        "unicode": "U+141E",
+        "name": "CANADIAN SYLLABICS GLOTTAL STOP"
+    },
+    {
+        "hex": "e1909f",
+        "unicode": "U+141F",
+        "name": "CANADIAN SYLLABICS FINAL ACUTE"
+    },
+    {
+        "hex": "e190a0",
+        "unicode": "U+1420",
+        "name": "CANADIAN SYLLABICS FINAL GRAVE"
+    },
+    {
+        "hex": "e190a1",
+        "unicode": "U+1421",
+        "name": "CANADIAN SYLLABICS FINAL BOTTOM HALF RING"
+    },
+    {
+        "hex": "e190a2",
+        "unicode": "U+1422",
+        "name": "CANADIAN SYLLABICS FINAL TOP HALF RING"
+    },
+    {
+        "hex": "e190a3",
+        "unicode": "U+1423",
+        "name": "CANADIAN SYLLABICS FINAL RIGHT HALF RING"
+    },
+    {
+        "hex": "e190a4",
+        "unicode": "U+1424",
+        "name": "CANADIAN SYLLABICS FINAL RING"
+    },
+    {
+        "hex": "e190a5",
+        "unicode": "U+1425",
+        "name": "CANADIAN SYLLABICS FINAL DOUBLE ACUTE"
+    },
+    {
+        "hex": "e190a6",
+        "unicode": "U+1426",
+        "name": "CANADIAN SYLLABICS FINAL DOUBLE SHORT VERTICAL STROKES"
+    },
+    {
+        "hex": "e190a7",
+        "unicode": "U+1427",
+        "name": "CANADIAN SYLLABICS FINAL MIDDLE DOT"
+    },
+    {
+        "hex": "e190a8",
+        "unicode": "U+1428",
+        "name": "CANADIAN SYLLABICS FINAL SHORT HORIZONTAL STROKE"
+    },
+    {
+        "hex": "e190a9",
+        "unicode": "U+1429",
+        "name": "CANADIAN SYLLABICS FINAL PLUS"
+    },
+    {
+        "hex": "e190aa",
+        "unicode": "U+142A",
+        "name": "CANADIAN SYLLABICS FINAL DOWN TACK"
+    },
+    {
+        "hex": "e190ab",
+        "unicode": "U+142B",
+        "name": "CANADIAN SYLLABICS EN"
+    },
+    {
+        "hex": "e190ac",
+        "unicode": "U+142C",
+        "name": "CANADIAN SYLLABICS IN"
+    },
+    {
+        "hex": "e190ad",
+        "unicode": "U+142D",
+        "name": "CANADIAN SYLLABICS ON"
+    },
+    {
+        "hex": "e190ae",
+        "unicode": "U+142E",
+        "name": "CANADIAN SYLLABICS AN"
+    },
+    {
+        "hex": "e190af",
+        "unicode": "U+142F",
+        "name": "CANADIAN SYLLABICS PE"
+    },
+    {
+        "hex": "e190b0",
+        "unicode": "U+1430",
+        "name": "CANADIAN SYLLABICS PAAI"
+    },
+    {
+        "hex": "e190b1",
+        "unicode": "U+1431",
+        "name": "CANADIAN SYLLABICS PI"
+    },
+    {
+        "hex": "e190b2",
+        "unicode": "U+1432",
+        "name": "CANADIAN SYLLABICS PII"
+    },
+    {
+        "hex": "e190b3",
+        "unicode": "U+1433",
+        "name": "CANADIAN SYLLABICS PO"
+    },
+    {
+        "hex": "e190b4",
+        "unicode": "U+1434",
+        "name": "CANADIAN SYLLABICS POO"
+    },
+    {
+        "hex": "e190b5",
+        "unicode": "U+1435",
+        "name": "CANADIAN SYLLABICS Y-CREE POO"
+    },
+    {
+        "hex": "e190b6",
+        "unicode": "U+1436",
+        "name": "CANADIAN SYLLABICS CARRIER HEE"
+    },
+    {
+        "hex": "e190b7",
+        "unicode": "U+1437",
+        "name": "CANADIAN SYLLABICS CARRIER HI"
+    },
+    {
+        "hex": "e190b8",
+        "unicode": "U+1438",
+        "name": "CANADIAN SYLLABICS PA"
+    },
+    {
+        "hex": "e190b9",
+        "unicode": "U+1439",
+        "name": "CANADIAN SYLLABICS PAA"
+    },
+    {
+        "hex": "e190ba",
+        "unicode": "U+143A",
+        "name": "CANADIAN SYLLABICS PWE"
+    },
+    {
+        "hex": "e190bb",
+        "unicode": "U+143B",
+        "name": "CANADIAN SYLLABICS WEST-CREE PWE"
+    },
+    {
+        "hex": "e190bc",
+        "unicode": "U+143C",
+        "name": "CANADIAN SYLLABICS PWI"
+    },
+    {
+        "hex": "e190bd",
+        "unicode": "U+143D",
+        "name": "CANADIAN SYLLABICS WEST-CREE PWI"
+    },
+    {
+        "hex": "e190be",
+        "unicode": "U+143E",
+        "name": "CANADIAN SYLLABICS PWII"
+    },
+    {
+        "hex": "e190bf",
+        "unicode": "U+143F",
+        "name": "CANADIAN SYLLABICS WEST-CREE PWII"
+    },
+    {
+        "hex": "e19180",
+        "unicode": "U+1440",
+        "name": "CANADIAN SYLLABICS PWO"
+    },
+    {
+        "hex": "e19181",
+        "unicode": "U+1441",
+        "name": "CANADIAN SYLLABICS WEST-CREE PWO"
+    },
+    {
+        "hex": "e19182",
+        "unicode": "U+1442",
+        "name": "CANADIAN SYLLABICS PWOO"
+    },
+    {
+        "hex": "e19183",
+        "unicode": "U+1443",
+        "name": "CANADIAN SYLLABICS WEST-CREE PWOO"
+    },
+    {
+        "hex": "e19184",
+        "unicode": "U+1444",
+        "name": "CANADIAN SYLLABICS PWA"
+    },
+    {
+        "hex": "e19185",
+        "unicode": "U+1445",
+        "name": "CANADIAN SYLLABICS WEST-CREE PWA"
+    },
+    {
+        "hex": "e19186",
+        "unicode": "U+1446",
+        "name": "CANADIAN SYLLABICS PWAA"
+    },
+    {
+        "hex": "e19187",
+        "unicode": "U+1447",
+        "name": "CANADIAN SYLLABICS WEST-CREE PWAA"
+    },
+    {
+        "hex": "e19188",
+        "unicode": "U+1448",
+        "name": "CANADIAN SYLLABICS Y-CREE PWAA"
+    },
+    {
+        "hex": "e19189",
+        "unicode": "U+1449",
+        "name": "CANADIAN SYLLABICS P"
+    },
+    {
+        "hex": "e1918a",
+        "unicode": "U+144A",
+        "name": "CANADIAN SYLLABICS WEST-CREE P"
+    },
+    {
+        "hex": "e1918b",
+        "unicode": "U+144B",
+        "name": "CANADIAN SYLLABICS CARRIER H"
+    },
+    {
+        "hex": "e1918c",
+        "unicode": "U+144C",
+        "name": "CANADIAN SYLLABICS TE"
+    },
+    {
+        "hex": "e1918d",
+        "unicode": "U+144D",
+        "name": "CANADIAN SYLLABICS TAAI"
+    },
+    {
+        "hex": "e1918e",
+        "unicode": "U+144E",
+        "name": "CANADIAN SYLLABICS TI"
+    },
+    {
+        "hex": "e1918f",
+        "unicode": "U+144F",
+        "name": "CANADIAN SYLLABICS TII"
+    },
+    {
+        "hex": "e19190",
+        "unicode": "U+1450",
+        "name": "CANADIAN SYLLABICS TO"
+    },
+    {
+        "hex": "e19191",
+        "unicode": "U+1451",
+        "name": "CANADIAN SYLLABICS TOO"
+    },
+    {
+        "hex": "e19192",
+        "unicode": "U+1452",
+        "name": "CANADIAN SYLLABICS Y-CREE TOO"
+    },
+    {
+        "hex": "e19193",
+        "unicode": "U+1453",
+        "name": "CANADIAN SYLLABICS CARRIER DEE"
+    },
+    {
+        "hex": "e19194",
+        "unicode": "U+1454",
+        "name": "CANADIAN SYLLABICS CARRIER DI"
+    },
+    {
+        "hex": "e19195",
+        "unicode": "U+1455",
+        "name": "CANADIAN SYLLABICS TA"
+    },
+    {
+        "hex": "e19196",
+        "unicode": "U+1456",
+        "name": "CANADIAN SYLLABICS TAA"
+    },
+    {
+        "hex": "e19197",
+        "unicode": "U+1457",
+        "name": "CANADIAN SYLLABICS TWE"
+    },
+    {
+        "hex": "e19198",
+        "unicode": "U+1458",
+        "name": "CANADIAN SYLLABICS WEST-CREE TWE"
+    },
+    {
+        "hex": "e19199",
+        "unicode": "U+1459",
+        "name": "CANADIAN SYLLABICS TWI"
+    },
+    {
+        "hex": "e1919a",
+        "unicode": "U+145A",
+        "name": "CANADIAN SYLLABICS WEST-CREE TWI"
+    },
+    {
+        "hex": "e1919b",
+        "unicode": "U+145B",
+        "name": "CANADIAN SYLLABICS TWII"
+    },
+    {
+        "hex": "e1919c",
+        "unicode": "U+145C",
+        "name": "CANADIAN SYLLABICS WEST-CREE TWII"
+    },
+    {
+        "hex": "e1919d",
+        "unicode": "U+145D",
+        "name": "CANADIAN SYLLABICS TWO"
+    },
+    {
+        "hex": "e1919e",
+        "unicode": "U+145E",
+        "name": "CANADIAN SYLLABICS WEST-CREE TWO"
+    },
+    {
+        "hex": "e1919f",
+        "unicode": "U+145F",
+        "name": "CANADIAN SYLLABICS TWOO"
+    },
+    {
+        "hex": "e191a0",
+        "unicode": "U+1460",
+        "name": "CANADIAN SYLLABICS WEST-CREE TWOO"
+    },
+    {
+        "hex": "e191a1",
+        "unicode": "U+1461",
+        "name": "CANADIAN SYLLABICS TWA"
+    },
+    {
+        "hex": "e191a2",
+        "unicode": "U+1462",
+        "name": "CANADIAN SYLLABICS WEST-CREE TWA"
+    },
+    {
+        "hex": "e191a3",
+        "unicode": "U+1463",
+        "name": "CANADIAN SYLLABICS TWAA"
+    },
+    {
+        "hex": "e191a4",
+        "unicode": "U+1464",
+        "name": "CANADIAN SYLLABICS WEST-CREE TWAA"
+    },
+    {
+        "hex": "e191a5",
+        "unicode": "U+1465",
+        "name": "CANADIAN SYLLABICS NASKAPI TWAA"
+    },
+    {
+        "hex": "e191a6",
+        "unicode": "U+1466",
+        "name": "CANADIAN SYLLABICS T"
+    },
+    {
+        "hex": "e191a7",
+        "unicode": "U+1467",
+        "name": "CANADIAN SYLLABICS TTE"
+    },
+    {
+        "hex": "e191a8",
+        "unicode": "U+1468",
+        "name": "CANADIAN SYLLABICS TTI"
+    },
+    {
+        "hex": "e191a9",
+        "unicode": "U+1469",
+        "name": "CANADIAN SYLLABICS TTO"
+    },
+    {
+        "hex": "e191aa",
+        "unicode": "U+146A",
+        "name": "CANADIAN SYLLABICS TTA"
+    },
+    {
+        "hex": "e191ab",
+        "unicode": "U+146B",
+        "name": "CANADIAN SYLLABICS KE"
+    },
+    {
+        "hex": "e191ac",
+        "unicode": "U+146C",
+        "name": "CANADIAN SYLLABICS KAAI"
+    },
+    {
+        "hex": "e191ad",
+        "unicode": "U+146D",
+        "name": "CANADIAN SYLLABICS KI"
+    },
+    {
+        "hex": "e191ae",
+        "unicode": "U+146E",
+        "name": "CANADIAN SYLLABICS KII"
+    },
+    {
+        "hex": "e191af",
+        "unicode": "U+146F",
+        "name": "CANADIAN SYLLABICS KO"
+    },
+    {
+        "hex": "e191b0",
+        "unicode": "U+1470",
+        "name": "CANADIAN SYLLABICS KOO"
+    },
+    {
+        "hex": "e191b1",
+        "unicode": "U+1471",
+        "name": "CANADIAN SYLLABICS Y-CREE KOO"
+    },
+    {
+        "hex": "e191b2",
+        "unicode": "U+1472",
+        "name": "CANADIAN SYLLABICS KA"
+    },
+    {
+        "hex": "e191b3",
+        "unicode": "U+1473",
+        "name": "CANADIAN SYLLABICS KAA"
+    },
+    {
+        "hex": "e191b4",
+        "unicode": "U+1474",
+        "name": "CANADIAN SYLLABICS KWE"
+    },
+    {
+        "hex": "e191b5",
+        "unicode": "U+1475",
+        "name": "CANADIAN SYLLABICS WEST-CREE KWE"
+    },
+    {
+        "hex": "e191b6",
+        "unicode": "U+1476",
+        "name": "CANADIAN SYLLABICS KWI"
+    },
+    {
+        "hex": "e191b7",
+        "unicode": "U+1477",
+        "name": "CANADIAN SYLLABICS WEST-CREE KWI"
+    },
+    {
+        "hex": "e191b8",
+        "unicode": "U+1478",
+        "name": "CANADIAN SYLLABICS KWII"
+    },
+    {
+        "hex": "e191b9",
+        "unicode": "U+1479",
+        "name": "CANADIAN SYLLABICS WEST-CREE KWII"
+    },
+    {
+        "hex": "e191ba",
+        "unicode": "U+147A",
+        "name": "CANADIAN SYLLABICS KWO"
+    },
+    {
+        "hex": "e191bb",
+        "unicode": "U+147B",
+        "name": "CANADIAN SYLLABICS WEST-CREE KWO"
+    },
+    {
+        "hex": "e191bc",
+        "unicode": "U+147C",
+        "name": "CANADIAN SYLLABICS KWOO"
+    },
+    {
+        "hex": "e191bd",
+        "unicode": "U+147D",
+        "name": "CANADIAN SYLLABICS WEST-CREE KWOO"
+    },
+    {
+        "hex": "e191be",
+        "unicode": "U+147E",
+        "name": "CANADIAN SYLLABICS KWA"
+    },
+    {
+        "hex": "e191bf",
+        "unicode": "U+147F",
+        "name": "CANADIAN SYLLABICS WEST-CREE KWA"
+    },
+    {
+        "hex": "e19280",
+        "unicode": "U+1480",
+        "name": "CANADIAN SYLLABICS KWAA"
+    },
+    {
+        "hex": "e19281",
+        "unicode": "U+1481",
+        "name": "CANADIAN SYLLABICS WEST-CREE KWAA"
+    },
+    {
+        "hex": "e19282",
+        "unicode": "U+1482",
+        "name": "CANADIAN SYLLABICS NASKAPI KWAA"
+    },
+    {
+        "hex": "e19283",
+        "unicode": "U+1483",
+        "name": "CANADIAN SYLLABICS K"
+    },
+    {
+        "hex": "e19284",
+        "unicode": "U+1484",
+        "name": "CANADIAN SYLLABICS KW"
+    },
+    {
+        "hex": "e19285",
+        "unicode": "U+1485",
+        "name": "CANADIAN SYLLABICS SOUTH-SLAVEY KEH"
+    },
+    {
+        "hex": "e19286",
+        "unicode": "U+1486",
+        "name": "CANADIAN SYLLABICS SOUTH-SLAVEY KIH"
+    },
+    {
+        "hex": "e19287",
+        "unicode": "U+1487",
+        "name": "CANADIAN SYLLABICS SOUTH-SLAVEY KOH"
+    },
+    {
+        "hex": "e19288",
+        "unicode": "U+1488",
+        "name": "CANADIAN SYLLABICS SOUTH-SLAVEY KAH"
+    },
+    {
+        "hex": "e19289",
+        "unicode": "U+1489",
+        "name": "CANADIAN SYLLABICS CE"
+    },
+    {
+        "hex": "e1928a",
+        "unicode": "U+148A",
+        "name": "CANADIAN SYLLABICS CAAI"
+    },
+    {
+        "hex": "e1928b",
+        "unicode": "U+148B",
+        "name": "CANADIAN SYLLABICS CI"
+    },
+    {
+        "hex": "e1928c",
+        "unicode": "U+148C",
+        "name": "CANADIAN SYLLABICS CII"
+    },
+    {
+        "hex": "e1928d",
+        "unicode": "U+148D",
+        "name": "CANADIAN SYLLABICS CO"
+    },
+    {
+        "hex": "e1928e",
+        "unicode": "U+148E",
+        "name": "CANADIAN SYLLABICS COO"
+    },
+    {
+        "hex": "e1928f",
+        "unicode": "U+148F",
+        "name": "CANADIAN SYLLABICS Y-CREE COO"
+    },
+    {
+        "hex": "e19290",
+        "unicode": "U+1490",
+        "name": "CANADIAN SYLLABICS CA"
+    },
+    {
+        "hex": "e19291",
+        "unicode": "U+1491",
+        "name": "CANADIAN SYLLABICS CAA"
+    },
+    {
+        "hex": "e19292",
+        "unicode": "U+1492",
+        "name": "CANADIAN SYLLABICS CWE"
+    },
+    {
+        "hex": "e19293",
+        "unicode": "U+1493",
+        "name": "CANADIAN SYLLABICS WEST-CREE CWE"
+    },
+    {
+        "hex": "e19294",
+        "unicode": "U+1494",
+        "name": "CANADIAN SYLLABICS CWI"
+    },
+    {
+        "hex": "e19295",
+        "unicode": "U+1495",
+        "name": "CANADIAN SYLLABICS WEST-CREE CWI"
+    },
+    {
+        "hex": "e19296",
+        "unicode": "U+1496",
+        "name": "CANADIAN SYLLABICS CWII"
+    },
+    {
+        "hex": "e19297",
+        "unicode": "U+1497",
+        "name": "CANADIAN SYLLABICS WEST-CREE CWII"
+    },
+    {
+        "hex": "e19298",
+        "unicode": "U+1498",
+        "name": "CANADIAN SYLLABICS CWO"
+    },
+    {
+        "hex": "e19299",
+        "unicode": "U+1499",
+        "name": "CANADIAN SYLLABICS WEST-CREE CWO"
+    },
+    {
+        "hex": "e1929a",
+        "unicode": "U+149A",
+        "name": "CANADIAN SYLLABICS CWOO"
+    },
+    {
+        "hex": "e1929b",
+        "unicode": "U+149B",
+        "name": "CANADIAN SYLLABICS WEST-CREE CWOO"
+    },
+    {
+        "hex": "e1929c",
+        "unicode": "U+149C",
+        "name": "CANADIAN SYLLABICS CWA"
+    },
+    {
+        "hex": "e1929d",
+        "unicode": "U+149D",
+        "name": "CANADIAN SYLLABICS WEST-CREE CWA"
+    },
+    {
+        "hex": "e1929e",
+        "unicode": "U+149E",
+        "name": "CANADIAN SYLLABICS CWAA"
+    },
+    {
+        "hex": "e1929f",
+        "unicode": "U+149F",
+        "name": "CANADIAN SYLLABICS WEST-CREE CWAA"
+    }
+]

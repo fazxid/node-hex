@@ -1,0 +1,1282 @@
+[
+    {
+        "hex": "e0bc80",
+        "unicode": "U+0F00",
+        "name": "TIBETAN SYLLABLE OM"
+    },
+    {
+        "hex": "e0bc81",
+        "unicode": "U+0F01",
+        "name": "TIBETAN MARK GTER YIG MGO TRUNCATED A"
+    },
+    {
+        "hex": "e0bc82",
+        "unicode": "U+0F02",
+        "name": "TIBETAN MARK GTER YIG MGO -UM RNAM BCAD MA"
+    },
+    {
+        "hex": "e0bc83",
+        "unicode": "U+0F03",
+        "name": "TIBETAN MARK GTER YIG MGO -UM GTER TSHEG MA"
+    },
+    {
+        "hex": "e0bc84",
+        "unicode": "U+0F04",
+        "name": "TIBETAN MARK INITIAL YIG MGO MDUN MA"
+    },
+    {
+        "hex": "e0bc85",
+        "unicode": "U+0F05",
+        "name": "TIBETAN MARK CLOSING YIG MGO SGAB MA"
+    },
+    {
+        "hex": "e0bc86",
+        "unicode": "U+0F06",
+        "name": "TIBETAN MARK CARET YIG MGO PHUR SHAD MA"
+    },
+    {
+        "hex": "e0bc87",
+        "unicode": "U+0F07",
+        "name": "TIBETAN MARK YIG MGO TSHEG SHAD MA"
+    },
+    {
+        "hex": "e0bc88",
+        "unicode": "U+0F08",
+        "name": "TIBETAN MARK SBRUL SHAD"
+    },
+    {
+        "hex": "e0bc89",
+        "unicode": "U+0F09",
+        "name": "TIBETAN MARK BSKUR YIG MGO"
+    },
+    {
+        "hex": "e0bc8a",
+        "unicode": "U+0F0A",
+        "name": "TIBETAN MARK BKA- SHOG YIG MGO"
+    },
+    {
+        "hex": "e0bc8b",
+        "unicode": "U+0F0B",
+        "name": "TIBETAN MARK INTERSYLLABIC TSHEG"
+    },
+    {
+        "hex": "e0bc8c",
+        "unicode": "U+0F0C",
+        "name": "TIBETAN MARK DELIMITER TSHEG BSTAR"
+    },
+    {
+        "hex": "e0bc8d",
+        "unicode": "U+0F0D",
+        "name": "TIBETAN MARK SHAD"
+    },
+    {
+        "hex": "e0bc8e",
+        "unicode": "U+0F0E",
+        "name": "TIBETAN MARK NYIS SHAD"
+    },
+    {
+        "hex": "e0bc8f",
+        "unicode": "U+0F0F",
+        "name": "TIBETAN MARK TSHEG SHAD"
+    },
+    {
+        "hex": "e0bc90",
+        "unicode": "U+0F10",
+        "name": "TIBETAN MARK NYIS TSHEG SHAD"
+    },
+    {
+        "hex": "e0bc91",
+        "unicode": "U+0F11",
+        "name": "TIBETAN MARK RIN CHEN SPUNGS SHAD"
+    },
+    {
+        "hex": "e0bc92",
+        "unicode": "U+0F12",
+        "name": "TIBETAN MARK RGYA GRAM SHAD"
+    },
+    {
+        "hex": "e0bc93",
+        "unicode": "U+0F13",
+        "name": "TIBETAN MARK CARET -DZUD RTAGS ME LONG CAN"
+    },
+    {
+        "hex": "e0bc94",
+        "unicode": "U+0F14",
+        "name": "TIBETAN MARK GTER TSHEG"
+    },
+    {
+        "hex": "e0bc95",
+        "unicode": "U+0F15",
+        "name": "TIBETAN LOGOTYPE SIGN CHAD RTAGS"
+    },
+    {
+        "hex": "e0bc96",
+        "unicode": "U+0F16",
+        "name": "TIBETAN LOGOTYPE SIGN LHAG RTAGS"
+    },
+    {
+        "hex": "e0bc97",
+        "unicode": "U+0F17",
+        "name": "TIBETAN ASTROLOGICAL SIGN SGRA GCAN -CHAR RTAGS"
+    },
+    {
+        "hex": "e0bc98",
+        "unicode": "U+0F18",
+        "name": "TIBETAN ASTROLOGICAL SIGN -KHYUD PA"
+    },
+    {
+        "hex": "e0bc99",
+        "unicode": "U+0F19",
+        "name": "TIBETAN ASTROLOGICAL SIGN SDONG TSHUGS"
+    },
+    {
+        "hex": "e0bc9a",
+        "unicode": "U+0F1A",
+        "name": "TIBETAN SIGN RDEL DKAR GCIG"
+    },
+    {
+        "hex": "e0bc9b",
+        "unicode": "U+0F1B",
+        "name": "TIBETAN SIGN RDEL DKAR GNYIS"
+    },
+    {
+        "hex": "e0bc9c",
+        "unicode": "U+0F1C",
+        "name": "TIBETAN SIGN RDEL DKAR GSUM"
+    },
+    {
+        "hex": "e0bc9d",
+        "unicode": "U+0F1D",
+        "name": "TIBETAN SIGN RDEL NAG GCIG"
+    },
+    {
+        "hex": "e0bc9e",
+        "unicode": "U+0F1E",
+        "name": "TIBETAN SIGN RDEL NAG GNYIS"
+    },
+    {
+        "hex": "e0bc9f",
+        "unicode": "U+0F1F",
+        "name": "TIBETAN SIGN RDEL DKAR RDEL NAG"
+    },
+    {
+        "hex": "e0bca0",
+        "unicode": "U+0F20",
+        "name": "TIBETAN DIGIT ZERO"
+    },
+    {
+        "hex": "e0bca1",
+        "unicode": "U+0F21",
+        "name": "TIBETAN DIGIT ONE"
+    },
+    {
+        "hex": "e0bca2",
+        "unicode": "U+0F22",
+        "name": "TIBETAN DIGIT TWO"
+    },
+    {
+        "hex": "e0bca3",
+        "unicode": "U+0F23",
+        "name": "TIBETAN DIGIT THREE"
+    },
+    {
+        "hex": "e0bca4",
+        "unicode": "U+0F24",
+        "name": "TIBETAN DIGIT FOUR"
+    },
+    {
+        "hex": "e0bca5",
+        "unicode": "U+0F25",
+        "name": "TIBETAN DIGIT FIVE"
+    },
+    {
+        "hex": "e0bca6",
+        "unicode": "U+0F26",
+        "name": "TIBETAN DIGIT SIX"
+    },
+    {
+        "hex": "e0bca7",
+        "unicode": "U+0F27",
+        "name": "TIBETAN DIGIT SEVEN"
+    },
+    {
+        "hex": "e0bca8",
+        "unicode": "U+0F28",
+        "name": "TIBETAN DIGIT EIGHT"
+    },
+    {
+        "hex": "e0bca9",
+        "unicode": "U+0F29",
+        "name": "TIBETAN DIGIT NINE"
+    },
+    {
+        "hex": "e0bcaa",
+        "unicode": "U+0F2A",
+        "name": "TIBETAN DIGIT HALF ONE"
+    },
+    {
+        "hex": "e0bcab",
+        "unicode": "U+0F2B",
+        "name": "TIBETAN DIGIT HALF TWO"
+    },
+    {
+        "hex": "e0bcac",
+        "unicode": "U+0F2C",
+        "name": "TIBETAN DIGIT HALF THREE"
+    },
+    {
+        "hex": "e0bcad",
+        "unicode": "U+0F2D",
+        "name": "TIBETAN DIGIT HALF FOUR"
+    },
+    {
+        "hex": "e0bcae",
+        "unicode": "U+0F2E",
+        "name": "TIBETAN DIGIT HALF FIVE"
+    },
+    {
+        "hex": "e0bcaf",
+        "unicode": "U+0F2F",
+        "name": "TIBETAN DIGIT HALF SIX"
+    },
+    {
+        "hex": "e0bcb0",
+        "unicode": "U+0F30",
+        "name": "TIBETAN DIGIT HALF SEVEN"
+    },
+    {
+        "hex": "e0bcb1",
+        "unicode": "U+0F31",
+        "name": "TIBETAN DIGIT HALF EIGHT"
+    },
+    {
+        "hex": "e0bcb2",
+        "unicode": "U+0F32",
+        "name": "TIBETAN DIGIT HALF NINE"
+    },
+    {
+        "hex": "e0bcb3",
+        "unicode": "U+0F33",
+        "name": "TIBETAN DIGIT HALF ZERO"
+    },
+    {
+        "hex": "e0bcb4",
+        "unicode": "U+0F34",
+        "name": "TIBETAN MARK BSDUS RTAGS"
+    },
+    {
+        "hex": "e0bcb5",
+        "unicode": "U+0F35",
+        "name": "TIBETAN MARK NGAS BZUNG NYI ZLA"
+    },
+    {
+        "hex": "e0bcb6",
+        "unicode": "U+0F36",
+        "name": "TIBETAN MARK CARET -DZUD RTAGS BZHI MIG CAN"
+    },
+    {
+        "hex": "e0bcb7",
+        "unicode": "U+0F37",
+        "name": "TIBETAN MARK NGAS BZUNG SGOR RTAGS"
+    },
+    {
+        "hex": "e0bcb8",
+        "unicode": "U+0F38",
+        "name": "TIBETAN MARK CHE MGO"
+    },
+    {
+        "hex": "e0bcb9",
+        "unicode": "U+0F39",
+        "name": "TIBETAN MARK TSA -PHRU"
+    },
+    {
+        "hex": "e0bcba",
+        "unicode": "U+0F3A",
+        "name": "TIBETAN MARK GUG RTAGS GYON"
+    },
+    {
+        "hex": "e0bcbb",
+        "unicode": "U+0F3B",
+        "name": "TIBETAN MARK GUG RTAGS GYAS"
+    },
+    {
+        "hex": "e0bcbc",
+        "unicode": "U+0F3C",
+        "name": "TIBETAN MARK ANG KHANG GYON"
+    },
+    {
+        "hex": "e0bcbd",
+        "unicode": "U+0F3D",
+        "name": "TIBETAN MARK ANG KHANG GYAS"
+    },
+    {
+        "hex": "e0bcbe",
+        "unicode": "U+0F3E",
+        "name": "TIBETAN SIGN YAR TSHES"
+    },
+    {
+        "hex": "e0bcbf",
+        "unicode": "U+0F3F",
+        "name": "TIBETAN SIGN MAR TSHES"
+    },
+    {
+        "hex": "e0bd80",
+        "unicode": "U+0F40",
+        "name": "TIBETAN LETTER KA"
+    },
+    {
+        "hex": "e0bd81",
+        "unicode": "U+0F41",
+        "name": "TIBETAN LETTER KHA"
+    },
+    {
+        "hex": "e0bd82",
+        "unicode": "U+0F42",
+        "name": "TIBETAN LETTER GA"
+    },
+    {
+        "hex": "e0bd83",
+        "unicode": "U+0F43",
+        "name": "TIBETAN LETTER GHA"
+    },
+    {
+        "hex": "e0bd84",
+        "unicode": "U+0F44",
+        "name": "TIBETAN LETTER NGA"
+    },
+    {
+        "hex": "e0bd85",
+        "unicode": "U+0F45",
+        "name": "TIBETAN LETTER CA"
+    },
+    {
+        "hex": "e0bd86",
+        "unicode": "U+0F46",
+        "name": "TIBETAN LETTER CHA"
+    },
+    {
+        "hex": "e0bd87",
+        "unicode": "U+0F47",
+        "name": "TIBETAN LETTER JA"
+    },
+    {
+        "hex": "e0bd88",
+        "unicode": "U+0F48",
+        "name": ""
+    },
+    {
+        "hex": "e0bd89",
+        "unicode": "U+0F49",
+        "name": "TIBETAN LETTER NYA"
+    },
+    {
+        "hex": "e0bd8a",
+        "unicode": "U+0F4A",
+        "name": "TIBETAN LETTER TTA"
+    },
+    {
+        "hex": "e0bd8b",
+        "unicode": "U+0F4B",
+        "name": "TIBETAN LETTER TTHA"
+    },
+    {
+        "hex": "e0bd8c",
+        "unicode": "U+0F4C",
+        "name": "TIBETAN LETTER DDA"
+    },
+    {
+        "hex": "e0bd8d",
+        "unicode": "U+0F4D",
+        "name": "TIBETAN LETTER DDHA"
+    },
+    {
+        "hex": "e0bd8e",
+        "unicode": "U+0F4E",
+        "name": "TIBETAN LETTER NNA"
+    },
+    {
+        "hex": "e0bd8f",
+        "unicode": "U+0F4F",
+        "name": "TIBETAN LETTER TA"
+    },
+    {
+        "hex": "e0bd90",
+        "unicode": "U+0F50",
+        "name": "TIBETAN LETTER THA"
+    },
+    {
+        "hex": "e0bd91",
+        "unicode": "U+0F51",
+        "name": "TIBETAN LETTER DA"
+    },
+    {
+        "hex": "e0bd92",
+        "unicode": "U+0F52",
+        "name": "TIBETAN LETTER DHA"
+    },
+    {
+        "hex": "e0bd93",
+        "unicode": "U+0F53",
+        "name": "TIBETAN LETTER NA"
+    },
+    {
+        "hex": "e0bd94",
+        "unicode": "U+0F54",
+        "name": "TIBETAN LETTER PA"
+    },
+    {
+        "hex": "e0bd95",
+        "unicode": "U+0F55",
+        "name": "TIBETAN LETTER PHA"
+    },
+    {
+        "hex": "e0bd96",
+        "unicode": "U+0F56",
+        "name": "TIBETAN LETTER BA"
+    },
+    {
+        "hex": "e0bd97",
+        "unicode": "U+0F57",
+        "name": "TIBETAN LETTER BHA"
+    },
+    {
+        "hex": "e0bd98",
+        "unicode": "U+0F58",
+        "name": "TIBETAN LETTER MA"
+    },
+    {
+        "hex": "e0bd99",
+        "unicode": "U+0F59",
+        "name": "TIBETAN LETTER TSA"
+    },
+    {
+        "hex": "e0bd9a",
+        "unicode": "U+0F5A",
+        "name": "TIBETAN LETTER TSHA"
+    },
+    {
+        "hex": "e0bd9b",
+        "unicode": "U+0F5B",
+        "name": "TIBETAN LETTER DZA"
+    },
+    {
+        "hex": "e0bd9c",
+        "unicode": "U+0F5C",
+        "name": "TIBETAN LETTER DZHA"
+    },
+    {
+        "hex": "e0bd9d",
+        "unicode": "U+0F5D",
+        "name": "TIBETAN LETTER WA"
+    },
+    {
+        "hex": "e0bd9e",
+        "unicode": "U+0F5E",
+        "name": "TIBETAN LETTER ZHA"
+    },
+    {
+        "hex": "e0bd9f",
+        "unicode": "U+0F5F",
+        "name": "TIBETAN LETTER ZA"
+    },
+    {
+        "hex": "e0bda0",
+        "unicode": "U+0F60",
+        "name": "TIBETAN LETTER -A"
+    },
+    {
+        "hex": "e0bda1",
+        "unicode": "U+0F61",
+        "name": "TIBETAN LETTER YA"
+    },
+    {
+        "hex": "e0bda2",
+        "unicode": "U+0F62",
+        "name": "TIBETAN LETTER RA"
+    },
+    {
+        "hex": "e0bda3",
+        "unicode": "U+0F63",
+        "name": "TIBETAN LETTER LA"
+    },
+    {
+        "hex": "e0bda4",
+        "unicode": "U+0F64",
+        "name": "TIBETAN LETTER SHA"
+    },
+    {
+        "hex": "e0bda5",
+        "unicode": "U+0F65",
+        "name": "TIBETAN LETTER SSA"
+    },
+    {
+        "hex": "e0bda6",
+        "unicode": "U+0F66",
+        "name": "TIBETAN LETTER SA"
+    },
+    {
+        "hex": "e0bda7",
+        "unicode": "U+0F67",
+        "name": "TIBETAN LETTER HA"
+    },
+    {
+        "hex": "e0bda8",
+        "unicode": "U+0F68",
+        "name": "TIBETAN LETTER A"
+    },
+    {
+        "hex": "e0bda9",
+        "unicode": "U+0F69",
+        "name": "TIBETAN LETTER KSSA"
+    },
+    {
+        "hex": "e0bdaa",
+        "unicode": "U+0F6A",
+        "name": "TIBETAN LETTER FIXED-FORM RA"
+    },
+    {
+        "hex": "e0bdab",
+        "unicode": "U+0F6B",
+        "name": "TIBETAN LETTER KKA"
+    },
+    {
+        "hex": "e0bdac",
+        "unicode": "U+0F6C",
+        "name": "TIBETAN LETTER RRA"
+    },
+    {
+        "hex": "e0bdad",
+        "unicode": "U+0F6D",
+        "name": ""
+    },
+    {
+        "hex": "e0bdae",
+        "unicode": "U+0F6E",
+        "name": ""
+    },
+    {
+        "hex": "e0bdaf",
+        "unicode": "U+0F6F",
+        "name": ""
+    },
+    {
+        "hex": "e0bdb0",
+        "unicode": "U+0F70",
+        "name": ""
+    },
+    {
+        "hex": "e0bdb1",
+        "unicode": "U+0F71",
+        "name": "TIBETAN VOWEL SIGN AA"
+    },
+    {
+        "hex": "e0bdb2",
+        "unicode": "U+0F72",
+        "name": "TIBETAN VOWEL SIGN I"
+    },
+    {
+        "hex": "e0bdb3",
+        "unicode": "U+0F73",
+        "name": "TIBETAN VOWEL SIGN II"
+    },
+    {
+        "hex": "e0bdb4",
+        "unicode": "U+0F74",
+        "name": "TIBETAN VOWEL SIGN U"
+    },
+    {
+        "hex": "e0bdb5",
+        "unicode": "U+0F75",
+        "name": "TIBETAN VOWEL SIGN UU"
+    },
+    {
+        "hex": "e0bdb6",
+        "unicode": "U+0F76",
+        "name": "TIBETAN VOWEL SIGN VOCALIC R"
+    },
+    {
+        "hex": "e0bdb7",
+        "unicode": "U+0F77",
+        "name": "TIBETAN VOWEL SIGN VOCALIC RR"
+    },
+    {
+        "hex": "e0bdb8",
+        "unicode": "U+0F78",
+        "name": "TIBETAN VOWEL SIGN VOCALIC L"
+    },
+    {
+        "hex": "e0bdb9",
+        "unicode": "U+0F79",
+        "name": "TIBETAN VOWEL SIGN VOCALIC LL"
+    },
+    {
+        "hex": "e0bdba",
+        "unicode": "U+0F7A",
+        "name": "TIBETAN VOWEL SIGN E"
+    },
+    {
+        "hex": "e0bdbb",
+        "unicode": "U+0F7B",
+        "name": "TIBETAN VOWEL SIGN EE"
+    },
+    {
+        "hex": "e0bdbc",
+        "unicode": "U+0F7C",
+        "name": "TIBETAN VOWEL SIGN O"
+    },
+    {
+        "hex": "e0bdbd",
+        "unicode": "U+0F7D",
+        "name": "TIBETAN VOWEL SIGN OO"
+    },
+    {
+        "hex": "e0bdbe",
+        "unicode": "U+0F7E",
+        "name": "TIBETAN SIGN RJES SU NGA RO"
+    },
+    {
+        "hex": "e0bdbf",
+        "unicode": "U+0F7F",
+        "name": "TIBETAN SIGN RNAM BCAD"
+    },
+    {
+        "hex": "e0be80",
+        "unicode": "U+0F80",
+        "name": "TIBETAN VOWEL SIGN REVERSED I"
+    },
+    {
+        "hex": "e0be81",
+        "unicode": "U+0F81",
+        "name": "TIBETAN VOWEL SIGN REVERSED II"
+    },
+    {
+        "hex": "e0be82",
+        "unicode": "U+0F82",
+        "name": "TIBETAN SIGN NYI ZLA NAA DA"
+    },
+    {
+        "hex": "e0be83",
+        "unicode": "U+0F83",
+        "name": "TIBETAN SIGN SNA LDAN"
+    },
+    {
+        "hex": "e0be84",
+        "unicode": "U+0F84",
+        "name": "TIBETAN MARK HALANTA"
+    },
+    {
+        "hex": "e0be85",
+        "unicode": "U+0F85",
+        "name": "TIBETAN MARK PALUTA"
+    },
+    {
+        "hex": "e0be86",
+        "unicode": "U+0F86",
+        "name": "TIBETAN SIGN LCI RTAGS"
+    },
+    {
+        "hex": "e0be87",
+        "unicode": "U+0F87",
+        "name": "TIBETAN SIGN YANG RTAGS"
+    },
+    {
+        "hex": "e0be88",
+        "unicode": "U+0F88",
+        "name": "TIBETAN SIGN LCE TSA CAN"
+    },
+    {
+        "hex": "e0be89",
+        "unicode": "U+0F89",
+        "name": "TIBETAN SIGN MCHU CAN"
+    },
+    {
+        "hex": "e0be8a",
+        "unicode": "U+0F8A",
+        "name": "TIBETAN SIGN GRU CAN RGYINGS"
+    },
+    {
+        "hex": "e0be8b",
+        "unicode": "U+0F8B",
+        "name": "TIBETAN SIGN GRU MED RGYINGS"
+    },
+    {
+        "hex": "e0be8c",
+        "unicode": "U+0F8C",
+        "name": "TIBETAN SIGN INVERTED MCHU CAN"
+    },
+    {
+        "hex": "e0be8d",
+        "unicode": "U+0F8D",
+        "name": "TIBETAN SUBJOINED SIGN LCE TSA CAN"
+    },
+    {
+        "hex": "e0be8e",
+        "unicode": "U+0F8E",
+        "name": "TIBETAN SUBJOINED SIGN MCHU CAN"
+    },
+    {
+        "hex": "e0be8f",
+        "unicode": "U+0F8F",
+        "name": "TIBETAN SUBJOINED SIGN INVERTED MCHU CAN"
+    },
+    {
+        "hex": "e0be90",
+        "unicode": "U+0F90",
+        "name": "TIBETAN SUBJOINED LETTER KA"
+    },
+    {
+        "hex": "e0be91",
+        "unicode": "U+0F91",
+        "name": "TIBETAN SUBJOINED LETTER KHA"
+    },
+    {
+        "hex": "e0be92",
+        "unicode": "U+0F92",
+        "name": "TIBETAN SUBJOINED LETTER GA"
+    },
+    {
+        "hex": "e0be93",
+        "unicode": "U+0F93",
+        "name": "TIBETAN SUBJOINED LETTER GHA"
+    },
+    {
+        "hex": "e0be94",
+        "unicode": "U+0F94",
+        "name": "TIBETAN SUBJOINED LETTER NGA"
+    },
+    {
+        "hex": "e0be95",
+        "unicode": "U+0F95",
+        "name": "TIBETAN SUBJOINED LETTER CA"
+    },
+    {
+        "hex": "e0be96",
+        "unicode": "U+0F96",
+        "name": "TIBETAN SUBJOINED LETTER CHA"
+    },
+    {
+        "hex": "e0be97",
+        "unicode": "U+0F97",
+        "name": "TIBETAN SUBJOINED LETTER JA"
+    },
+    {
+        "hex": "e0be98",
+        "unicode": "U+0F98",
+        "name": ""
+    },
+    {
+        "hex": "e0be99",
+        "unicode": "U+0F99",
+        "name": "TIBETAN SUBJOINED LETTER NYA"
+    },
+    {
+        "hex": "e0be9a",
+        "unicode": "U+0F9A",
+        "name": "TIBETAN SUBJOINED LETTER TTA"
+    },
+    {
+        "hex": "e0be9b",
+        "unicode": "U+0F9B",
+        "name": "TIBETAN SUBJOINED LETTER TTHA"
+    },
+    {
+        "hex": "e0be9c",
+        "unicode": "U+0F9C",
+        "name": "TIBETAN SUBJOINED LETTER DDA"
+    },
+    {
+        "hex": "e0be9d",
+        "unicode": "U+0F9D",
+        "name": "TIBETAN SUBJOINED LETTER DDHA"
+    },
+    {
+        "hex": "e0be9e",
+        "unicode": "U+0F9E",
+        "name": "TIBETAN SUBJOINED LETTER NNA"
+    },
+    {
+        "hex": "e0be9f",
+        "unicode": "U+0F9F",
+        "name": "TIBETAN SUBJOINED LETTER TA"
+    },
+    {
+        "hex": "e0bea0",
+        "unicode": "U+0FA0",
+        "name": "TIBETAN SUBJOINED LETTER THA"
+    },
+    {
+        "hex": "e0bea1",
+        "unicode": "U+0FA1",
+        "name": "TIBETAN SUBJOINED LETTER DA"
+    },
+    {
+        "hex": "e0bea2",
+        "unicode": "U+0FA2",
+        "name": "TIBETAN SUBJOINED LETTER DHA"
+    },
+    {
+        "hex": "e0bea3",
+        "unicode": "U+0FA3",
+        "name": "TIBETAN SUBJOINED LETTER NA"
+    },
+    {
+        "hex": "e0bea4",
+        "unicode": "U+0FA4",
+        "name": "TIBETAN SUBJOINED LETTER PA"
+    },
+    {
+        "hex": "e0bea5",
+        "unicode": "U+0FA5",
+        "name": "TIBETAN SUBJOINED LETTER PHA"
+    },
+    {
+        "hex": "e0bea6",
+        "unicode": "U+0FA6",
+        "name": "TIBETAN SUBJOINED LETTER BA"
+    },
+    {
+        "hex": "e0bea7",
+        "unicode": "U+0FA7",
+        "name": "TIBETAN SUBJOINED LETTER BHA"
+    },
+    {
+        "hex": "e0bea8",
+        "unicode": "U+0FA8",
+        "name": "TIBETAN SUBJOINED LETTER MA"
+    },
+    {
+        "hex": "e0bea9",
+        "unicode": "U+0FA9",
+        "name": "TIBETAN SUBJOINED LETTER TSA"
+    },
+    {
+        "hex": "e0beaa",
+        "unicode": "U+0FAA",
+        "name": "TIBETAN SUBJOINED LETTER TSHA"
+    },
+    {
+        "hex": "e0beab",
+        "unicode": "U+0FAB",
+        "name": "TIBETAN SUBJOINED LETTER DZA"
+    },
+    {
+        "hex": "e0beac",
+        "unicode": "U+0FAC",
+        "name": "TIBETAN SUBJOINED LETTER DZHA"
+    },
+    {
+        "hex": "e0bead",
+        "unicode": "U+0FAD",
+        "name": "TIBETAN SUBJOINED LETTER WA"
+    },
+    {
+        "hex": "e0beae",
+        "unicode": "U+0FAE",
+        "name": "TIBETAN SUBJOINED LETTER ZHA"
+    },
+    {
+        "hex": "e0beaf",
+        "unicode": "U+0FAF",
+        "name": "TIBETAN SUBJOINED LETTER ZA"
+    },
+    {
+        "hex": "e0beb0",
+        "unicode": "U+0FB0",
+        "name": "TIBETAN SUBJOINED LETTER -A"
+    },
+    {
+        "hex": "e0beb1",
+        "unicode": "U+0FB1",
+        "name": "TIBETAN SUBJOINED LETTER YA"
+    },
+    {
+        "hex": "e0beb2",
+        "unicode": "U+0FB2",
+        "name": "TIBETAN SUBJOINED LETTER RA"
+    },
+    {
+        "hex": "e0beb3",
+        "unicode": "U+0FB3",
+        "name": "TIBETAN SUBJOINED LETTER LA"
+    },
+    {
+        "hex": "e0beb4",
+        "unicode": "U+0FB4",
+        "name": "TIBETAN SUBJOINED LETTER SHA"
+    },
+    {
+        "hex": "e0beb5",
+        "unicode": "U+0FB5",
+        "name": "TIBETAN SUBJOINED LETTER SSA"
+    },
+    {
+        "hex": "e0beb6",
+        "unicode": "U+0FB6",
+        "name": "TIBETAN SUBJOINED LETTER SA"
+    },
+    {
+        "hex": "e0beb7",
+        "unicode": "U+0FB7",
+        "name": "TIBETAN SUBJOINED LETTER HA"
+    },
+    {
+        "hex": "e0beb8",
+        "unicode": "U+0FB8",
+        "name": "TIBETAN SUBJOINED LETTER A"
+    },
+    {
+        "hex": "e0beb9",
+        "unicode": "U+0FB9",
+        "name": "TIBETAN SUBJOINED LETTER KSSA"
+    },
+    {
+        "hex": "e0beba",
+        "unicode": "U+0FBA",
+        "name": "TIBETAN SUBJOINED LETTER FIXED-FORM WA"
+    },
+    {
+        "hex": "e0bebb",
+        "unicode": "U+0FBB",
+        "name": "TIBETAN SUBJOINED LETTER FIXED-FORM YA"
+    },
+    {
+        "hex": "e0bebc",
+        "unicode": "U+0FBC",
+        "name": "TIBETAN SUBJOINED LETTER FIXED-FORM RA"
+    },
+    {
+        "hex": "e0bebd",
+        "unicode": "U+0FBD",
+        "name": ""
+    },
+    {
+        "hex": "e0bebe",
+        "unicode": "U+0FBE",
+        "name": "TIBETAN KU RU KHA"
+    },
+    {
+        "hex": "e0bebf",
+        "unicode": "U+0FBF",
+        "name": "TIBETAN KU RU KHA BZHI MIG CAN"
+    },
+    {
+        "hex": "e0bf80",
+        "unicode": "U+0FC0",
+        "name": "TIBETAN CANTILLATION SIGN HEAVY BEAT"
+    },
+    {
+        "hex": "e0bf81",
+        "unicode": "U+0FC1",
+        "name": "TIBETAN CANTILLATION SIGN LIGHT BEAT"
+    },
+    {
+        "hex": "e0bf82",
+        "unicode": "U+0FC2",
+        "name": "TIBETAN CANTILLATION SIGN CANG TE-U"
+    },
+    {
+        "hex": "e0bf83",
+        "unicode": "U+0FC3",
+        "name": "TIBETAN CANTILLATION SIGN SBUB -CHAL"
+    },
+    {
+        "hex": "e0bf84",
+        "unicode": "U+0FC4",
+        "name": "TIBETAN SYMBOL DRIL BU"
+    },
+    {
+        "hex": "e0bf85",
+        "unicode": "U+0FC5",
+        "name": "TIBETAN SYMBOL RDO RJE"
+    },
+    {
+        "hex": "e0bf86",
+        "unicode": "U+0FC6",
+        "name": "TIBETAN SYMBOL PADMA GDAN"
+    },
+    {
+        "hex": "e0bf87",
+        "unicode": "U+0FC7",
+        "name": "TIBETAN SYMBOL RDO RJE RGYA GRAM"
+    },
+    {
+        "hex": "e0bf88",
+        "unicode": "U+0FC8",
+        "name": "TIBETAN SYMBOL PHUR PA"
+    },
+    {
+        "hex": "e0bf89",
+        "unicode": "U+0FC9",
+        "name": "TIBETAN SYMBOL NOR BU"
+    },
+    {
+        "hex": "e0bf8a",
+        "unicode": "U+0FCA",
+        "name": "TIBETAN SYMBOL NOR BU NYIS -KHYIL"
+    },
+    {
+        "hex": "e0bf8b",
+        "unicode": "U+0FCB",
+        "name": "TIBETAN SYMBOL NOR BU GSUM -KHYIL"
+    },
+    {
+        "hex": "e0bf8c",
+        "unicode": "U+0FCC",
+        "name": "TIBETAN SYMBOL NOR BU BZHI -KHYIL"
+    },
+    {
+        "hex": "e0bf8d",
+        "unicode": "U+0FCD",
+        "name": ""
+    },
+    {
+        "hex": "e0bf8e",
+        "unicode": "U+0FCE",
+        "name": "TIBETAN SIGN RDEL NAG RDEL DKAR"
+    },
+    {
+        "hex": "e0bf8f",
+        "unicode": "U+0FCF",
+        "name": "TIBETAN SIGN RDEL NAG GSUM"
+    },
+    {
+        "hex": "e0bf90",
+        "unicode": "U+0FD0",
+        "name": "TIBETAN MARK BSKA- SHOG GI MGO RGYAN"
+    },
+    {
+        "hex": "e0bf91",
+        "unicode": "U+0FD1",
+        "name": "TIBETAN MARK MNYAM YIG GI MGO RGYAN"
+    },
+    {
+        "hex": "e0bf92",
+        "unicode": "U+0FD2",
+        "name": "TIBETAN MARK NYIS TSHEG"
+    },
+    {
+        "hex": "e0bf93",
+        "unicode": "U+0FD3",
+        "name": "TIBETAN MARK INITIAL BRDA RNYING YIG MGO MDUN MA"
+    },
+    {
+        "hex": "e0bf94",
+        "unicode": "U+0FD4",
+        "name": "TIBETAN MARK CLOSING BRDA RNYING YIG MGO SGAB MA"
+    },
+    {
+        "hex": "e0bf95",
+        "unicode": "U+0FD5",
+        "name": "RIGHT-FACING SVASTI SIGN"
+    },
+    {
+        "hex": "e0bf96",
+        "unicode": "U+0FD6",
+        "name": "LEFT-FACING SVASTI SIGN"
+    },
+    {
+        "hex": "e0bf97",
+        "unicode": "U+0FD7",
+        "name": "RIGHT-FACING SVASTI SIGN WITH DOTS"
+    },
+    {
+        "hex": "e0bf98",
+        "unicode": "U+0FD8",
+        "name": "LEFT-FACING SVASTI SIGN WITH DOTS"
+    },
+    {
+        "hex": "e0bf99",
+        "unicode": "U+0FD9",
+        "name": "TIBETAN MARK LEADING MCHAN RTAGS"
+    },
+    {
+        "hex": "e0bf9a",
+        "unicode": "U+0FDA",
+        "name": "TIBETAN MARK TRAILING MCHAN RTAGS"
+    },
+    {
+        "hex": "e0bf9b",
+        "unicode": "U+0FDB",
+        "name": ""
+    },
+    {
+        "hex": "e0bf9c",
+        "unicode": "U+0FDC",
+        "name": ""
+    },
+    {
+        "hex": "e0bf9d",
+        "unicode": "U+0FDD",
+        "name": ""
+    },
+    {
+        "hex": "e0bf9e",
+        "unicode": "U+0FDE",
+        "name": ""
+    },
+    {
+        "hex": "e0bf9f",
+        "unicode": "U+0FDF",
+        "name": ""
+    },
+    {
+        "hex": "e0bfa0",
+        "unicode": "U+0FE0",
+        "name": ""
+    },
+    {
+        "hex": "e0bfa1",
+        "unicode": "U+0FE1",
+        "name": ""
+    },
+    {
+        "hex": "e0bfa2",
+        "unicode": "U+0FE2",
+        "name": ""
+    },
+    {
+        "hex": "e0bfa3",
+        "unicode": "U+0FE3",
+        "name": ""
+    },
+    {
+        "hex": "e0bfa4",
+        "unicode": "U+0FE4",
+        "name": ""
+    },
+    {
+        "hex": "e0bfa5",
+        "unicode": "U+0FE5",
+        "name": ""
+    },
+    {
+        "hex": "e0bfa6",
+        "unicode": "U+0FE6",
+        "name": ""
+    },
+    {
+        "hex": "e0bfa7",
+        "unicode": "U+0FE7",
+        "name": ""
+    },
+    {
+        "hex": "e0bfa8",
+        "unicode": "U+0FE8",
+        "name": ""
+    },
+    {
+        "hex": "e0bfa9",
+        "unicode": "U+0FE9",
+        "name": ""
+    },
+    {
+        "hex": "e0bfaa",
+        "unicode": "U+0FEA",
+        "name": ""
+    },
+    {
+        "hex": "e0bfab",
+        "unicode": "U+0FEB",
+        "name": ""
+    },
+    {
+        "hex": "e0bfac",
+        "unicode": "U+0FEC",
+        "name": ""
+    },
+    {
+        "hex": "e0bfad",
+        "unicode": "U+0FED",
+        "name": ""
+    },
+    {
+        "hex": "e0bfae",
+        "unicode": "U+0FEE",
+        "name": ""
+    },
+    {
+        "hex": "e0bfaf",
+        "unicode": "U+0FEF",
+        "name": ""
+    },
+    {
+        "hex": "e0bfb0",
+        "unicode": "U+0FF0",
+        "name": ""
+    },
+    {
+        "hex": "e0bfb1",
+        "unicode": "U+0FF1",
+        "name": ""
+    },
+    {
+        "hex": "e0bfb2",
+        "unicode": "U+0FF2",
+        "name": ""
+    },
+    {
+        "hex": "e0bfb3",
+        "unicode": "U+0FF3",
+        "name": ""
+    },
+    {
+        "hex": "e0bfb4",
+        "unicode": "U+0FF4",
+        "name": ""
+    },
+    {
+        "hex": "e0bfb5",
+        "unicode": "U+0FF5",
+        "name": ""
+    },
+    {
+        "hex": "e0bfb6",
+        "unicode": "U+0FF6",
+        "name": ""
+    },
+    {
+        "hex": "e0bfb7",
+        "unicode": "U+0FF7",
+        "name": ""
+    },
+    {
+        "hex": "e0bfb8",
+        "unicode": "U+0FF8",
+        "name": ""
+    },
+    {
+        "hex": "e0bfb9",
+        "unicode": "U+0FF9",
+        "name": ""
+    },
+    {
+        "hex": "e0bfba",
+        "unicode": "U+0FFA",
+        "name": ""
+    },
+    {
+        "hex": "e0bfbb",
+        "unicode": "U+0FFB",
+        "name": ""
+    },
+    {
+        "hex": "e0bfbc",
+        "unicode": "U+0FFC",
+        "name": ""
+    },
+    {
+        "hex": "e0bfbd",
+        "unicode": "U+0FFD",
+        "name": ""
+    },
+    {
+        "hex": "e0bfbe",
+        "unicode": "U+0FFE",
+        "name": ""
+    },
+    {
+        "hex": "e0bfbf",
+        "unicode": "U+0FFF",
+        "name": ""
+    }
+]

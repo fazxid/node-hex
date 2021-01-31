@@ -1,0 +1,1282 @@
+[
+    {
+        "hex": "cab0",
+        "unicode": "U+02B0",
+        "name": "MODIFIER LETTER SMALL H"
+    },
+    {
+        "hex": "cab1",
+        "unicode": "U+02B1",
+        "name": "MODIFIER LETTER SMALL H WITH HOOK"
+    },
+    {
+        "hex": "cab2",
+        "unicode": "U+02B2",
+        "name": "MODIFIER LETTER SMALL J"
+    },
+    {
+        "hex": "cab3",
+        "unicode": "U+02B3",
+        "name": "MODIFIER LETTER SMALL R"
+    },
+    {
+        "hex": "cab4",
+        "unicode": "U+02B4",
+        "name": "MODIFIER LETTER SMALL TURNED R"
+    },
+    {
+        "hex": "cab5",
+        "unicode": "U+02B5",
+        "name": "MODIFIER LETTER SMALL TURNED R WITH HOOK"
+    },
+    {
+        "hex": "cab6",
+        "unicode": "U+02B6",
+        "name": "MODIFIER LETTER SMALL CAPITAL INVERTED R"
+    },
+    {
+        "hex": "cab7",
+        "unicode": "U+02B7",
+        "name": "MODIFIER LETTER SMALL W"
+    },
+    {
+        "hex": "cab8",
+        "unicode": "U+02B8",
+        "name": "MODIFIER LETTER SMALL Y"
+    },
+    {
+        "hex": "cab9",
+        "unicode": "U+02B9",
+        "name": "MODIFIER LETTER PRIME"
+    },
+    {
+        "hex": "caba",
+        "unicode": "U+02BA",
+        "name": "MODIFIER LETTER DOUBLE PRIME"
+    },
+    {
+        "hex": "cabb",
+        "unicode": "U+02BB",
+        "name": "MODIFIER LETTER TURNED COMMA"
+    },
+    {
+        "hex": "cabc",
+        "unicode": "U+02BC",
+        "name": "MODIFIER LETTER APOSTROPHE"
+    },
+    {
+        "hex": "cabd",
+        "unicode": "U+02BD",
+        "name": "MODIFIER LETTER REVERSED COMMA"
+    },
+    {
+        "hex": "cabe",
+        "unicode": "U+02BE",
+        "name": "MODIFIER LETTER RIGHT HALF RING"
+    },
+    {
+        "hex": "cabf",
+        "unicode": "U+02BF",
+        "name": "MODIFIER LETTER LEFT HALF RING"
+    },
+    {
+        "hex": "cb80",
+        "unicode": "U+02C0",
+        "name": "MODIFIER LETTER GLOTTAL STOP"
+    },
+    {
+        "hex": "cb81",
+        "unicode": "U+02C1",
+        "name": "MODIFIER LETTER REVERSED GLOTTAL STOP"
+    },
+    {
+        "hex": "cb82",
+        "unicode": "U+02C2",
+        "name": "MODIFIER LETTER LEFT ARROWHEAD"
+    },
+    {
+        "hex": "cb83",
+        "unicode": "U+02C3",
+        "name": "MODIFIER LETTER RIGHT ARROWHEAD"
+    },
+    {
+        "hex": "cb84",
+        "unicode": "U+02C4",
+        "name": "MODIFIER LETTER UP ARROWHEAD"
+    },
+    {
+        "hex": "cb85",
+        "unicode": "U+02C5",
+        "name": "MODIFIER LETTER DOWN ARROWHEAD"
+    },
+    {
+        "hex": "cb86",
+        "unicode": "U+02C6",
+        "name": "MODIFIER LETTER CIRCUMFLEX ACCENT"
+    },
+    {
+        "hex": "cb87",
+        "unicode": "U+02C7",
+        "name": "CARON"
+    },
+    {
+        "hex": "cb88",
+        "unicode": "U+02C8",
+        "name": "MODIFIER LETTER VERTICAL LINE"
+    },
+    {
+        "hex": "cb89",
+        "unicode": "U+02C9",
+        "name": "MODIFIER LETTER MACRON"
+    },
+    {
+        "hex": "cb8a",
+        "unicode": "U+02CA",
+        "name": "MODIFIER LETTER ACUTE ACCENT"
+    },
+    {
+        "hex": "cb8b",
+        "unicode": "U+02CB",
+        "name": "MODIFIER LETTER GRAVE ACCENT"
+    },
+    {
+        "hex": "cb8c",
+        "unicode": "U+02CC",
+        "name": "MODIFIER LETTER LOW VERTICAL LINE"
+    },
+    {
+        "hex": "cb8d",
+        "unicode": "U+02CD",
+        "name": "MODIFIER LETTER LOW MACRON"
+    },
+    {
+        "hex": "cb8e",
+        "unicode": "U+02CE",
+        "name": "MODIFIER LETTER LOW GRAVE ACCENT"
+    },
+    {
+        "hex": "cb8f",
+        "unicode": "U+02CF",
+        "name": "MODIFIER LETTER LOW ACUTE ACCENT"
+    },
+    {
+        "hex": "cb90",
+        "unicode": "U+02D0",
+        "name": "MODIFIER LETTER TRIANGULAR COLON"
+    },
+    {
+        "hex": "cb91",
+        "unicode": "U+02D1",
+        "name": "MODIFIER LETTER HALF TRIANGULAR COLON"
+    },
+    {
+        "hex": "cb92",
+        "unicode": "U+02D2",
+        "name": "MODIFIER LETTER CENTRED RIGHT HALF RING"
+    },
+    {
+        "hex": "cb93",
+        "unicode": "U+02D3",
+        "name": "MODIFIER LETTER CENTRED LEFT HALF RING"
+    },
+    {
+        "hex": "cb94",
+        "unicode": "U+02D4",
+        "name": "MODIFIER LETTER UP TACK"
+    },
+    {
+        "hex": "cb95",
+        "unicode": "U+02D5",
+        "name": "MODIFIER LETTER DOWN TACK"
+    },
+    {
+        "hex": "cb96",
+        "unicode": "U+02D6",
+        "name": "MODIFIER LETTER PLUS SIGN"
+    },
+    {
+        "hex": "cb97",
+        "unicode": "U+02D7",
+        "name": "MODIFIER LETTER MINUS SIGN"
+    },
+    {
+        "hex": "cb98",
+        "unicode": "U+02D8",
+        "name": "BREVE"
+    },
+    {
+        "hex": "cb99",
+        "unicode": "U+02D9",
+        "name": "DOT ABOVE"
+    },
+    {
+        "hex": "cb9a",
+        "unicode": "U+02DA",
+        "name": "RING ABOVE"
+    },
+    {
+        "hex": "cb9b",
+        "unicode": "U+02DB",
+        "name": "OGONEK"
+    },
+    {
+        "hex": "cb9c",
+        "unicode": "U+02DC",
+        "name": "SMALL TILDE"
+    },
+    {
+        "hex": "cb9d",
+        "unicode": "U+02DD",
+        "name": "DOUBLE ACUTE ACCENT"
+    },
+    {
+        "hex": "cb9e",
+        "unicode": "U+02DE",
+        "name": "MODIFIER LETTER RHOTIC HOOK"
+    },
+    {
+        "hex": "cb9f",
+        "unicode": "U+02DF",
+        "name": "MODIFIER LETTER CROSS ACCENT"
+    },
+    {
+        "hex": "cba0",
+        "unicode": "U+02E0",
+        "name": "MODIFIER LETTER SMALL GAMMA"
+    },
+    {
+        "hex": "cba1",
+        "unicode": "U+02E1",
+        "name": "MODIFIER LETTER SMALL L"
+    },
+    {
+        "hex": "cba2",
+        "unicode": "U+02E2",
+        "name": "MODIFIER LETTER SMALL S"
+    },
+    {
+        "hex": "cba3",
+        "unicode": "U+02E3",
+        "name": "MODIFIER LETTER SMALL X"
+    },
+    {
+        "hex": "cba4",
+        "unicode": "U+02E4",
+        "name": "MODIFIER LETTER SMALL REVERSED GLOTTAL STOP"
+    },
+    {
+        "hex": "cba5",
+        "unicode": "U+02E5",
+        "name": "MODIFIER LETTER EXTRA-HIGH TONE BAR"
+    },
+    {
+        "hex": "cba6",
+        "unicode": "U+02E6",
+        "name": "MODIFIER LETTER HIGH TONE BAR"
+    },
+    {
+        "hex": "cba7",
+        "unicode": "U+02E7",
+        "name": "MODIFIER LETTER MID TONE BAR"
+    },
+    {
+        "hex": "cba8",
+        "unicode": "U+02E8",
+        "name": "MODIFIER LETTER LOW TONE BAR"
+    },
+    {
+        "hex": "cba9",
+        "unicode": "U+02E9",
+        "name": "MODIFIER LETTER EXTRA-LOW TONE BAR"
+    },
+    {
+        "hex": "cbaa",
+        "unicode": "U+02EA",
+        "name": "MODIFIER LETTER YIN DEPARTING TONE MARK"
+    },
+    {
+        "hex": "cbab",
+        "unicode": "U+02EB",
+        "name": "MODIFIER LETTER YANG DEPARTING TONE MARK"
+    },
+    {
+        "hex": "cbac",
+        "unicode": "U+02EC",
+        "name": "MODIFIER LETTER VOICING"
+    },
+    {
+        "hex": "cbad",
+        "unicode": "U+02ED",
+        "name": "MODIFIER LETTER UNASPIRATED"
+    },
+    {
+        "hex": "cbae",
+        "unicode": "U+02EE",
+        "name": "MODIFIER LETTER DOUBLE APOSTROPHE"
+    },
+    {
+        "hex": "cbaf",
+        "unicode": "U+02EF",
+        "name": "MODIFIER LETTER LOW DOWN ARROWHEAD"
+    },
+    {
+        "hex": "cbb0",
+        "unicode": "U+02F0",
+        "name": "MODIFIER LETTER LOW UP ARROWHEAD"
+    },
+    {
+        "hex": "cbb1",
+        "unicode": "U+02F1",
+        "name": "MODIFIER LETTER LOW LEFT ARROWHEAD"
+    },
+    {
+        "hex": "cbb2",
+        "unicode": "U+02F2",
+        "name": "MODIFIER LETTER LOW RIGHT ARROWHEAD"
+    },
+    {
+        "hex": "cbb3",
+        "unicode": "U+02F3",
+        "name": "MODIFIER LETTER LOW RING"
+    },
+    {
+        "hex": "cbb4",
+        "unicode": "U+02F4",
+        "name": "MODIFIER LETTER MIDDLE GRAVE ACCENT"
+    },
+    {
+        "hex": "cbb5",
+        "unicode": "U+02F5",
+        "name": "MODIFIER LETTER MIDDLE DOUBLE GRAVE ACCENT"
+    },
+    {
+        "hex": "cbb6",
+        "unicode": "U+02F6",
+        "name": "MODIFIER LETTER MIDDLE DOUBLE ACUTE ACCENT"
+    },
+    {
+        "hex": "cbb7",
+        "unicode": "U+02F7",
+        "name": "MODIFIER LETTER LOW TILDE"
+    },
+    {
+        "hex": "cbb8",
+        "unicode": "U+02F8",
+        "name": "MODIFIER LETTER RAISED COLON"
+    },
+    {
+        "hex": "cbb9",
+        "unicode": "U+02F9",
+        "name": "MODIFIER LETTER BEGIN HIGH TONE"
+    },
+    {
+        "hex": "cbba",
+        "unicode": "U+02FA",
+        "name": "MODIFIER LETTER END HIGH TONE"
+    },
+    {
+        "hex": "cbbb",
+        "unicode": "U+02FB",
+        "name": "MODIFIER LETTER BEGIN LOW TONE"
+    },
+    {
+        "hex": "cbbc",
+        "unicode": "U+02FC",
+        "name": "MODIFIER LETTER END LOW TONE"
+    },
+    {
+        "hex": "cbbd",
+        "unicode": "U+02FD",
+        "name": "MODIFIER LETTER SHELF"
+    },
+    {
+        "hex": "cbbe",
+        "unicode": "U+02FE",
+        "name": "MODIFIER LETTER OPEN SHELF"
+    },
+    {
+        "hex": "cbbf",
+        "unicode": "U+02FF",
+        "name": "MODIFIER LETTER LOW LEFT ARROW"
+    },
+    {
+        "hex": "cc80",
+        "unicode": "U+0300",
+        "name": "COMBINING GRAVE ACCENT"
+    },
+    {
+        "hex": "cc81",
+        "unicode": "U+0301",
+        "name": "COMBINING ACUTE ACCENT"
+    },
+    {
+        "hex": "cc82",
+        "unicode": "U+0302",
+        "name": "COMBINING CIRCUMFLEX ACCENT"
+    },
+    {
+        "hex": "cc83",
+        "unicode": "U+0303",
+        "name": "COMBINING TILDE"
+    },
+    {
+        "hex": "cc84",
+        "unicode": "U+0304",
+        "name": "COMBINING MACRON"
+    },
+    {
+        "hex": "cc85",
+        "unicode": "U+0305",
+        "name": "COMBINING OVERLINE"
+    },
+    {
+        "hex": "cc86",
+        "unicode": "U+0306",
+        "name": "COMBINING BREVE"
+    },
+    {
+        "hex": "cc87",
+        "unicode": "U+0307",
+        "name": "COMBINING DOT ABOVE"
+    },
+    {
+        "hex": "cc88",
+        "unicode": "U+0308",
+        "name": "COMBINING DIAERESIS"
+    },
+    {
+        "hex": "cc89",
+        "unicode": "U+0309",
+        "name": "COMBINING HOOK ABOVE"
+    },
+    {
+        "hex": "cc8a",
+        "unicode": "U+030A",
+        "name": "COMBINING RING ABOVE"
+    },
+    {
+        "hex": "cc8b",
+        "unicode": "U+030B",
+        "name": "COMBINING DOUBLE ACUTE ACCENT"
+    },
+    {
+        "hex": "cc8c",
+        "unicode": "U+030C",
+        "name": "COMBINING CARON"
+    },
+    {
+        "hex": "cc8d",
+        "unicode": "U+030D",
+        "name": "COMBINING VERTICAL LINE ABOVE"
+    },
+    {
+        "hex": "cc8e",
+        "unicode": "U+030E",
+        "name": "COMBINING DOUBLE VERTICAL LINE ABOVE"
+    },
+    {
+        "hex": "cc8f",
+        "unicode": "U+030F",
+        "name": "COMBINING DOUBLE GRAVE ACCENT"
+    },
+    {
+        "hex": "cc90",
+        "unicode": "U+0310",
+        "name": "COMBINING CANDRABINDU"
+    },
+    {
+        "hex": "cc91",
+        "unicode": "U+0311",
+        "name": "COMBINING INVERTED BREVE"
+    },
+    {
+        "hex": "cc92",
+        "unicode": "U+0312",
+        "name": "COMBINING TURNED COMMA ABOVE"
+    },
+    {
+        "hex": "cc93",
+        "unicode": "U+0313",
+        "name": "COMBINING COMMA ABOVE"
+    },
+    {
+        "hex": "cc94",
+        "unicode": "U+0314",
+        "name": "COMBINING REVERSED COMMA ABOVE"
+    },
+    {
+        "hex": "cc95",
+        "unicode": "U+0315",
+        "name": "COMBINING COMMA ABOVE RIGHT"
+    },
+    {
+        "hex": "cc96",
+        "unicode": "U+0316",
+        "name": "COMBINING GRAVE ACCENT BELOW"
+    },
+    {
+        "hex": "cc97",
+        "unicode": "U+0317",
+        "name": "COMBINING ACUTE ACCENT BELOW"
+    },
+    {
+        "hex": "cc98",
+        "unicode": "U+0318",
+        "name": "COMBINING LEFT TACK BELOW"
+    },
+    {
+        "hex": "cc99",
+        "unicode": "U+0319",
+        "name": "COMBINING RIGHT TACK BELOW"
+    },
+    {
+        "hex": "cc9a",
+        "unicode": "U+031A",
+        "name": "COMBINING LEFT ANGLE ABOVE"
+    },
+    {
+        "hex": "cc9b",
+        "unicode": "U+031B",
+        "name": "COMBINING HORN"
+    },
+    {
+        "hex": "cc9c",
+        "unicode": "U+031C",
+        "name": "COMBINING LEFT HALF RING BELOW"
+    },
+    {
+        "hex": "cc9d",
+        "unicode": "U+031D",
+        "name": "COMBINING UP TACK BELOW"
+    },
+    {
+        "hex": "cc9e",
+        "unicode": "U+031E",
+        "name": "COMBINING DOWN TACK BELOW"
+    },
+    {
+        "hex": "cc9f",
+        "unicode": "U+031F",
+        "name": "COMBINING PLUS SIGN BELOW"
+    },
+    {
+        "hex": "cca0",
+        "unicode": "U+0320",
+        "name": "COMBINING MINUS SIGN BELOW"
+    },
+    {
+        "hex": "cca1",
+        "unicode": "U+0321",
+        "name": "COMBINING PALATALIZED HOOK BELOW"
+    },
+    {
+        "hex": "cca2",
+        "unicode": "U+0322",
+        "name": "COMBINING RETROFLEX HOOK BELOW"
+    },
+    {
+        "hex": "cca3",
+        "unicode": "U+0323",
+        "name": "COMBINING DOT BELOW"
+    },
+    {
+        "hex": "cca4",
+        "unicode": "U+0324",
+        "name": "COMBINING DIAERESIS BELOW"
+    },
+    {
+        "hex": "cca5",
+        "unicode": "U+0325",
+        "name": "COMBINING RING BELOW"
+    },
+    {
+        "hex": "cca6",
+        "unicode": "U+0326",
+        "name": "COMBINING COMMA BELOW"
+    },
+    {
+        "hex": "cca7",
+        "unicode": "U+0327",
+        "name": "COMBINING CEDILLA"
+    },
+    {
+        "hex": "cca8",
+        "unicode": "U+0328",
+        "name": "COMBINING OGONEK"
+    },
+    {
+        "hex": "cca9",
+        "unicode": "U+0329",
+        "name": "COMBINING VERTICAL LINE BELOW"
+    },
+    {
+        "hex": "ccaa",
+        "unicode": "U+032A",
+        "name": "COMBINING BRIDGE BELOW"
+    },
+    {
+        "hex": "ccab",
+        "unicode": "U+032B",
+        "name": "COMBINING INVERTED DOUBLE ARCH BELOW"
+    },
+    {
+        "hex": "ccac",
+        "unicode": "U+032C",
+        "name": "COMBINING CARON BELOW"
+    },
+    {
+        "hex": "ccad",
+        "unicode": "U+032D",
+        "name": "COMBINING CIRCUMFLEX ACCENT BELOW"
+    },
+    {
+        "hex": "ccae",
+        "unicode": "U+032E",
+        "name": "COMBINING BREVE BELOW"
+    },
+    {
+        "hex": "ccaf",
+        "unicode": "U+032F",
+        "name": "COMBINING INVERTED BREVE BELOW"
+    },
+    {
+        "hex": "ccb0",
+        "unicode": "U+0330",
+        "name": "COMBINING TILDE BELOW"
+    },
+    {
+        "hex": "ccb1",
+        "unicode": "U+0331",
+        "name": "COMBINING MACRON BELOW"
+    },
+    {
+        "hex": "ccb2",
+        "unicode": "U+0332",
+        "name": "COMBINING LOW LINE"
+    },
+    {
+        "hex": "ccb3",
+        "unicode": "U+0333",
+        "name": "COMBINING DOUBLE LOW LINE"
+    },
+    {
+        "hex": "ccb4",
+        "unicode": "U+0334",
+        "name": "COMBINING TILDE OVERLAY"
+    },
+    {
+        "hex": "ccb5",
+        "unicode": "U+0335",
+        "name": "COMBINING SHORT STROKE OVERLAY"
+    },
+    {
+        "hex": "ccb6",
+        "unicode": "U+0336",
+        "name": "COMBINING LONG STROKE OVERLAY"
+    },
+    {
+        "hex": "ccb7",
+        "unicode": "U+0337",
+        "name": "COMBINING SHORT SOLIDUS OVERLAY"
+    },
+    {
+        "hex": "ccb8",
+        "unicode": "U+0338",
+        "name": "COMBINING LONG SOLIDUS OVERLAY"
+    },
+    {
+        "hex": "ccb9",
+        "unicode": "U+0339",
+        "name": "COMBINING RIGHT HALF RING BELOW"
+    },
+    {
+        "hex": "ccba",
+        "unicode": "U+033A",
+        "name": "COMBINING INVERTED BRIDGE BELOW"
+    },
+    {
+        "hex": "ccbb",
+        "unicode": "U+033B",
+        "name": "COMBINING SQUARE BELOW"
+    },
+    {
+        "hex": "ccbc",
+        "unicode": "U+033C",
+        "name": "COMBINING SEAGULL BELOW"
+    },
+    {
+        "hex": "ccbd",
+        "unicode": "U+033D",
+        "name": "COMBINING X ABOVE"
+    },
+    {
+        "hex": "ccbe",
+        "unicode": "U+033E",
+        "name": "COMBINING VERTICAL TILDE"
+    },
+    {
+        "hex": "ccbf",
+        "unicode": "U+033F",
+        "name": "COMBINING DOUBLE OVERLINE"
+    },
+    {
+        "hex": "cd80",
+        "unicode": "U+0340",
+        "name": "COMBINING GRAVE TONE MARK"
+    },
+    {
+        "hex": "cd81",
+        "unicode": "U+0341",
+        "name": "COMBINING ACUTE TONE MARK"
+    },
+    {
+        "hex": "cd82",
+        "unicode": "U+0342",
+        "name": "COMBINING GREEK PERISPOMENI"
+    },
+    {
+        "hex": "cd83",
+        "unicode": "U+0343",
+        "name": "COMBINING GREEK KORONIS"
+    },
+    {
+        "hex": "cd84",
+        "unicode": "U+0344",
+        "name": "COMBINING GREEK DIALYTIKA TONOS"
+    },
+    {
+        "hex": "cd85",
+        "unicode": "U+0345",
+        "name": "COMBINING GREEK YPOGEGRAMMENI"
+    },
+    {
+        "hex": "cd86",
+        "unicode": "U+0346",
+        "name": "COMBINING BRIDGE ABOVE"
+    },
+    {
+        "hex": "cd87",
+        "unicode": "U+0347",
+        "name": "COMBINING EQUALS SIGN BELOW"
+    },
+    {
+        "hex": "cd88",
+        "unicode": "U+0348",
+        "name": "COMBINING DOUBLE VERTICAL LINE BELOW"
+    },
+    {
+        "hex": "cd89",
+        "unicode": "U+0349",
+        "name": "COMBINING LEFT ANGLE BELOW"
+    },
+    {
+        "hex": "cd8a",
+        "unicode": "U+034A",
+        "name": "COMBINING NOT TILDE ABOVE"
+    },
+    {
+        "hex": "cd8b",
+        "unicode": "U+034B",
+        "name": "COMBINING HOMOTHETIC ABOVE"
+    },
+    {
+        "hex": "cd8c",
+        "unicode": "U+034C",
+        "name": "COMBINING ALMOST EQUAL TO ABOVE"
+    },
+    {
+        "hex": "cd8d",
+        "unicode": "U+034D",
+        "name": "COMBINING LEFT RIGHT ARROW BELOW"
+    },
+    {
+        "hex": "cd8e",
+        "unicode": "U+034E",
+        "name": "COMBINING UPWARDS ARROW BELOW"
+    },
+    {
+        "hex": "cd8f",
+        "unicode": "U+034F",
+        "name": "COMBINING GRAPHEME JOINER"
+    },
+    {
+        "hex": "cd90",
+        "unicode": "U+0350",
+        "name": "COMBINING RIGHT ARROWHEAD ABOVE"
+    },
+    {
+        "hex": "cd91",
+        "unicode": "U+0351",
+        "name": "COMBINING LEFT HALF RING ABOVE"
+    },
+    {
+        "hex": "cd92",
+        "unicode": "U+0352",
+        "name": "COMBINING FERMATA"
+    },
+    {
+        "hex": "cd93",
+        "unicode": "U+0353",
+        "name": "COMBINING X BELOW"
+    },
+    {
+        "hex": "cd94",
+        "unicode": "U+0354",
+        "name": "COMBINING LEFT ARROWHEAD BELOW"
+    },
+    {
+        "hex": "cd95",
+        "unicode": "U+0355",
+        "name": "COMBINING RIGHT ARROWHEAD BELOW"
+    },
+    {
+        "hex": "cd96",
+        "unicode": "U+0356",
+        "name": "COMBINING RIGHT ARROWHEAD AND UP ARROWHEAD BELOW"
+    },
+    {
+        "hex": "cd97",
+        "unicode": "U+0357",
+        "name": "COMBINING RIGHT HALF RING ABOVE"
+    },
+    {
+        "hex": "cd98",
+        "unicode": "U+0358",
+        "name": "COMBINING DOT ABOVE RIGHT"
+    },
+    {
+        "hex": "cd99",
+        "unicode": "U+0359",
+        "name": "COMBINING ASTERISK BELOW"
+    },
+    {
+        "hex": "cd9a",
+        "unicode": "U+035A",
+        "name": "COMBINING DOUBLE RING BELOW"
+    },
+    {
+        "hex": "cd9b",
+        "unicode": "U+035B",
+        "name": "COMBINING ZIGZAG ABOVE"
+    },
+    {
+        "hex": "cd9c",
+        "unicode": "U+035C",
+        "name": "COMBINING DOUBLE BREVE BELOW"
+    },
+    {
+        "hex": "cd9d",
+        "unicode": "U+035D",
+        "name": "COMBINING DOUBLE BREVE"
+    },
+    {
+        "hex": "cd9e",
+        "unicode": "U+035E",
+        "name": "COMBINING DOUBLE MACRON"
+    },
+    {
+        "hex": "cd9f",
+        "unicode": "U+035F",
+        "name": "COMBINING DOUBLE MACRON BELOW"
+    },
+    {
+        "hex": "cda0",
+        "unicode": "U+0360",
+        "name": "COMBINING DOUBLE TILDE"
+    },
+    {
+        "hex": "cda1",
+        "unicode": "U+0361",
+        "name": "COMBINING DOUBLE INVERTED BREVE"
+    },
+    {
+        "hex": "cda2",
+        "unicode": "U+0362",
+        "name": "COMBINING DOUBLE RIGHTWARDS ARROW BELOW"
+    },
+    {
+        "hex": "cda3",
+        "unicode": "U+0363",
+        "name": "COMBINING LATIN SMALL LETTER A"
+    },
+    {
+        "hex": "cda4",
+        "unicode": "U+0364",
+        "name": "COMBINING LATIN SMALL LETTER E"
+    },
+    {
+        "hex": "cda5",
+        "unicode": "U+0365",
+        "name": "COMBINING LATIN SMALL LETTER I"
+    },
+    {
+        "hex": "cda6",
+        "unicode": "U+0366",
+        "name": "COMBINING LATIN SMALL LETTER O"
+    },
+    {
+        "hex": "cda7",
+        "unicode": "U+0367",
+        "name": "COMBINING LATIN SMALL LETTER U"
+    },
+    {
+        "hex": "cda8",
+        "unicode": "U+0368",
+        "name": "COMBINING LATIN SMALL LETTER C"
+    },
+    {
+        "hex": "cda9",
+        "unicode": "U+0369",
+        "name": "COMBINING LATIN SMALL LETTER D"
+    },
+    {
+        "hex": "cdaa",
+        "unicode": "U+036A",
+        "name": "COMBINING LATIN SMALL LETTER H"
+    },
+    {
+        "hex": "cdab",
+        "unicode": "U+036B",
+        "name": "COMBINING LATIN SMALL LETTER M"
+    },
+    {
+        "hex": "cdac",
+        "unicode": "U+036C",
+        "name": "COMBINING LATIN SMALL LETTER R"
+    },
+    {
+        "hex": "cdad",
+        "unicode": "U+036D",
+        "name": "COMBINING LATIN SMALL LETTER T"
+    },
+    {
+        "hex": "cdae",
+        "unicode": "U+036E",
+        "name": "COMBINING LATIN SMALL LETTER V"
+    },
+    {
+        "hex": "cdaf",
+        "unicode": "U+036F",
+        "name": "COMBINING LATIN SMALL LETTER X"
+    },
+    {
+        "hex": "cdb0",
+        "unicode": "U+0370",
+        "name": "GREEK CAPITAL LETTER HETA"
+    },
+    {
+        "hex": "cdb1",
+        "unicode": "U+0371",
+        "name": "GREEK SMALL LETTER HETA"
+    },
+    {
+        "hex": "cdb2",
+        "unicode": "U+0372",
+        "name": "GREEK CAPITAL LETTER ARCHAIC SAMPI"
+    },
+    {
+        "hex": "cdb3",
+        "unicode": "U+0373",
+        "name": "GREEK SMALL LETTER ARCHAIC SAMPI"
+    },
+    {
+        "hex": "cdb4",
+        "unicode": "U+0374",
+        "name": "GREEK NUMERAL SIGN"
+    },
+    {
+        "hex": "cdb5",
+        "unicode": "U+0375",
+        "name": "GREEK LOWER NUMERAL SIGN"
+    },
+    {
+        "hex": "cdb6",
+        "unicode": "U+0376",
+        "name": "GREEK CAPITAL LETTER PAMPHYLIAN DIGAMMA"
+    },
+    {
+        "hex": "cdb7",
+        "unicode": "U+0377",
+        "name": "GREEK SMALL LETTER PAMPHYLIAN DIGAMMA"
+    },
+    {
+        "hex": "cdb8",
+        "unicode": "U+0378",
+        "name": ""
+    },
+    {
+        "hex": "cdb9",
+        "unicode": "U+0379",
+        "name": ""
+    },
+    {
+        "hex": "cdba",
+        "unicode": "U+037A",
+        "name": "GREEK YPOGEGRAMMENI"
+    },
+    {
+        "hex": "cdbb",
+        "unicode": "U+037B",
+        "name": "GREEK SMALL REVERSED LUNATE SIGMA SYMBOL"
+    },
+    {
+        "hex": "cdbc",
+        "unicode": "U+037C",
+        "name": "GREEK SMALL DOTTED LUNATE SIGMA SYMBOL"
+    },
+    {
+        "hex": "cdbd",
+        "unicode": "U+037D",
+        "name": "GREEK SMALL REVERSED DOTTED LUNATE SIGMA SYMBOL"
+    },
+    {
+        "hex": "cdbe",
+        "unicode": "U+037E",
+        "name": "GREEK QUESTION MARK"
+    },
+    {
+        "hex": "cdbf",
+        "unicode": "U+037F",
+        "name": "GREEK CAPITAL LETTER YOT"
+    },
+    {
+        "hex": "ce80",
+        "unicode": "U+0380",
+        "name": ""
+    },
+    {
+        "hex": "ce81",
+        "unicode": "U+0381",
+        "name": ""
+    },
+    {
+        "hex": "ce82",
+        "unicode": "U+0382",
+        "name": ""
+    },
+    {
+        "hex": "ce83",
+        "unicode": "U+0383",
+        "name": ""
+    },
+    {
+        "hex": "ce84",
+        "unicode": "U+0384",
+        "name": "GREEK TONOS"
+    },
+    {
+        "hex": "ce85",
+        "unicode": "U+0385",
+        "name": "GREEK DIALYTIKA TONOS"
+    },
+    {
+        "hex": "ce86",
+        "unicode": "U+0386",
+        "name": "GREEK CAPITAL LETTER ALPHA WITH TONOS"
+    },
+    {
+        "hex": "ce87",
+        "unicode": "U+0387",
+        "name": "GREEK ANO TELEIA"
+    },
+    {
+        "hex": "ce88",
+        "unicode": "U+0388",
+        "name": "GREEK CAPITAL LETTER EPSILON WITH TONOS"
+    },
+    {
+        "hex": "ce89",
+        "unicode": "U+0389",
+        "name": "GREEK CAPITAL LETTER ETA WITH TONOS"
+    },
+    {
+        "hex": "ce8a",
+        "unicode": "U+038A",
+        "name": "GREEK CAPITAL LETTER IOTA WITH TONOS"
+    },
+    {
+        "hex": "ce8b",
+        "unicode": "U+038B",
+        "name": ""
+    },
+    {
+        "hex": "ce8c",
+        "unicode": "U+038C",
+        "name": "GREEK CAPITAL LETTER OMICRON WITH TONOS"
+    },
+    {
+        "hex": "ce8d",
+        "unicode": "U+038D",
+        "name": ""
+    },
+    {
+        "hex": "ce8e",
+        "unicode": "U+038E",
+        "name": "GREEK CAPITAL LETTER UPSILON WITH TONOS"
+    },
+    {
+        "hex": "ce8f",
+        "unicode": "U+038F",
+        "name": "GREEK CAPITAL LETTER OMEGA WITH TONOS"
+    },
+    {
+        "hex": "ce90",
+        "unicode": "U+0390",
+        "name": "GREEK SMALL LETTER IOTA WITH DIALYTIKA AND TONOS"
+    },
+    {
+        "hex": "ce91",
+        "unicode": "U+0391",
+        "name": "GREEK CAPITAL LETTER ALPHA"
+    },
+    {
+        "hex": "ce92",
+        "unicode": "U+0392",
+        "name": "GREEK CAPITAL LETTER BETA"
+    },
+    {
+        "hex": "ce93",
+        "unicode": "U+0393",
+        "name": "GREEK CAPITAL LETTER GAMMA"
+    },
+    {
+        "hex": "ce94",
+        "unicode": "U+0394",
+        "name": "GREEK CAPITAL LETTER DELTA"
+    },
+    {
+        "hex": "ce95",
+        "unicode": "U+0395",
+        "name": "GREEK CAPITAL LETTER EPSILON"
+    },
+    {
+        "hex": "ce96",
+        "unicode": "U+0396",
+        "name": "GREEK CAPITAL LETTER ZETA"
+    },
+    {
+        "hex": "ce97",
+        "unicode": "U+0397",
+        "name": "GREEK CAPITAL LETTER ETA"
+    },
+    {
+        "hex": "ce98",
+        "unicode": "U+0398",
+        "name": "GREEK CAPITAL LETTER THETA"
+    },
+    {
+        "hex": "ce99",
+        "unicode": "U+0399",
+        "name": "GREEK CAPITAL LETTER IOTA"
+    },
+    {
+        "hex": "ce9a",
+        "unicode": "U+039A",
+        "name": "GREEK CAPITAL LETTER KAPPA"
+    },
+    {
+        "hex": "ce9b",
+        "unicode": "U+039B",
+        "name": "GREEK CAPITAL LETTER LAMDA"
+    },
+    {
+        "hex": "ce9c",
+        "unicode": "U+039C",
+        "name": "GREEK CAPITAL LETTER MU"
+    },
+    {
+        "hex": "ce9d",
+        "unicode": "U+039D",
+        "name": "GREEK CAPITAL LETTER NU"
+    },
+    {
+        "hex": "ce9e",
+        "unicode": "U+039E",
+        "name": "GREEK CAPITAL LETTER XI"
+    },
+    {
+        "hex": "ce9f",
+        "unicode": "U+039F",
+        "name": "GREEK CAPITAL LETTER OMICRON"
+    },
+    {
+        "hex": "cea0",
+        "unicode": "U+03A0",
+        "name": "GREEK CAPITAL LETTER PI"
+    },
+    {
+        "hex": "cea1",
+        "unicode": "U+03A1",
+        "name": "GREEK CAPITAL LETTER RHO"
+    },
+    {
+        "hex": "cea2",
+        "unicode": "U+03A2",
+        "name": ""
+    },
+    {
+        "hex": "cea3",
+        "unicode": "U+03A3",
+        "name": "GREEK CAPITAL LETTER SIGMA"
+    },
+    {
+        "hex": "cea4",
+        "unicode": "U+03A4",
+        "name": "GREEK CAPITAL LETTER TAU"
+    },
+    {
+        "hex": "cea5",
+        "unicode": "U+03A5",
+        "name": "GREEK CAPITAL LETTER UPSILON"
+    },
+    {
+        "hex": "cea6",
+        "unicode": "U+03A6",
+        "name": "GREEK CAPITAL LETTER PHI"
+    },
+    {
+        "hex": "cea7",
+        "unicode": "U+03A7",
+        "name": "GREEK CAPITAL LETTER CHI"
+    },
+    {
+        "hex": "cea8",
+        "unicode": "U+03A8",
+        "name": "GREEK CAPITAL LETTER PSI"
+    },
+    {
+        "hex": "cea9",
+        "unicode": "U+03A9",
+        "name": "GREEK CAPITAL LETTER OMEGA"
+    },
+    {
+        "hex": "ceaa",
+        "unicode": "U+03AA",
+        "name": "GREEK CAPITAL LETTER IOTA WITH DIALYTIKA"
+    },
+    {
+        "hex": "ceab",
+        "unicode": "U+03AB",
+        "name": "GREEK CAPITAL LETTER UPSILON WITH DIALYTIKA"
+    },
+    {
+        "hex": "ceac",
+        "unicode": "U+03AC",
+        "name": "GREEK SMALL LETTER ALPHA WITH TONOS"
+    },
+    {
+        "hex": "cead",
+        "unicode": "U+03AD",
+        "name": "GREEK SMALL LETTER EPSILON WITH TONOS"
+    },
+    {
+        "hex": "ceae",
+        "unicode": "U+03AE",
+        "name": "GREEK SMALL LETTER ETA WITH TONOS"
+    },
+    {
+        "hex": "ceaf",
+        "unicode": "U+03AF",
+        "name": "GREEK SMALL LETTER IOTA WITH TONOS"
+    }
+]

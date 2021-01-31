@@ -1,0 +1,1282 @@
+[
+    {
+        "hex": "e19a80",
+        "unicode": "U+1680",
+        "name": "OGHAM SPACE MARK"
+    },
+    {
+        "hex": "e19a81",
+        "unicode": "U+1681",
+        "name": "OGHAM LETTER BEITH"
+    },
+    {
+        "hex": "e19a82",
+        "unicode": "U+1682",
+        "name": "OGHAM LETTER LUIS"
+    },
+    {
+        "hex": "e19a83",
+        "unicode": "U+1683",
+        "name": "OGHAM LETTER FEARN"
+    },
+    {
+        "hex": "e19a84",
+        "unicode": "U+1684",
+        "name": "OGHAM LETTER SAIL"
+    },
+    {
+        "hex": "e19a85",
+        "unicode": "U+1685",
+        "name": "OGHAM LETTER NION"
+    },
+    {
+        "hex": "e19a86",
+        "unicode": "U+1686",
+        "name": "OGHAM LETTER UATH"
+    },
+    {
+        "hex": "e19a87",
+        "unicode": "U+1687",
+        "name": "OGHAM LETTER DAIR"
+    },
+    {
+        "hex": "e19a88",
+        "unicode": "U+1688",
+        "name": "OGHAM LETTER TINNE"
+    },
+    {
+        "hex": "e19a89",
+        "unicode": "U+1689",
+        "name": "OGHAM LETTER COLL"
+    },
+    {
+        "hex": "e19a8a",
+        "unicode": "U+168A",
+        "name": "OGHAM LETTER CEIRT"
+    },
+    {
+        "hex": "e19a8b",
+        "unicode": "U+168B",
+        "name": "OGHAM LETTER MUIN"
+    },
+    {
+        "hex": "e19a8c",
+        "unicode": "U+168C",
+        "name": "OGHAM LETTER GORT"
+    },
+    {
+        "hex": "e19a8d",
+        "unicode": "U+168D",
+        "name": "OGHAM LETTER NGEADAL"
+    },
+    {
+        "hex": "e19a8e",
+        "unicode": "U+168E",
+        "name": "OGHAM LETTER STRAIF"
+    },
+    {
+        "hex": "e19a8f",
+        "unicode": "U+168F",
+        "name": "OGHAM LETTER RUIS"
+    },
+    {
+        "hex": "e19a90",
+        "unicode": "U+1690",
+        "name": "OGHAM LETTER AILM"
+    },
+    {
+        "hex": "e19a91",
+        "unicode": "U+1691",
+        "name": "OGHAM LETTER ONN"
+    },
+    {
+        "hex": "e19a92",
+        "unicode": "U+1692",
+        "name": "OGHAM LETTER UR"
+    },
+    {
+        "hex": "e19a93",
+        "unicode": "U+1693",
+        "name": "OGHAM LETTER EADHADH"
+    },
+    {
+        "hex": "e19a94",
+        "unicode": "U+1694",
+        "name": "OGHAM LETTER IODHADH"
+    },
+    {
+        "hex": "e19a95",
+        "unicode": "U+1695",
+        "name": "OGHAM LETTER EABHADH"
+    },
+    {
+        "hex": "e19a96",
+        "unicode": "U+1696",
+        "name": "OGHAM LETTER OR"
+    },
+    {
+        "hex": "e19a97",
+        "unicode": "U+1697",
+        "name": "OGHAM LETTER UILLEANN"
+    },
+    {
+        "hex": "e19a98",
+        "unicode": "U+1698",
+        "name": "OGHAM LETTER IFIN"
+    },
+    {
+        "hex": "e19a99",
+        "unicode": "U+1699",
+        "name": "OGHAM LETTER EAMHANCHOLL"
+    },
+    {
+        "hex": "e19a9a",
+        "unicode": "U+169A",
+        "name": "OGHAM LETTER PEITH"
+    },
+    {
+        "hex": "e19a9b",
+        "unicode": "U+169B",
+        "name": "OGHAM FEATHER MARK"
+    },
+    {
+        "hex": "e19a9c",
+        "unicode": "U+169C",
+        "name": "OGHAM REVERSED FEATHER MARK"
+    },
+    {
+        "hex": "e19a9d",
+        "unicode": "U+169D",
+        "name": ""
+    },
+    {
+        "hex": "e19a9e",
+        "unicode": "U+169E",
+        "name": ""
+    },
+    {
+        "hex": "e19a9f",
+        "unicode": "U+169F",
+        "name": ""
+    },
+    {
+        "hex": "e19aa0",
+        "unicode": "U+16A0",
+        "name": "RUNIC LETTER FEHU FEOH FE F"
+    },
+    {
+        "hex": "e19aa1",
+        "unicode": "U+16A1",
+        "name": "RUNIC LETTER V"
+    },
+    {
+        "hex": "e19aa2",
+        "unicode": "U+16A2",
+        "name": "RUNIC LETTER URUZ UR U"
+    },
+    {
+        "hex": "e19aa3",
+        "unicode": "U+16A3",
+        "name": "RUNIC LETTER YR"
+    },
+    {
+        "hex": "e19aa4",
+        "unicode": "U+16A4",
+        "name": "RUNIC LETTER Y"
+    },
+    {
+        "hex": "e19aa5",
+        "unicode": "U+16A5",
+        "name": "RUNIC LETTER W"
+    },
+    {
+        "hex": "e19aa6",
+        "unicode": "U+16A6",
+        "name": "RUNIC LETTER THURISAZ THURS THORN"
+    },
+    {
+        "hex": "e19aa7",
+        "unicode": "U+16A7",
+        "name": "RUNIC LETTER ETH"
+    },
+    {
+        "hex": "e19aa8",
+        "unicode": "U+16A8",
+        "name": "RUNIC LETTER ANSUZ A"
+    },
+    {
+        "hex": "e19aa9",
+        "unicode": "U+16A9",
+        "name": "RUNIC LETTER OS O"
+    },
+    {
+        "hex": "e19aaa",
+        "unicode": "U+16AA",
+        "name": "RUNIC LETTER AC A"
+    },
+    {
+        "hex": "e19aab",
+        "unicode": "U+16AB",
+        "name": "RUNIC LETTER AESC"
+    },
+    {
+        "hex": "e19aac",
+        "unicode": "U+16AC",
+        "name": "RUNIC LETTER LONG-BRANCH-OSS O"
+    },
+    {
+        "hex": "e19aad",
+        "unicode": "U+16AD",
+        "name": "RUNIC LETTER SHORT-TWIG-OSS O"
+    },
+    {
+        "hex": "e19aae",
+        "unicode": "U+16AE",
+        "name": "RUNIC LETTER O"
+    },
+    {
+        "hex": "e19aaf",
+        "unicode": "U+16AF",
+        "name": "RUNIC LETTER OE"
+    },
+    {
+        "hex": "e19ab0",
+        "unicode": "U+16B0",
+        "name": "RUNIC LETTER ON"
+    },
+    {
+        "hex": "e19ab1",
+        "unicode": "U+16B1",
+        "name": "RUNIC LETTER RAIDO RAD REID R"
+    },
+    {
+        "hex": "e19ab2",
+        "unicode": "U+16B2",
+        "name": "RUNIC LETTER KAUNA"
+    },
+    {
+        "hex": "e19ab3",
+        "unicode": "U+16B3",
+        "name": "RUNIC LETTER CEN"
+    },
+    {
+        "hex": "e19ab4",
+        "unicode": "U+16B4",
+        "name": "RUNIC LETTER KAUN K"
+    },
+    {
+        "hex": "e19ab5",
+        "unicode": "U+16B5",
+        "name": "RUNIC LETTER G"
+    },
+    {
+        "hex": "e19ab6",
+        "unicode": "U+16B6",
+        "name": "RUNIC LETTER ENG"
+    },
+    {
+        "hex": "e19ab7",
+        "unicode": "U+16B7",
+        "name": "RUNIC LETTER GEBO GYFU G"
+    },
+    {
+        "hex": "e19ab8",
+        "unicode": "U+16B8",
+        "name": "RUNIC LETTER GAR"
+    },
+    {
+        "hex": "e19ab9",
+        "unicode": "U+16B9",
+        "name": "RUNIC LETTER WUNJO WYNN W"
+    },
+    {
+        "hex": "e19aba",
+        "unicode": "U+16BA",
+        "name": "RUNIC LETTER HAGLAZ H"
+    },
+    {
+        "hex": "e19abb",
+        "unicode": "U+16BB",
+        "name": "RUNIC LETTER HAEGL H"
+    },
+    {
+        "hex": "e19abc",
+        "unicode": "U+16BC",
+        "name": "RUNIC LETTER LONG-BRANCH-HAGALL H"
+    },
+    {
+        "hex": "e19abd",
+        "unicode": "U+16BD",
+        "name": "RUNIC LETTER SHORT-TWIG-HAGALL H"
+    },
+    {
+        "hex": "e19abe",
+        "unicode": "U+16BE",
+        "name": "RUNIC LETTER NAUDIZ NYD NAUD N"
+    },
+    {
+        "hex": "e19abf",
+        "unicode": "U+16BF",
+        "name": "RUNIC LETTER SHORT-TWIG-NAUD N"
+    },
+    {
+        "hex": "e19b80",
+        "unicode": "U+16C0",
+        "name": "RUNIC LETTER DOTTED-N"
+    },
+    {
+        "hex": "e19b81",
+        "unicode": "U+16C1",
+        "name": "RUNIC LETTER ISAZ IS ISS I"
+    },
+    {
+        "hex": "e19b82",
+        "unicode": "U+16C2",
+        "name": "RUNIC LETTER E"
+    },
+    {
+        "hex": "e19b83",
+        "unicode": "U+16C3",
+        "name": "RUNIC LETTER JERAN J"
+    },
+    {
+        "hex": "e19b84",
+        "unicode": "U+16C4",
+        "name": "RUNIC LETTER GER"
+    },
+    {
+        "hex": "e19b85",
+        "unicode": "U+16C5",
+        "name": "RUNIC LETTER LONG-BRANCH-AR AE"
+    },
+    {
+        "hex": "e19b86",
+        "unicode": "U+16C6",
+        "name": "RUNIC LETTER SHORT-TWIG-AR A"
+    },
+    {
+        "hex": "e19b87",
+        "unicode": "U+16C7",
+        "name": "RUNIC LETTER IWAZ EOH"
+    },
+    {
+        "hex": "e19b88",
+        "unicode": "U+16C8",
+        "name": "RUNIC LETTER PERTHO PEORTH P"
+    },
+    {
+        "hex": "e19b89",
+        "unicode": "U+16C9",
+        "name": "RUNIC LETTER ALGIZ EOLHX"
+    },
+    {
+        "hex": "e19b8a",
+        "unicode": "U+16CA",
+        "name": "RUNIC LETTER SOWILO S"
+    },
+    {
+        "hex": "e19b8b",
+        "unicode": "U+16CB",
+        "name": "RUNIC LETTER SIGEL LONG-BRANCH-SOL S"
+    },
+    {
+        "hex": "e19b8c",
+        "unicode": "U+16CC",
+        "name": "RUNIC LETTER SHORT-TWIG-SOL S"
+    },
+    {
+        "hex": "e19b8d",
+        "unicode": "U+16CD",
+        "name": "RUNIC LETTER C"
+    },
+    {
+        "hex": "e19b8e",
+        "unicode": "U+16CE",
+        "name": "RUNIC LETTER Z"
+    },
+    {
+        "hex": "e19b8f",
+        "unicode": "U+16CF",
+        "name": "RUNIC LETTER TIWAZ TIR TYR T"
+    },
+    {
+        "hex": "e19b90",
+        "unicode": "U+16D0",
+        "name": "RUNIC LETTER SHORT-TWIG-TYR T"
+    },
+    {
+        "hex": "e19b91",
+        "unicode": "U+16D1",
+        "name": "RUNIC LETTER D"
+    },
+    {
+        "hex": "e19b92",
+        "unicode": "U+16D2",
+        "name": "RUNIC LETTER BERKANAN BEORC BJARKAN B"
+    },
+    {
+        "hex": "e19b93",
+        "unicode": "U+16D3",
+        "name": "RUNIC LETTER SHORT-TWIG-BJARKAN B"
+    },
+    {
+        "hex": "e19b94",
+        "unicode": "U+16D4",
+        "name": "RUNIC LETTER DOTTED-P"
+    },
+    {
+        "hex": "e19b95",
+        "unicode": "U+16D5",
+        "name": "RUNIC LETTER OPEN-P"
+    },
+    {
+        "hex": "e19b96",
+        "unicode": "U+16D6",
+        "name": "RUNIC LETTER EHWAZ EH E"
+    },
+    {
+        "hex": "e19b97",
+        "unicode": "U+16D7",
+        "name": "RUNIC LETTER MANNAZ MAN M"
+    },
+    {
+        "hex": "e19b98",
+        "unicode": "U+16D8",
+        "name": "RUNIC LETTER LONG-BRANCH-MADR M"
+    },
+    {
+        "hex": "e19b99",
+        "unicode": "U+16D9",
+        "name": "RUNIC LETTER SHORT-TWIG-MADR M"
+    },
+    {
+        "hex": "e19b9a",
+        "unicode": "U+16DA",
+        "name": "RUNIC LETTER LAUKAZ LAGU LOGR L"
+    },
+    {
+        "hex": "e19b9b",
+        "unicode": "U+16DB",
+        "name": "RUNIC LETTER DOTTED-L"
+    },
+    {
+        "hex": "e19b9c",
+        "unicode": "U+16DC",
+        "name": "RUNIC LETTER INGWAZ"
+    },
+    {
+        "hex": "e19b9d",
+        "unicode": "U+16DD",
+        "name": "RUNIC LETTER ING"
+    },
+    {
+        "hex": "e19b9e",
+        "unicode": "U+16DE",
+        "name": "RUNIC LETTER DAGAZ DAEG D"
+    },
+    {
+        "hex": "e19b9f",
+        "unicode": "U+16DF",
+        "name": "RUNIC LETTER OTHALAN ETHEL O"
+    },
+    {
+        "hex": "e19ba0",
+        "unicode": "U+16E0",
+        "name": "RUNIC LETTER EAR"
+    },
+    {
+        "hex": "e19ba1",
+        "unicode": "U+16E1",
+        "name": "RUNIC LETTER IOR"
+    },
+    {
+        "hex": "e19ba2",
+        "unicode": "U+16E2",
+        "name": "RUNIC LETTER CWEORTH"
+    },
+    {
+        "hex": "e19ba3",
+        "unicode": "U+16E3",
+        "name": "RUNIC LETTER CALC"
+    },
+    {
+        "hex": "e19ba4",
+        "unicode": "U+16E4",
+        "name": "RUNIC LETTER CEALC"
+    },
+    {
+        "hex": "e19ba5",
+        "unicode": "U+16E5",
+        "name": "RUNIC LETTER STAN"
+    },
+    {
+        "hex": "e19ba6",
+        "unicode": "U+16E6",
+        "name": "RUNIC LETTER LONG-BRANCH-YR"
+    },
+    {
+        "hex": "e19ba7",
+        "unicode": "U+16E7",
+        "name": "RUNIC LETTER SHORT-TWIG-YR"
+    },
+    {
+        "hex": "e19ba8",
+        "unicode": "U+16E8",
+        "name": "RUNIC LETTER ICELANDIC-YR"
+    },
+    {
+        "hex": "e19ba9",
+        "unicode": "U+16E9",
+        "name": "RUNIC LETTER Q"
+    },
+    {
+        "hex": "e19baa",
+        "unicode": "U+16EA",
+        "name": "RUNIC LETTER X"
+    },
+    {
+        "hex": "e19bab",
+        "unicode": "U+16EB",
+        "name": "RUNIC SINGLE PUNCTUATION"
+    },
+    {
+        "hex": "e19bac",
+        "unicode": "U+16EC",
+        "name": "RUNIC MULTIPLE PUNCTUATION"
+    },
+    {
+        "hex": "e19bad",
+        "unicode": "U+16ED",
+        "name": "RUNIC CROSS PUNCTUATION"
+    },
+    {
+        "hex": "e19bae",
+        "unicode": "U+16EE",
+        "name": "RUNIC ARLAUG SYMBOL"
+    },
+    {
+        "hex": "e19baf",
+        "unicode": "U+16EF",
+        "name": "RUNIC TVIMADUR SYMBOL"
+    },
+    {
+        "hex": "e19bb0",
+        "unicode": "U+16F0",
+        "name": "RUNIC BELGTHOR SYMBOL"
+    },
+    {
+        "hex": "e19bb1",
+        "unicode": "U+16F1",
+        "name": "RUNIC LETTER K"
+    },
+    {
+        "hex": "e19bb2",
+        "unicode": "U+16F2",
+        "name": "RUNIC LETTER SH"
+    },
+    {
+        "hex": "e19bb3",
+        "unicode": "U+16F3",
+        "name": "RUNIC LETTER OO"
+    },
+    {
+        "hex": "e19bb4",
+        "unicode": "U+16F4",
+        "name": "RUNIC LETTER FRANKS CASKET OS"
+    },
+    {
+        "hex": "e19bb5",
+        "unicode": "U+16F5",
+        "name": "RUNIC LETTER FRANKS CASKET IS"
+    },
+    {
+        "hex": "e19bb6",
+        "unicode": "U+16F6",
+        "name": "RUNIC LETTER FRANKS CASKET EH"
+    },
+    {
+        "hex": "e19bb7",
+        "unicode": "U+16F7",
+        "name": "RUNIC LETTER FRANKS CASKET AC"
+    },
+    {
+        "hex": "e19bb8",
+        "unicode": "U+16F8",
+        "name": "RUNIC LETTER FRANKS CASKET AESC"
+    },
+    {
+        "hex": "e19bb9",
+        "unicode": "U+16F9",
+        "name": ""
+    },
+    {
+        "hex": "e19bba",
+        "unicode": "U+16FA",
+        "name": ""
+    },
+    {
+        "hex": "e19bbb",
+        "unicode": "U+16FB",
+        "name": ""
+    },
+    {
+        "hex": "e19bbc",
+        "unicode": "U+16FC",
+        "name": ""
+    },
+    {
+        "hex": "e19bbd",
+        "unicode": "U+16FD",
+        "name": ""
+    },
+    {
+        "hex": "e19bbe",
+        "unicode": "U+16FE",
+        "name": ""
+    },
+    {
+        "hex": "e19bbf",
+        "unicode": "U+16FF",
+        "name": ""
+    },
+    {
+        "hex": "e19c80",
+        "unicode": "U+1700",
+        "name": "TAGALOG LETTER A"
+    },
+    {
+        "hex": "e19c81",
+        "unicode": "U+1701",
+        "name": "TAGALOG LETTER I"
+    },
+    {
+        "hex": "e19c82",
+        "unicode": "U+1702",
+        "name": "TAGALOG LETTER U"
+    },
+    {
+        "hex": "e19c83",
+        "unicode": "U+1703",
+        "name": "TAGALOG LETTER KA"
+    },
+    {
+        "hex": "e19c84",
+        "unicode": "U+1704",
+        "name": "TAGALOG LETTER GA"
+    },
+    {
+        "hex": "e19c85",
+        "unicode": "U+1705",
+        "name": "TAGALOG LETTER NGA"
+    },
+    {
+        "hex": "e19c86",
+        "unicode": "U+1706",
+        "name": "TAGALOG LETTER TA"
+    },
+    {
+        "hex": "e19c87",
+        "unicode": "U+1707",
+        "name": "TAGALOG LETTER DA"
+    },
+    {
+        "hex": "e19c88",
+        "unicode": "U+1708",
+        "name": "TAGALOG LETTER NA"
+    },
+    {
+        "hex": "e19c89",
+        "unicode": "U+1709",
+        "name": "TAGALOG LETTER PA"
+    },
+    {
+        "hex": "e19c8a",
+        "unicode": "U+170A",
+        "name": "TAGALOG LETTER BA"
+    },
+    {
+        "hex": "e19c8b",
+        "unicode": "U+170B",
+        "name": "TAGALOG LETTER MA"
+    },
+    {
+        "hex": "e19c8c",
+        "unicode": "U+170C",
+        "name": "TAGALOG LETTER YA"
+    },
+    {
+        "hex": "e19c8d",
+        "unicode": "U+170D",
+        "name": ""
+    },
+    {
+        "hex": "e19c8e",
+        "unicode": "U+170E",
+        "name": "TAGALOG LETTER LA"
+    },
+    {
+        "hex": "e19c8f",
+        "unicode": "U+170F",
+        "name": "TAGALOG LETTER WA"
+    },
+    {
+        "hex": "e19c90",
+        "unicode": "U+1710",
+        "name": "TAGALOG LETTER SA"
+    },
+    {
+        "hex": "e19c91",
+        "unicode": "U+1711",
+        "name": "TAGALOG LETTER HA"
+    },
+    {
+        "hex": "e19c92",
+        "unicode": "U+1712",
+        "name": "TAGALOG VOWEL SIGN I"
+    },
+    {
+        "hex": "e19c93",
+        "unicode": "U+1713",
+        "name": "TAGALOG VOWEL SIGN U"
+    },
+    {
+        "hex": "e19c94",
+        "unicode": "U+1714",
+        "name": "TAGALOG SIGN VIRAMA"
+    },
+    {
+        "hex": "e19c95",
+        "unicode": "U+1715",
+        "name": ""
+    },
+    {
+        "hex": "e19c96",
+        "unicode": "U+1716",
+        "name": ""
+    },
+    {
+        "hex": "e19c97",
+        "unicode": "U+1717",
+        "name": ""
+    },
+    {
+        "hex": "e19c98",
+        "unicode": "U+1718",
+        "name": ""
+    },
+    {
+        "hex": "e19c99",
+        "unicode": "U+1719",
+        "name": ""
+    },
+    {
+        "hex": "e19c9a",
+        "unicode": "U+171A",
+        "name": ""
+    },
+    {
+        "hex": "e19c9b",
+        "unicode": "U+171B",
+        "name": ""
+    },
+    {
+        "hex": "e19c9c",
+        "unicode": "U+171C",
+        "name": ""
+    },
+    {
+        "hex": "e19c9d",
+        "unicode": "U+171D",
+        "name": ""
+    },
+    {
+        "hex": "e19c9e",
+        "unicode": "U+171E",
+        "name": ""
+    },
+    {
+        "hex": "e19c9f",
+        "unicode": "U+171F",
+        "name": ""
+    },
+    {
+        "hex": "e19ca0",
+        "unicode": "U+1720",
+        "name": "HANUNOO LETTER A"
+    },
+    {
+        "hex": "e19ca1",
+        "unicode": "U+1721",
+        "name": "HANUNOO LETTER I"
+    },
+    {
+        "hex": "e19ca2",
+        "unicode": "U+1722",
+        "name": "HANUNOO LETTER U"
+    },
+    {
+        "hex": "e19ca3",
+        "unicode": "U+1723",
+        "name": "HANUNOO LETTER KA"
+    },
+    {
+        "hex": "e19ca4",
+        "unicode": "U+1724",
+        "name": "HANUNOO LETTER GA"
+    },
+    {
+        "hex": "e19ca5",
+        "unicode": "U+1725",
+        "name": "HANUNOO LETTER NGA"
+    },
+    {
+        "hex": "e19ca6",
+        "unicode": "U+1726",
+        "name": "HANUNOO LETTER TA"
+    },
+    {
+        "hex": "e19ca7",
+        "unicode": "U+1727",
+        "name": "HANUNOO LETTER DA"
+    },
+    {
+        "hex": "e19ca8",
+        "unicode": "U+1728",
+        "name": "HANUNOO LETTER NA"
+    },
+    {
+        "hex": "e19ca9",
+        "unicode": "U+1729",
+        "name": "HANUNOO LETTER PA"
+    },
+    {
+        "hex": "e19caa",
+        "unicode": "U+172A",
+        "name": "HANUNOO LETTER BA"
+    },
+    {
+        "hex": "e19cab",
+        "unicode": "U+172B",
+        "name": "HANUNOO LETTER MA"
+    },
+    {
+        "hex": "e19cac",
+        "unicode": "U+172C",
+        "name": "HANUNOO LETTER YA"
+    },
+    {
+        "hex": "e19cad",
+        "unicode": "U+172D",
+        "name": "HANUNOO LETTER RA"
+    },
+    {
+        "hex": "e19cae",
+        "unicode": "U+172E",
+        "name": "HANUNOO LETTER LA"
+    },
+    {
+        "hex": "e19caf",
+        "unicode": "U+172F",
+        "name": "HANUNOO LETTER WA"
+    },
+    {
+        "hex": "e19cb0",
+        "unicode": "U+1730",
+        "name": "HANUNOO LETTER SA"
+    },
+    {
+        "hex": "e19cb1",
+        "unicode": "U+1731",
+        "name": "HANUNOO LETTER HA"
+    },
+    {
+        "hex": "e19cb2",
+        "unicode": "U+1732",
+        "name": "HANUNOO VOWEL SIGN I"
+    },
+    {
+        "hex": "e19cb3",
+        "unicode": "U+1733",
+        "name": "HANUNOO VOWEL SIGN U"
+    },
+    {
+        "hex": "e19cb4",
+        "unicode": "U+1734",
+        "name": "HANUNOO SIGN PAMUDPOD"
+    },
+    {
+        "hex": "e19cb5",
+        "unicode": "U+1735",
+        "name": "PHILIPPINE SINGLE PUNCTUATION"
+    },
+    {
+        "hex": "e19cb6",
+        "unicode": "U+1736",
+        "name": "PHILIPPINE DOUBLE PUNCTUATION"
+    },
+    {
+        "hex": "e19cb7",
+        "unicode": "U+1737",
+        "name": ""
+    },
+    {
+        "hex": "e19cb8",
+        "unicode": "U+1738",
+        "name": ""
+    },
+    {
+        "hex": "e19cb9",
+        "unicode": "U+1739",
+        "name": ""
+    },
+    {
+        "hex": "e19cba",
+        "unicode": "U+173A",
+        "name": ""
+    },
+    {
+        "hex": "e19cbb",
+        "unicode": "U+173B",
+        "name": ""
+    },
+    {
+        "hex": "e19cbc",
+        "unicode": "U+173C",
+        "name": ""
+    },
+    {
+        "hex": "e19cbd",
+        "unicode": "U+173D",
+        "name": ""
+    },
+    {
+        "hex": "e19cbe",
+        "unicode": "U+173E",
+        "name": ""
+    },
+    {
+        "hex": "e19cbf",
+        "unicode": "U+173F",
+        "name": ""
+    },
+    {
+        "hex": "e19d80",
+        "unicode": "U+1740",
+        "name": "BUHID LETTER A"
+    },
+    {
+        "hex": "e19d81",
+        "unicode": "U+1741",
+        "name": "BUHID LETTER I"
+    },
+    {
+        "hex": "e19d82",
+        "unicode": "U+1742",
+        "name": "BUHID LETTER U"
+    },
+    {
+        "hex": "e19d83",
+        "unicode": "U+1743",
+        "name": "BUHID LETTER KA"
+    },
+    {
+        "hex": "e19d84",
+        "unicode": "U+1744",
+        "name": "BUHID LETTER GA"
+    },
+    {
+        "hex": "e19d85",
+        "unicode": "U+1745",
+        "name": "BUHID LETTER NGA"
+    },
+    {
+        "hex": "e19d86",
+        "unicode": "U+1746",
+        "name": "BUHID LETTER TA"
+    },
+    {
+        "hex": "e19d87",
+        "unicode": "U+1747",
+        "name": "BUHID LETTER DA"
+    },
+    {
+        "hex": "e19d88",
+        "unicode": "U+1748",
+        "name": "BUHID LETTER NA"
+    },
+    {
+        "hex": "e19d89",
+        "unicode": "U+1749",
+        "name": "BUHID LETTER PA"
+    },
+    {
+        "hex": "e19d8a",
+        "unicode": "U+174A",
+        "name": "BUHID LETTER BA"
+    },
+    {
+        "hex": "e19d8b",
+        "unicode": "U+174B",
+        "name": "BUHID LETTER MA"
+    },
+    {
+        "hex": "e19d8c",
+        "unicode": "U+174C",
+        "name": "BUHID LETTER YA"
+    },
+    {
+        "hex": "e19d8d",
+        "unicode": "U+174D",
+        "name": "BUHID LETTER RA"
+    },
+    {
+        "hex": "e19d8e",
+        "unicode": "U+174E",
+        "name": "BUHID LETTER LA"
+    },
+    {
+        "hex": "e19d8f",
+        "unicode": "U+174F",
+        "name": "BUHID LETTER WA"
+    },
+    {
+        "hex": "e19d90",
+        "unicode": "U+1750",
+        "name": "BUHID LETTER SA"
+    },
+    {
+        "hex": "e19d91",
+        "unicode": "U+1751",
+        "name": "BUHID LETTER HA"
+    },
+    {
+        "hex": "e19d92",
+        "unicode": "U+1752",
+        "name": "BUHID VOWEL SIGN I"
+    },
+    {
+        "hex": "e19d93",
+        "unicode": "U+1753",
+        "name": "BUHID VOWEL SIGN U"
+    },
+    {
+        "hex": "e19d94",
+        "unicode": "U+1754",
+        "name": ""
+    },
+    {
+        "hex": "e19d95",
+        "unicode": "U+1755",
+        "name": ""
+    },
+    {
+        "hex": "e19d96",
+        "unicode": "U+1756",
+        "name": ""
+    },
+    {
+        "hex": "e19d97",
+        "unicode": "U+1757",
+        "name": ""
+    },
+    {
+        "hex": "e19d98",
+        "unicode": "U+1758",
+        "name": ""
+    },
+    {
+        "hex": "e19d99",
+        "unicode": "U+1759",
+        "name": ""
+    },
+    {
+        "hex": "e19d9a",
+        "unicode": "U+175A",
+        "name": ""
+    },
+    {
+        "hex": "e19d9b",
+        "unicode": "U+175B",
+        "name": ""
+    },
+    {
+        "hex": "e19d9c",
+        "unicode": "U+175C",
+        "name": ""
+    },
+    {
+        "hex": "e19d9d",
+        "unicode": "U+175D",
+        "name": ""
+    },
+    {
+        "hex": "e19d9e",
+        "unicode": "U+175E",
+        "name": ""
+    },
+    {
+        "hex": "e19d9f",
+        "unicode": "U+175F",
+        "name": ""
+    },
+    {
+        "hex": "e19da0",
+        "unicode": "U+1760",
+        "name": "TAGBANWA LETTER A"
+    },
+    {
+        "hex": "e19da1",
+        "unicode": "U+1761",
+        "name": "TAGBANWA LETTER I"
+    },
+    {
+        "hex": "e19da2",
+        "unicode": "U+1762",
+        "name": "TAGBANWA LETTER U"
+    },
+    {
+        "hex": "e19da3",
+        "unicode": "U+1763",
+        "name": "TAGBANWA LETTER KA"
+    },
+    {
+        "hex": "e19da4",
+        "unicode": "U+1764",
+        "name": "TAGBANWA LETTER GA"
+    },
+    {
+        "hex": "e19da5",
+        "unicode": "U+1765",
+        "name": "TAGBANWA LETTER NGA"
+    },
+    {
+        "hex": "e19da6",
+        "unicode": "U+1766",
+        "name": "TAGBANWA LETTER TA"
+    },
+    {
+        "hex": "e19da7",
+        "unicode": "U+1767",
+        "name": "TAGBANWA LETTER DA"
+    },
+    {
+        "hex": "e19da8",
+        "unicode": "U+1768",
+        "name": "TAGBANWA LETTER NA"
+    },
+    {
+        "hex": "e19da9",
+        "unicode": "U+1769",
+        "name": "TAGBANWA LETTER PA"
+    },
+    {
+        "hex": "e19daa",
+        "unicode": "U+176A",
+        "name": "TAGBANWA LETTER BA"
+    },
+    {
+        "hex": "e19dab",
+        "unicode": "U+176B",
+        "name": "TAGBANWA LETTER MA"
+    },
+    {
+        "hex": "e19dac",
+        "unicode": "U+176C",
+        "name": "TAGBANWA LETTER YA"
+    },
+    {
+        "hex": "e19dad",
+        "unicode": "U+176D",
+        "name": ""
+    },
+    {
+        "hex": "e19dae",
+        "unicode": "U+176E",
+        "name": "TAGBANWA LETTER LA"
+    },
+    {
+        "hex": "e19daf",
+        "unicode": "U+176F",
+        "name": "TAGBANWA LETTER WA"
+    },
+    {
+        "hex": "e19db0",
+        "unicode": "U+1770",
+        "name": "TAGBANWA LETTER SA"
+    },
+    {
+        "hex": "e19db1",
+        "unicode": "U+1771",
+        "name": ""
+    },
+    {
+        "hex": "e19db2",
+        "unicode": "U+1772",
+        "name": "TAGBANWA VOWEL SIGN I"
+    },
+    {
+        "hex": "e19db3",
+        "unicode": "U+1773",
+        "name": "TAGBANWA VOWEL SIGN U"
+    },
+    {
+        "hex": "e19db4",
+        "unicode": "U+1774",
+        "name": ""
+    },
+    {
+        "hex": "e19db5",
+        "unicode": "U+1775",
+        "name": ""
+    },
+    {
+        "hex": "e19db6",
+        "unicode": "U+1776",
+        "name": ""
+    },
+    {
+        "hex": "e19db7",
+        "unicode": "U+1777",
+        "name": ""
+    },
+    {
+        "hex": "e19db8",
+        "unicode": "U+1778",
+        "name": ""
+    },
+    {
+        "hex": "e19db9",
+        "unicode": "U+1779",
+        "name": ""
+    },
+    {
+        "hex": "e19dba",
+        "unicode": "U+177A",
+        "name": ""
+    },
+    {
+        "hex": "e19dbb",
+        "unicode": "U+177B",
+        "name": ""
+    },
+    {
+        "hex": "e19dbc",
+        "unicode": "U+177C",
+        "name": ""
+    },
+    {
+        "hex": "e19dbd",
+        "unicode": "U+177D",
+        "name": ""
+    },
+    {
+        "hex": "e19dbe",
+        "unicode": "U+177E",
+        "name": ""
+    },
+    {
+        "hex": "e19dbf",
+        "unicode": "U+177F",
+        "name": ""
+    }
+]

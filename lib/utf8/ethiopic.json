@@ -1,0 +1,1282 @@
+[
+    {
+        "hex": "e18880",
+        "unicode": "U+1200",
+        "name": "ETHIOPIC SYLLABLE HA"
+    },
+    {
+        "hex": "e18881",
+        "unicode": "U+1201",
+        "name": "ETHIOPIC SYLLABLE HU"
+    },
+    {
+        "hex": "e18882",
+        "unicode": "U+1202",
+        "name": "ETHIOPIC SYLLABLE HI"
+    },
+    {
+        "hex": "e18883",
+        "unicode": "U+1203",
+        "name": "ETHIOPIC SYLLABLE HAA"
+    },
+    {
+        "hex": "e18884",
+        "unicode": "U+1204",
+        "name": "ETHIOPIC SYLLABLE HEE"
+    },
+    {
+        "hex": "e18885",
+        "unicode": "U+1205",
+        "name": "ETHIOPIC SYLLABLE HE"
+    },
+    {
+        "hex": "e18886",
+        "unicode": "U+1206",
+        "name": "ETHIOPIC SYLLABLE HO"
+    },
+    {
+        "hex": "e18887",
+        "unicode": "U+1207",
+        "name": "ETHIOPIC SYLLABLE HOA"
+    },
+    {
+        "hex": "e18888",
+        "unicode": "U+1208",
+        "name": "ETHIOPIC SYLLABLE LA"
+    },
+    {
+        "hex": "e18889",
+        "unicode": "U+1209",
+        "name": "ETHIOPIC SYLLABLE LU"
+    },
+    {
+        "hex": "e1888a",
+        "unicode": "U+120A",
+        "name": "ETHIOPIC SYLLABLE LI"
+    },
+    {
+        "hex": "e1888b",
+        "unicode": "U+120B",
+        "name": "ETHIOPIC SYLLABLE LAA"
+    },
+    {
+        "hex": "e1888c",
+        "unicode": "U+120C",
+        "name": "ETHIOPIC SYLLABLE LEE"
+    },
+    {
+        "hex": "e1888d",
+        "unicode": "U+120D",
+        "name": "ETHIOPIC SYLLABLE LE"
+    },
+    {
+        "hex": "e1888e",
+        "unicode": "U+120E",
+        "name": "ETHIOPIC SYLLABLE LO"
+    },
+    {
+        "hex": "e1888f",
+        "unicode": "U+120F",
+        "name": "ETHIOPIC SYLLABLE LWA"
+    },
+    {
+        "hex": "e18890",
+        "unicode": "U+1210",
+        "name": "ETHIOPIC SYLLABLE HHA"
+    },
+    {
+        "hex": "e18891",
+        "unicode": "U+1211",
+        "name": "ETHIOPIC SYLLABLE HHU"
+    },
+    {
+        "hex": "e18892",
+        "unicode": "U+1212",
+        "name": "ETHIOPIC SYLLABLE HHI"
+    },
+    {
+        "hex": "e18893",
+        "unicode": "U+1213",
+        "name": "ETHIOPIC SYLLABLE HHAA"
+    },
+    {
+        "hex": "e18894",
+        "unicode": "U+1214",
+        "name": "ETHIOPIC SYLLABLE HHEE"
+    },
+    {
+        "hex": "e18895",
+        "unicode": "U+1215",
+        "name": "ETHIOPIC SYLLABLE HHE"
+    },
+    {
+        "hex": "e18896",
+        "unicode": "U+1216",
+        "name": "ETHIOPIC SYLLABLE HHO"
+    },
+    {
+        "hex": "e18897",
+        "unicode": "U+1217",
+        "name": "ETHIOPIC SYLLABLE HHWA"
+    },
+    {
+        "hex": "e18898",
+        "unicode": "U+1218",
+        "name": "ETHIOPIC SYLLABLE MA"
+    },
+    {
+        "hex": "e18899",
+        "unicode": "U+1219",
+        "name": "ETHIOPIC SYLLABLE MU"
+    },
+    {
+        "hex": "e1889a",
+        "unicode": "U+121A",
+        "name": "ETHIOPIC SYLLABLE MI"
+    },
+    {
+        "hex": "e1889b",
+        "unicode": "U+121B",
+        "name": "ETHIOPIC SYLLABLE MAA"
+    },
+    {
+        "hex": "e1889c",
+        "unicode": "U+121C",
+        "name": "ETHIOPIC SYLLABLE MEE"
+    },
+    {
+        "hex": "e1889d",
+        "unicode": "U+121D",
+        "name": "ETHIOPIC SYLLABLE ME"
+    },
+    {
+        "hex": "e1889e",
+        "unicode": "U+121E",
+        "name": "ETHIOPIC SYLLABLE MO"
+    },
+    {
+        "hex": "e1889f",
+        "unicode": "U+121F",
+        "name": "ETHIOPIC SYLLABLE MWA"
+    },
+    {
+        "hex": "e188a0",
+        "unicode": "U+1220",
+        "name": "ETHIOPIC SYLLABLE SZA"
+    },
+    {
+        "hex": "e188a1",
+        "unicode": "U+1221",
+        "name": "ETHIOPIC SYLLABLE SZU"
+    },
+    {
+        "hex": "e188a2",
+        "unicode": "U+1222",
+        "name": "ETHIOPIC SYLLABLE SZI"
+    },
+    {
+        "hex": "e188a3",
+        "unicode": "U+1223",
+        "name": "ETHIOPIC SYLLABLE SZAA"
+    },
+    {
+        "hex": "e188a4",
+        "unicode": "U+1224",
+        "name": "ETHIOPIC SYLLABLE SZEE"
+    },
+    {
+        "hex": "e188a5",
+        "unicode": "U+1225",
+        "name": "ETHIOPIC SYLLABLE SZE"
+    },
+    {
+        "hex": "e188a6",
+        "unicode": "U+1226",
+        "name": "ETHIOPIC SYLLABLE SZO"
+    },
+    {
+        "hex": "e188a7",
+        "unicode": "U+1227",
+        "name": "ETHIOPIC SYLLABLE SZWA"
+    },
+    {
+        "hex": "e188a8",
+        "unicode": "U+1228",
+        "name": "ETHIOPIC SYLLABLE RA"
+    },
+    {
+        "hex": "e188a9",
+        "unicode": "U+1229",
+        "name": "ETHIOPIC SYLLABLE RU"
+    },
+    {
+        "hex": "e188aa",
+        "unicode": "U+122A",
+        "name": "ETHIOPIC SYLLABLE RI"
+    },
+    {
+        "hex": "e188ab",
+        "unicode": "U+122B",
+        "name": "ETHIOPIC SYLLABLE RAA"
+    },
+    {
+        "hex": "e188ac",
+        "unicode": "U+122C",
+        "name": "ETHIOPIC SYLLABLE REE"
+    },
+    {
+        "hex": "e188ad",
+        "unicode": "U+122D",
+        "name": "ETHIOPIC SYLLABLE RE"
+    },
+    {
+        "hex": "e188ae",
+        "unicode": "U+122E",
+        "name": "ETHIOPIC SYLLABLE RO"
+    },
+    {
+        "hex": "e188af",
+        "unicode": "U+122F",
+        "name": "ETHIOPIC SYLLABLE RWA"
+    },
+    {
+        "hex": "e188b0",
+        "unicode": "U+1230",
+        "name": "ETHIOPIC SYLLABLE SA"
+    },
+    {
+        "hex": "e188b1",
+        "unicode": "U+1231",
+        "name": "ETHIOPIC SYLLABLE SU"
+    },
+    {
+        "hex": "e188b2",
+        "unicode": "U+1232",
+        "name": "ETHIOPIC SYLLABLE SI"
+    },
+    {
+        "hex": "e188b3",
+        "unicode": "U+1233",
+        "name": "ETHIOPIC SYLLABLE SAA"
+    },
+    {
+        "hex": "e188b4",
+        "unicode": "U+1234",
+        "name": "ETHIOPIC SYLLABLE SEE"
+    },
+    {
+        "hex": "e188b5",
+        "unicode": "U+1235",
+        "name": "ETHIOPIC SYLLABLE SE"
+    },
+    {
+        "hex": "e188b6",
+        "unicode": "U+1236",
+        "name": "ETHIOPIC SYLLABLE SO"
+    },
+    {
+        "hex": "e188b7",
+        "unicode": "U+1237",
+        "name": "ETHIOPIC SYLLABLE SWA"
+    },
+    {
+        "hex": "e188b8",
+        "unicode": "U+1238",
+        "name": "ETHIOPIC SYLLABLE SHA"
+    },
+    {
+        "hex": "e188b9",
+        "unicode": "U+1239",
+        "name": "ETHIOPIC SYLLABLE SHU"
+    },
+    {
+        "hex": "e188ba",
+        "unicode": "U+123A",
+        "name": "ETHIOPIC SYLLABLE SHI"
+    },
+    {
+        "hex": "e188bb",
+        "unicode": "U+123B",
+        "name": "ETHIOPIC SYLLABLE SHAA"
+    },
+    {
+        "hex": "e188bc",
+        "unicode": "U+123C",
+        "name": "ETHIOPIC SYLLABLE SHEE"
+    },
+    {
+        "hex": "e188bd",
+        "unicode": "U+123D",
+        "name": "ETHIOPIC SYLLABLE SHE"
+    },
+    {
+        "hex": "e188be",
+        "unicode": "U+123E",
+        "name": "ETHIOPIC SYLLABLE SHO"
+    },
+    {
+        "hex": "e188bf",
+        "unicode": "U+123F",
+        "name": "ETHIOPIC SYLLABLE SHWA"
+    },
+    {
+        "hex": "e18980",
+        "unicode": "U+1240",
+        "name": "ETHIOPIC SYLLABLE QA"
+    },
+    {
+        "hex": "e18981",
+        "unicode": "U+1241",
+        "name": "ETHIOPIC SYLLABLE QU"
+    },
+    {
+        "hex": "e18982",
+        "unicode": "U+1242",
+        "name": "ETHIOPIC SYLLABLE QI"
+    },
+    {
+        "hex": "e18983",
+        "unicode": "U+1243",
+        "name": "ETHIOPIC SYLLABLE QAA"
+    },
+    {
+        "hex": "e18984",
+        "unicode": "U+1244",
+        "name": "ETHIOPIC SYLLABLE QEE"
+    },
+    {
+        "hex": "e18985",
+        "unicode": "U+1245",
+        "name": "ETHIOPIC SYLLABLE QE"
+    },
+    {
+        "hex": "e18986",
+        "unicode": "U+1246",
+        "name": "ETHIOPIC SYLLABLE QO"
+    },
+    {
+        "hex": "e18987",
+        "unicode": "U+1247",
+        "name": "ETHIOPIC SYLLABLE QOA"
+    },
+    {
+        "hex": "e18988",
+        "unicode": "U+1248",
+        "name": "ETHIOPIC SYLLABLE QWA"
+    },
+    {
+        "hex": "e18989",
+        "unicode": "U+1249",
+        "name": ""
+    },
+    {
+        "hex": "e1898a",
+        "unicode": "U+124A",
+        "name": "ETHIOPIC SYLLABLE QWI"
+    },
+    {
+        "hex": "e1898b",
+        "unicode": "U+124B",
+        "name": "ETHIOPIC SYLLABLE QWAA"
+    },
+    {
+        "hex": "e1898c",
+        "unicode": "U+124C",
+        "name": "ETHIOPIC SYLLABLE QWEE"
+    },
+    {
+        "hex": "e1898d",
+        "unicode": "U+124D",
+        "name": "ETHIOPIC SYLLABLE QWE"
+    },
+    {
+        "hex": "e1898e",
+        "unicode": "U+124E",
+        "name": ""
+    },
+    {
+        "hex": "e1898f",
+        "unicode": "U+124F",
+        "name": ""
+    },
+    {
+        "hex": "e18990",
+        "unicode": "U+1250",
+        "name": "ETHIOPIC SYLLABLE QHA"
+    },
+    {
+        "hex": "e18991",
+        "unicode": "U+1251",
+        "name": "ETHIOPIC SYLLABLE QHU"
+    },
+    {
+        "hex": "e18992",
+        "unicode": "U+1252",
+        "name": "ETHIOPIC SYLLABLE QHI"
+    },
+    {
+        "hex": "e18993",
+        "unicode": "U+1253",
+        "name": "ETHIOPIC SYLLABLE QHAA"
+    },
+    {
+        "hex": "e18994",
+        "unicode": "U+1254",
+        "name": "ETHIOPIC SYLLABLE QHEE"
+    },
+    {
+        "hex": "e18995",
+        "unicode": "U+1255",
+        "name": "ETHIOPIC SYLLABLE QHE"
+    },
+    {
+        "hex": "e18996",
+        "unicode": "U+1256",
+        "name": "ETHIOPIC SYLLABLE QHO"
+    },
+    {
+        "hex": "e18997",
+        "unicode": "U+1257",
+        "name": ""
+    },
+    {
+        "hex": "e18998",
+        "unicode": "U+1258",
+        "name": "ETHIOPIC SYLLABLE QHWA"
+    },
+    {
+        "hex": "e18999",
+        "unicode": "U+1259",
+        "name": ""
+    },
+    {
+        "hex": "e1899a",
+        "unicode": "U+125A",
+        "name": "ETHIOPIC SYLLABLE QHWI"
+    },
+    {
+        "hex": "e1899b",
+        "unicode": "U+125B",
+        "name": "ETHIOPIC SYLLABLE QHWAA"
+    },
+    {
+        "hex": "e1899c",
+        "unicode": "U+125C",
+        "name": "ETHIOPIC SYLLABLE QHWEE"
+    },
+    {
+        "hex": "e1899d",
+        "unicode": "U+125D",
+        "name": "ETHIOPIC SYLLABLE QHWE"
+    },
+    {
+        "hex": "e1899e",
+        "unicode": "U+125E",
+        "name": ""
+    },
+    {
+        "hex": "e1899f",
+        "unicode": "U+125F",
+        "name": ""
+    },
+    {
+        "hex": "e189a0",
+        "unicode": "U+1260",
+        "name": "ETHIOPIC SYLLABLE BA"
+    },
+    {
+        "hex": "e189a1",
+        "unicode": "U+1261",
+        "name": "ETHIOPIC SYLLABLE BU"
+    },
+    {
+        "hex": "e189a2",
+        "unicode": "U+1262",
+        "name": "ETHIOPIC SYLLABLE BI"
+    },
+    {
+        "hex": "e189a3",
+        "unicode": "U+1263",
+        "name": "ETHIOPIC SYLLABLE BAA"
+    },
+    {
+        "hex": "e189a4",
+        "unicode": "U+1264",
+        "name": "ETHIOPIC SYLLABLE BEE"
+    },
+    {
+        "hex": "e189a5",
+        "unicode": "U+1265",
+        "name": "ETHIOPIC SYLLABLE BE"
+    },
+    {
+        "hex": "e189a6",
+        "unicode": "U+1266",
+        "name": "ETHIOPIC SYLLABLE BO"
+    },
+    {
+        "hex": "e189a7",
+        "unicode": "U+1267",
+        "name": "ETHIOPIC SYLLABLE BWA"
+    },
+    {
+        "hex": "e189a8",
+        "unicode": "U+1268",
+        "name": "ETHIOPIC SYLLABLE VA"
+    },
+    {
+        "hex": "e189a9",
+        "unicode": "U+1269",
+        "name": "ETHIOPIC SYLLABLE VU"
+    },
+    {
+        "hex": "e189aa",
+        "unicode": "U+126A",
+        "name": "ETHIOPIC SYLLABLE VI"
+    },
+    {
+        "hex": "e189ab",
+        "unicode": "U+126B",
+        "name": "ETHIOPIC SYLLABLE VAA"
+    },
+    {
+        "hex": "e189ac",
+        "unicode": "U+126C",
+        "name": "ETHIOPIC SYLLABLE VEE"
+    },
+    {
+        "hex": "e189ad",
+        "unicode": "U+126D",
+        "name": "ETHIOPIC SYLLABLE VE"
+    },
+    {
+        "hex": "e189ae",
+        "unicode": "U+126E",
+        "name": "ETHIOPIC SYLLABLE VO"
+    },
+    {
+        "hex": "e189af",
+        "unicode": "U+126F",
+        "name": "ETHIOPIC SYLLABLE VWA"
+    },
+    {
+        "hex": "e189b0",
+        "unicode": "U+1270",
+        "name": "ETHIOPIC SYLLABLE TA"
+    },
+    {
+        "hex": "e189b1",
+        "unicode": "U+1271",
+        "name": "ETHIOPIC SYLLABLE TU"
+    },
+    {
+        "hex": "e189b2",
+        "unicode": "U+1272",
+        "name": "ETHIOPIC SYLLABLE TI"
+    },
+    {
+        "hex": "e189b3",
+        "unicode": "U+1273",
+        "name": "ETHIOPIC SYLLABLE TAA"
+    },
+    {
+        "hex": "e189b4",
+        "unicode": "U+1274",
+        "name": "ETHIOPIC SYLLABLE TEE"
+    },
+    {
+        "hex": "e189b5",
+        "unicode": "U+1275",
+        "name": "ETHIOPIC SYLLABLE TE"
+    },
+    {
+        "hex": "e189b6",
+        "unicode": "U+1276",
+        "name": "ETHIOPIC SYLLABLE TO"
+    },
+    {
+        "hex": "e189b7",
+        "unicode": "U+1277",
+        "name": "ETHIOPIC SYLLABLE TWA"
+    },
+    {
+        "hex": "e189b8",
+        "unicode": "U+1278",
+        "name": "ETHIOPIC SYLLABLE CA"
+    },
+    {
+        "hex": "e189b9",
+        "unicode": "U+1279",
+        "name": "ETHIOPIC SYLLABLE CU"
+    },
+    {
+        "hex": "e189ba",
+        "unicode": "U+127A",
+        "name": "ETHIOPIC SYLLABLE CI"
+    },
+    {
+        "hex": "e189bb",
+        "unicode": "U+127B",
+        "name": "ETHIOPIC SYLLABLE CAA"
+    },
+    {
+        "hex": "e189bc",
+        "unicode": "U+127C",
+        "name": "ETHIOPIC SYLLABLE CEE"
+    },
+    {
+        "hex": "e189bd",
+        "unicode": "U+127D",
+        "name": "ETHIOPIC SYLLABLE CE"
+    },
+    {
+        "hex": "e189be",
+        "unicode": "U+127E",
+        "name": "ETHIOPIC SYLLABLE CO"
+    },
+    {
+        "hex": "e189bf",
+        "unicode": "U+127F",
+        "name": "ETHIOPIC SYLLABLE CWA"
+    },
+    {
+        "hex": "e18a80",
+        "unicode": "U+1280",
+        "name": "ETHIOPIC SYLLABLE XA"
+    },
+    {
+        "hex": "e18a81",
+        "unicode": "U+1281",
+        "name": "ETHIOPIC SYLLABLE XU"
+    },
+    {
+        "hex": "e18a82",
+        "unicode": "U+1282",
+        "name": "ETHIOPIC SYLLABLE XI"
+    },
+    {
+        "hex": "e18a83",
+        "unicode": "U+1283",
+        "name": "ETHIOPIC SYLLABLE XAA"
+    },
+    {
+        "hex": "e18a84",
+        "unicode": "U+1284",
+        "name": "ETHIOPIC SYLLABLE XEE"
+    },
+    {
+        "hex": "e18a85",
+        "unicode": "U+1285",
+        "name": "ETHIOPIC SYLLABLE XE"
+    },
+    {
+        "hex": "e18a86",
+        "unicode": "U+1286",
+        "name": "ETHIOPIC SYLLABLE XO"
+    },
+    {
+        "hex": "e18a87",
+        "unicode": "U+1287",
+        "name": "ETHIOPIC SYLLABLE XOA"
+    },
+    {
+        "hex": "e18a88",
+        "unicode": "U+1288",
+        "name": "ETHIOPIC SYLLABLE XWA"
+    },
+    {
+        "hex": "e18a89",
+        "unicode": "U+1289",
+        "name": ""
+    },
+    {
+        "hex": "e18a8a",
+        "unicode": "U+128A",
+        "name": "ETHIOPIC SYLLABLE XWI"
+    },
+    {
+        "hex": "e18a8b",
+        "unicode": "U+128B",
+        "name": "ETHIOPIC SYLLABLE XWAA"
+    },
+    {
+        "hex": "e18a8c",
+        "unicode": "U+128C",
+        "name": "ETHIOPIC SYLLABLE XWEE"
+    },
+    {
+        "hex": "e18a8d",
+        "unicode": "U+128D",
+        "name": "ETHIOPIC SYLLABLE XWE"
+    },
+    {
+        "hex": "e18a8e",
+        "unicode": "U+128E",
+        "name": ""
+    },
+    {
+        "hex": "e18a8f",
+        "unicode": "U+128F",
+        "name": ""
+    },
+    {
+        "hex": "e18a90",
+        "unicode": "U+1290",
+        "name": "ETHIOPIC SYLLABLE NA"
+    },
+    {
+        "hex": "e18a91",
+        "unicode": "U+1291",
+        "name": "ETHIOPIC SYLLABLE NU"
+    },
+    {
+        "hex": "e18a92",
+        "unicode": "U+1292",
+        "name": "ETHIOPIC SYLLABLE NI"
+    },
+    {
+        "hex": "e18a93",
+        "unicode": "U+1293",
+        "name": "ETHIOPIC SYLLABLE NAA"
+    },
+    {
+        "hex": "e18a94",
+        "unicode": "U+1294",
+        "name": "ETHIOPIC SYLLABLE NEE"
+    },
+    {
+        "hex": "e18a95",
+        "unicode": "U+1295",
+        "name": "ETHIOPIC SYLLABLE NE"
+    },
+    {
+        "hex": "e18a96",
+        "unicode": "U+1296",
+        "name": "ETHIOPIC SYLLABLE NO"
+    },
+    {
+        "hex": "e18a97",
+        "unicode": "U+1297",
+        "name": "ETHIOPIC SYLLABLE NWA"
+    },
+    {
+        "hex": "e18a98",
+        "unicode": "U+1298",
+        "name": "ETHIOPIC SYLLABLE NYA"
+    },
+    {
+        "hex": "e18a99",
+        "unicode": "U+1299",
+        "name": "ETHIOPIC SYLLABLE NYU"
+    },
+    {
+        "hex": "e18a9a",
+        "unicode": "U+129A",
+        "name": "ETHIOPIC SYLLABLE NYI"
+    },
+    {
+        "hex": "e18a9b",
+        "unicode": "U+129B",
+        "name": "ETHIOPIC SYLLABLE NYAA"
+    },
+    {
+        "hex": "e18a9c",
+        "unicode": "U+129C",
+        "name": "ETHIOPIC SYLLABLE NYEE"
+    },
+    {
+        "hex": "e18a9d",
+        "unicode": "U+129D",
+        "name": "ETHIOPIC SYLLABLE NYE"
+    },
+    {
+        "hex": "e18a9e",
+        "unicode": "U+129E",
+        "name": "ETHIOPIC SYLLABLE NYO"
+    },
+    {
+        "hex": "e18a9f",
+        "unicode": "U+129F",
+        "name": "ETHIOPIC SYLLABLE NYWA"
+    },
+    {
+        "hex": "e18aa0",
+        "unicode": "U+12A0",
+        "name": "ETHIOPIC SYLLABLE GLOTTAL A"
+    },
+    {
+        "hex": "e18aa1",
+        "unicode": "U+12A1",
+        "name": "ETHIOPIC SYLLABLE GLOTTAL U"
+    },
+    {
+        "hex": "e18aa2",
+        "unicode": "U+12A2",
+        "name": "ETHIOPIC SYLLABLE GLOTTAL I"
+    },
+    {
+        "hex": "e18aa3",
+        "unicode": "U+12A3",
+        "name": "ETHIOPIC SYLLABLE GLOTTAL AA"
+    },
+    {
+        "hex": "e18aa4",
+        "unicode": "U+12A4",
+        "name": "ETHIOPIC SYLLABLE GLOTTAL EE"
+    },
+    {
+        "hex": "e18aa5",
+        "unicode": "U+12A5",
+        "name": "ETHIOPIC SYLLABLE GLOTTAL E"
+    },
+    {
+        "hex": "e18aa6",
+        "unicode": "U+12A6",
+        "name": "ETHIOPIC SYLLABLE GLOTTAL O"
+    },
+    {
+        "hex": "e18aa7",
+        "unicode": "U+12A7",
+        "name": "ETHIOPIC SYLLABLE GLOTTAL WA"
+    },
+    {
+        "hex": "e18aa8",
+        "unicode": "U+12A8",
+        "name": "ETHIOPIC SYLLABLE KA"
+    },
+    {
+        "hex": "e18aa9",
+        "unicode": "U+12A9",
+        "name": "ETHIOPIC SYLLABLE KU"
+    },
+    {
+        "hex": "e18aaa",
+        "unicode": "U+12AA",
+        "name": "ETHIOPIC SYLLABLE KI"
+    },
+    {
+        "hex": "e18aab",
+        "unicode": "U+12AB",
+        "name": "ETHIOPIC SYLLABLE KAA"
+    },
+    {
+        "hex": "e18aac",
+        "unicode": "U+12AC",
+        "name": "ETHIOPIC SYLLABLE KEE"
+    },
+    {
+        "hex": "e18aad",
+        "unicode": "U+12AD",
+        "name": "ETHIOPIC SYLLABLE KE"
+    },
+    {
+        "hex": "e18aae",
+        "unicode": "U+12AE",
+        "name": "ETHIOPIC SYLLABLE KO"
+    },
+    {
+        "hex": "e18aaf",
+        "unicode": "U+12AF",
+        "name": "ETHIOPIC SYLLABLE KOA"
+    },
+    {
+        "hex": "e18ab0",
+        "unicode": "U+12B0",
+        "name": "ETHIOPIC SYLLABLE KWA"
+    },
+    {
+        "hex": "e18ab1",
+        "unicode": "U+12B1",
+        "name": ""
+    },
+    {
+        "hex": "e18ab2",
+        "unicode": "U+12B2",
+        "name": "ETHIOPIC SYLLABLE KWI"
+    },
+    {
+        "hex": "e18ab3",
+        "unicode": "U+12B3",
+        "name": "ETHIOPIC SYLLABLE KWAA"
+    },
+    {
+        "hex": "e18ab4",
+        "unicode": "U+12B4",
+        "name": "ETHIOPIC SYLLABLE KWEE"
+    },
+    {
+        "hex": "e18ab5",
+        "unicode": "U+12B5",
+        "name": "ETHIOPIC SYLLABLE KWE"
+    },
+    {
+        "hex": "e18ab6",
+        "unicode": "U+12B6",
+        "name": ""
+    },
+    {
+        "hex": "e18ab7",
+        "unicode": "U+12B7",
+        "name": ""
+    },
+    {
+        "hex": "e18ab8",
+        "unicode": "U+12B8",
+        "name": "ETHIOPIC SYLLABLE KXA"
+    },
+    {
+        "hex": "e18ab9",
+        "unicode": "U+12B9",
+        "name": "ETHIOPIC SYLLABLE KXU"
+    },
+    {
+        "hex": "e18aba",
+        "unicode": "U+12BA",
+        "name": "ETHIOPIC SYLLABLE KXI"
+    },
+    {
+        "hex": "e18abb",
+        "unicode": "U+12BB",
+        "name": "ETHIOPIC SYLLABLE KXAA"
+    },
+    {
+        "hex": "e18abc",
+        "unicode": "U+12BC",
+        "name": "ETHIOPIC SYLLABLE KXEE"
+    },
+    {
+        "hex": "e18abd",
+        "unicode": "U+12BD",
+        "name": "ETHIOPIC SYLLABLE KXE"
+    },
+    {
+        "hex": "e18abe",
+        "unicode": "U+12BE",
+        "name": "ETHIOPIC SYLLABLE KXO"
+    },
+    {
+        "hex": "e18abf",
+        "unicode": "U+12BF",
+        "name": ""
+    },
+    {
+        "hex": "e18b80",
+        "unicode": "U+12C0",
+        "name": "ETHIOPIC SYLLABLE KXWA"
+    },
+    {
+        "hex": "e18b81",
+        "unicode": "U+12C1",
+        "name": ""
+    },
+    {
+        "hex": "e18b82",
+        "unicode": "U+12C2",
+        "name": "ETHIOPIC SYLLABLE KXWI"
+    },
+    {
+        "hex": "e18b83",
+        "unicode": "U+12C3",
+        "name": "ETHIOPIC SYLLABLE KXWAA"
+    },
+    {
+        "hex": "e18b84",
+        "unicode": "U+12C4",
+        "name": "ETHIOPIC SYLLABLE KXWEE"
+    },
+    {
+        "hex": "e18b85",
+        "unicode": "U+12C5",
+        "name": "ETHIOPIC SYLLABLE KXWE"
+    },
+    {
+        "hex": "e18b86",
+        "unicode": "U+12C6",
+        "name": ""
+    },
+    {
+        "hex": "e18b87",
+        "unicode": "U+12C7",
+        "name": ""
+    },
+    {
+        "hex": "e18b88",
+        "unicode": "U+12C8",
+        "name": "ETHIOPIC SYLLABLE WA"
+    },
+    {
+        "hex": "e18b89",
+        "unicode": "U+12C9",
+        "name": "ETHIOPIC SYLLABLE WU"
+    },
+    {
+        "hex": "e18b8a",
+        "unicode": "U+12CA",
+        "name": "ETHIOPIC SYLLABLE WI"
+    },
+    {
+        "hex": "e18b8b",
+        "unicode": "U+12CB",
+        "name": "ETHIOPIC SYLLABLE WAA"
+    },
+    {
+        "hex": "e18b8c",
+        "unicode": "U+12CC",
+        "name": "ETHIOPIC SYLLABLE WEE"
+    },
+    {
+        "hex": "e18b8d",
+        "unicode": "U+12CD",
+        "name": "ETHIOPIC SYLLABLE WE"
+    },
+    {
+        "hex": "e18b8e",
+        "unicode": "U+12CE",
+        "name": "ETHIOPIC SYLLABLE WO"
+    },
+    {
+        "hex": "e18b8f",
+        "unicode": "U+12CF",
+        "name": "ETHIOPIC SYLLABLE WOA"
+    },
+    {
+        "hex": "e18b90",
+        "unicode": "U+12D0",
+        "name": "ETHIOPIC SYLLABLE PHARYNGEAL A"
+    },
+    {
+        "hex": "e18b91",
+        "unicode": "U+12D1",
+        "name": "ETHIOPIC SYLLABLE PHARYNGEAL U"
+    },
+    {
+        "hex": "e18b92",
+        "unicode": "U+12D2",
+        "name": "ETHIOPIC SYLLABLE PHARYNGEAL I"
+    },
+    {
+        "hex": "e18b93",
+        "unicode": "U+12D3",
+        "name": "ETHIOPIC SYLLABLE PHARYNGEAL AA"
+    },
+    {
+        "hex": "e18b94",
+        "unicode": "U+12D4",
+        "name": "ETHIOPIC SYLLABLE PHARYNGEAL EE"
+    },
+    {
+        "hex": "e18b95",
+        "unicode": "U+12D5",
+        "name": "ETHIOPIC SYLLABLE PHARYNGEAL E"
+    },
+    {
+        "hex": "e18b96",
+        "unicode": "U+12D6",
+        "name": "ETHIOPIC SYLLABLE PHARYNGEAL O"
+    },
+    {
+        "hex": "e18b97",
+        "unicode": "U+12D7",
+        "name": ""
+    },
+    {
+        "hex": "e18b98",
+        "unicode": "U+12D8",
+        "name": "ETHIOPIC SYLLABLE ZA"
+    },
+    {
+        "hex": "e18b99",
+        "unicode": "U+12D9",
+        "name": "ETHIOPIC SYLLABLE ZU"
+    },
+    {
+        "hex": "e18b9a",
+        "unicode": "U+12DA",
+        "name": "ETHIOPIC SYLLABLE ZI"
+    },
+    {
+        "hex": "e18b9b",
+        "unicode": "U+12DB",
+        "name": "ETHIOPIC SYLLABLE ZAA"
+    },
+    {
+        "hex": "e18b9c",
+        "unicode": "U+12DC",
+        "name": "ETHIOPIC SYLLABLE ZEE"
+    },
+    {
+        "hex": "e18b9d",
+        "unicode": "U+12DD",
+        "name": "ETHIOPIC SYLLABLE ZE"
+    },
+    {
+        "hex": "e18b9e",
+        "unicode": "U+12DE",
+        "name": "ETHIOPIC SYLLABLE ZO"
+    },
+    {
+        "hex": "e18b9f",
+        "unicode": "U+12DF",
+        "name": "ETHIOPIC SYLLABLE ZWA"
+    },
+    {
+        "hex": "e18ba0",
+        "unicode": "U+12E0",
+        "name": "ETHIOPIC SYLLABLE ZHA"
+    },
+    {
+        "hex": "e18ba1",
+        "unicode": "U+12E1",
+        "name": "ETHIOPIC SYLLABLE ZHU"
+    },
+    {
+        "hex": "e18ba2",
+        "unicode": "U+12E2",
+        "name": "ETHIOPIC SYLLABLE ZHI"
+    },
+    {
+        "hex": "e18ba3",
+        "unicode": "U+12E3",
+        "name": "ETHIOPIC SYLLABLE ZHAA"
+    },
+    {
+        "hex": "e18ba4",
+        "unicode": "U+12E4",
+        "name": "ETHIOPIC SYLLABLE ZHEE"
+    },
+    {
+        "hex": "e18ba5",
+        "unicode": "U+12E5",
+        "name": "ETHIOPIC SYLLABLE ZHE"
+    },
+    {
+        "hex": "e18ba6",
+        "unicode": "U+12E6",
+        "name": "ETHIOPIC SYLLABLE ZHO"
+    },
+    {
+        "hex": "e18ba7",
+        "unicode": "U+12E7",
+        "name": "ETHIOPIC SYLLABLE ZHWA"
+    },
+    {
+        "hex": "e18ba8",
+        "unicode": "U+12E8",
+        "name": "ETHIOPIC SYLLABLE YA"
+    },
+    {
+        "hex": "e18ba9",
+        "unicode": "U+12E9",
+        "name": "ETHIOPIC SYLLABLE YU"
+    },
+    {
+        "hex": "e18baa",
+        "unicode": "U+12EA",
+        "name": "ETHIOPIC SYLLABLE YI"
+    },
+    {
+        "hex": "e18bab",
+        "unicode": "U+12EB",
+        "name": "ETHIOPIC SYLLABLE YAA"
+    },
+    {
+        "hex": "e18bac",
+        "unicode": "U+12EC",
+        "name": "ETHIOPIC SYLLABLE YEE"
+    },
+    {
+        "hex": "e18bad",
+        "unicode": "U+12ED",
+        "name": "ETHIOPIC SYLLABLE YE"
+    },
+    {
+        "hex": "e18bae",
+        "unicode": "U+12EE",
+        "name": "ETHIOPIC SYLLABLE YO"
+    },
+    {
+        "hex": "e18baf",
+        "unicode": "U+12EF",
+        "name": "ETHIOPIC SYLLABLE YOA"
+    },
+    {
+        "hex": "e18bb0",
+        "unicode": "U+12F0",
+        "name": "ETHIOPIC SYLLABLE DA"
+    },
+    {
+        "hex": "e18bb1",
+        "unicode": "U+12F1",
+        "name": "ETHIOPIC SYLLABLE DU"
+    },
+    {
+        "hex": "e18bb2",
+        "unicode": "U+12F2",
+        "name": "ETHIOPIC SYLLABLE DI"
+    },
+    {
+        "hex": "e18bb3",
+        "unicode": "U+12F3",
+        "name": "ETHIOPIC SYLLABLE DAA"
+    },
+    {
+        "hex": "e18bb4",
+        "unicode": "U+12F4",
+        "name": "ETHIOPIC SYLLABLE DEE"
+    },
+    {
+        "hex": "e18bb5",
+        "unicode": "U+12F5",
+        "name": "ETHIOPIC SYLLABLE DE"
+    },
+    {
+        "hex": "e18bb6",
+        "unicode": "U+12F6",
+        "name": "ETHIOPIC SYLLABLE DO"
+    },
+    {
+        "hex": "e18bb7",
+        "unicode": "U+12F7",
+        "name": "ETHIOPIC SYLLABLE DWA"
+    },
+    {
+        "hex": "e18bb8",
+        "unicode": "U+12F8",
+        "name": "ETHIOPIC SYLLABLE DDA"
+    },
+    {
+        "hex": "e18bb9",
+        "unicode": "U+12F9",
+        "name": "ETHIOPIC SYLLABLE DDU"
+    },
+    {
+        "hex": "e18bba",
+        "unicode": "U+12FA",
+        "name": "ETHIOPIC SYLLABLE DDI"
+    },
+    {
+        "hex": "e18bbb",
+        "unicode": "U+12FB",
+        "name": "ETHIOPIC SYLLABLE DDAA"
+    },
+    {
+        "hex": "e18bbc",
+        "unicode": "U+12FC",
+        "name": "ETHIOPIC SYLLABLE DDEE"
+    },
+    {
+        "hex": "e18bbd",
+        "unicode": "U+12FD",
+        "name": "ETHIOPIC SYLLABLE DDE"
+    },
+    {
+        "hex": "e18bbe",
+        "unicode": "U+12FE",
+        "name": "ETHIOPIC SYLLABLE DDO"
+    },
+    {
+        "hex": "e18bbf",
+        "unicode": "U+12FF",
+        "name": "ETHIOPIC SYLLABLE DDWA"
+    }
+]

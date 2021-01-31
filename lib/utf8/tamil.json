@@ -1,0 +1,1282 @@
+[
+    {
+        "hex": "e0ae80",
+        "unicode": "U+0B80",
+        "name": ""
+    },
+    {
+        "hex": "e0ae81",
+        "unicode": "U+0B81",
+        "name": ""
+    },
+    {
+        "hex": "e0ae82",
+        "unicode": "U+0B82",
+        "name": "TAMIL SIGN ANUSVARA"
+    },
+    {
+        "hex": "e0ae83",
+        "unicode": "U+0B83",
+        "name": "TAMIL SIGN VISARGA"
+    },
+    {
+        "hex": "e0ae84",
+        "unicode": "U+0B84",
+        "name": ""
+    },
+    {
+        "hex": "e0ae85",
+        "unicode": "U+0B85",
+        "name": "TAMIL LETTER A"
+    },
+    {
+        "hex": "e0ae86",
+        "unicode": "U+0B86",
+        "name": "TAMIL LETTER AA"
+    },
+    {
+        "hex": "e0ae87",
+        "unicode": "U+0B87",
+        "name": "TAMIL LETTER I"
+    },
+    {
+        "hex": "e0ae88",
+        "unicode": "U+0B88",
+        "name": "TAMIL LETTER II"
+    },
+    {
+        "hex": "e0ae89",
+        "unicode": "U+0B89",
+        "name": "TAMIL LETTER U"
+    },
+    {
+        "hex": "e0ae8a",
+        "unicode": "U+0B8A",
+        "name": "TAMIL LETTER UU"
+    },
+    {
+        "hex": "e0ae8b",
+        "unicode": "U+0B8B",
+        "name": ""
+    },
+    {
+        "hex": "e0ae8c",
+        "unicode": "U+0B8C",
+        "name": ""
+    },
+    {
+        "hex": "e0ae8d",
+        "unicode": "U+0B8D",
+        "name": ""
+    },
+    {
+        "hex": "e0ae8e",
+        "unicode": "U+0B8E",
+        "name": "TAMIL LETTER E"
+    },
+    {
+        "hex": "e0ae8f",
+        "unicode": "U+0B8F",
+        "name": "TAMIL LETTER EE"
+    },
+    {
+        "hex": "e0ae90",
+        "unicode": "U+0B90",
+        "name": "TAMIL LETTER AI"
+    },
+    {
+        "hex": "e0ae91",
+        "unicode": "U+0B91",
+        "name": ""
+    },
+    {
+        "hex": "e0ae92",
+        "unicode": "U+0B92",
+        "name": "TAMIL LETTER O"
+    },
+    {
+        "hex": "e0ae93",
+        "unicode": "U+0B93",
+        "name": "TAMIL LETTER OO"
+    },
+    {
+        "hex": "e0ae94",
+        "unicode": "U+0B94",
+        "name": "TAMIL LETTER AU"
+    },
+    {
+        "hex": "e0ae95",
+        "unicode": "U+0B95",
+        "name": "TAMIL LETTER KA"
+    },
+    {
+        "hex": "e0ae96",
+        "unicode": "U+0B96",
+        "name": ""
+    },
+    {
+        "hex": "e0ae97",
+        "unicode": "U+0B97",
+        "name": ""
+    },
+    {
+        "hex": "e0ae98",
+        "unicode": "U+0B98",
+        "name": ""
+    },
+    {
+        "hex": "e0ae99",
+        "unicode": "U+0B99",
+        "name": "TAMIL LETTER NGA"
+    },
+    {
+        "hex": "e0ae9a",
+        "unicode": "U+0B9A",
+        "name": "TAMIL LETTER CA"
+    },
+    {
+        "hex": "e0ae9b",
+        "unicode": "U+0B9B",
+        "name": ""
+    },
+    {
+        "hex": "e0ae9c",
+        "unicode": "U+0B9C",
+        "name": "TAMIL LETTER JA"
+    },
+    {
+        "hex": "e0ae9d",
+        "unicode": "U+0B9D",
+        "name": ""
+    },
+    {
+        "hex": "e0ae9e",
+        "unicode": "U+0B9E",
+        "name": "TAMIL LETTER NYA"
+    },
+    {
+        "hex": "e0ae9f",
+        "unicode": "U+0B9F",
+        "name": "TAMIL LETTER TTA"
+    },
+    {
+        "hex": "e0aea0",
+        "unicode": "U+0BA0",
+        "name": ""
+    },
+    {
+        "hex": "e0aea1",
+        "unicode": "U+0BA1",
+        "name": ""
+    },
+    {
+        "hex": "e0aea2",
+        "unicode": "U+0BA2",
+        "name": ""
+    },
+    {
+        "hex": "e0aea3",
+        "unicode": "U+0BA3",
+        "name": "TAMIL LETTER NNA"
+    },
+    {
+        "hex": "e0aea4",
+        "unicode": "U+0BA4",
+        "name": "TAMIL LETTER TA"
+    },
+    {
+        "hex": "e0aea5",
+        "unicode": "U+0BA5",
+        "name": ""
+    },
+    {
+        "hex": "e0aea6",
+        "unicode": "U+0BA6",
+        "name": ""
+    },
+    {
+        "hex": "e0aea7",
+        "unicode": "U+0BA7",
+        "name": ""
+    },
+    {
+        "hex": "e0aea8",
+        "unicode": "U+0BA8",
+        "name": "TAMIL LETTER NA"
+    },
+    {
+        "hex": "e0aea9",
+        "unicode": "U+0BA9",
+        "name": "TAMIL LETTER NNNA"
+    },
+    {
+        "hex": "e0aeaa",
+        "unicode": "U+0BAA",
+        "name": "TAMIL LETTER PA"
+    },
+    {
+        "hex": "e0aeab",
+        "unicode": "U+0BAB",
+        "name": ""
+    },
+    {
+        "hex": "e0aeac",
+        "unicode": "U+0BAC",
+        "name": ""
+    },
+    {
+        "hex": "e0aead",
+        "unicode": "U+0BAD",
+        "name": ""
+    },
+    {
+        "hex": "e0aeae",
+        "unicode": "U+0BAE",
+        "name": "TAMIL LETTER MA"
+    },
+    {
+        "hex": "e0aeaf",
+        "unicode": "U+0BAF",
+        "name": "TAMIL LETTER YA"
+    },
+    {
+        "hex": "e0aeb0",
+        "unicode": "U+0BB0",
+        "name": "TAMIL LETTER RA"
+    },
+    {
+        "hex": "e0aeb1",
+        "unicode": "U+0BB1",
+        "name": "TAMIL LETTER RRA"
+    },
+    {
+        "hex": "e0aeb2",
+        "unicode": "U+0BB2",
+        "name": "TAMIL LETTER LA"
+    },
+    {
+        "hex": "e0aeb3",
+        "unicode": "U+0BB3",
+        "name": "TAMIL LETTER LLA"
+    },
+    {
+        "hex": "e0aeb4",
+        "unicode": "U+0BB4",
+        "name": "TAMIL LETTER LLLA"
+    },
+    {
+        "hex": "e0aeb5",
+        "unicode": "U+0BB5",
+        "name": "TAMIL LETTER VA"
+    },
+    {
+        "hex": "e0aeb6",
+        "unicode": "U+0BB6",
+        "name": "TAMIL LETTER SHA"
+    },
+    {
+        "hex": "e0aeb7",
+        "unicode": "U+0BB7",
+        "name": "TAMIL LETTER SSA"
+    },
+    {
+        "hex": "e0aeb8",
+        "unicode": "U+0BB8",
+        "name": "TAMIL LETTER SA"
+    },
+    {
+        "hex": "e0aeb9",
+        "unicode": "U+0BB9",
+        "name": "TAMIL LETTER HA"
+    },
+    {
+        "hex": "e0aeba",
+        "unicode": "U+0BBA",
+        "name": ""
+    },
+    {
+        "hex": "e0aebb",
+        "unicode": "U+0BBB",
+        "name": ""
+    },
+    {
+        "hex": "e0aebc",
+        "unicode": "U+0BBC",
+        "name": ""
+    },
+    {
+        "hex": "e0aebd",
+        "unicode": "U+0BBD",
+        "name": ""
+    },
+    {
+        "hex": "e0aebe",
+        "unicode": "U+0BBE",
+        "name": "TAMIL VOWEL SIGN AA"
+    },
+    {
+        "hex": "e0aebf",
+        "unicode": "U+0BBF",
+        "name": "TAMIL VOWEL SIGN I"
+    },
+    {
+        "hex": "e0af80",
+        "unicode": "U+0BC0",
+        "name": "TAMIL VOWEL SIGN II"
+    },
+    {
+        "hex": "e0af81",
+        "unicode": "U+0BC1",
+        "name": "TAMIL VOWEL SIGN U"
+    },
+    {
+        "hex": "e0af82",
+        "unicode": "U+0BC2",
+        "name": "TAMIL VOWEL SIGN UU"
+    },
+    {
+        "hex": "e0af83",
+        "unicode": "U+0BC3",
+        "name": ""
+    },
+    {
+        "hex": "e0af84",
+        "unicode": "U+0BC4",
+        "name": ""
+    },
+    {
+        "hex": "e0af85",
+        "unicode": "U+0BC5",
+        "name": ""
+    },
+    {
+        "hex": "e0af86",
+        "unicode": "U+0BC6",
+        "name": "TAMIL VOWEL SIGN E"
+    },
+    {
+        "hex": "e0af87",
+        "unicode": "U+0BC7",
+        "name": "TAMIL VOWEL SIGN EE"
+    },
+    {
+        "hex": "e0af88",
+        "unicode": "U+0BC8",
+        "name": "TAMIL VOWEL SIGN AI"
+    },
+    {
+        "hex": "e0af89",
+        "unicode": "U+0BC9",
+        "name": ""
+    },
+    {
+        "hex": "e0af8a",
+        "unicode": "U+0BCA",
+        "name": "TAMIL VOWEL SIGN O"
+    },
+    {
+        "hex": "e0af8b",
+        "unicode": "U+0BCB",
+        "name": "TAMIL VOWEL SIGN OO"
+    },
+    {
+        "hex": "e0af8c",
+        "unicode": "U+0BCC",
+        "name": "TAMIL VOWEL SIGN AU"
+    },
+    {
+        "hex": "e0af8d",
+        "unicode": "U+0BCD",
+        "name": "TAMIL SIGN VIRAMA"
+    },
+    {
+        "hex": "e0af8e",
+        "unicode": "U+0BCE",
+        "name": ""
+    },
+    {
+        "hex": "e0af8f",
+        "unicode": "U+0BCF",
+        "name": ""
+    },
+    {
+        "hex": "e0af90",
+        "unicode": "U+0BD0",
+        "name": "TAMIL OM"
+    },
+    {
+        "hex": "e0af91",
+        "unicode": "U+0BD1",
+        "name": ""
+    },
+    {
+        "hex": "e0af92",
+        "unicode": "U+0BD2",
+        "name": ""
+    },
+    {
+        "hex": "e0af93",
+        "unicode": "U+0BD3",
+        "name": ""
+    },
+    {
+        "hex": "e0af94",
+        "unicode": "U+0BD4",
+        "name": ""
+    },
+    {
+        "hex": "e0af95",
+        "unicode": "U+0BD5",
+        "name": ""
+    },
+    {
+        "hex": "e0af96",
+        "unicode": "U+0BD6",
+        "name": ""
+    },
+    {
+        "hex": "e0af97",
+        "unicode": "U+0BD7",
+        "name": "TAMIL AU LENGTH MARK"
+    },
+    {
+        "hex": "e0af98",
+        "unicode": "U+0BD8",
+        "name": ""
+    },
+    {
+        "hex": "e0af99",
+        "unicode": "U+0BD9",
+        "name": ""
+    },
+    {
+        "hex": "e0af9a",
+        "unicode": "U+0BDA",
+        "name": ""
+    },
+    {
+        "hex": "e0af9b",
+        "unicode": "U+0BDB",
+        "name": ""
+    },
+    {
+        "hex": "e0af9c",
+        "unicode": "U+0BDC",
+        "name": ""
+    },
+    {
+        "hex": "e0af9d",
+        "unicode": "U+0BDD",
+        "name": ""
+    },
+    {
+        "hex": "e0af9e",
+        "unicode": "U+0BDE",
+        "name": ""
+    },
+    {
+        "hex": "e0af9f",
+        "unicode": "U+0BDF",
+        "name": ""
+    },
+    {
+        "hex": "e0afa0",
+        "unicode": "U+0BE0",
+        "name": ""
+    },
+    {
+        "hex": "e0afa1",
+        "unicode": "U+0BE1",
+        "name": ""
+    },
+    {
+        "hex": "e0afa2",
+        "unicode": "U+0BE2",
+        "name": ""
+    },
+    {
+        "hex": "e0afa3",
+        "unicode": "U+0BE3",
+        "name": ""
+    },
+    {
+        "hex": "e0afa4",
+        "unicode": "U+0BE4",
+        "name": ""
+    },
+    {
+        "hex": "e0afa5",
+        "unicode": "U+0BE5",
+        "name": ""
+    },
+    {
+        "hex": "e0afa6",
+        "unicode": "U+0BE6",
+        "name": "TAMIL DIGIT ZERO"
+    },
+    {
+        "hex": "e0afa7",
+        "unicode": "U+0BE7",
+        "name": "TAMIL DIGIT ONE"
+    },
+    {
+        "hex": "e0afa8",
+        "unicode": "U+0BE8",
+        "name": "TAMIL DIGIT TWO"
+    },
+    {
+        "hex": "e0afa9",
+        "unicode": "U+0BE9",
+        "name": "TAMIL DIGIT THREE"
+    },
+    {
+        "hex": "e0afaa",
+        "unicode": "U+0BEA",
+        "name": "TAMIL DIGIT FOUR"
+    },
+    {
+        "hex": "e0afab",
+        "unicode": "U+0BEB",
+        "name": "TAMIL DIGIT FIVE"
+    },
+    {
+        "hex": "e0afac",
+        "unicode": "U+0BEC",
+        "name": "TAMIL DIGIT SIX"
+    },
+    {
+        "hex": "e0afad",
+        "unicode": "U+0BED",
+        "name": "TAMIL DIGIT SEVEN"
+    },
+    {
+        "hex": "e0afae",
+        "unicode": "U+0BEE",
+        "name": "TAMIL DIGIT EIGHT"
+    },
+    {
+        "hex": "e0afaf",
+        "unicode": "U+0BEF",
+        "name": "TAMIL DIGIT NINE"
+    },
+    {
+        "hex": "e0afb0",
+        "unicode": "U+0BF0",
+        "name": "TAMIL NUMBER TEN"
+    },
+    {
+        "hex": "e0afb1",
+        "unicode": "U+0BF1",
+        "name": "TAMIL NUMBER ONE HUNDRED"
+    },
+    {
+        "hex": "e0afb2",
+        "unicode": "U+0BF2",
+        "name": "TAMIL NUMBER ONE THOUSAND"
+    },
+    {
+        "hex": "e0afb3",
+        "unicode": "U+0BF3",
+        "name": "TAMIL DAY SIGN"
+    },
+    {
+        "hex": "e0afb4",
+        "unicode": "U+0BF4",
+        "name": "TAMIL MONTH SIGN"
+    },
+    {
+        "hex": "e0afb5",
+        "unicode": "U+0BF5",
+        "name": "TAMIL YEAR SIGN"
+    },
+    {
+        "hex": "e0afb6",
+        "unicode": "U+0BF6",
+        "name": "TAMIL DEBIT SIGN"
+    },
+    {
+        "hex": "e0afb7",
+        "unicode": "U+0BF7",
+        "name": "TAMIL CREDIT SIGN"
+    },
+    {
+        "hex": "e0afb8",
+        "unicode": "U+0BF8",
+        "name": "TAMIL AS ABOVE SIGN"
+    },
+    {
+        "hex": "e0afb9",
+        "unicode": "U+0BF9",
+        "name": "TAMIL RUPEE SIGN"
+    },
+    {
+        "hex": "e0afba",
+        "unicode": "U+0BFA",
+        "name": "TAMIL NUMBER SIGN"
+    },
+    {
+        "hex": "e0afbb",
+        "unicode": "U+0BFB",
+        "name": ""
+    },
+    {
+        "hex": "e0afbc",
+        "unicode": "U+0BFC",
+        "name": ""
+    },
+    {
+        "hex": "e0afbd",
+        "unicode": "U+0BFD",
+        "name": ""
+    },
+    {
+        "hex": "e0afbe",
+        "unicode": "U+0BFE",
+        "name": ""
+    },
+    {
+        "hex": "e0afbf",
+        "unicode": "U+0BFF",
+        "name": ""
+    },
+    {
+        "hex": "e0b080",
+        "unicode": "U+0C00",
+        "name": "TELUGU SIGN COMBINING CANDRABINDU ABOVE"
+    },
+    {
+        "hex": "e0b081",
+        "unicode": "U+0C01",
+        "name": "TELUGU SIGN CANDRABINDU"
+    },
+    {
+        "hex": "e0b082",
+        "unicode": "U+0C02",
+        "name": "TELUGU SIGN ANUSVARA"
+    },
+    {
+        "hex": "e0b083",
+        "unicode": "U+0C03",
+        "name": "TELUGU SIGN VISARGA"
+    },
+    {
+        "hex": "e0b084",
+        "unicode": "U+0C04",
+        "name": "TELUGU SIGN COMBINING ANUSVARA ABOVE"
+    },
+    {
+        "hex": "e0b085",
+        "unicode": "U+0C05",
+        "name": "TELUGU LETTER A"
+    },
+    {
+        "hex": "e0b086",
+        "unicode": "U+0C06",
+        "name": "TELUGU LETTER AA"
+    },
+    {
+        "hex": "e0b087",
+        "unicode": "U+0C07",
+        "name": "TELUGU LETTER I"
+    },
+    {
+        "hex": "e0b088",
+        "unicode": "U+0C08",
+        "name": "TELUGU LETTER II"
+    },
+    {
+        "hex": "e0b089",
+        "unicode": "U+0C09",
+        "name": "TELUGU LETTER U"
+    },
+    {
+        "hex": "e0b08a",
+        "unicode": "U+0C0A",
+        "name": "TELUGU LETTER UU"
+    },
+    {
+        "hex": "e0b08b",
+        "unicode": "U+0C0B",
+        "name": "TELUGU LETTER VOCALIC R"
+    },
+    {
+        "hex": "e0b08c",
+        "unicode": "U+0C0C",
+        "name": "TELUGU LETTER VOCALIC L"
+    },
+    {
+        "hex": "e0b08d",
+        "unicode": "U+0C0D",
+        "name": ""
+    },
+    {
+        "hex": "e0b08e",
+        "unicode": "U+0C0E",
+        "name": "TELUGU LETTER E"
+    },
+    {
+        "hex": "e0b08f",
+        "unicode": "U+0C0F",
+        "name": "TELUGU LETTER EE"
+    },
+    {
+        "hex": "e0b090",
+        "unicode": "U+0C10",
+        "name": "TELUGU LETTER AI"
+    },
+    {
+        "hex": "e0b091",
+        "unicode": "U+0C11",
+        "name": ""
+    },
+    {
+        "hex": "e0b092",
+        "unicode": "U+0C12",
+        "name": "TELUGU LETTER O"
+    },
+    {
+        "hex": "e0b093",
+        "unicode": "U+0C13",
+        "name": "TELUGU LETTER OO"
+    },
+    {
+        "hex": "e0b094",
+        "unicode": "U+0C14",
+        "name": "TELUGU LETTER AU"
+    },
+    {
+        "hex": "e0b095",
+        "unicode": "U+0C15",
+        "name": "TELUGU LETTER KA"
+    },
+    {
+        "hex": "e0b096",
+        "unicode": "U+0C16",
+        "name": "TELUGU LETTER KHA"
+    },
+    {
+        "hex": "e0b097",
+        "unicode": "U+0C17",
+        "name": "TELUGU LETTER GA"
+    },
+    {
+        "hex": "e0b098",
+        "unicode": "U+0C18",
+        "name": "TELUGU LETTER GHA"
+    },
+    {
+        "hex": "e0b099",
+        "unicode": "U+0C19",
+        "name": "TELUGU LETTER NGA"
+    },
+    {
+        "hex": "e0b09a",
+        "unicode": "U+0C1A",
+        "name": "TELUGU LETTER CA"
+    },
+    {
+        "hex": "e0b09b",
+        "unicode": "U+0C1B",
+        "name": "TELUGU LETTER CHA"
+    },
+    {
+        "hex": "e0b09c",
+        "unicode": "U+0C1C",
+        "name": "TELUGU LETTER JA"
+    },
+    {
+        "hex": "e0b09d",
+        "unicode": "U+0C1D",
+        "name": "TELUGU LETTER JHA"
+    },
+    {
+        "hex": "e0b09e",
+        "unicode": "U+0C1E",
+        "name": "TELUGU LETTER NYA"
+    },
+    {
+        "hex": "e0b09f",
+        "unicode": "U+0C1F",
+        "name": "TELUGU LETTER TTA"
+    },
+    {
+        "hex": "e0b0a0",
+        "unicode": "U+0C20",
+        "name": "TELUGU LETTER TTHA"
+    },
+    {
+        "hex": "e0b0a1",
+        "unicode": "U+0C21",
+        "name": "TELUGU LETTER DDA"
+    },
+    {
+        "hex": "e0b0a2",
+        "unicode": "U+0C22",
+        "name": "TELUGU LETTER DDHA"
+    },
+    {
+        "hex": "e0b0a3",
+        "unicode": "U+0C23",
+        "name": "TELUGU LETTER NNA"
+    },
+    {
+        "hex": "e0b0a4",
+        "unicode": "U+0C24",
+        "name": "TELUGU LETTER TA"
+    },
+    {
+        "hex": "e0b0a5",
+        "unicode": "U+0C25",
+        "name": "TELUGU LETTER THA"
+    },
+    {
+        "hex": "e0b0a6",
+        "unicode": "U+0C26",
+        "name": "TELUGU LETTER DA"
+    },
+    {
+        "hex": "e0b0a7",
+        "unicode": "U+0C27",
+        "name": "TELUGU LETTER DHA"
+    },
+    {
+        "hex": "e0b0a8",
+        "unicode": "U+0C28",
+        "name": "TELUGU LETTER NA"
+    },
+    {
+        "hex": "e0b0a9",
+        "unicode": "U+0C29",
+        "name": ""
+    },
+    {
+        "hex": "e0b0aa",
+        "unicode": "U+0C2A",
+        "name": "TELUGU LETTER PA"
+    },
+    {
+        "hex": "e0b0ab",
+        "unicode": "U+0C2B",
+        "name": "TELUGU LETTER PHA"
+    },
+    {
+        "hex": "e0b0ac",
+        "unicode": "U+0C2C",
+        "name": "TELUGU LETTER BA"
+    },
+    {
+        "hex": "e0b0ad",
+        "unicode": "U+0C2D",
+        "name": "TELUGU LETTER BHA"
+    },
+    {
+        "hex": "e0b0ae",
+        "unicode": "U+0C2E",
+        "name": "TELUGU LETTER MA"
+    },
+    {
+        "hex": "e0b0af",
+        "unicode": "U+0C2F",
+        "name": "TELUGU LETTER YA"
+    },
+    {
+        "hex": "e0b0b0",
+        "unicode": "U+0C30",
+        "name": "TELUGU LETTER RA"
+    },
+    {
+        "hex": "e0b0b1",
+        "unicode": "U+0C31",
+        "name": "TELUGU LETTER RRA"
+    },
+    {
+        "hex": "e0b0b2",
+        "unicode": "U+0C32",
+        "name": "TELUGU LETTER LA"
+    },
+    {
+        "hex": "e0b0b3",
+        "unicode": "U+0C33",
+        "name": "TELUGU LETTER LLA"
+    },
+    {
+        "hex": "e0b0b4",
+        "unicode": "U+0C34",
+        "name": "TELUGU LETTER LLLA"
+    },
+    {
+        "hex": "e0b0b5",
+        "unicode": "U+0C35",
+        "name": "TELUGU LETTER VA"
+    },
+    {
+        "hex": "e0b0b6",
+        "unicode": "U+0C36",
+        "name": "TELUGU LETTER SHA"
+    },
+    {
+        "hex": "e0b0b7",
+        "unicode": "U+0C37",
+        "name": "TELUGU LETTER SSA"
+    },
+    {
+        "hex": "e0b0b8",
+        "unicode": "U+0C38",
+        "name": "TELUGU LETTER SA"
+    },
+    {
+        "hex": "e0b0b9",
+        "unicode": "U+0C39",
+        "name": "TELUGU LETTER HA"
+    },
+    {
+        "hex": "e0b0ba",
+        "unicode": "U+0C3A",
+        "name": ""
+    },
+    {
+        "hex": "e0b0bb",
+        "unicode": "U+0C3B",
+        "name": ""
+    },
+    {
+        "hex": "e0b0bc",
+        "unicode": "U+0C3C",
+        "name": ""
+    },
+    {
+        "hex": "e0b0bd",
+        "unicode": "U+0C3D",
+        "name": "TELUGU SIGN AVAGRAHA"
+    },
+    {
+        "hex": "e0b0be",
+        "unicode": "U+0C3E",
+        "name": "TELUGU VOWEL SIGN AA"
+    },
+    {
+        "hex": "e0b0bf",
+        "unicode": "U+0C3F",
+        "name": "TELUGU VOWEL SIGN I"
+    },
+    {
+        "hex": "e0b180",
+        "unicode": "U+0C40",
+        "name": "TELUGU VOWEL SIGN II"
+    },
+    {
+        "hex": "e0b181",
+        "unicode": "U+0C41",
+        "name": "TELUGU VOWEL SIGN U"
+    },
+    {
+        "hex": "e0b182",
+        "unicode": "U+0C42",
+        "name": "TELUGU VOWEL SIGN UU"
+    },
+    {
+        "hex": "e0b183",
+        "unicode": "U+0C43",
+        "name": "TELUGU VOWEL SIGN VOCALIC R"
+    },
+    {
+        "hex": "e0b184",
+        "unicode": "U+0C44",
+        "name": "TELUGU VOWEL SIGN VOCALIC RR"
+    },
+    {
+        "hex": "e0b185",
+        "unicode": "U+0C45",
+        "name": ""
+    },
+    {
+        "hex": "e0b186",
+        "unicode": "U+0C46",
+        "name": "TELUGU VOWEL SIGN E"
+    },
+    {
+        "hex": "e0b187",
+        "unicode": "U+0C47",
+        "name": "TELUGU VOWEL SIGN EE"
+    },
+    {
+        "hex": "e0b188",
+        "unicode": "U+0C48",
+        "name": "TELUGU VOWEL SIGN AI"
+    },
+    {
+        "hex": "e0b189",
+        "unicode": "U+0C49",
+        "name": ""
+    },
+    {
+        "hex": "e0b18a",
+        "unicode": "U+0C4A",
+        "name": "TELUGU VOWEL SIGN O"
+    },
+    {
+        "hex": "e0b18b",
+        "unicode": "U+0C4B",
+        "name": "TELUGU VOWEL SIGN OO"
+    },
+    {
+        "hex": "e0b18c",
+        "unicode": "U+0C4C",
+        "name": "TELUGU VOWEL SIGN AU"
+    },
+    {
+        "hex": "e0b18d",
+        "unicode": "U+0C4D",
+        "name": "TELUGU SIGN VIRAMA"
+    },
+    {
+        "hex": "e0b18e",
+        "unicode": "U+0C4E",
+        "name": ""
+    },
+    {
+        "hex": "e0b18f",
+        "unicode": "U+0C4F",
+        "name": ""
+    },
+    {
+        "hex": "e0b190",
+        "unicode": "U+0C50",
+        "name": ""
+    },
+    {
+        "hex": "e0b191",
+        "unicode": "U+0C51",
+        "name": ""
+    },
+    {
+        "hex": "e0b192",
+        "unicode": "U+0C52",
+        "name": ""
+    },
+    {
+        "hex": "e0b193",
+        "unicode": "U+0C53",
+        "name": ""
+    },
+    {
+        "hex": "e0b194",
+        "unicode": "U+0C54",
+        "name": ""
+    },
+    {
+        "hex": "e0b195",
+        "unicode": "U+0C55",
+        "name": "TELUGU LENGTH MARK"
+    },
+    {
+        "hex": "e0b196",
+        "unicode": "U+0C56",
+        "name": "TELUGU AI LENGTH MARK"
+    },
+    {
+        "hex": "e0b197",
+        "unicode": "U+0C57",
+        "name": ""
+    },
+    {
+        "hex": "e0b198",
+        "unicode": "U+0C58",
+        "name": "TELUGU LETTER TSA"
+    },
+    {
+        "hex": "e0b199",
+        "unicode": "U+0C59",
+        "name": "TELUGU LETTER DZA"
+    },
+    {
+        "hex": "e0b19a",
+        "unicode": "U+0C5A",
+        "name": "TELUGU LETTER RRRA"
+    },
+    {
+        "hex": "e0b19b",
+        "unicode": "U+0C5B",
+        "name": ""
+    },
+    {
+        "hex": "e0b19c",
+        "unicode": "U+0C5C",
+        "name": ""
+    },
+    {
+        "hex": "e0b19d",
+        "unicode": "U+0C5D",
+        "name": ""
+    },
+    {
+        "hex": "e0b19e",
+        "unicode": "U+0C5E",
+        "name": ""
+    },
+    {
+        "hex": "e0b19f",
+        "unicode": "U+0C5F",
+        "name": ""
+    },
+    {
+        "hex": "e0b1a0",
+        "unicode": "U+0C60",
+        "name": "TELUGU LETTER VOCALIC RR"
+    },
+    {
+        "hex": "e0b1a1",
+        "unicode": "U+0C61",
+        "name": "TELUGU LETTER VOCALIC LL"
+    },
+    {
+        "hex": "e0b1a2",
+        "unicode": "U+0C62",
+        "name": "TELUGU VOWEL SIGN VOCALIC L"
+    },
+    {
+        "hex": "e0b1a3",
+        "unicode": "U+0C63",
+        "name": "TELUGU VOWEL SIGN VOCALIC LL"
+    },
+    {
+        "hex": "e0b1a4",
+        "unicode": "U+0C64",
+        "name": ""
+    },
+    {
+        "hex": "e0b1a5",
+        "unicode": "U+0C65",
+        "name": ""
+    },
+    {
+        "hex": "e0b1a6",
+        "unicode": "U+0C66",
+        "name": "TELUGU DIGIT ZERO"
+    },
+    {
+        "hex": "e0b1a7",
+        "unicode": "U+0C67",
+        "name": "TELUGU DIGIT ONE"
+    },
+    {
+        "hex": "e0b1a8",
+        "unicode": "U+0C68",
+        "name": "TELUGU DIGIT TWO"
+    },
+    {
+        "hex": "e0b1a9",
+        "unicode": "U+0C69",
+        "name": "TELUGU DIGIT THREE"
+    },
+    {
+        "hex": "e0b1aa",
+        "unicode": "U+0C6A",
+        "name": "TELUGU DIGIT FOUR"
+    },
+    {
+        "hex": "e0b1ab",
+        "unicode": "U+0C6B",
+        "name": "TELUGU DIGIT FIVE"
+    },
+    {
+        "hex": "e0b1ac",
+        "unicode": "U+0C6C",
+        "name": "TELUGU DIGIT SIX"
+    },
+    {
+        "hex": "e0b1ad",
+        "unicode": "U+0C6D",
+        "name": "TELUGU DIGIT SEVEN"
+    },
+    {
+        "hex": "e0b1ae",
+        "unicode": "U+0C6E",
+        "name": "TELUGU DIGIT EIGHT"
+    },
+    {
+        "hex": "e0b1af",
+        "unicode": "U+0C6F",
+        "name": "TELUGU DIGIT NINE"
+    },
+    {
+        "hex": "e0b1b0",
+        "unicode": "U+0C70",
+        "name": ""
+    },
+    {
+        "hex": "e0b1b1",
+        "unicode": "U+0C71",
+        "name": ""
+    },
+    {
+        "hex": "e0b1b2",
+        "unicode": "U+0C72",
+        "name": ""
+    },
+    {
+        "hex": "e0b1b3",
+        "unicode": "U+0C73",
+        "name": ""
+    },
+    {
+        "hex": "e0b1b4",
+        "unicode": "U+0C74",
+        "name": ""
+    },
+    {
+        "hex": "e0b1b5",
+        "unicode": "U+0C75",
+        "name": ""
+    },
+    {
+        "hex": "e0b1b6",
+        "unicode": "U+0C76",
+        "name": ""
+    },
+    {
+        "hex": "e0b1b7",
+        "unicode": "U+0C77",
+        "name": "TELUGU SIGN SIDDHAM"
+    },
+    {
+        "hex": "e0b1b8",
+        "unicode": "U+0C78",
+        "name": "TELUGU FRACTION DIGIT ZERO FOR ODD POWERS OF FOUR"
+    },
+    {
+        "hex": "e0b1b9",
+        "unicode": "U+0C79",
+        "name": "TELUGU FRACTION DIGIT ONE FOR ODD POWERS OF FOUR"
+    },
+    {
+        "hex": "e0b1ba",
+        "unicode": "U+0C7A",
+        "name": "TELUGU FRACTION DIGIT TWO FOR ODD POWERS OF FOUR"
+    },
+    {
+        "hex": "e0b1bb",
+        "unicode": "U+0C7B",
+        "name": "TELUGU FRACTION DIGIT THREE FOR ODD POWERS OF FOUR"
+    },
+    {
+        "hex": "e0b1bc",
+        "unicode": "U+0C7C",
+        "name": "TELUGU FRACTION DIGIT ONE FOR EVEN POWERS OF FOUR"
+    },
+    {
+        "hex": "e0b1bd",
+        "unicode": "U+0C7D",
+        "name": "TELUGU FRACTION DIGIT TWO FOR EVEN POWERS OF FOUR"
+    },
+    {
+        "hex": "e0b1be",
+        "unicode": "U+0C7E",
+        "name": "TELUGU FRACTION DIGIT THREE FOR EVEN POWERS OF FOUR"
+    },
+    {
+        "hex": "e0b1bf",
+        "unicode": "U+0C7F",
+        "name": "TELUGU SIGN TUUMU"
+    }
+]

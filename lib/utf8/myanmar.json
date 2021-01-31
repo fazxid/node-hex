@@ -1,0 +1,1282 @@
+[
+    {
+        "hex": "e18080",
+        "unicode": "U+1000",
+        "name": "MYANMAR LETTER KA"
+    },
+    {
+        "hex": "e18081",
+        "unicode": "U+1001",
+        "name": "MYANMAR LETTER KHA"
+    },
+    {
+        "hex": "e18082",
+        "unicode": "U+1002",
+        "name": "MYANMAR LETTER GA"
+    },
+    {
+        "hex": "e18083",
+        "unicode": "U+1003",
+        "name": "MYANMAR LETTER GHA"
+    },
+    {
+        "hex": "e18084",
+        "unicode": "U+1004",
+        "name": "MYANMAR LETTER NGA"
+    },
+    {
+        "hex": "e18085",
+        "unicode": "U+1005",
+        "name": "MYANMAR LETTER CA"
+    },
+    {
+        "hex": "e18086",
+        "unicode": "U+1006",
+        "name": "MYANMAR LETTER CHA"
+    },
+    {
+        "hex": "e18087",
+        "unicode": "U+1007",
+        "name": "MYANMAR LETTER JA"
+    },
+    {
+        "hex": "e18088",
+        "unicode": "U+1008",
+        "name": "MYANMAR LETTER JHA"
+    },
+    {
+        "hex": "e18089",
+        "unicode": "U+1009",
+        "name": "MYANMAR LETTER NYA"
+    },
+    {
+        "hex": "e1808a",
+        "unicode": "U+100A",
+        "name": "MYANMAR LETTER NNYA"
+    },
+    {
+        "hex": "e1808b",
+        "unicode": "U+100B",
+        "name": "MYANMAR LETTER TTA"
+    },
+    {
+        "hex": "e1808c",
+        "unicode": "U+100C",
+        "name": "MYANMAR LETTER TTHA"
+    },
+    {
+        "hex": "e1808d",
+        "unicode": "U+100D",
+        "name": "MYANMAR LETTER DDA"
+    },
+    {
+        "hex": "e1808e",
+        "unicode": "U+100E",
+        "name": "MYANMAR LETTER DDHA"
+    },
+    {
+        "hex": "e1808f",
+        "unicode": "U+100F",
+        "name": "MYANMAR LETTER NNA"
+    },
+    {
+        "hex": "e18090",
+        "unicode": "U+1010",
+        "name": "MYANMAR LETTER TA"
+    },
+    {
+        "hex": "e18091",
+        "unicode": "U+1011",
+        "name": "MYANMAR LETTER THA"
+    },
+    {
+        "hex": "e18092",
+        "unicode": "U+1012",
+        "name": "MYANMAR LETTER DA"
+    },
+    {
+        "hex": "e18093",
+        "unicode": "U+1013",
+        "name": "MYANMAR LETTER DHA"
+    },
+    {
+        "hex": "e18094",
+        "unicode": "U+1014",
+        "name": "MYANMAR LETTER NA"
+    },
+    {
+        "hex": "e18095",
+        "unicode": "U+1015",
+        "name": "MYANMAR LETTER PA"
+    },
+    {
+        "hex": "e18096",
+        "unicode": "U+1016",
+        "name": "MYANMAR LETTER PHA"
+    },
+    {
+        "hex": "e18097",
+        "unicode": "U+1017",
+        "name": "MYANMAR LETTER BA"
+    },
+    {
+        "hex": "e18098",
+        "unicode": "U+1018",
+        "name": "MYANMAR LETTER BHA"
+    },
+    {
+        "hex": "e18099",
+        "unicode": "U+1019",
+        "name": "MYANMAR LETTER MA"
+    },
+    {
+        "hex": "e1809a",
+        "unicode": "U+101A",
+        "name": "MYANMAR LETTER YA"
+    },
+    {
+        "hex": "e1809b",
+        "unicode": "U+101B",
+        "name": "MYANMAR LETTER RA"
+    },
+    {
+        "hex": "e1809c",
+        "unicode": "U+101C",
+        "name": "MYANMAR LETTER LA"
+    },
+    {
+        "hex": "e1809d",
+        "unicode": "U+101D",
+        "name": "MYANMAR LETTER WA"
+    },
+    {
+        "hex": "e1809e",
+        "unicode": "U+101E",
+        "name": "MYANMAR LETTER SA"
+    },
+    {
+        "hex": "e1809f",
+        "unicode": "U+101F",
+        "name": "MYANMAR LETTER HA"
+    },
+    {
+        "hex": "e180a0",
+        "unicode": "U+1020",
+        "name": "MYANMAR LETTER LLA"
+    },
+    {
+        "hex": "e180a1",
+        "unicode": "U+1021",
+        "name": "MYANMAR LETTER A"
+    },
+    {
+        "hex": "e180a2",
+        "unicode": "U+1022",
+        "name": "MYANMAR LETTER SHAN A"
+    },
+    {
+        "hex": "e180a3",
+        "unicode": "U+1023",
+        "name": "MYANMAR LETTER I"
+    },
+    {
+        "hex": "e180a4",
+        "unicode": "U+1024",
+        "name": "MYANMAR LETTER II"
+    },
+    {
+        "hex": "e180a5",
+        "unicode": "U+1025",
+        "name": "MYANMAR LETTER U"
+    },
+    {
+        "hex": "e180a6",
+        "unicode": "U+1026",
+        "name": "MYANMAR LETTER UU"
+    },
+    {
+        "hex": "e180a7",
+        "unicode": "U+1027",
+        "name": "MYANMAR LETTER E"
+    },
+    {
+        "hex": "e180a8",
+        "unicode": "U+1028",
+        "name": "MYANMAR LETTER MON E"
+    },
+    {
+        "hex": "e180a9",
+        "unicode": "U+1029",
+        "name": "MYANMAR LETTER O"
+    },
+    {
+        "hex": "e180aa",
+        "unicode": "U+102A",
+        "name": "MYANMAR LETTER AU"
+    },
+    {
+        "hex": "e180ab",
+        "unicode": "U+102B",
+        "name": "MYANMAR VOWEL SIGN TALL AA"
+    },
+    {
+        "hex": "e180ac",
+        "unicode": "U+102C",
+        "name": "MYANMAR VOWEL SIGN AA"
+    },
+    {
+        "hex": "e180ad",
+        "unicode": "U+102D",
+        "name": "MYANMAR VOWEL SIGN I"
+    },
+    {
+        "hex": "e180ae",
+        "unicode": "U+102E",
+        "name": "MYANMAR VOWEL SIGN II"
+    },
+    {
+        "hex": "e180af",
+        "unicode": "U+102F",
+        "name": "MYANMAR VOWEL SIGN U"
+    },
+    {
+        "hex": "e180b0",
+        "unicode": "U+1030",
+        "name": "MYANMAR VOWEL SIGN UU"
+    },
+    {
+        "hex": "e180b1",
+        "unicode": "U+1031",
+        "name": "MYANMAR VOWEL SIGN E"
+    },
+    {
+        "hex": "e180b2",
+        "unicode": "U+1032",
+        "name": "MYANMAR VOWEL SIGN AI"
+    },
+    {
+        "hex": "e180b3",
+        "unicode": "U+1033",
+        "name": "MYANMAR VOWEL SIGN MON II"
+    },
+    {
+        "hex": "e180b4",
+        "unicode": "U+1034",
+        "name": "MYANMAR VOWEL SIGN MON O"
+    },
+    {
+        "hex": "e180b5",
+        "unicode": "U+1035",
+        "name": "MYANMAR VOWEL SIGN E ABOVE"
+    },
+    {
+        "hex": "e180b6",
+        "unicode": "U+1036",
+        "name": "MYANMAR SIGN ANUSVARA"
+    },
+    {
+        "hex": "e180b7",
+        "unicode": "U+1037",
+        "name": "MYANMAR SIGN DOT BELOW"
+    },
+    {
+        "hex": "e180b8",
+        "unicode": "U+1038",
+        "name": "MYANMAR SIGN VISARGA"
+    },
+    {
+        "hex": "e180b9",
+        "unicode": "U+1039",
+        "name": "MYANMAR SIGN VIRAMA"
+    },
+    {
+        "hex": "e180ba",
+        "unicode": "U+103A",
+        "name": "MYANMAR SIGN ASAT"
+    },
+    {
+        "hex": "e180bb",
+        "unicode": "U+103B",
+        "name": "MYANMAR CONSONANT SIGN MEDIAL YA"
+    },
+    {
+        "hex": "e180bc",
+        "unicode": "U+103C",
+        "name": "MYANMAR CONSONANT SIGN MEDIAL RA"
+    },
+    {
+        "hex": "e180bd",
+        "unicode": "U+103D",
+        "name": "MYANMAR CONSONANT SIGN MEDIAL WA"
+    },
+    {
+        "hex": "e180be",
+        "unicode": "U+103E",
+        "name": "MYANMAR CONSONANT SIGN MEDIAL HA"
+    },
+    {
+        "hex": "e180bf",
+        "unicode": "U+103F",
+        "name": "MYANMAR LETTER GREAT SA"
+    },
+    {
+        "hex": "e18180",
+        "unicode": "U+1040",
+        "name": "MYANMAR DIGIT ZERO"
+    },
+    {
+        "hex": "e18181",
+        "unicode": "U+1041",
+        "name": "MYANMAR DIGIT ONE"
+    },
+    {
+        "hex": "e18182",
+        "unicode": "U+1042",
+        "name": "MYANMAR DIGIT TWO"
+    },
+    {
+        "hex": "e18183",
+        "unicode": "U+1043",
+        "name": "MYANMAR DIGIT THREE"
+    },
+    {
+        "hex": "e18184",
+        "unicode": "U+1044",
+        "name": "MYANMAR DIGIT FOUR"
+    },
+    {
+        "hex": "e18185",
+        "unicode": "U+1045",
+        "name": "MYANMAR DIGIT FIVE"
+    },
+    {
+        "hex": "e18186",
+        "unicode": "U+1046",
+        "name": "MYANMAR DIGIT SIX"
+    },
+    {
+        "hex": "e18187",
+        "unicode": "U+1047",
+        "name": "MYANMAR DIGIT SEVEN"
+    },
+    {
+        "hex": "e18188",
+        "unicode": "U+1048",
+        "name": "MYANMAR DIGIT EIGHT"
+    },
+    {
+        "hex": "e18189",
+        "unicode": "U+1049",
+        "name": "MYANMAR DIGIT NINE"
+    },
+    {
+        "hex": "e1818a",
+        "unicode": "U+104A",
+        "name": "MYANMAR SIGN LITTLE SECTION"
+    },
+    {
+        "hex": "e1818b",
+        "unicode": "U+104B",
+        "name": "MYANMAR SIGN SECTION"
+    },
+    {
+        "hex": "e1818c",
+        "unicode": "U+104C",
+        "name": "MYANMAR SYMBOL LOCATIVE"
+    },
+    {
+        "hex": "e1818d",
+        "unicode": "U+104D",
+        "name": "MYANMAR SYMBOL COMPLETED"
+    },
+    {
+        "hex": "e1818e",
+        "unicode": "U+104E",
+        "name": "MYANMAR SYMBOL AFOREMENTIONED"
+    },
+    {
+        "hex": "e1818f",
+        "unicode": "U+104F",
+        "name": "MYANMAR SYMBOL GENITIVE"
+    },
+    {
+        "hex": "e18190",
+        "unicode": "U+1050",
+        "name": "MYANMAR LETTER SHA"
+    },
+    {
+        "hex": "e18191",
+        "unicode": "U+1051",
+        "name": "MYANMAR LETTER SSA"
+    },
+    {
+        "hex": "e18192",
+        "unicode": "U+1052",
+        "name": "MYANMAR LETTER VOCALIC R"
+    },
+    {
+        "hex": "e18193",
+        "unicode": "U+1053",
+        "name": "MYANMAR LETTER VOCALIC RR"
+    },
+    {
+        "hex": "e18194",
+        "unicode": "U+1054",
+        "name": "MYANMAR LETTER VOCALIC L"
+    },
+    {
+        "hex": "e18195",
+        "unicode": "U+1055",
+        "name": "MYANMAR LETTER VOCALIC LL"
+    },
+    {
+        "hex": "e18196",
+        "unicode": "U+1056",
+        "name": "MYANMAR VOWEL SIGN VOCALIC R"
+    },
+    {
+        "hex": "e18197",
+        "unicode": "U+1057",
+        "name": "MYANMAR VOWEL SIGN VOCALIC RR"
+    },
+    {
+        "hex": "e18198",
+        "unicode": "U+1058",
+        "name": "MYANMAR VOWEL SIGN VOCALIC L"
+    },
+    {
+        "hex": "e18199",
+        "unicode": "U+1059",
+        "name": "MYANMAR VOWEL SIGN VOCALIC LL"
+    },
+    {
+        "hex": "e1819a",
+        "unicode": "U+105A",
+        "name": "MYANMAR LETTER MON NGA"
+    },
+    {
+        "hex": "e1819b",
+        "unicode": "U+105B",
+        "name": "MYANMAR LETTER MON JHA"
+    },
+    {
+        "hex": "e1819c",
+        "unicode": "U+105C",
+        "name": "MYANMAR LETTER MON BBA"
+    },
+    {
+        "hex": "e1819d",
+        "unicode": "U+105D",
+        "name": "MYANMAR LETTER MON BBE"
+    },
+    {
+        "hex": "e1819e",
+        "unicode": "U+105E",
+        "name": "MYANMAR CONSONANT SIGN MON MEDIAL NA"
+    },
+    {
+        "hex": "e1819f",
+        "unicode": "U+105F",
+        "name": "MYANMAR CONSONANT SIGN MON MEDIAL MA"
+    },
+    {
+        "hex": "e181a0",
+        "unicode": "U+1060",
+        "name": "MYANMAR CONSONANT SIGN MON MEDIAL LA"
+    },
+    {
+        "hex": "e181a1",
+        "unicode": "U+1061",
+        "name": "MYANMAR LETTER SGAW KAREN SHA"
+    },
+    {
+        "hex": "e181a2",
+        "unicode": "U+1062",
+        "name": "MYANMAR VOWEL SIGN SGAW KAREN EU"
+    },
+    {
+        "hex": "e181a3",
+        "unicode": "U+1063",
+        "name": "MYANMAR TONE MARK SGAW KAREN HATHI"
+    },
+    {
+        "hex": "e181a4",
+        "unicode": "U+1064",
+        "name": "MYANMAR TONE MARK SGAW KAREN KE PHO"
+    },
+    {
+        "hex": "e181a5",
+        "unicode": "U+1065",
+        "name": "MYANMAR LETTER WESTERN PWO KAREN THA"
+    },
+    {
+        "hex": "e181a6",
+        "unicode": "U+1066",
+        "name": "MYANMAR LETTER WESTERN PWO KAREN PWA"
+    },
+    {
+        "hex": "e181a7",
+        "unicode": "U+1067",
+        "name": "MYANMAR VOWEL SIGN WESTERN PWO KAREN EU"
+    },
+    {
+        "hex": "e181a8",
+        "unicode": "U+1068",
+        "name": "MYANMAR VOWEL SIGN WESTERN PWO KAREN UE"
+    },
+    {
+        "hex": "e181a9",
+        "unicode": "U+1069",
+        "name": "MYANMAR SIGN WESTERN PWO KAREN TONE-1"
+    },
+    {
+        "hex": "e181aa",
+        "unicode": "U+106A",
+        "name": "MYANMAR SIGN WESTERN PWO KAREN TONE-2"
+    },
+    {
+        "hex": "e181ab",
+        "unicode": "U+106B",
+        "name": "MYANMAR SIGN WESTERN PWO KAREN TONE-3"
+    },
+    {
+        "hex": "e181ac",
+        "unicode": "U+106C",
+        "name": "MYANMAR SIGN WESTERN PWO KAREN TONE-4"
+    },
+    {
+        "hex": "e181ad",
+        "unicode": "U+106D",
+        "name": "MYANMAR SIGN WESTERN PWO KAREN TONE-5"
+    },
+    {
+        "hex": "e181ae",
+        "unicode": "U+106E",
+        "name": "MYANMAR LETTER EASTERN PWO KAREN NNA"
+    },
+    {
+        "hex": "e181af",
+        "unicode": "U+106F",
+        "name": "MYANMAR LETTER EASTERN PWO KAREN YWA"
+    },
+    {
+        "hex": "e181b0",
+        "unicode": "U+1070",
+        "name": "MYANMAR LETTER EASTERN PWO KAREN GHWA"
+    },
+    {
+        "hex": "e181b1",
+        "unicode": "U+1071",
+        "name": "MYANMAR VOWEL SIGN GEBA KAREN I"
+    },
+    {
+        "hex": "e181b2",
+        "unicode": "U+1072",
+        "name": "MYANMAR VOWEL SIGN KAYAH OE"
+    },
+    {
+        "hex": "e181b3",
+        "unicode": "U+1073",
+        "name": "MYANMAR VOWEL SIGN KAYAH U"
+    },
+    {
+        "hex": "e181b4",
+        "unicode": "U+1074",
+        "name": "MYANMAR VOWEL SIGN KAYAH EE"
+    },
+    {
+        "hex": "e181b5",
+        "unicode": "U+1075",
+        "name": "MYANMAR LETTER SHAN KA"
+    },
+    {
+        "hex": "e181b6",
+        "unicode": "U+1076",
+        "name": "MYANMAR LETTER SHAN KHA"
+    },
+    {
+        "hex": "e181b7",
+        "unicode": "U+1077",
+        "name": "MYANMAR LETTER SHAN GA"
+    },
+    {
+        "hex": "e181b8",
+        "unicode": "U+1078",
+        "name": "MYANMAR LETTER SHAN CA"
+    },
+    {
+        "hex": "e181b9",
+        "unicode": "U+1079",
+        "name": "MYANMAR LETTER SHAN ZA"
+    },
+    {
+        "hex": "e181ba",
+        "unicode": "U+107A",
+        "name": "MYANMAR LETTER SHAN NYA"
+    },
+    {
+        "hex": "e181bb",
+        "unicode": "U+107B",
+        "name": "MYANMAR LETTER SHAN DA"
+    },
+    {
+        "hex": "e181bc",
+        "unicode": "U+107C",
+        "name": "MYANMAR LETTER SHAN NA"
+    },
+    {
+        "hex": "e181bd",
+        "unicode": "U+107D",
+        "name": "MYANMAR LETTER SHAN PHA"
+    },
+    {
+        "hex": "e181be",
+        "unicode": "U+107E",
+        "name": "MYANMAR LETTER SHAN FA"
+    },
+    {
+        "hex": "e181bf",
+        "unicode": "U+107F",
+        "name": "MYANMAR LETTER SHAN BA"
+    },
+    {
+        "hex": "e18280",
+        "unicode": "U+1080",
+        "name": "MYANMAR LETTER SHAN THA"
+    },
+    {
+        "hex": "e18281",
+        "unicode": "U+1081",
+        "name": "MYANMAR LETTER SHAN HA"
+    },
+    {
+        "hex": "e18282",
+        "unicode": "U+1082",
+        "name": "MYANMAR CONSONANT SIGN SHAN MEDIAL WA"
+    },
+    {
+        "hex": "e18283",
+        "unicode": "U+1083",
+        "name": "MYANMAR VOWEL SIGN SHAN AA"
+    },
+    {
+        "hex": "e18284",
+        "unicode": "U+1084",
+        "name": "MYANMAR VOWEL SIGN SHAN E"
+    },
+    {
+        "hex": "e18285",
+        "unicode": "U+1085",
+        "name": "MYANMAR VOWEL SIGN SHAN E ABOVE"
+    },
+    {
+        "hex": "e18286",
+        "unicode": "U+1086",
+        "name": "MYANMAR VOWEL SIGN SHAN FINAL Y"
+    },
+    {
+        "hex": "e18287",
+        "unicode": "U+1087",
+        "name": "MYANMAR SIGN SHAN TONE-2"
+    },
+    {
+        "hex": "e18288",
+        "unicode": "U+1088",
+        "name": "MYANMAR SIGN SHAN TONE-3"
+    },
+    {
+        "hex": "e18289",
+        "unicode": "U+1089",
+        "name": "MYANMAR SIGN SHAN TONE-5"
+    },
+    {
+        "hex": "e1828a",
+        "unicode": "U+108A",
+        "name": "MYANMAR SIGN SHAN TONE-6"
+    },
+    {
+        "hex": "e1828b",
+        "unicode": "U+108B",
+        "name": "MYANMAR SIGN SHAN COUNCIL TONE-2"
+    },
+    {
+        "hex": "e1828c",
+        "unicode": "U+108C",
+        "name": "MYANMAR SIGN SHAN COUNCIL TONE-3"
+    },
+    {
+        "hex": "e1828d",
+        "unicode": "U+108D",
+        "name": "MYANMAR SIGN SHAN COUNCIL EMPHATIC TONE"
+    },
+    {
+        "hex": "e1828e",
+        "unicode": "U+108E",
+        "name": "MYANMAR LETTER RUMAI PALAUNG FA"
+    },
+    {
+        "hex": "e1828f",
+        "unicode": "U+108F",
+        "name": "MYANMAR SIGN RUMAI PALAUNG TONE-5"
+    },
+    {
+        "hex": "e18290",
+        "unicode": "U+1090",
+        "name": "MYANMAR SHAN DIGIT ZERO"
+    },
+    {
+        "hex": "e18291",
+        "unicode": "U+1091",
+        "name": "MYANMAR SHAN DIGIT ONE"
+    },
+    {
+        "hex": "e18292",
+        "unicode": "U+1092",
+        "name": "MYANMAR SHAN DIGIT TWO"
+    },
+    {
+        "hex": "e18293",
+        "unicode": "U+1093",
+        "name": "MYANMAR SHAN DIGIT THREE"
+    },
+    {
+        "hex": "e18294",
+        "unicode": "U+1094",
+        "name": "MYANMAR SHAN DIGIT FOUR"
+    },
+    {
+        "hex": "e18295",
+        "unicode": "U+1095",
+        "name": "MYANMAR SHAN DIGIT FIVE"
+    },
+    {
+        "hex": "e18296",
+        "unicode": "U+1096",
+        "name": "MYANMAR SHAN DIGIT SIX"
+    },
+    {
+        "hex": "e18297",
+        "unicode": "U+1097",
+        "name": "MYANMAR SHAN DIGIT SEVEN"
+    },
+    {
+        "hex": "e18298",
+        "unicode": "U+1098",
+        "name": "MYANMAR SHAN DIGIT EIGHT"
+    },
+    {
+        "hex": "e18299",
+        "unicode": "U+1099",
+        "name": "MYANMAR SHAN DIGIT NINE"
+    },
+    {
+        "hex": "e1829a",
+        "unicode": "U+109A",
+        "name": "MYANMAR SIGN KHAMTI TONE-1"
+    },
+    {
+        "hex": "e1829b",
+        "unicode": "U+109B",
+        "name": "MYANMAR SIGN KHAMTI TONE-3"
+    },
+    {
+        "hex": "e1829c",
+        "unicode": "U+109C",
+        "name": "MYANMAR VOWEL SIGN AITON A"
+    },
+    {
+        "hex": "e1829d",
+        "unicode": "U+109D",
+        "name": "MYANMAR VOWEL SIGN AITON AI"
+    },
+    {
+        "hex": "e1829e",
+        "unicode": "U+109E",
+        "name": "MYANMAR SYMBOL SHAN ONE"
+    },
+    {
+        "hex": "e1829f",
+        "unicode": "U+109F",
+        "name": "MYANMAR SYMBOL SHAN EXCLAMATION"
+    },
+    {
+        "hex": "e182a0",
+        "unicode": "U+10A0",
+        "name": "GEORGIAN CAPITAL LETTER AN"
+    },
+    {
+        "hex": "e182a1",
+        "unicode": "U+10A1",
+        "name": "GEORGIAN CAPITAL LETTER BAN"
+    },
+    {
+        "hex": "e182a2",
+        "unicode": "U+10A2",
+        "name": "GEORGIAN CAPITAL LETTER GAN"
+    },
+    {
+        "hex": "e182a3",
+        "unicode": "U+10A3",
+        "name": "GEORGIAN CAPITAL LETTER DON"
+    },
+    {
+        "hex": "e182a4",
+        "unicode": "U+10A4",
+        "name": "GEORGIAN CAPITAL LETTER EN"
+    },
+    {
+        "hex": "e182a5",
+        "unicode": "U+10A5",
+        "name": "GEORGIAN CAPITAL LETTER VIN"
+    },
+    {
+        "hex": "e182a6",
+        "unicode": "U+10A6",
+        "name": "GEORGIAN CAPITAL LETTER ZEN"
+    },
+    {
+        "hex": "e182a7",
+        "unicode": "U+10A7",
+        "name": "GEORGIAN CAPITAL LETTER TAN"
+    },
+    {
+        "hex": "e182a8",
+        "unicode": "U+10A8",
+        "name": "GEORGIAN CAPITAL LETTER IN"
+    },
+    {
+        "hex": "e182a9",
+        "unicode": "U+10A9",
+        "name": "GEORGIAN CAPITAL LETTER KAN"
+    },
+    {
+        "hex": "e182aa",
+        "unicode": "U+10AA",
+        "name": "GEORGIAN CAPITAL LETTER LAS"
+    },
+    {
+        "hex": "e182ab",
+        "unicode": "U+10AB",
+        "name": "GEORGIAN CAPITAL LETTER MAN"
+    },
+    {
+        "hex": "e182ac",
+        "unicode": "U+10AC",
+        "name": "GEORGIAN CAPITAL LETTER NAR"
+    },
+    {
+        "hex": "e182ad",
+        "unicode": "U+10AD",
+        "name": "GEORGIAN CAPITAL LETTER ON"
+    },
+    {
+        "hex": "e182ae",
+        "unicode": "U+10AE",
+        "name": "GEORGIAN CAPITAL LETTER PAR"
+    },
+    {
+        "hex": "e182af",
+        "unicode": "U+10AF",
+        "name": "GEORGIAN CAPITAL LETTER ZHAR"
+    },
+    {
+        "hex": "e182b0",
+        "unicode": "U+10B0",
+        "name": "GEORGIAN CAPITAL LETTER RAE"
+    },
+    {
+        "hex": "e182b1",
+        "unicode": "U+10B1",
+        "name": "GEORGIAN CAPITAL LETTER SAN"
+    },
+    {
+        "hex": "e182b2",
+        "unicode": "U+10B2",
+        "name": "GEORGIAN CAPITAL LETTER TAR"
+    },
+    {
+        "hex": "e182b3",
+        "unicode": "U+10B3",
+        "name": "GEORGIAN CAPITAL LETTER UN"
+    },
+    {
+        "hex": "e182b4",
+        "unicode": "U+10B4",
+        "name": "GEORGIAN CAPITAL LETTER PHAR"
+    },
+    {
+        "hex": "e182b5",
+        "unicode": "U+10B5",
+        "name": "GEORGIAN CAPITAL LETTER KHAR"
+    },
+    {
+        "hex": "e182b6",
+        "unicode": "U+10B6",
+        "name": "GEORGIAN CAPITAL LETTER GHAN"
+    },
+    {
+        "hex": "e182b7",
+        "unicode": "U+10B7",
+        "name": "GEORGIAN CAPITAL LETTER QAR"
+    },
+    {
+        "hex": "e182b8",
+        "unicode": "U+10B8",
+        "name": "GEORGIAN CAPITAL LETTER SHIN"
+    },
+    {
+        "hex": "e182b9",
+        "unicode": "U+10B9",
+        "name": "GEORGIAN CAPITAL LETTER CHIN"
+    },
+    {
+        "hex": "e182ba",
+        "unicode": "U+10BA",
+        "name": "GEORGIAN CAPITAL LETTER CAN"
+    },
+    {
+        "hex": "e182bb",
+        "unicode": "U+10BB",
+        "name": "GEORGIAN CAPITAL LETTER JIL"
+    },
+    {
+        "hex": "e182bc",
+        "unicode": "U+10BC",
+        "name": "GEORGIAN CAPITAL LETTER CIL"
+    },
+    {
+        "hex": "e182bd",
+        "unicode": "U+10BD",
+        "name": "GEORGIAN CAPITAL LETTER CHAR"
+    },
+    {
+        "hex": "e182be",
+        "unicode": "U+10BE",
+        "name": "GEORGIAN CAPITAL LETTER XAN"
+    },
+    {
+        "hex": "e182bf",
+        "unicode": "U+10BF",
+        "name": "GEORGIAN CAPITAL LETTER JHAN"
+    },
+    {
+        "hex": "e18380",
+        "unicode": "U+10C0",
+        "name": "GEORGIAN CAPITAL LETTER HAE"
+    },
+    {
+        "hex": "e18381",
+        "unicode": "U+10C1",
+        "name": "GEORGIAN CAPITAL LETTER HE"
+    },
+    {
+        "hex": "e18382",
+        "unicode": "U+10C2",
+        "name": "GEORGIAN CAPITAL LETTER HIE"
+    },
+    {
+        "hex": "e18383",
+        "unicode": "U+10C3",
+        "name": "GEORGIAN CAPITAL LETTER WE"
+    },
+    {
+        "hex": "e18384",
+        "unicode": "U+10C4",
+        "name": "GEORGIAN CAPITAL LETTER HAR"
+    },
+    {
+        "hex": "e18385",
+        "unicode": "U+10C5",
+        "name": "GEORGIAN CAPITAL LETTER HOE"
+    },
+    {
+        "hex": "e18386",
+        "unicode": "U+10C6",
+        "name": ""
+    },
+    {
+        "hex": "e18387",
+        "unicode": "U+10C7",
+        "name": "GEORGIAN CAPITAL LETTER YN"
+    },
+    {
+        "hex": "e18388",
+        "unicode": "U+10C8",
+        "name": ""
+    },
+    {
+        "hex": "e18389",
+        "unicode": "U+10C9",
+        "name": ""
+    },
+    {
+        "hex": "e1838a",
+        "unicode": "U+10CA",
+        "name": ""
+    },
+    {
+        "hex": "e1838b",
+        "unicode": "U+10CB",
+        "name": ""
+    },
+    {
+        "hex": "e1838c",
+        "unicode": "U+10CC",
+        "name": ""
+    },
+    {
+        "hex": "e1838d",
+        "unicode": "U+10CD",
+        "name": "GEORGIAN CAPITAL LETTER AEN"
+    },
+    {
+        "hex": "e1838e",
+        "unicode": "U+10CE",
+        "name": ""
+    },
+    {
+        "hex": "e1838f",
+        "unicode": "U+10CF",
+        "name": ""
+    },
+    {
+        "hex": "e18390",
+        "unicode": "U+10D0",
+        "name": "GEORGIAN LETTER AN"
+    },
+    {
+        "hex": "e18391",
+        "unicode": "U+10D1",
+        "name": "GEORGIAN LETTER BAN"
+    },
+    {
+        "hex": "e18392",
+        "unicode": "U+10D2",
+        "name": "GEORGIAN LETTER GAN"
+    },
+    {
+        "hex": "e18393",
+        "unicode": "U+10D3",
+        "name": "GEORGIAN LETTER DON"
+    },
+    {
+        "hex": "e18394",
+        "unicode": "U+10D4",
+        "name": "GEORGIAN LETTER EN"
+    },
+    {
+        "hex": "e18395",
+        "unicode": "U+10D5",
+        "name": "GEORGIAN LETTER VIN"
+    },
+    {
+        "hex": "e18396",
+        "unicode": "U+10D6",
+        "name": "GEORGIAN LETTER ZEN"
+    },
+    {
+        "hex": "e18397",
+        "unicode": "U+10D7",
+        "name": "GEORGIAN LETTER TAN"
+    },
+    {
+        "hex": "e18398",
+        "unicode": "U+10D8",
+        "name": "GEORGIAN LETTER IN"
+    },
+    {
+        "hex": "e18399",
+        "unicode": "U+10D9",
+        "name": "GEORGIAN LETTER KAN"
+    },
+    {
+        "hex": "e1839a",
+        "unicode": "U+10DA",
+        "name": "GEORGIAN LETTER LAS"
+    },
+    {
+        "hex": "e1839b",
+        "unicode": "U+10DB",
+        "name": "GEORGIAN LETTER MAN"
+    },
+    {
+        "hex": "e1839c",
+        "unicode": "U+10DC",
+        "name": "GEORGIAN LETTER NAR"
+    },
+    {
+        "hex": "e1839d",
+        "unicode": "U+10DD",
+        "name": "GEORGIAN LETTER ON"
+    },
+    {
+        "hex": "e1839e",
+        "unicode": "U+10DE",
+        "name": "GEORGIAN LETTER PAR"
+    },
+    {
+        "hex": "e1839f",
+        "unicode": "U+10DF",
+        "name": "GEORGIAN LETTER ZHAR"
+    },
+    {
+        "hex": "e183a0",
+        "unicode": "U+10E0",
+        "name": "GEORGIAN LETTER RAE"
+    },
+    {
+        "hex": "e183a1",
+        "unicode": "U+10E1",
+        "name": "GEORGIAN LETTER SAN"
+    },
+    {
+        "hex": "e183a2",
+        "unicode": "U+10E2",
+        "name": "GEORGIAN LETTER TAR"
+    },
+    {
+        "hex": "e183a3",
+        "unicode": "U+10E3",
+        "name": "GEORGIAN LETTER UN"
+    },
+    {
+        "hex": "e183a4",
+        "unicode": "U+10E4",
+        "name": "GEORGIAN LETTER PHAR"
+    },
+    {
+        "hex": "e183a5",
+        "unicode": "U+10E5",
+        "name": "GEORGIAN LETTER KHAR"
+    },
+    {
+        "hex": "e183a6",
+        "unicode": "U+10E6",
+        "name": "GEORGIAN LETTER GHAN"
+    },
+    {
+        "hex": "e183a7",
+        "unicode": "U+10E7",
+        "name": "GEORGIAN LETTER QAR"
+    },
+    {
+        "hex": "e183a8",
+        "unicode": "U+10E8",
+        "name": "GEORGIAN LETTER SHIN"
+    },
+    {
+        "hex": "e183a9",
+        "unicode": "U+10E9",
+        "name": "GEORGIAN LETTER CHIN"
+    },
+    {
+        "hex": "e183aa",
+        "unicode": "U+10EA",
+        "name": "GEORGIAN LETTER CAN"
+    },
+    {
+        "hex": "e183ab",
+        "unicode": "U+10EB",
+        "name": "GEORGIAN LETTER JIL"
+    },
+    {
+        "hex": "e183ac",
+        "unicode": "U+10EC",
+        "name": "GEORGIAN LETTER CIL"
+    },
+    {
+        "hex": "e183ad",
+        "unicode": "U+10ED",
+        "name": "GEORGIAN LETTER CHAR"
+    },
+    {
+        "hex": "e183ae",
+        "unicode": "U+10EE",
+        "name": "GEORGIAN LETTER XAN"
+    },
+    {
+        "hex": "e183af",
+        "unicode": "U+10EF",
+        "name": "GEORGIAN LETTER JHAN"
+    },
+    {
+        "hex": "e183b0",
+        "unicode": "U+10F0",
+        "name": "GEORGIAN LETTER HAE"
+    },
+    {
+        "hex": "e183b1",
+        "unicode": "U+10F1",
+        "name": "GEORGIAN LETTER HE"
+    },
+    {
+        "hex": "e183b2",
+        "unicode": "U+10F2",
+        "name": "GEORGIAN LETTER HIE"
+    },
+    {
+        "hex": "e183b3",
+        "unicode": "U+10F3",
+        "name": "GEORGIAN LETTER WE"
+    },
+    {
+        "hex": "e183b4",
+        "unicode": "U+10F4",
+        "name": "GEORGIAN LETTER HAR"
+    },
+    {
+        "hex": "e183b5",
+        "unicode": "U+10F5",
+        "name": "GEORGIAN LETTER HOE"
+    },
+    {
+        "hex": "e183b6",
+        "unicode": "U+10F6",
+        "name": "GEORGIAN LETTER FI"
+    },
+    {
+        "hex": "e183b7",
+        "unicode": "U+10F7",
+        "name": "GEORGIAN LETTER YN"
+    },
+    {
+        "hex": "e183b8",
+        "unicode": "U+10F8",
+        "name": "GEORGIAN LETTER ELIFI"
+    },
+    {
+        "hex": "e183b9",
+        "unicode": "U+10F9",
+        "name": "GEORGIAN LETTER TURNED GAN"
+    },
+    {
+        "hex": "e183ba",
+        "unicode": "U+10FA",
+        "name": "GEORGIAN LETTER AIN"
+    },
+    {
+        "hex": "e183bb",
+        "unicode": "U+10FB",
+        "name": "GEORGIAN PARAGRAPH SEPARATOR"
+    },
+    {
+        "hex": "e183bc",
+        "unicode": "U+10FC",
+        "name": "MODIFIER LETTER GEORGIAN NAR"
+    },
+    {
+        "hex": "e183bd",
+        "unicode": "U+10FD",
+        "name": "GEORGIAN LETTER AEN"
+    },
+    {
+        "hex": "e183be",
+        "unicode": "U+10FE",
+        "name": "GEORGIAN LETTER HARD SIGN"
+    },
+    {
+        "hex": "e183bf",
+        "unicode": "U+10FF",
+        "name": "GEORGIAN LETTER LABIAL SIGN"
+    }
+]

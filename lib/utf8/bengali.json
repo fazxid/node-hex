@@ -1,0 +1,1282 @@
+[
+    {
+        "hex": "e0a680",
+        "unicode": "U+0980",
+        "name": "BENGALI ANJI"
+    },
+    {
+        "hex": "e0a681",
+        "unicode": "U+0981",
+        "name": "BENGALI SIGN CANDRABINDU"
+    },
+    {
+        "hex": "e0a682",
+        "unicode": "U+0982",
+        "name": "BENGALI SIGN ANUSVARA"
+    },
+    {
+        "hex": "e0a683",
+        "unicode": "U+0983",
+        "name": "BENGALI SIGN VISARGA"
+    },
+    {
+        "hex": "e0a684",
+        "unicode": "U+0984",
+        "name": ""
+    },
+    {
+        "hex": "e0a685",
+        "unicode": "U+0985",
+        "name": "BENGALI LETTER A"
+    },
+    {
+        "hex": "e0a686",
+        "unicode": "U+0986",
+        "name": "BENGALI LETTER AA"
+    },
+    {
+        "hex": "e0a687",
+        "unicode": "U+0987",
+        "name": "BENGALI LETTER I"
+    },
+    {
+        "hex": "e0a688",
+        "unicode": "U+0988",
+        "name": "BENGALI LETTER II"
+    },
+    {
+        "hex": "e0a689",
+        "unicode": "U+0989",
+        "name": "BENGALI LETTER U"
+    },
+    {
+        "hex": "e0a68a",
+        "unicode": "U+098A",
+        "name": "BENGALI LETTER UU"
+    },
+    {
+        "hex": "e0a68b",
+        "unicode": "U+098B",
+        "name": "BENGALI LETTER VOCALIC R"
+    },
+    {
+        "hex": "e0a68c",
+        "unicode": "U+098C",
+        "name": "BENGALI LETTER VOCALIC L"
+    },
+    {
+        "hex": "e0a68d",
+        "unicode": "U+098D",
+        "name": ""
+    },
+    {
+        "hex": "e0a68e",
+        "unicode": "U+098E",
+        "name": ""
+    },
+    {
+        "hex": "e0a68f",
+        "unicode": "U+098F",
+        "name": "BENGALI LETTER E"
+    },
+    {
+        "hex": "e0a690",
+        "unicode": "U+0990",
+        "name": "BENGALI LETTER AI"
+    },
+    {
+        "hex": "e0a691",
+        "unicode": "U+0991",
+        "name": ""
+    },
+    {
+        "hex": "e0a692",
+        "unicode": "U+0992",
+        "name": ""
+    },
+    {
+        "hex": "e0a693",
+        "unicode": "U+0993",
+        "name": "BENGALI LETTER O"
+    },
+    {
+        "hex": "e0a694",
+        "unicode": "U+0994",
+        "name": "BENGALI LETTER AU"
+    },
+    {
+        "hex": "e0a695",
+        "unicode": "U+0995",
+        "name": "BENGALI LETTER KA"
+    },
+    {
+        "hex": "e0a696",
+        "unicode": "U+0996",
+        "name": "BENGALI LETTER KHA"
+    },
+    {
+        "hex": "e0a697",
+        "unicode": "U+0997",
+        "name": "BENGALI LETTER GA"
+    },
+    {
+        "hex": "e0a698",
+        "unicode": "U+0998",
+        "name": "BENGALI LETTER GHA"
+    },
+    {
+        "hex": "e0a699",
+        "unicode": "U+0999",
+        "name": "BENGALI LETTER NGA"
+    },
+    {
+        "hex": "e0a69a",
+        "unicode": "U+099A",
+        "name": "BENGALI LETTER CA"
+    },
+    {
+        "hex": "e0a69b",
+        "unicode": "U+099B",
+        "name": "BENGALI LETTER CHA"
+    },
+    {
+        "hex": "e0a69c",
+        "unicode": "U+099C",
+        "name": "BENGALI LETTER JA"
+    },
+    {
+        "hex": "e0a69d",
+        "unicode": "U+099D",
+        "name": "BENGALI LETTER JHA"
+    },
+    {
+        "hex": "e0a69e",
+        "unicode": "U+099E",
+        "name": "BENGALI LETTER NYA"
+    },
+    {
+        "hex": "e0a69f",
+        "unicode": "U+099F",
+        "name": "BENGALI LETTER TTA"
+    },
+    {
+        "hex": "e0a6a0",
+        "unicode": "U+09A0",
+        "name": "BENGALI LETTER TTHA"
+    },
+    {
+        "hex": "e0a6a1",
+        "unicode": "U+09A1",
+        "name": "BENGALI LETTER DDA"
+    },
+    {
+        "hex": "e0a6a2",
+        "unicode": "U+09A2",
+        "name": "BENGALI LETTER DDHA"
+    },
+    {
+        "hex": "e0a6a3",
+        "unicode": "U+09A3",
+        "name": "BENGALI LETTER NNA"
+    },
+    {
+        "hex": "e0a6a4",
+        "unicode": "U+09A4",
+        "name": "BENGALI LETTER TA"
+    },
+    {
+        "hex": "e0a6a5",
+        "unicode": "U+09A5",
+        "name": "BENGALI LETTER THA"
+    },
+    {
+        "hex": "e0a6a6",
+        "unicode": "U+09A6",
+        "name": "BENGALI LETTER DA"
+    },
+    {
+        "hex": "e0a6a7",
+        "unicode": "U+09A7",
+        "name": "BENGALI LETTER DHA"
+    },
+    {
+        "hex": "e0a6a8",
+        "unicode": "U+09A8",
+        "name": "BENGALI LETTER NA"
+    },
+    {
+        "hex": "e0a6a9",
+        "unicode": "U+09A9",
+        "name": ""
+    },
+    {
+        "hex": "e0a6aa",
+        "unicode": "U+09AA",
+        "name": "BENGALI LETTER PA"
+    },
+    {
+        "hex": "e0a6ab",
+        "unicode": "U+09AB",
+        "name": "BENGALI LETTER PHA"
+    },
+    {
+        "hex": "e0a6ac",
+        "unicode": "U+09AC",
+        "name": "BENGALI LETTER BA"
+    },
+    {
+        "hex": "e0a6ad",
+        "unicode": "U+09AD",
+        "name": "BENGALI LETTER BHA"
+    },
+    {
+        "hex": "e0a6ae",
+        "unicode": "U+09AE",
+        "name": "BENGALI LETTER MA"
+    },
+    {
+        "hex": "e0a6af",
+        "unicode": "U+09AF",
+        "name": "BENGALI LETTER YA"
+    },
+    {
+        "hex": "e0a6b0",
+        "unicode": "U+09B0",
+        "name": "BENGALI LETTER RA"
+    },
+    {
+        "hex": "e0a6b1",
+        "unicode": "U+09B1",
+        "name": ""
+    },
+    {
+        "hex": "e0a6b2",
+        "unicode": "U+09B2",
+        "name": "BENGALI LETTER LA"
+    },
+    {
+        "hex": "e0a6b3",
+        "unicode": "U+09B3",
+        "name": ""
+    },
+    {
+        "hex": "e0a6b4",
+        "unicode": "U+09B4",
+        "name": ""
+    },
+    {
+        "hex": "e0a6b5",
+        "unicode": "U+09B5",
+        "name": ""
+    },
+    {
+        "hex": "e0a6b6",
+        "unicode": "U+09B6",
+        "name": "BENGALI LETTER SHA"
+    },
+    {
+        "hex": "e0a6b7",
+        "unicode": "U+09B7",
+        "name": "BENGALI LETTER SSA"
+    },
+    {
+        "hex": "e0a6b8",
+        "unicode": "U+09B8",
+        "name": "BENGALI LETTER SA"
+    },
+    {
+        "hex": "e0a6b9",
+        "unicode": "U+09B9",
+        "name": "BENGALI LETTER HA"
+    },
+    {
+        "hex": "e0a6ba",
+        "unicode": "U+09BA",
+        "name": ""
+    },
+    {
+        "hex": "e0a6bb",
+        "unicode": "U+09BB",
+        "name": ""
+    },
+    {
+        "hex": "e0a6bc",
+        "unicode": "U+09BC",
+        "name": "BENGALI SIGN NUKTA"
+    },
+    {
+        "hex": "e0a6bd",
+        "unicode": "U+09BD",
+        "name": "BENGALI SIGN AVAGRAHA"
+    },
+    {
+        "hex": "e0a6be",
+        "unicode": "U+09BE",
+        "name": "BENGALI VOWEL SIGN AA"
+    },
+    {
+        "hex": "e0a6bf",
+        "unicode": "U+09BF",
+        "name": "BENGALI VOWEL SIGN I"
+    },
+    {
+        "hex": "e0a780",
+        "unicode": "U+09C0",
+        "name": "BENGALI VOWEL SIGN II"
+    },
+    {
+        "hex": "e0a781",
+        "unicode": "U+09C1",
+        "name": "BENGALI VOWEL SIGN U"
+    },
+    {
+        "hex": "e0a782",
+        "unicode": "U+09C2",
+        "name": "BENGALI VOWEL SIGN UU"
+    },
+    {
+        "hex": "e0a783",
+        "unicode": "U+09C3",
+        "name": "BENGALI VOWEL SIGN VOCALIC R"
+    },
+    {
+        "hex": "e0a784",
+        "unicode": "U+09C4",
+        "name": "BENGALI VOWEL SIGN VOCALIC RR"
+    },
+    {
+        "hex": "e0a785",
+        "unicode": "U+09C5",
+        "name": ""
+    },
+    {
+        "hex": "e0a786",
+        "unicode": "U+09C6",
+        "name": ""
+    },
+    {
+        "hex": "e0a787",
+        "unicode": "U+09C7",
+        "name": "BENGALI VOWEL SIGN E"
+    },
+    {
+        "hex": "e0a788",
+        "unicode": "U+09C8",
+        "name": "BENGALI VOWEL SIGN AI"
+    },
+    {
+        "hex": "e0a789",
+        "unicode": "U+09C9",
+        "name": ""
+    },
+    {
+        "hex": "e0a78a",
+        "unicode": "U+09CA",
+        "name": ""
+    },
+    {
+        "hex": "e0a78b",
+        "unicode": "U+09CB",
+        "name": "BENGALI VOWEL SIGN O"
+    },
+    {
+        "hex": "e0a78c",
+        "unicode": "U+09CC",
+        "name": "BENGALI VOWEL SIGN AU"
+    },
+    {
+        "hex": "e0a78d",
+        "unicode": "U+09CD",
+        "name": "BENGALI SIGN VIRAMA"
+    },
+    {
+        "hex": "e0a78e",
+        "unicode": "U+09CE",
+        "name": "BENGALI LETTER KHANDA TA"
+    },
+    {
+        "hex": "e0a78f",
+        "unicode": "U+09CF",
+        "name": ""
+    },
+    {
+        "hex": "e0a790",
+        "unicode": "U+09D0",
+        "name": ""
+    },
+    {
+        "hex": "e0a791",
+        "unicode": "U+09D1",
+        "name": ""
+    },
+    {
+        "hex": "e0a792",
+        "unicode": "U+09D2",
+        "name": ""
+    },
+    {
+        "hex": "e0a793",
+        "unicode": "U+09D3",
+        "name": ""
+    },
+    {
+        "hex": "e0a794",
+        "unicode": "U+09D4",
+        "name": ""
+    },
+    {
+        "hex": "e0a795",
+        "unicode": "U+09D5",
+        "name": ""
+    },
+    {
+        "hex": "e0a796",
+        "unicode": "U+09D6",
+        "name": ""
+    },
+    {
+        "hex": "e0a797",
+        "unicode": "U+09D7",
+        "name": "BENGALI AU LENGTH MARK"
+    },
+    {
+        "hex": "e0a798",
+        "unicode": "U+09D8",
+        "name": ""
+    },
+    {
+        "hex": "e0a799",
+        "unicode": "U+09D9",
+        "name": ""
+    },
+    {
+        "hex": "e0a79a",
+        "unicode": "U+09DA",
+        "name": ""
+    },
+    {
+        "hex": "e0a79b",
+        "unicode": "U+09DB",
+        "name": ""
+    },
+    {
+        "hex": "e0a79c",
+        "unicode": "U+09DC",
+        "name": "BENGALI LETTER RRA"
+    },
+    {
+        "hex": "e0a79d",
+        "unicode": "U+09DD",
+        "name": "BENGALI LETTER RHA"
+    },
+    {
+        "hex": "e0a79e",
+        "unicode": "U+09DE",
+        "name": ""
+    },
+    {
+        "hex": "e0a79f",
+        "unicode": "U+09DF",
+        "name": "BENGALI LETTER YYA"
+    },
+    {
+        "hex": "e0a7a0",
+        "unicode": "U+09E0",
+        "name": "BENGALI LETTER VOCALIC RR"
+    },
+    {
+        "hex": "e0a7a1",
+        "unicode": "U+09E1",
+        "name": "BENGALI LETTER VOCALIC LL"
+    },
+    {
+        "hex": "e0a7a2",
+        "unicode": "U+09E2",
+        "name": "BENGALI VOWEL SIGN VOCALIC L"
+    },
+    {
+        "hex": "e0a7a3",
+        "unicode": "U+09E3",
+        "name": "BENGALI VOWEL SIGN VOCALIC LL"
+    },
+    {
+        "hex": "e0a7a4",
+        "unicode": "U+09E4",
+        "name": ""
+    },
+    {
+        "hex": "e0a7a5",
+        "unicode": "U+09E5",
+        "name": ""
+    },
+    {
+        "hex": "e0a7a6",
+        "unicode": "U+09E6",
+        "name": "BENGALI DIGIT ZERO"
+    },
+    {
+        "hex": "e0a7a7",
+        "unicode": "U+09E7",
+        "name": "BENGALI DIGIT ONE"
+    },
+    {
+        "hex": "e0a7a8",
+        "unicode": "U+09E8",
+        "name": "BENGALI DIGIT TWO"
+    },
+    {
+        "hex": "e0a7a9",
+        "unicode": "U+09E9",
+        "name": "BENGALI DIGIT THREE"
+    },
+    {
+        "hex": "e0a7aa",
+        "unicode": "U+09EA",
+        "name": "BENGALI DIGIT FOUR"
+    },
+    {
+        "hex": "e0a7ab",
+        "unicode": "U+09EB",
+        "name": "BENGALI DIGIT FIVE"
+    },
+    {
+        "hex": "e0a7ac",
+        "unicode": "U+09EC",
+        "name": "BENGALI DIGIT SIX"
+    },
+    {
+        "hex": "e0a7ad",
+        "unicode": "U+09ED",
+        "name": "BENGALI DIGIT SEVEN"
+    },
+    {
+        "hex": "e0a7ae",
+        "unicode": "U+09EE",
+        "name": "BENGALI DIGIT EIGHT"
+    },
+    {
+        "hex": "e0a7af",
+        "unicode": "U+09EF",
+        "name": "BENGALI DIGIT NINE"
+    },
+    {
+        "hex": "e0a7b0",
+        "unicode": "U+09F0",
+        "name": "BENGALI LETTER RA WITH MIDDLE DIAGONAL"
+    },
+    {
+        "hex": "e0a7b1",
+        "unicode": "U+09F1",
+        "name": "BENGALI LETTER RA WITH LOWER DIAGONAL"
+    },
+    {
+        "hex": "e0a7b2",
+        "unicode": "U+09F2",
+        "name": "BENGALI RUPEE MARK"
+    },
+    {
+        "hex": "e0a7b3",
+        "unicode": "U+09F3",
+        "name": "BENGALI RUPEE SIGN"
+    },
+    {
+        "hex": "e0a7b4",
+        "unicode": "U+09F4",
+        "name": "BENGALI CURRENCY NUMERATOR ONE"
+    },
+    {
+        "hex": "e0a7b5",
+        "unicode": "U+09F5",
+        "name": "BENGALI CURRENCY NUMERATOR TWO"
+    },
+    {
+        "hex": "e0a7b6",
+        "unicode": "U+09F6",
+        "name": "BENGALI CURRENCY NUMERATOR THREE"
+    },
+    {
+        "hex": "e0a7b7",
+        "unicode": "U+09F7",
+        "name": "BENGALI CURRENCY NUMERATOR FOUR"
+    },
+    {
+        "hex": "e0a7b8",
+        "unicode": "U+09F8",
+        "name": "BENGALI CURRENCY NUMERATOR ONE LESS THAN THE DENOMINATOR"
+    },
+    {
+        "hex": "e0a7b9",
+        "unicode": "U+09F9",
+        "name": "BENGALI CURRENCY DENOMINATOR SIXTEEN"
+    },
+    {
+        "hex": "e0a7ba",
+        "unicode": "U+09FA",
+        "name": "BENGALI ISSHAR"
+    },
+    {
+        "hex": "e0a7bb",
+        "unicode": "U+09FB",
+        "name": "BENGALI GANDA MARK"
+    },
+    {
+        "hex": "e0a7bc",
+        "unicode": "U+09FC",
+        "name": "BENGALI LETTER VEDIC ANUSVARA"
+    },
+    {
+        "hex": "e0a7bd",
+        "unicode": "U+09FD",
+        "name": "BENGALI ABBREVIATION SIGN"
+    },
+    {
+        "hex": "e0a7be",
+        "unicode": "U+09FE",
+        "name": "BENGALI SANDHI MARK"
+    },
+    {
+        "hex": "e0a7bf",
+        "unicode": "U+09FF",
+        "name": ""
+    },
+    {
+        "hex": "e0a880",
+        "unicode": "U+0A00",
+        "name": ""
+    },
+    {
+        "hex": "e0a881",
+        "unicode": "U+0A01",
+        "name": "GURMUKHI SIGN ADAK BINDI"
+    },
+    {
+        "hex": "e0a882",
+        "unicode": "U+0A02",
+        "name": "GURMUKHI SIGN BINDI"
+    },
+    {
+        "hex": "e0a883",
+        "unicode": "U+0A03",
+        "name": "GURMUKHI SIGN VISARGA"
+    },
+    {
+        "hex": "e0a884",
+        "unicode": "U+0A04",
+        "name": ""
+    },
+    {
+        "hex": "e0a885",
+        "unicode": "U+0A05",
+        "name": "GURMUKHI LETTER A"
+    },
+    {
+        "hex": "e0a886",
+        "unicode": "U+0A06",
+        "name": "GURMUKHI LETTER AA"
+    },
+    {
+        "hex": "e0a887",
+        "unicode": "U+0A07",
+        "name": "GURMUKHI LETTER I"
+    },
+    {
+        "hex": "e0a888",
+        "unicode": "U+0A08",
+        "name": "GURMUKHI LETTER II"
+    },
+    {
+        "hex": "e0a889",
+        "unicode": "U+0A09",
+        "name": "GURMUKHI LETTER U"
+    },
+    {
+        "hex": "e0a88a",
+        "unicode": "U+0A0A",
+        "name": "GURMUKHI LETTER UU"
+    },
+    {
+        "hex": "e0a88b",
+        "unicode": "U+0A0B",
+        "name": ""
+    },
+    {
+        "hex": "e0a88c",
+        "unicode": "U+0A0C",
+        "name": ""
+    },
+    {
+        "hex": "e0a88d",
+        "unicode": "U+0A0D",
+        "name": ""
+    },
+    {
+        "hex": "e0a88e",
+        "unicode": "U+0A0E",
+        "name": ""
+    },
+    {
+        "hex": "e0a88f",
+        "unicode": "U+0A0F",
+        "name": "GURMUKHI LETTER EE"
+    },
+    {
+        "hex": "e0a890",
+        "unicode": "U+0A10",
+        "name": "GURMUKHI LETTER AI"
+    },
+    {
+        "hex": "e0a891",
+        "unicode": "U+0A11",
+        "name": ""
+    },
+    {
+        "hex": "e0a892",
+        "unicode": "U+0A12",
+        "name": ""
+    },
+    {
+        "hex": "e0a893",
+        "unicode": "U+0A13",
+        "name": "GURMUKHI LETTER OO"
+    },
+    {
+        "hex": "e0a894",
+        "unicode": "U+0A14",
+        "name": "GURMUKHI LETTER AU"
+    },
+    {
+        "hex": "e0a895",
+        "unicode": "U+0A15",
+        "name": "GURMUKHI LETTER KA"
+    },
+    {
+        "hex": "e0a896",
+        "unicode": "U+0A16",
+        "name": "GURMUKHI LETTER KHA"
+    },
+    {
+        "hex": "e0a897",
+        "unicode": "U+0A17",
+        "name": "GURMUKHI LETTER GA"
+    },
+    {
+        "hex": "e0a898",
+        "unicode": "U+0A18",
+        "name": "GURMUKHI LETTER GHA"
+    },
+    {
+        "hex": "e0a899",
+        "unicode": "U+0A19",
+        "name": "GURMUKHI LETTER NGA"
+    },
+    {
+        "hex": "e0a89a",
+        "unicode": "U+0A1A",
+        "name": "GURMUKHI LETTER CA"
+    },
+    {
+        "hex": "e0a89b",
+        "unicode": "U+0A1B",
+        "name": "GURMUKHI LETTER CHA"
+    },
+    {
+        "hex": "e0a89c",
+        "unicode": "U+0A1C",
+        "name": "GURMUKHI LETTER JA"
+    },
+    {
+        "hex": "e0a89d",
+        "unicode": "U+0A1D",
+        "name": "GURMUKHI LETTER JHA"
+    },
+    {
+        "hex": "e0a89e",
+        "unicode": "U+0A1E",
+        "name": "GURMUKHI LETTER NYA"
+    },
+    {
+        "hex": "e0a89f",
+        "unicode": "U+0A1F",
+        "name": "GURMUKHI LETTER TTA"
+    },
+    {
+        "hex": "e0a8a0",
+        "unicode": "U+0A20",
+        "name": "GURMUKHI LETTER TTHA"
+    },
+    {
+        "hex": "e0a8a1",
+        "unicode": "U+0A21",
+        "name": "GURMUKHI LETTER DDA"
+    },
+    {
+        "hex": "e0a8a2",
+        "unicode": "U+0A22",
+        "name": "GURMUKHI LETTER DDHA"
+    },
+    {
+        "hex": "e0a8a3",
+        "unicode": "U+0A23",
+        "name": "GURMUKHI LETTER NNA"
+    },
+    {
+        "hex": "e0a8a4",
+        "unicode": "U+0A24",
+        "name": "GURMUKHI LETTER TA"
+    },
+    {
+        "hex": "e0a8a5",
+        "unicode": "U+0A25",
+        "name": "GURMUKHI LETTER THA"
+    },
+    {
+        "hex": "e0a8a6",
+        "unicode": "U+0A26",
+        "name": "GURMUKHI LETTER DA"
+    },
+    {
+        "hex": "e0a8a7",
+        "unicode": "U+0A27",
+        "name": "GURMUKHI LETTER DHA"
+    },
+    {
+        "hex": "e0a8a8",
+        "unicode": "U+0A28",
+        "name": "GURMUKHI LETTER NA"
+    },
+    {
+        "hex": "e0a8a9",
+        "unicode": "U+0A29",
+        "name": ""
+    },
+    {
+        "hex": "e0a8aa",
+        "unicode": "U+0A2A",
+        "name": "GURMUKHI LETTER PA"
+    },
+    {
+        "hex": "e0a8ab",
+        "unicode": "U+0A2B",
+        "name": "GURMUKHI LETTER PHA"
+    },
+    {
+        "hex": "e0a8ac",
+        "unicode": "U+0A2C",
+        "name": "GURMUKHI LETTER BA"
+    },
+    {
+        "hex": "e0a8ad",
+        "unicode": "U+0A2D",
+        "name": "GURMUKHI LETTER BHA"
+    },
+    {
+        "hex": "e0a8ae",
+        "unicode": "U+0A2E",
+        "name": "GURMUKHI LETTER MA"
+    },
+    {
+        "hex": "e0a8af",
+        "unicode": "U+0A2F",
+        "name": "GURMUKHI LETTER YA"
+    },
+    {
+        "hex": "e0a8b0",
+        "unicode": "U+0A30",
+        "name": "GURMUKHI LETTER RA"
+    },
+    {
+        "hex": "e0a8b1",
+        "unicode": "U+0A31",
+        "name": ""
+    },
+    {
+        "hex": "e0a8b2",
+        "unicode": "U+0A32",
+        "name": "GURMUKHI LETTER LA"
+    },
+    {
+        "hex": "e0a8b3",
+        "unicode": "U+0A33",
+        "name": "GURMUKHI LETTER LLA"
+    },
+    {
+        "hex": "e0a8b4",
+        "unicode": "U+0A34",
+        "name": ""
+    },
+    {
+        "hex": "e0a8b5",
+        "unicode": "U+0A35",
+        "name": "GURMUKHI LETTER VA"
+    },
+    {
+        "hex": "e0a8b6",
+        "unicode": "U+0A36",
+        "name": "GURMUKHI LETTER SHA"
+    },
+    {
+        "hex": "e0a8b7",
+        "unicode": "U+0A37",
+        "name": ""
+    },
+    {
+        "hex": "e0a8b8",
+        "unicode": "U+0A38",
+        "name": "GURMUKHI LETTER SA"
+    },
+    {
+        "hex": "e0a8b9",
+        "unicode": "U+0A39",
+        "name": "GURMUKHI LETTER HA"
+    },
+    {
+        "hex": "e0a8ba",
+        "unicode": "U+0A3A",
+        "name": ""
+    },
+    {
+        "hex": "e0a8bb",
+        "unicode": "U+0A3B",
+        "name": ""
+    },
+    {
+        "hex": "e0a8bc",
+        "unicode": "U+0A3C",
+        "name": "GURMUKHI SIGN NUKTA"
+    },
+    {
+        "hex": "e0a8bd",
+        "unicode": "U+0A3D",
+        "name": ""
+    },
+    {
+        "hex": "e0a8be",
+        "unicode": "U+0A3E",
+        "name": "GURMUKHI VOWEL SIGN AA"
+    },
+    {
+        "hex": "e0a8bf",
+        "unicode": "U+0A3F",
+        "name": "GURMUKHI VOWEL SIGN I"
+    },
+    {
+        "hex": "e0a980",
+        "unicode": "U+0A40",
+        "name": "GURMUKHI VOWEL SIGN II"
+    },
+    {
+        "hex": "e0a981",
+        "unicode": "U+0A41",
+        "name": "GURMUKHI VOWEL SIGN U"
+    },
+    {
+        "hex": "e0a982",
+        "unicode": "U+0A42",
+        "name": "GURMUKHI VOWEL SIGN UU"
+    },
+    {
+        "hex": "e0a983",
+        "unicode": "U+0A43",
+        "name": ""
+    },
+    {
+        "hex": "e0a984",
+        "unicode": "U+0A44",
+        "name": ""
+    },
+    {
+        "hex": "e0a985",
+        "unicode": "U+0A45",
+        "name": ""
+    },
+    {
+        "hex": "e0a986",
+        "unicode": "U+0A46",
+        "name": ""
+    },
+    {
+        "hex": "e0a987",
+        "unicode": "U+0A47",
+        "name": "GURMUKHI VOWEL SIGN EE"
+    },
+    {
+        "hex": "e0a988",
+        "unicode": "U+0A48",
+        "name": "GURMUKHI VOWEL SIGN AI"
+    },
+    {
+        "hex": "e0a989",
+        "unicode": "U+0A49",
+        "name": ""
+    },
+    {
+        "hex": "e0a98a",
+        "unicode": "U+0A4A",
+        "name": ""
+    },
+    {
+        "hex": "e0a98b",
+        "unicode": "U+0A4B",
+        "name": "GURMUKHI VOWEL SIGN OO"
+    },
+    {
+        "hex": "e0a98c",
+        "unicode": "U+0A4C",
+        "name": "GURMUKHI VOWEL SIGN AU"
+    },
+    {
+        "hex": "e0a98d",
+        "unicode": "U+0A4D",
+        "name": "GURMUKHI SIGN VIRAMA"
+    },
+    {
+        "hex": "e0a98e",
+        "unicode": "U+0A4E",
+        "name": ""
+    },
+    {
+        "hex": "e0a98f",
+        "unicode": "U+0A4F",
+        "name": ""
+    },
+    {
+        "hex": "e0a990",
+        "unicode": "U+0A50",
+        "name": ""
+    },
+    {
+        "hex": "e0a991",
+        "unicode": "U+0A51",
+        "name": "GURMUKHI SIGN UDAAT"
+    },
+    {
+        "hex": "e0a992",
+        "unicode": "U+0A52",
+        "name": ""
+    },
+    {
+        "hex": "e0a993",
+        "unicode": "U+0A53",
+        "name": ""
+    },
+    {
+        "hex": "e0a994",
+        "unicode": "U+0A54",
+        "name": ""
+    },
+    {
+        "hex": "e0a995",
+        "unicode": "U+0A55",
+        "name": ""
+    },
+    {
+        "hex": "e0a996",
+        "unicode": "U+0A56",
+        "name": ""
+    },
+    {
+        "hex": "e0a997",
+        "unicode": "U+0A57",
+        "name": ""
+    },
+    {
+        "hex": "e0a998",
+        "unicode": "U+0A58",
+        "name": ""
+    },
+    {
+        "hex": "e0a999",
+        "unicode": "U+0A59",
+        "name": "GURMUKHI LETTER KHHA"
+    },
+    {
+        "hex": "e0a99a",
+        "unicode": "U+0A5A",
+        "name": "GURMUKHI LETTER GHHA"
+    },
+    {
+        "hex": "e0a99b",
+        "unicode": "U+0A5B",
+        "name": "GURMUKHI LETTER ZA"
+    },
+    {
+        "hex": "e0a99c",
+        "unicode": "U+0A5C",
+        "name": "GURMUKHI LETTER RRA"
+    },
+    {
+        "hex": "e0a99d",
+        "unicode": "U+0A5D",
+        "name": ""
+    },
+    {
+        "hex": "e0a99e",
+        "unicode": "U+0A5E",
+        "name": "GURMUKHI LETTER FA"
+    },
+    {
+        "hex": "e0a99f",
+        "unicode": "U+0A5F",
+        "name": ""
+    },
+    {
+        "hex": "e0a9a0",
+        "unicode": "U+0A60",
+        "name": ""
+    },
+    {
+        "hex": "e0a9a1",
+        "unicode": "U+0A61",
+        "name": ""
+    },
+    {
+        "hex": "e0a9a2",
+        "unicode": "U+0A62",
+        "name": ""
+    },
+    {
+        "hex": "e0a9a3",
+        "unicode": "U+0A63",
+        "name": ""
+    },
+    {
+        "hex": "e0a9a4",
+        "unicode": "U+0A64",
+        "name": ""
+    },
+    {
+        "hex": "e0a9a5",
+        "unicode": "U+0A65",
+        "name": ""
+    },
+    {
+        "hex": "e0a9a6",
+        "unicode": "U+0A66",
+        "name": "GURMUKHI DIGIT ZERO"
+    },
+    {
+        "hex": "e0a9a7",
+        "unicode": "U+0A67",
+        "name": "GURMUKHI DIGIT ONE"
+    },
+    {
+        "hex": "e0a9a8",
+        "unicode": "U+0A68",
+        "name": "GURMUKHI DIGIT TWO"
+    },
+    {
+        "hex": "e0a9a9",
+        "unicode": "U+0A69",
+        "name": "GURMUKHI DIGIT THREE"
+    },
+    {
+        "hex": "e0a9aa",
+        "unicode": "U+0A6A",
+        "name": "GURMUKHI DIGIT FOUR"
+    },
+    {
+        "hex": "e0a9ab",
+        "unicode": "U+0A6B",
+        "name": "GURMUKHI DIGIT FIVE"
+    },
+    {
+        "hex": "e0a9ac",
+        "unicode": "U+0A6C",
+        "name": "GURMUKHI DIGIT SIX"
+    },
+    {
+        "hex": "e0a9ad",
+        "unicode": "U+0A6D",
+        "name": "GURMUKHI DIGIT SEVEN"
+    },
+    {
+        "hex": "e0a9ae",
+        "unicode": "U+0A6E",
+        "name": "GURMUKHI DIGIT EIGHT"
+    },
+    {
+        "hex": "e0a9af",
+        "unicode": "U+0A6F",
+        "name": "GURMUKHI DIGIT NINE"
+    },
+    {
+        "hex": "e0a9b0",
+        "unicode": "U+0A70",
+        "name": "GURMUKHI TIPPI"
+    },
+    {
+        "hex": "e0a9b1",
+        "unicode": "U+0A71",
+        "name": "GURMUKHI ADDAK"
+    },
+    {
+        "hex": "e0a9b2",
+        "unicode": "U+0A72",
+        "name": "GURMUKHI IRI"
+    },
+    {
+        "hex": "e0a9b3",
+        "unicode": "U+0A73",
+        "name": "GURMUKHI URA"
+    },
+    {
+        "hex": "e0a9b4",
+        "unicode": "U+0A74",
+        "name": "GURMUKHI EK ONKAR"
+    },
+    {
+        "hex": "e0a9b5",
+        "unicode": "U+0A75",
+        "name": "GURMUKHI SIGN YAKASH"
+    },
+    {
+        "hex": "e0a9b6",
+        "unicode": "U+0A76",
+        "name": "GURMUKHI ABBREVIATION SIGN"
+    },
+    {
+        "hex": "e0a9b7",
+        "unicode": "U+0A77",
+        "name": ""
+    },
+    {
+        "hex": "e0a9b8",
+        "unicode": "U+0A78",
+        "name": ""
+    },
+    {
+        "hex": "e0a9b9",
+        "unicode": "U+0A79",
+        "name": ""
+    },
+    {
+        "hex": "e0a9ba",
+        "unicode": "U+0A7A",
+        "name": ""
+    },
+    {
+        "hex": "e0a9bb",
+        "unicode": "U+0A7B",
+        "name": ""
+    },
+    {
+        "hex": "e0a9bc",
+        "unicode": "U+0A7C",
+        "name": ""
+    },
+    {
+        "hex": "e0a9bd",
+        "unicode": "U+0A7D",
+        "name": ""
+    },
+    {
+        "hex": "e0a9be",
+        "unicode": "U+0A7E",
+        "name": ""
+    },
+    {
+        "hex": "e0a9bf",
+        "unicode": "U+0A7F",
+        "name": ""
+    }
+]
